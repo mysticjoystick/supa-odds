@@ -1,99 +1,43 @@
-import { useState } from 'react';
-import { Crown, Smartphone, ShieldCheck, CreditCard } from 'lucide-react';
+import { useEffect, useState } from 'react';
+import { Crown, ShieldCheck } from 'lucide-react';
 import { PRO_PLAN, COMING_SOON, usePro, activatePro, cancelPro } from '../lib/pro';
 
 const PAY_API = (import.meta.env.VITE_PAY_API || 'http://localhost:8787').replace(/\/$/, '');
-
-function ghValid(n) {
-  const d = String(n || '').replace(/\D/g, '');
-  return /^0\d{9}$/.test(d) || /^233\d{9}$/.test(d);
-}
+const PENDING_KEY = 'supa-pro-pending';
 
 function emailValid(e) {
   return /^\S+@\S+\.\S+$/.test(String(e || ''));
 }
 
-// --- MTN direct (demo; live via bot/momo.js + keys) ---
-function MtnTab() {
-  const [msisdn, setMsisdn] = useState('');
-  const [step, setStep] = useState('idle');
-  const [msg, setMsg] = useState('');
-
-  const startDemo = () => {
-    if (!ghValid(msisdn)) {
-      setMsg('Enter a valid Ghana MoMo number (e.g. 054 123 4567).');
-      setStep('error');
-      return;
-    }
-    setMsg('');
-    setStep('prompt');
-    setTimeout(() => setStep('waiting'), 2500);
-    setTimeout(() => {
-      activatePro({ txRef: `DEMO-${Date.now().toString(36).toUpperCase()}`, demo: true });
-      setStep('done');
-    }, 9000);
-  };
-
-  return (
-    <div>
-      {(step === 'idle' || step === 'error') && (
-        <>
-          <div className="flex gap-2">
-            <input
-              value={msisdn}
-              onChange={(e) => setMsisdn(e.target.value)}
-              placeholder="054 123 4567"
-              inputMode="tel"
-              className="tabular flex-1 rounded-xl bg-white/10 px-4 py-2.5 text-white placeholder:text-slate-400 focus:border-amber-400/50 focus:outline-none"
-            />
-            <button onClick={startDemo} className="rounded-xl bg-amber-400 px-5 py-2.5 text-sm font-extrabold text-black hover:bg-amber-300">
-              Pay
-            </button>
-          </div>
-          {msg && <div className="mt-2 text-xs text-red-300">{msg}</div>}
-          <div className="mt-2 footnote">
-            DEMO CHECKOUT — approves automatically, no real money moves. Live MTN (bot/momo.js) activates with sandbox/production keys in .env.
-          </div>
-        </>
-      )}
-      {step === 'prompt' && (
-        <div className="py-4 text-center text-sm text-slate-300">
-          <div className="mx-auto mb-2 h-8 w-8 animate-pulse rounded-full bg-amber-400/30" />
-          Prompt pushed to <b className="text-white">{msisdn}</b> — check your phone…
-        </div>
-      )}
-      {step === 'waiting' && (
-        <div className="py-4 text-center text-sm text-slate-300">
-          <div className="mx-auto mb-2 h-8 w-8 animate-spin rounded-full border-2 border-amber-400 border-t-transparent" />
-          Waiting for you to enter MoMo PIN on your phone…
-        </div>
-      )}
-      {step === 'done' && (
-        <div className="py-4 text-center">
-          <div className="text-lg font-extrabold text-lime-300">Payment approved — welcome to Pro 🎉</div>
-          <div className="mt-1 text-xs text-slate-400">Arb, History and Movers are unlocked for {PRO_PLAN.days} days on this device.</div>
-        </div>
-      )}
-    </div>
-  );
+function readPending() {
+  try {
+    const p = JSON.parse(localStorage.getItem(PENDING_KEY));
+    if (p?.reference) return p;
+  } catch { /* ignore */ }
+  return null;
 }
 
-// --- Paystack (Route B): real checkout via local pay server, demo fallback ---
+// --- Paystack checkout: MoMo on every Ghana network + card. ---
+// Secrets stay on the pay server; the browser only sees references.
+// No demo activation anywhere — failures are honest errors with retry.
 function PaystackTab() {
   const [email, setEmail] = useState('');
   const [phone, setPhone] = useState('');
-  const [step, setStep] = useState('idle'); // idle|error|opened|verifying|done|demo
+  const [step, setStep] = useState('idle'); // idle|error|opened|verifying|done
   const [msg, setMsg] = useState('');
   const [ref, setRef] = useState('');
 
-  const demoApprove = (label) => {
-    setMsg(label);
-    setStep('demo');
-    setTimeout(() => {
-      activatePro({ txRef: `DEMO-PS-${Date.now().toString(36).toUpperCase()}`, demo: true });
-      setStep('done');
-    }, 6000);
-  };
+  // Resume a payment left hanging (tab closed after paying).
+  useEffect(() => {
+    const p = readPending();
+    if (p && !readProSnapshot()) {
+      setRef(p.reference);
+      if (p.email) setEmail(p.email);
+      setStep('opened');
+      setMsg('Picked up where you left off — approve on your phone, then verify below.');
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const pay = async () => {
     if (!emailValid(email)) {
@@ -111,11 +55,14 @@ function PaystackTab() {
       const j = await res.json();
       if (!res.ok || !j.ok) throw new Error(j.error || `pay server HTTP ${res.status}`);
       setRef(j.reference);
+      try {
+        localStorage.setItem(PENDING_KEY, JSON.stringify({ reference: j.reference, email, ts: Date.now() }));
+      } catch { /* ignore */ }
       window.open(j.authorization_url, '_blank', 'noopener');
       setStep('opened');
     } catch (e) {
-      // No server / no keys: clearly-labeled demo so the flow stays testable.
-      demoApprove(`Pay server unreachable (${e.message}). Running DEMO checkout instead — no real money moves.`);
+      setStep('error');
+      setMsg(`Couldn't reach the pay server (${e.message}). No charge was made — check your connection and retry.`);
     }
   };
 
@@ -127,6 +74,7 @@ function PaystackTab() {
       const j = await res.json();
       if (!res.ok || !j.ok) throw new Error(j.error || `HTTP ${res.status}`);
       if (j.paid) {
+        try { localStorage.removeItem(PENDING_KEY); } catch { /* ignore */ }
         activatePro({ txRef: j.reference, demo: false });
         setStep('done');
       } else {
@@ -139,21 +87,33 @@ function PaystackTab() {
     }
   };
 
+  const retry = () => {
+    setMsg('');
+    setStep('idle');
+  };
+
   return (
     <div>
       {(step === 'idle' || step === 'error') && (
         <>
           <div className="grid gap-2">
-            <input value={email} onChange={(e) => setEmail(e.target.value)} placeholder="you@example.com" inputMode="email" className="rounded-xl bg-white/10 px-4 py-2.5 text-white placeholder:text-slate-400 focus:border-amber-400/50 focus:outline-none" />
+            <input value={email} onChange={(e) => setEmail(e.target.value)} placeholder="you@example.com" inputMode="email" aria-label="Email for receipt" className="rounded-xl bg-white/10 px-4 py-2.5 text-white placeholder:text-slate-400 focus:border-amber-400/50 focus:outline-none" />
             <div className="flex gap-2">
-              <input value={phone} onChange={(e) => setPhone(e.target.value)} placeholder="054 123 4567 (optional)" inputMode="tel" className="tabular flex-1 rounded-xl bg-white/10 px-4 py-2.5 text-white placeholder:text-slate-400 focus:border-amber-400/50 focus:outline-none" />
+              <input value={phone} onChange={(e) => setPhone(e.target.value)} placeholder="054 123 4567" inputMode="tel" aria-label="MoMo number" className="tabular flex-1 rounded-xl bg-white/10 px-4 py-2.5 text-white placeholder:text-slate-400 focus:border-amber-400/50 focus:outline-none" />
               <button onClick={pay} className="rounded-xl bg-amber-400 px-5 py-2.5 text-sm font-extrabold text-black hover:bg-amber-300">
                 Pay GH₵{PRO_PLAN.price}
               </button>
             </div>
           </div>
-          {msg && <div className="mt-2 text-xs text-red-300">{msg}</div>}
-          <div className="mt-2 footnote">Secure Paystack checkout (MoMo + card). Server: {PAY_API} must be running with keys for real money.</div>
+          <div className="mt-2 flex flex-wrap gap-1.5" aria-label="Accepted methods">
+            {['MTN MoMo', 'Telecel', 'AirtelTigo', 'Card'].map((m) => (
+              <span key={m} className="rounded-full bg-white/10 px-2.5 py-1 text-[11px] font-bold text-slate-200">{m}</span>
+            ))}
+          </div>
+          {msg && <div className="mt-2 text-xs text-red-300" role="alert">{msg}{step === 'error' && (
+            <button onClick={retry} className="ml-2 underline hover:text-white">Try again</button>
+          )}</div>}
+          <div className="mt-2 footnote">Secure Paystack checkout. Server: {PAY_API} must be running with keys for real money. You only get Pro after Paystack confirms payment.</div>
         </>
       )}
       {step === 'opened' && (
@@ -161,7 +121,7 @@ function PaystackTab() {
           <div className="mb-1 font-bold text-white">Checkout open — ref <code className="rounded bg-white/10 px-1 text-xs">{ref}</code></div>
           <p className="mb-3 text-xs text-slate-400">Approve the MoMo prompt on your phone, then come back.</p>
           <button onClick={verify} className="rounded-xl bg-lime-400 px-5 py-2.5 text-sm font-extrabold text-black hover:bg-lime-300">
-            I've paid — verify
+            I&apos;ve paid — verify
           </button>
           {msg && <div className="mt-2 text-xs text-amber-300">{msg}</div>}
         </div>
@@ -170,12 +130,6 @@ function PaystackTab() {
         <div className="py-4 text-center text-sm text-slate-300">
           <div className="mx-auto mb-2 h-8 w-8 animate-spin rounded-full border-2 border-lime-400 border-t-transparent" />
           Confirming with Paystack…
-        </div>
-      )}
-      {step === 'demo' && (
-        <div className="py-3 text-center text-sm text-slate-300">
-          <div className="mx-auto mb-2 h-8 w-8 animate-pulse rounded-full bg-amber-400/30" />
-          {msg}
         </div>
       )}
       {step === 'done' && (
@@ -188,9 +142,18 @@ function PaystackTab() {
   );
 }
 
+// Reads current Pro state once (for resume logic without subscribing).
+function readProSnapshot() {
+  try {
+    const s = JSON.parse(localStorage.getItem('oddslens-pro')) || {};
+    return !!(s.active && s.expiresAt && new Date(s.expiresAt).getTime() > Date.now());
+  } catch {
+    return false;
+  }
+}
+
 export default function Pro() {
   const { isPro, daysLeft, state } = usePro();
-  const [method, setMethod] = useState('paystack');
   const [notifyEmail, setNotifyEmail] = useState('');
   const [notifyState, setNotifyState] = useState('idle'); // idle|error|done
 
@@ -287,17 +250,7 @@ export default function Pro() {
         </div>
       ) : (
         <div className="rounded-2xl border border-amber-400/30 bg-panel p-5">
-          <div className="mb-3 flex gap-2">
-            {[
-              ['paystack', 'Paystack', CreditCard],
-              ['mtn', 'MTN direct', Smartphone],
-            ].map(([id, label, Icon]) => (
-              <button key={id} onClick={() => setMethod(id)} className={`flex flex-1 items-center justify-center gap-1.5 rounded-xl px-3 py-2 text-sm font-bold ${method === id ? 'bg-amber-400 text-black' : 'bg-white/10 text-slate-300'}`}>
-                <Icon size={15} />{label}
-              </button>
-            ))}
-          </div>
-          {method === 'paystack' ? <PaystackTab /> : <MtnTab />}
+          <PaystackTab />
         </div>
       )}
 

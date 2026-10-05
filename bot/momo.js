@@ -56,7 +56,7 @@ export function normalizeMsisdn(raw) {
 }
 
 // Step 1: push a payment prompt to the customer's phone. Returns referenceId to poll.
-export async function requestToPay({ amount, currency = 'GHS', msisdn, externalId, payerMessage = 'OddsLens Pro', payeeNote = 'OddsLens Pro monthly' }) {
+export async function requestToPay({ amount, currency = 'GHS', msisdn, externalId, payerMessage = 'Supa Odds Pro', payeeNote = 'Supa Odds Pro monthly' }) {
   const access = await token();
   const partyId = normalizeMsisdn(msisdn);
   const referenceId = randomUUID();

@@ -46,7 +46,7 @@ export async function initialize({ email, amountPesewas, phone, plan = 'oddslens
     amount: amountPesewas,
     currency: 'GHS',
     channels: ['mobile_money', 'card'],
-    metadata: { plan, phone: phone || '', product: 'OddsLens Pro' },
+    metadata: { plan, phone: phone || '', product: 'Supa Odds Pro' },
   });
 }
 
