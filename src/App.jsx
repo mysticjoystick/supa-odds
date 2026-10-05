@@ -8,6 +8,7 @@ import { OddsProvider } from './lib/oddsFormat';
 import { SlipProvider, useSlip } from './lib/slip';
 import { MyBooksProvider } from './lib/myBooks';
 import SlipBar from './components/SlipBar';
+import ShareApp from './components/ShareApp';
 import ErrorBoundary from './components/ErrorBoundary';
 
 // Route-level splitting — first load ships Today only.
@@ -127,6 +128,7 @@ export default function App() {
               <Link to="/responsible" className="rounded px-2 py-2 hover:text-white">Play safe</Link>
             </nav>
             <div className="font-display text-xs tracking-widest text-slate-500">SCOUTED LIKE STRIKAS <span className="text-supa">•</span> PRICED LIKE PROS</div>
+            <ShareApp />
             <div className="max-w-2xl text-xs leading-relaxed text-slate-400">
               Supa Odds — analytics only. No real-money betting on this site. 18+ only. Bet only with books licensed by the Gaming Commission of Ghana. Betting can be addictive — play responsibly.
               <br />Odds shown for comparison. No profit guaranteed — bet only what you can afford to lose.
