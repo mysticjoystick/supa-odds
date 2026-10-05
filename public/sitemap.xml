@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- TODO: replace https://oddslens.com/ with the real domain before launch -->
+<!-- TODO: replace https://supa-odds.vercel.app/ with the real domain before launch -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://oddslens.com/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://oddslens.com/live</loc><changefreq>hourly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://oddslens.com/compare</loc><changefreq>hourly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://oddslens.com/value</loc><changefreq>hourly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://oddslens.com/builder</loc><changefreq>hourly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://oddslens.com/slip</loc><changefreq>weekly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://oddslens.com/tracker</loc><changefreq>weekly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://oddslens.com/performance</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://oddslens.com/arb</loc><changefreq>hourly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://oddslens.com/history</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://oddslens.com/volatility</loc><changefreq>hourly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://oddslens.com/form</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://oddslens.com/tools</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://oddslens.com/tips</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://oddslens.com/learn</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://oddslens.com/responsible</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://oddslens.com/pro</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://supa-odds.vercel.app/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://supa-odds.vercel.app/live</loc><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://supa-odds.vercel.app/compare</loc><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://supa-odds.vercel.app/value</loc><changefreq>hourly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://supa-odds.vercel.app/builder</loc><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://supa-odds.vercel.app/slip</loc><changefreq>weekly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://supa-odds.vercel.app/tracker</loc><changefreq>weekly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://supa-odds.vercel.app/performance</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://supa-odds.vercel.app/arb</loc><changefreq>hourly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://supa-odds.vercel.app/history</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://supa-odds.vercel.app/volatility</loc><changefreq>hourly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://supa-odds.vercel.app/form</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://supa-odds.vercel.app/tools</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://supa-odds.vercel.app/tips</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://supa-odds.vercel.app/learn</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://supa-odds.vercel.app/responsible</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://supa-odds.vercel.app/pro</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 </urlset>
