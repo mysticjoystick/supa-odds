@@ -98,12 +98,12 @@ export default function MatchDetail() {  const { id } = useParams();
   const inkH = teamInk(m.home);
   const inkA = teamInk(m.away);
   const formPips = (arr) => (
-    <span className="inline-flex justify-center gap-1" title="Last results — W won, D drew, L lost (most recent last)">
+    <span className="inline-flex max-w-full flex-wrap justify-center gap-1" title="Last results — W won, D drew, L lost (most recent last)">
       {(arr || []).map((c, i) => (
         <span
           key={i}
           title={c === 'W' ? 'Won' : c === 'D' ? 'Drew' : 'Lost'}
-          className={`grid h-6 w-6 place-items-center rounded-md text-[11px] font-extrabold ${
+          className={`grid h-5 w-5 shrink-0 place-items-center rounded-md text-[10px] font-extrabold sm:h-6 sm:w-6 sm:text-[11px] ${
             c === 'W' ? 'bg-lime-400/20 text-lime-300' : c === 'D' ? 'bg-white/10 text-slate-300' : 'bg-red-500/20 text-red-300'
           }`}
         >

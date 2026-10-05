@@ -98,7 +98,7 @@ export function ProTeaser() {
   return (
     <Link to="/pro" className="flex items-center gap-2 rounded-xl border border-amber-400/40 bg-amber-400/[0.06] px-3 py-2 text-xs text-amber-200 hover:bg-amber-400/[0.12]">
       <Crown size={14} className="shrink-0" />
-      <span className="min-w-0 flex-1 truncate">This stays free — Pro bundles it with arb + full archive. <b className="whitespace-nowrap">Join the waitlist →</b></span>
+      <span className="min-w-0 flex-1 text-xs leading-snug">This stays free — Pro bundles it with arb + full archive. <b className="whitespace-nowrap">Join the waitlist →</b></span>
     </Link>
   );
 }

@@ -13,6 +13,7 @@ import { MATCHES } from '../lib/mock';
 import { devig3Way, devig2Way, evPercent, bestPrice } from '../lib/math';
 import { Odds } from '../lib/oddsFormat';
 import { WinChanceInline } from '../components/WinChance';
+import { shortKickoff } from '../lib/dates';
 
 function bestEv(m) {
   const books = Object.values(m.prices || {});
@@ -138,13 +139,15 @@ export default function Live() {
       )}
       <div className="grid gap-2">
         {upcoming.map((m) => (
-          <Link key={m.id} to={`/match/${m.id}`} className="flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] px-3 py-2 hover:bg-white/[0.06]">
+          <Link key={m.id} to={`/match/${m.id}`} className="flex min-w-0 items-center gap-2 rounded-xl border border-white/10 bg-white/[0.03] px-3 py-2 hover:bg-white/[0.06] sm:gap-3">
             <TeamCrest name={m.home} size={24} src={m.crestHome} />
-            <span className="text-sm text-slate-200"><b className="text-white">{m.home}</b> vs <b className="text-white">{m.away}</b></span>
-            <SampleBadge match={m} />
-            <FavStar team={m.home} size={13} /><FavStar team={m.away} size={13} />
+            <span className="min-w-0 flex-1 truncate text-sm text-slate-200"><b className="text-white">{m.home}</b> vs <b className="text-white">{m.away}</b></span>
+            <span className="hidden shrink-0 min-[420px]:inline"><SampleBadge match={m} /></span>
+            <span className="flex shrink-0 items-center gap-0.5">
+              <FavStar team={m.home} size={13} /><FavStar team={m.away} size={13} />
+            </span>
             {m.fair && <WinChanceInline match={m} className="ml-auto hidden md:inline" />}
-            <span className="ml-auto text-xs text-slate-400 md:ml-2">{m.startsIn}</span>
+            <span className="tabular ml-auto shrink-0 truncate text-[11px] text-slate-400 md:ml-2 md:text-xs" title={m.startsIn}>{shortKickoff(m) || m.startsIn}</span>
           </Link>
         ))}
       </div>

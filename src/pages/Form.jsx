@@ -28,12 +28,16 @@ export default function Form() {
     const map = new Map();
     for (const m of matches) {
       if (league !== 'all' && m.leagueId !== league) continue;
-      if (!m.stats) continue;
+      // Full team stats when present, else the fixture's form arrays —
+      // the detail panel already renders missing fields as —.
+      const home = m.stats?.home || (m.form?.home ? { form: m.form.home } : null);
+      const away = m.stats?.away || (m.form?.away ? { form: m.form.away } : null);
+      if (!home && !away) continue;
       const put = (name, t, venue) => {
-        if (!map.has(name)) map.set(name, { name, t, matchId: m.id, matchLabel: `${m.home} vs ${m.away}`, leagueId: m.leagueId, venue });
+        if (t && !map.has(name)) map.set(name, { name, t, matchId: m.id, matchLabel: `${m.home} vs ${m.away}`, leagueId: m.leagueId, venue });
       };
-      put(m.home, m.stats.home, 'home');
-      put(m.away, m.stats.away, 'away');
+      put(m.home, home, 'home');
+      put(m.away, away, 'away');
     }
     const needle = q.trim().toLowerCase();
     let list = [...map.values()];
