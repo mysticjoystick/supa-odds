@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Secrets — never commit keys (see .env.example for the template)
+.env
+.env.local
+.env.*.local
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Bot caches (regenerated every run, machine-local)
+bot/*-cache.json
+bot/cache/
+bot/health.json
+
+# Local test traces (regenerated, machine-local)
+.playwright-mcp/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

@@ -1,0 +1,12 @@
+{
+  "name": "Supa Odds — Find Value, Beat the Close",
+  "short_name": "SupaOdds",
+  "description": "Ghana odds comparison + market research. Info only, 18+.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060a12",
+  "theme_color": "#e63329",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

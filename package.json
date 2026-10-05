@@ -1,0 +1,39 @@
+{
+  "name": "oddslens",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "bot:fetch": "node bot/fetchOdds.js",
+    "bot:quick": "node bot/fetchOdds.js --only epl,nba",
+    "bot:watch": "node bot/fetchOdds.js --watch --interval-min 5",
+    "momo:check": "node bot/momo.js --check",
+    "momo:demo": "node bot/momo.js --demo",
+    "pay:server": "node bot/server.js",
+    "pay:check": "node bot/paystack.js --check",
+    "pay:demo": "node bot/paystack.js --demo",
+    "dev:all": "concurrently -k -n web,bot,pay -c green,magenta,cyan \"vite\" \"node bot/fetchOdds.js --watch --interval-min 5\" \"node bot/server.js\"",
+    "start": "npm run dev:all"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "framer-motion": "^13.4.6",
+    "lucide-react": "^1.49.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.4",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "concurrently": "^10.0.5",
+    "oxlint": "^1.81.0",
+    "vite": "^8.3.0"
+  }
+}
