@@ -56,16 +56,16 @@ export default function Volatility() {
         )}
         {rows.map(({ m, move, abs }, i) => (
           <motion.div key={m.id} {...slideRow(i)}>
-          <Link to={`/match/${m.id}`} className="flex items-center gap-3 border-t border-white/5 py-2.5 first:border-0 hover:bg-white/[0.02]">
+          <Link to={`/match/${m.id}`} className="flex min-w-0 items-center gap-2 rounded-xl border border-white/10 bg-white/[0.03] px-3 py-2 hover:bg-white/[0.06] sm:gap-3">
             <TeamCrest name={m.home} size={26} src={m.crestHome} />
-            <div className="w-52 min-w-0">
+            <div className="w-28 min-w-0 min-[420px]:w-40 sm:w-52">
               <div className="truncate text-sm font-semibold text-white">{m.home} vs {m.away}</div>
               <div className="footnote"><LeagueBadge id={m.leagueId} name={leagues.find((l) => l.id === m.leagueId)?.name || m.leagueId} size="sm" /></div>
             </div>
-            <div className="h-2.5 flex-1 overflow-hidden rounded-full bg-white/5" role="img" aria-label={`${m.home} moved ${abs.toFixed(1)} percent`}>
+            <div className="h-2.5 min-w-0 flex-1 overflow-hidden rounded-full bg-white/5" role="img" aria-label={`${m.home} moved ${abs.toFixed(1)} percent`}>
               <div className={`h-full rounded-full ${move <= 0 ? 'bg-gradient-to-r from-lime-500 to-lime-300' : 'bg-gradient-to-r from-red-500 to-amber-400'}`} style={{ width: `${Math.sqrt(abs / max) * 100}%` }} />
             </div>
-            <span className={`tabular w-20 text-right text-sm font-bold ${move <= 0 ? 'text-lime-300' : 'text-red-300'}`} title={move <= 0 ? 'Home price shortened' : 'Home price drifted'}>
+            <span className={`tabular w-16 shrink-0 text-right text-xs font-bold sm:w-20 sm:text-sm ${move <= 0 ? 'text-lime-300' : 'text-red-300'}`} title={move <= 0 ? 'Home price shortened' : 'Home price drifted'}>
               {move <= 0 ? '▼' : '▲'} {abs.toFixed(1)}%
             </span>
           </Link>

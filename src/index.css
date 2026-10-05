@@ -19,6 +19,16 @@ html, body, #root {
   min-height: 100%;
 }
 
+/* no sideways dragging, ever — grid children size to their track (the #1
+   mobile overflow cause) and the page itself clips any stray wide paint
+   (clip, not hidden, so sticky headers keep sticking). */
+.grid > * {
+  min-width: 0;
+}
+html, body {
+  overflow-x: clip;
+}
+
 body {
   background: #060a12;
   color: #e5e7eb;
