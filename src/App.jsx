@@ -1,5 +1,6 @@
 import { Suspense, lazy, useEffect, useState } from 'react';
 import { BrowserRouter, Routes, Route, NavLink, Link } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
 import Navbar from './components/Navbar';
 import OddsTicker from './components/OddsTicker';
 import Logo from './components/Logo';
@@ -136,6 +137,7 @@ export default function App() {
           </div>
         </footer>
       </div>
+      <Analytics />
       </SlipProvider>
       </MyBooksProvider>
       </OddsProvider>
