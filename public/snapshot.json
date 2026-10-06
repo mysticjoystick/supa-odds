@@ -17,20 +17,20 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.38,
-          "a": 7.5,
-          "d": 4.9
+          "h": 1.36,
+          "a": 8,
+          "d": 5
         },
         "SportyBet": {
           "h": 1.39,
-          "d": 5.11,
-          "a": 7.99
+          "d": 5.1,
+          "a": 7.98
         }
       },
       "fair": {
-        "h": 1.47,
-        "d": 5.2,
-        "a": 7.97
+        "h": 1.44,
+        "d": 5.3,
+        "a": 8.48
       },
       "open": {
         "h": 1.29,
@@ -39,7 +39,7 @@
       },
       "movement": [
         1.29,
-        1.38
+        1.36
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -55,9 +55,9 @@
           "o": 2.15,
           "b": "SportyBet"
         },
-        "fairOver": 1.83
+        "fairOver": 1.81
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5795465",
       "fmHomeId": "9825",
       "fmAwayId": "8463",
@@ -202,18 +202,18 @@
           "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources"
         },
         {
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
+        },
+        {
           "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
           "description": "Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.",
           "published": "2026-10-05T20:53:41Z",
           "image": "https://a.espncdn.com/photo/2026/1005/r1726526_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise"
-        },
-        {
-          "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
-          "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
-          "published": "2026-10-05T20:14:37Z",
-          "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears"
         }
       ]
     },
@@ -265,16 +265,16 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.67,
+          "o": 1.69,
           "b": "DraftKings"
         },
         "under": {
           "o": 2.25,
           "b": "SportyBet"
         },
-        "fairOver": 1.78
+        "fairOver": 1.8
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5795466",
       "fmHomeId": "10252",
       "fmAwayId": "9937",
@@ -412,6 +412,13 @@
       },
       "newsItems": [
         {
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
+        },
+        {
           "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
           "description": "Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.",
           "published": "2026-10-05T20:53:41Z",
@@ -421,16 +428,9 @@
         {
           "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
           "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
-          "published": "2026-10-05T20:14:37Z",
+          "published": "2026-10-06T06:45:38Z",
           "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears"
-        },
-        {
-          "headline": "JJ Gabriel representatives demanded game time at Manchester United - sources",
-          "description": "Representatives of JJ Gabriel demanded that the teenager played at least 20 minutes in games against Sabah FK, Brighton and Bournemouth before beginning talks about signing a scholarship with Manchester United, sources h",
-          "published": "2026-10-05T16:53:23Z",
-          "image": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources"
         }
       ]
     },
@@ -456,9 +456,9 @@
           "d": 4.1
         },
         "SportyBet": {
-          "h": 1.72,
-          "d": 4.3,
-          "a": 4.42
+          "h": 1.73,
+          "d": 4.25,
+          "a": 4.44
         }
       },
       "fair": {
@@ -491,7 +491,7 @@
         },
         "fairOver": 2.29
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5795467",
       "fmHomeId": "8455",
       "fmAwayId": "8678",
@@ -539,7 +539,7 @@
             "rating": 7.14,
             "goals": 1,
             "assists": 0,
-            "pos": "CDM",
+            "pos": "CDM,CM",
             "shirt": 45
           },
           {
@@ -643,11 +643,11 @@
           "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources"
         },
         {
-          "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
-          "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
-          "published": "2026-10-05T20:14:37Z",
-          "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears"
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
         }
       ]
     },
@@ -708,7 +708,7 @@
         },
         "fairOver": 1.85
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5795471",
       "fmHomeId": "9902",
       "fmAwayId": "9879",
@@ -747,7 +747,7 @@
             "rating": 6.85,
             "goals": 0,
             "assists": 1,
-            "pos": "CDM",
+            "pos": "CDM,CM",
             "shirt": 23
           },
           {
@@ -846,6 +846,13 @@
       },
       "newsItems": [
         {
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
+        },
+        {
           "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
           "description": "Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.",
           "published": "2026-10-05T20:53:41Z",
@@ -855,16 +862,9 @@
         {
           "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
           "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
-          "published": "2026-10-05T20:14:37Z",
+          "published": "2026-10-06T06:45:38Z",
           "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears"
-        },
-        {
-          "headline": "JJ Gabriel representatives demanded game time at Manchester United - sources",
-          "description": "Representatives of JJ Gabriel demanded that the teenager played at least 20 minutes in games against Sabah FK, Brighton and Bournemouth before beginning talks about signing a scholarship with Manchester United, sources h",
-          "published": "2026-10-05T16:53:23Z",
-          "image": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources"
         }
       ]
     },
@@ -925,7 +925,7 @@
         },
         "fairOver": 1.89
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5795474",
       "fmHomeId": "8472",
       "fmAwayId": "10204",
@@ -1029,7 +1029,7 @@
             "rating": 7.34,
             "goals": 0,
             "assists": 2,
-            "pos": "RW,CAM,CM,LW,CDM,RM",
+            "pos": "RW,CM,CAM,LW,CDM,RM",
             "shirt": 25
           },
           {
@@ -1070,18 +1070,18 @@
           "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources"
         },
         {
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
+        },
+        {
           "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
           "description": "Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.",
           "published": "2026-10-05T20:53:41Z",
           "image": "https://a.espncdn.com/photo/2026/1005/r1726526_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise"
-        },
-        {
-          "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
-          "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
-          "published": "2026-10-05T20:14:37Z",
-          "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears"
         }
       ]
     },
@@ -1108,8 +1108,8 @@
         },
         "SportyBet": {
           "h": 1.73,
-          "d": 4.24,
-          "a": 4.44
+          "d": 4.23,
+          "a": 4.41
         }
       },
       "fair": {
@@ -1142,7 +1142,7 @@
         },
         "fairOver": 2.35
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5795473",
       "fmHomeId": "10260",
       "fmAwayId": "8586",
@@ -1154,7 +1154,7 @@
             "rating": 7.78,
             "goals": 3,
             "assists": 1,
-            "pos": "CAM,CDM",
+            "pos": "CAM,CDM,LW",
             "shirt": 8
           },
           {
@@ -1190,7 +1190,7 @@
             "rating": 7.29,
             "goals": 0,
             "assists": 0,
-            "pos": "LW,RW,ST",
+            "pos": "LW,ST",
             "shirt": 9
           },
           {
@@ -1237,7 +1237,7 @@
             "rating": 6.97,
             "goals": 0,
             "assists": 1,
-            "pos": "RW,CAM",
+            "pos": "RW,CAM,RM",
             "shirt": 20
           },
           {
@@ -1294,11 +1294,11 @@
           "url": "https://www.espn.com/soccer/story/_/id/50108907/ledley-king-backs-tottenham-form-turn-very-quickly"
         },
         {
-          "headline": "How a mass Man City player exodus would warp the transfer market",
-          "description": "If Manchester City are punished by being relegated from the Premier League, group of players worth more than £1 billion in transfer fees would suddenly become available.",
-          "published": "2026-10-05T12:46:40Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726237_4_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50108326/how-mass-manchester-city-player-exodus-warp-transfer-market"
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
         }
       ]
     },
@@ -1319,20 +1319,20 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 2.6,
-          "a": 2.75,
-          "d": 3.25
+          "h": 2.75,
+          "a": 2.65,
+          "d": 3.15
         },
         "SportyBet": {
-          "h": 2.76,
-          "d": 3.29,
-          "a": 2.75
+          "h": 2.78,
+          "d": 3.28,
+          "a": 2.74
         }
       },
       "fair": {
-        "h": 2.75,
-        "d": 3.43,
-        "a": 2.9
+        "h": 2.91,
+        "d": 3.33,
+        "a": 2.8
       },
       "open": {
         "h": 2.4,
@@ -1341,7 +1341,7 @@
       },
       "movement": [
         2.4,
-        2.6
+        2.75
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -1350,16 +1350,16 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.05,
-          "b": "SportyBet"
-        },
-        "under": {
-          "o": 1.77,
+          "o": 2.1,
           "b": "DraftKings"
         },
-        "fairOver": 2.13
+        "under": {
+          "o": 1.76,
+          "b": "SportyBet"
+        },
+        "fairOver": 2.23
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5868086",
       "fmHomeId": "9864",
       "fmAwayId": "8558",
@@ -1445,7 +1445,7 @@
             "rating": 7.21,
             "goals": 0,
             "assists": 0,
-            "pos": "CDM,CM,CAM,ST",
+            "pos": "CM,CAM,CDM,ST",
             "shirt": 8
           },
           {
@@ -1528,15 +1528,15 @@
       "awayAbbr": "MEM",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-      "startsIn": "10/5/2026, 11:00:00 PM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-05T23:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 84,
-        "away": 98
+        "home": 123,
+        "away": 132
       },
-      "minute": "4:36",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -1547,25 +1547,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "description": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "published": "2026-10-06T00:35:37Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/81503108-f8a1-4671-b4f9-90d822a345f7/81503108-f8a1-4671-b4f9-90d822a345f7.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50113284/jaylen-brown-drops-22-points-first-half-76ers-preseason-debut"
+          "headline": "Memphis Grizzlies vs. Atlanta Hawks: Game Highlights",
+          "description": "Memphis Grizzlies vs. Atlanta Hawks: Game Highlights",
+          "published": "2026-10-06T02:45:55Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/fab8da5f-e8bd-4dd4-b363-6f8dcc0d9c55/fab8da5f-e8bd-4dd4-b363-6f8dcc0d9c55.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114093/game-highlights"
         },
         {
-          "headline": "Sources: Clippers' Max Strus (foot) out at least 4 weeks",
-          "description": "Clippers wing Max Strus suffered a partial tear of the plantar fascia in his right foot and will be reevaluated in four weeks, league sources told ESPN.",
-          "published": "2026-10-05T22:41:42Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726578_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50112557/sources-clippers-max-strus-foot-least-4-weeks"
+          "headline": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "description": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "published": "2026-10-06T05:13:35Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/e4ec1628-617e-4b8a-af3c-879564ad4a1e/e4ec1628-617e-4b8a-af3c-879564ad4a1e.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114927/game-highlights"
         },
         {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-05T22:31:24Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+          "headline": "Minnesota Timberwolves vs. Milwaukee Bucks: Game Highlights",
+          "description": "Minnesota Timberwolves vs. Milwaukee Bucks: Game Highlights",
+          "published": "2026-10-06T03:20:59Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/23faf852-9fbd-4abc-a258-9b4e024ccb48/23faf852-9fbd-4abc-a258-9b4e024ccb48.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114505/game-highlights"
         }
       ]
     },
@@ -1578,15 +1578,15 @@
       "awayAbbr": "PHX",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-      "startsIn": "10/5/2026, 11:00:00 PM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-05T23:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 64,
-        "away": 81
+        "home": 109,
+        "away": 107
       },
-      "minute": "6:52",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -1597,25 +1597,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "description": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "published": "2026-10-06T00:35:37Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/81503108-f8a1-4671-b4f9-90d822a345f7/81503108-f8a1-4671-b4f9-90d822a345f7.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50113284/jaylen-brown-drops-22-points-first-half-76ers-preseason-debut"
+          "headline": "Phoenix Suns vs. Detroit Pistons: Game Highlights",
+          "description": "Phoenix Suns vs. Detroit Pistons: Game Highlights",
+          "published": "2026-10-06T02:45:48Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/a903535f-4de1-4ecd-b874-4c673eb8ea6e/a903535f-4de1-4ecd-b874-4c673eb8ea6e.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114231/game-highlights"
         },
         {
-          "headline": "Sources: Clippers' Max Strus (foot) out at least 4 weeks",
-          "description": "Clippers wing Max Strus suffered a partial tear of the plantar fascia in his right foot and will be reevaluated in four weeks, league sources told ESPN.",
-          "published": "2026-10-05T22:41:42Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726578_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50112557/sources-clippers-max-strus-foot-least-4-weeks"
+          "headline": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "description": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "published": "2026-10-06T05:13:35Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/e4ec1628-617e-4b8a-af3c-879564ad4a1e/e4ec1628-617e-4b8a-af3c-879564ad4a1e.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114927/game-highlights"
         },
         {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-05T22:31:24Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+          "headline": "Minnesota Timberwolves vs. Milwaukee Bucks: Game Highlights",
+          "description": "Minnesota Timberwolves vs. Milwaukee Bucks: Game Highlights",
+          "published": "2026-10-06T03:20:59Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/23faf852-9fbd-4abc-a258-9b4e024ccb48/23faf852-9fbd-4abc-a258-9b4e024ccb48.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114505/game-highlights"
         }
       ]
     },
@@ -1628,15 +1628,15 @@
       "awayAbbr": "NY",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-      "startsIn": "10/5/2026, 11:00:00 PM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-05T23:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 84,
-        "away": 75
+        "home": 120,
+        "away": 97
       },
-      "minute": "3:47",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -1647,25 +1647,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "description": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "published": "2026-10-06T00:35:37Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/81503108-f8a1-4671-b4f9-90d822a345f7/81503108-f8a1-4671-b4f9-90d822a345f7.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50113284/jaylen-brown-drops-22-points-first-half-76ers-preseason-debut"
+          "headline": "New York Knicks vs. Philadelphia 76ers: Game Highlights",
+          "description": "New York Knicks vs. Philadelphia 76ers: Game Highlights",
+          "published": "2026-10-06T02:46:03Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/e2b76986-3e01-47f1-94bd-89b8892f1d77/e2b76986-3e01-47f1-94bd-89b8892f1d77.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50113916/game-highlights"
         },
         {
-          "headline": "Sources: Clippers' Max Strus (foot) out at least 4 weeks",
-          "description": "Clippers wing Max Strus suffered a partial tear of the plantar fascia in his right foot and will be reevaluated in four weeks, league sources told ESPN.",
-          "published": "2026-10-05T22:41:42Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726578_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50112557/sources-clippers-max-strus-foot-least-4-weeks"
+          "headline": "76ers backup center Ariel Hukporti exits preseason opener early",
+          "description": "Just five minutes into the preseason opener against the Knicks on Monday, 76ers backup center Ariel Hukporti suffered a right leg injury, causing him to leave the game.",
+          "published": "2026-10-06T03:16:14Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726649_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50113626/76ers-backup-center-ariel-hukporti-exits-preseason-opener-early"
         },
         {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-05T22:31:24Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+          "headline": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "description": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "published": "2026-10-06T05:13:35Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/e4ec1628-617e-4b8a-af3c-879564ad4a1e/e4ec1628-617e-4b8a-af3c-879564ad4a1e.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114927/game-highlights"
         }
       ]
     },
@@ -1678,15 +1678,15 @@
       "awayAbbr": "MIN",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-      "startsIn": "10/6/2026, 12:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-06T00:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 20,
-        "away": 31
+        "home": 97,
+        "away": 116
       },
-      "minute": "12:00",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -1697,25 +1697,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "description": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "published": "2026-10-06T00:35:37Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/81503108-f8a1-4671-b4f9-90d822a345f7/81503108-f8a1-4671-b4f9-90d822a345f7.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50113284/jaylen-brown-drops-22-points-first-half-76ers-preseason-debut"
+          "headline": "Minnesota Timberwolves vs. Milwaukee Bucks: Game Highlights",
+          "description": "Minnesota Timberwolves vs. Milwaukee Bucks: Game Highlights",
+          "published": "2026-10-06T03:20:59Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/23faf852-9fbd-4abc-a258-9b4e024ccb48/23faf852-9fbd-4abc-a258-9b4e024ccb48.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114505/game-highlights"
         },
         {
-          "headline": "Sources: Clippers' Max Strus (foot) out at least 4 weeks",
-          "description": "Clippers wing Max Strus suffered a partial tear of the plantar fascia in his right foot and will be reevaluated in four weeks, league sources told ESPN.",
-          "published": "2026-10-05T22:41:42Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726578_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50112557/sources-clippers-max-strus-foot-least-4-weeks"
+          "headline": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "description": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "published": "2026-10-06T05:13:35Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/e4ec1628-617e-4b8a-af3c-879564ad4a1e/e4ec1628-617e-4b8a-af3c-879564ad4a1e.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114927/game-highlights"
         },
         {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-05T22:31:24Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+          "headline": "Phoenix Suns vs. Detroit Pistons: Game Highlights",
+          "description": "Phoenix Suns vs. Detroit Pistons: Game Highlights",
+          "published": "2026-10-06T02:45:48Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/a903535f-4de1-4ecd-b874-4c673eb8ea6e/a903535f-4de1-4ecd-b874-4c673eb8ea6e.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114231/game-highlights"
         }
       ]
     },
@@ -1728,90 +1728,15 @@
       "awayAbbr": "LAL",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-      "startsIn": "10/6/2026, 2:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-06T02:00Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 2.54,
-          "a": 1.54
-        }
-      },
-      "fair": {
-        "h": 2.65,
-        "d": null,
-        "a": 1.61
-      },
-      "open": {
-        "h": 2.95,
-        "d": null,
-        "a": 1.42
-      },
-      "movement": [
-        2.95,
-        2.54
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
-      "real": true,
-      "sample": false,
-      "totals": {
-        "line": 227.5,
-        "over": {
-          "o": 1.89,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.93,
-          "b": "DraftKings"
-        },
-        "fairOver": 1.98
-      },
-      "newsItems": [
-        {
-          "headline": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "description": "Jaylen Brown drops 22 points in first half of 76ers preseason debut",
-          "published": "2026-10-06T00:35:37Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/81503108-f8a1-4671-b4f9-90d822a345f7/81503108-f8a1-4671-b4f9-90d822a345f7.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50113284/jaylen-brown-drops-22-points-first-half-76ers-preseason-debut"
-        },
-        {
-          "headline": "Sources: Clippers' Max Strus (foot) out at least 4 weeks",
-          "description": "Clippers wing Max Strus suffered a partial tear of the plantar fascia in his right foot and will be reevaluated in four weeks, league sources told ESPN.",
-          "published": "2026-10-05T22:41:42Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726578_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50112557/sources-clippers-max-strus-foot-least-4-weeks"
-        },
-        {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-05T22:31:24Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
-        }
-      ]
-    },
-    {
-      "id": "esp-401872979",
-      "leagueId": "nfl",
-      "home": "New Orleans Saints",
-      "away": "Atlanta Falcons",
-      "homeAbbr": "NO",
-      "awayAbbr": "ATL",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
-      "startsIn": "10/6/2026, 12:15:00 AM",
-      "commenceISO": "2026-10-06T00:15Z",
-      "live": true,
-      "status": "inplay",
+      "status": "final",
       "score": {
-        "home": 0,
-        "away": 7
+        "home": 103,
+        "away": 127
       },
-      "minute": "3:49",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -1822,25 +1747,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "NFL Week 4's best arrivals, led by Saints DE Cam Jordan",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-05T22:54:10Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726588_590x332_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50079780/nfl-week-4-fashionable-arrivals"
+          "headline": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "description": "Los Angeles Lakers vs. Sacramento Kings: Game Highlights",
+          "published": "2026-10-06T05:13:35Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/e4ec1628-617e-4b8a-af3c-879564ad4a1e/e4ec1628-617e-4b8a-af3c-879564ad4a1e.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114927/game-highlights"
         },
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Minnesota Timberwolves vs. Milwaukee Bucks: Game Highlights",
+          "description": "Minnesota Timberwolves vs. Milwaukee Bucks: Game Highlights",
+          "published": "2026-10-06T03:20:59Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/23faf852-9fbd-4abc-a258-9b4e024ccb48/23faf852-9fbd-4abc-a258-9b4e024ccb48.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114505/game-highlights"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Phoenix Suns vs. Detroit Pistons: Game Highlights",
+          "description": "Phoenix Suns vs. Detroit Pistons: Game Highlights",
+          "published": "2026-10-06T02:45:48Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1006/a903535f-4de1-4ecd-b874-4c673eb8ea6e/a903535f-4de1-4ecd-b874-4c673eb8ea6e.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114231/game-highlights"
         }
       ]
     },
@@ -1872,25 +1797,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -1922,25 +1847,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "MCL sprain sidelines Mariota; Daniels preps for full practice",
-          "description": "In his team's loss to the Indianapolis Colts on Sunday, Washington Commanders quarterback Marcus Mariota suffered a sprained MCL of his right knee, and the timetable for his return remains uncertain coach Dan Quinn said ",
-          "published": "2026-10-06T00:43:40Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726596_600x600_1-1.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112842/mcl-sprain-sidelines-mariota-daniels-preps-practice"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -1972,25 +1897,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2022,25 +1947,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2072,25 +1997,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2122,25 +2047,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2172,25 +2097,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2222,25 +2147,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2272,25 +2197,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2322,25 +2247,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2372,25 +2297,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2422,25 +2347,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2472,25 +2397,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2522,25 +2447,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Fantasy football buzz: Is Joe Mixon worth picking up after Seattle signing?",
-          "description": "Veteran running back Joe Mixon is signing with the Seahawks, but is the 30-year-old worth adding in fantasy?",
-          "published": "2026-10-05T23:56:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726590_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
         }
       ]
     },
@@ -2572,25 +2497,75 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "How the sportsbooks adjust after high volume of early-season NFL injuries",
-          "description": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-          "published": "2026-10-05T21:15:51Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726532_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds"
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
         },
         {
-          "headline": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
-          "description": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-          "published": "2026-10-05T23:50:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1004/r1726003_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
         },
         {
-          "headline": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
-          "description": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-          "published": "2026-10-06T00:23:11Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726536_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field"
+          "headline": "Bijan Robinson: Primetime games bring out a different energy",
+          "description": "Bijan Robinson: Primetime games bring out a different energy ",
+          "published": "2026-10-06T04:26:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1006/ss_20261006_001718093_3686691/ss_20261006_001718093_3686691.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy"
+        }
+      ]
+    },
+    {
+      "id": "esp-401872979",
+      "leagueId": "nfl",
+      "home": "New Orleans Saints",
+      "away": "Atlanta Falcons",
+      "homeAbbr": "NO",
+      "awayAbbr": "ATL",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-06T00:15Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 24,
+        "away": 45
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "Boos rain down from Superdome stands in Saints' blowout loss",
+          "description": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities",
+          "published": "2026-10-06T07:08:15Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726723_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss"
+        },
+        {
+          "headline": "Resurgent Falcons score 80 points in two-game winning streak",
+          "description": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined ",
+          "published": "2026-10-06T06:26:40Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726713_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak"
+        },
+        {
+          "headline": "Atlanta's jabs at New Orleans after MNF top Week 4 trolls",
+          "description": "The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Atlanta Falcons.",
+          "published": "2026-10-06T04:16:25Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726702_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50105587/nfl-week-4-2026-trolls"
         }
       ]
     },
@@ -2616,8 +2591,8 @@
           "d": 3.2
         },
         "SportyBet": {
-          "h": 3.13,
-          "d": 3.36,
+          "h": 3.14,
+          "d": 3.35,
           "a": 2.36
         }
       },
@@ -2651,7 +2626,7 @@
         },
         "fairOver": 2.13
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5749693",
       "fmHomeId": "10233",
       "fmAwayId": "8535",
@@ -2690,7 +2665,7 @@
             "rating": 6.68,
             "goals": 0,
             "assists": 1,
-            "pos": "CM,CDM,CAM,LM,RW",
+            "pos": "CM,CDM,RW",
             "shirt": 97
           },
           {
@@ -2708,7 +2683,7 @@
             "rating": 6.5,
             "goals": 0,
             "assists": 0,
-            "pos": "CM,RWB,LB,LWB,RM",
+            "pos": "CM,RWB,LWB,LB,RM",
             "shirt": 77
           },
           {
@@ -2833,9 +2808,9 @@
           "d": 8
         },
         "SportyBet": {
-          "h": 1.16,
-          "d": 8.7,
-          "a": 16.59
+          "h": 1.15,
+          "d": 8.76,
+          "a": 16.83
         }
       },
       "fair": {
@@ -2868,7 +2843,7 @@
         },
         "fairOver": 2
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5749694",
       "fmHomeId": "8636",
       "fmAwayId": "10167",
@@ -2898,7 +2873,7 @@
             "rating": 7.79,
             "goals": 0,
             "assists": 3,
-            "pos": "RM,CM",
+            "pos": "RM,CM,LB",
             "shirt": 17
           },
           {
@@ -3052,7 +3027,7 @@
         "SportyBet": {
           "h": 1.45,
           "d": 5.13,
-          "a": 6.49
+          "a": 6.45
         }
       },
       "fair": {
@@ -3085,7 +3060,7 @@
         },
         "fairOver": 2.3
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5749697",
       "fmHomeId": "9875",
       "fmAwayId": "9891",
@@ -3142,7 +3117,7 @@
             "rating": 6.98,
             "goals": 0,
             "assists": 1,
-            "pos": "RB,CB,RWB,RM",
+            "pos": "CB,RB,RWB,RM",
             "shirt": 22
           },
           {
@@ -3151,7 +3126,7 @@
             "rating": 6.9,
             "goals": 1,
             "assists": 1,
-            "pos": "CAM,CM",
+            "pos": "CAM,CM,RW",
             "shirt": 26
           }
         ],
@@ -3297,12 +3272,12 @@
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.77,
+          "o": 1.8,
           "b": "DraftKings"
         },
-        "fairOver": 2.1
+        "fairOver": 2.08
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5881180",
       "fmHomeId": "9789",
       "fmAwayId": "8697",
@@ -3519,7 +3494,7 @@
         },
         "fairOver": 1.65
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "6106414",
       "fmHomeId": "8588",
       "fmAwayId": "9768",
@@ -3558,7 +3533,7 @@
             "rating": 7.1,
             "goals": 1,
             "assists": 0,
-            "pos": "LWB,CB,LM",
+            "pos": "LWB,LM,CB",
             "shirt": 14
           },
           {
@@ -3585,7 +3560,7 @@
             "rating": 7.02,
             "goals": 0,
             "assists": 1,
-            "pos": "RWB",
+            "pos": "RWB,RM",
             "shirt": 2
           }
         ],
@@ -3815,7 +3790,7 @@
         },
         "fairOver": 1.66
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "6106260",
       "fmHomeId": "9825",
       "fmAwayId": "8639",
@@ -3968,7 +3943,7 @@
         },
         "fairOver": 2.33
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "6106267",
       "fmHomeId": "9906",
       "fmAwayId": "10260",
@@ -3981,7 +3956,7 @@
             "rating": 7.78,
             "goals": 3,
             "assists": 1,
-            "pos": "CAM,CDM",
+            "pos": "CAM,CDM,LW",
             "shirt": 8
           },
           {
@@ -4017,7 +3992,7 @@
             "rating": 7.29,
             "goals": 0,
             "assists": 0,
-            "pos": "LW,RW,ST",
+            "pos": "LW,ST",
             "shirt": 9
           },
           {
@@ -4121,7 +4096,7 @@
         },
         "fairOver": 2.33
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "6106338",
       "fmHomeId": "8637",
       "fmAwayId": "8634",
@@ -4206,7 +4181,7 @@
         },
         "fairOver": 2.35
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "6106251",
       "fmHomeId": "8636",
       "fmAwayId": "8342",
@@ -4236,7 +4211,7 @@
             "rating": 7.79,
             "goals": 0,
             "assists": 3,
-            "pos": "RM,CM",
+            "pos": "RM,CM,LB",
             "shirt": 17
           },
           {
@@ -4359,7 +4334,7 @@
         },
         "fairOver": 2.08
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "6106323",
       "fmHomeId": "178475",
       "fmAwayId": "8640",
@@ -4444,7 +4419,7 @@
         },
         "fairOver": 2.13
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "6106417",
       "fmHomeId": "8478",
       "fmAwayId": "9823",
@@ -4529,7 +4504,7 @@
         },
         "fairOver": 1.8
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "6106328",
       "fmHomeId": "10205",
       "fmAwayId": "9875",
@@ -4587,7 +4562,7 @@
             "rating": 6.98,
             "goals": 0,
             "assists": 1,
-            "pos": "RB,CB,RWB,RM",
+            "pos": "CB,RB,RWB,RM",
             "shirt": 22
           },
           {
@@ -4596,7 +4571,7 @@
             "rating": 6.9,
             "goals": 1,
             "assists": 1,
-            "pos": "CAM,CM",
+            "pos": "CAM,CM,RW",
             "shirt": 26
           }
         ]
@@ -4682,7 +4657,7 @@
         },
         "fairOver": 2.46
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5802947",
       "fmHomeId": "8588",
       "fmAwayId": "9748",
@@ -4721,7 +4696,7 @@
             "rating": 7.1,
             "goals": 1,
             "assists": 0,
-            "pos": "LWB,CB,LM",
+            "pos": "LWB,LM,CB",
             "shirt": 14
           },
           {
@@ -4748,7 +4723,7 @@
             "rating": 7.02,
             "goals": 0,
             "assists": 1,
-            "pos": "RWB",
+            "pos": "RWB,RM",
             "shirt": 2
           }
         ],
@@ -4835,7 +4810,7 @@
         },
         "fairOver": 2.51
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5836861",
       "fmHomeId": "8654",
       "fmAwayId": "10172",
@@ -4920,7 +4895,7 @@
         },
         "fairOver": 2.1
       },
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "fotmobId": "5781762",
       "fmHomeId": "8640",
       "fmAwayId": "10228",
@@ -4962,23 +4937,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.66,
-          "d": 3.33,
-          "a": 2.74
+          "d": 3.32,
+          "a": 2.76
         }
       },
       "fair": {
-        "h": 2.77,
-        "d": 3.47,
-        "a": 2.85
+        "h": 2.76,
+        "d": 3.45,
+        "a": 2.87
       },
       "open": {
         "h": 2.66,
-        "d": 3.33,
-        "a": 2.74
+        "d": 3.32,
+        "a": 2.76
       },
       "movement": [
         2.66
@@ -4986,20 +4961,27 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.94,
+          "o": 1.95,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.84,
+          "o": 1.83,
           "b": "SportyBet"
         },
-        "fairOver": 2.05
+        "fairOver": 2.07
       },
       "news": "Real odds via SportyBet feed (Premier League).",
       "fotmobId": "5795469",
       "fmHomeId": "9826",
       "fmAwayId": "10203",
       "newsItems": [
+        {
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
+        },
         {
           "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
           "description": "Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.",
@@ -5010,16 +4992,9 @@
         {
           "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
           "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
-          "published": "2026-10-05T20:14:37Z",
+          "published": "2026-10-06T06:45:38Z",
           "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears"
-        },
-        {
-          "headline": "JJ Gabriel representatives demanded game time at Manchester United - sources",
-          "description": "Representatives of JJ Gabriel demanded that the teenager played at least 20 minutes in games against Sabah FK, Brighton and Bournemouth before beginning talks about signing a scholarship with Manchester United, sources h",
-          "published": "2026-10-05T16:53:23Z",
-          "image": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources"
         }
       ]
     },
@@ -5037,26 +5012,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 3.55,
+          "h": 3.52,
           "d": 3.42,
-          "a": 2.15
+          "a": 2.16
         }
       },
       "fair": {
-        "h": 3.69,
+        "h": 3.66,
         "d": 3.55,
-        "a": 2.23
+        "a": 2.25
       },
       "open": {
-        "h": 3.55,
+        "h": 3.52,
         "d": 3.42,
-        "a": 2.15
+        "a": 2.16
       },
       "movement": [
-        3.55
+        3.52
       ],
       "totals": {
         "line": 2.5,
@@ -5076,11 +5051,11 @@
       "fmAwayId": "8668",
       "newsItems": [
         {
-          "headline": "How a mass Man City player exodus would warp the transfer market",
-          "description": "If Manchester City are punished by being relegated from the Premier League, group of players worth more than £1 billion in transfer fees would suddenly become available.",
-          "published": "2026-10-05T12:46:40Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726237_4_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50108326/how-mass-manchester-city-player-exodus-warp-transfer-market"
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
         },
         {
           "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
@@ -5092,7 +5067,7 @@
         {
           "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
           "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
-          "published": "2026-10-05T20:14:37Z",
+          "published": "2026-10-06T06:45:38Z",
           "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears"
         }
@@ -5112,7 +5087,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.59,
@@ -5158,11 +5133,11 @@
           "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources"
         },
         {
-          "headline": "How a mass Man City player exodus would warp the transfer market",
-          "description": "If Manchester City are punished by being relegated from the Premier League, group of players worth more than £1 billion in transfer fees would suddenly become available.",
-          "published": "2026-10-05T12:46:40Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726237_4_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50108326/how-mass-manchester-city-player-exodus-warp-transfer-market"
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
         },
         {
           "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
@@ -5187,7 +5162,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 3.28,
@@ -5226,11 +5201,11 @@
       "fmAwayId": "10261",
       "newsItems": [
         {
-          "headline": "How a mass Man City player exodus would warp the transfer market",
-          "description": "If Manchester City are punished by being relegated from the Premier League, group of players worth more than £1 billion in transfer fees would suddenly become available.",
-          "published": "2026-10-05T12:46:40Z",
-          "image": "https://a.espncdn.com/photo/2026/1005/r1726237_4_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50108326/how-mass-manchester-city-player-exodus-warp-transfer-market"
+          "headline": "Premier League injury concerns from the international break",
+          "description": "All the latest news and updates on Premier League stars injuries during the first international break of the 2026-2027 club season",
+          "published": "2026-10-06T06:23:53Z",
+          "image": "https://a.espncdn.com/photo/2026/1005/r1726227_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/football/story/_/id/50026166/premier-league-international-break-arsenal-chelsea-manchester-united"
         },
         {
           "headline": "Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott",
@@ -5242,7 +5217,7 @@
         {
           "headline": "Jordan Pickford ignored give-way sign, almost caused crash, court hears",
           "description": "England goalkeeper Jordan Pickford nearly caused a crash with two other cars during a bout of careless driving in his £200,000 Lamborghini supercar, a court has heard.",
-          "published": "2026-10-05T20:14:37Z",
+          "published": "2026-10-06T06:45:38Z",
           "image": "https://a.espncdn.com/photo/2026/0520/r1660855_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50111432/jordan-pickford-ignored-give-way-sign-almost-caused-crash-court-hears"
         }
@@ -5262,7 +5237,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 3.51,
@@ -5337,7 +5312,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 3.55,
@@ -5412,7 +5387,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.98,
@@ -5436,14 +5411,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.85,
+          "o": 1.86,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.92,
+          "o": 1.91,
           "b": "SportyBet"
         },
-        "fairOver": 1.96
+        "fairOver": 1.97
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868088",
@@ -5487,31 +5462,31 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 4.21,
+          "h": 4.24,
           "d": 3.77,
           "a": 1.86
         }
       },
       "fair": {
-        "h": 4.38,
+        "h": 4.4,
         "d": 3.92,
-        "a": 1.94
+        "a": 1.93
       },
       "open": {
-        "h": 4.21,
+        "h": 4.24,
         "d": 3.77,
         "a": 1.86
       },
       "movement": [
-        4.21
+        4.24
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.77,
+          "o": 1.78,
           "b": "SportyBet"
         },
         "under": {
@@ -5562,26 +5537,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.07,
-          "d": 13.53,
-          "a": 29.65
+          "h": 1.08,
+          "d": 12.87,
+          "a": 29.51
         }
       },
       "fair": {
         "h": 1.12,
-        "d": 14.1,
-        "a": 30.9
+        "d": 13.35,
+        "a": 30.62
       },
       "open": {
-        "h": 1.07,
-        "d": 13.53,
-        "a": 29.65
+        "h": 1.08,
+        "d": 12.87,
+        "a": 29.51
       },
       "movement": [
-        1.07
+        1.08
       ],
       "totals": {
         "line": 2.5,
@@ -5590,10 +5565,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 4.25,
+          "o": 4.2,
           "b": "SportyBet"
         },
-        "fairOver": 1.28
+        "fairOver": 1.29
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868084",
@@ -5637,23 +5612,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.36,
           "d": 6.03,
-          "a": 7.14
+          "a": 7.2
         }
       },
       "fair": {
-        "h": 1.42,
-        "d": 6.28,
-        "a": 7.43
+        "h": 1.41,
+        "d": 6.27,
+        "a": 7.49
       },
       "open": {
         "h": 1.36,
         "d": 6.03,
-        "a": 7.14
+        "a": 7.2
       },
       "movement": [
         1.36
@@ -5712,7 +5687,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.81,
@@ -5787,23 +5762,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.7,
-          "d": 3.97,
-          "a": 5
+          "d": 3.98,
+          "a": 4.96
         }
       },
       "fair": {
         "h": 1.77,
-        "d": 4.13,
-        "a": 5.2
+        "d": 4.14,
+        "a": 5.16
       },
       "open": {
         "h": 1.7,
-        "d": 3.97,
-        "a": 5
+        "d": 3.98,
+        "a": 4.96
       },
       "movement": [
         1.7
@@ -5862,23 +5837,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.63,
           "d": 4.19,
-          "a": 5.3
+          "a": 5.32
         }
       },
       "fair": {
         "h": 1.7,
         "d": 4.36,
-        "a": 5.52
+        "a": 5.53
       },
       "open": {
         "h": 1.63,
         "d": 4.19,
-        "a": 5.3
+        "a": 5.32
       },
       "movement": [
         1.63
@@ -5937,7 +5912,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -6012,7 +5987,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.7,
@@ -6087,26 +6062,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 10.64,
-          "d": 8.4,
+          "h": 10.51,
+          "d": 8.35,
           "a": 1.21
         }
       },
       "fair": {
-        "h": 11.06,
-        "d": 8.73,
+        "h": 10.94,
+        "d": 8.7,
         "a": 1.26
       },
       "open": {
-        "h": 10.64,
-        "d": 8.4,
+        "h": 10.51,
+        "d": 8.35,
         "a": 1.21
       },
       "movement": [
-        10.64
+        10.51
       ],
       "totals": {
         "line": 2.5,
@@ -6162,23 +6137,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.44,
-          "d": 5.32,
-          "a": 6.35
+          "d": 5.33,
+          "a": 6.36
         }
       },
       "fair": {
         "h": 1.5,
-        "d": 5.53,
-        "a": 6.6
+        "d": 5.54,
+        "a": 6.61
       },
       "open": {
         "h": 1.44,
-        "d": 5.32,
-        "a": 6.35
+        "d": 5.33,
+        "a": 6.36
       },
       "movement": [
         1.44
@@ -6237,26 +6212,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 2.93,
-          "d": 3.88,
-          "a": 2.27
+          "h": 2.95,
+          "d": 3.89,
+          "a": 2.25
         }
       },
       "fair": {
-        "h": 3.05,
-        "d": 4.03,
-        "a": 2.36
+        "h": 3.07,
+        "d": 4.05,
+        "a": 2.34
       },
       "open": {
-        "h": 2.93,
-        "d": 3.88,
-        "a": 2.27
+        "h": 2.95,
+        "d": 3.89,
+        "a": 2.25
       },
       "movement": [
-        2.93
+        2.95
       ],
       "totals": {
         "line": 2.5,
@@ -6312,7 +6287,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 4.91,
@@ -6387,7 +6362,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -6411,14 +6386,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.52,
+          "o": 1.53,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.5,
+          "o": 2.45,
           "b": "SportyBet"
         },
-        "fairOver": 1.61
+        "fairOver": 1.62
       },
       "news": "Real odds via SportyBet feed (Bundesliga).",
       "fotmobId": "5881187",
@@ -6462,26 +6437,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.55,
+          "h": 1.56,
           "d": 4.96,
-          "a": 5.13
+          "a": 5.11
         }
       },
       "fair": {
-        "h": 1.61,
-        "d": 5.17,
-        "a": 5.34
+        "h": 1.62,
+        "d": 5.15,
+        "a": 5.31
       },
       "open": {
-        "h": 1.55,
+        "h": 1.56,
         "d": 4.96,
-        "a": 5.13
+        "a": 5.11
       },
       "movement": [
-        1.55
+        1.56
       ],
       "totals": {
         "line": 2.5,
@@ -6537,22 +6512,22 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.07,
-          "d": 3.95,
+          "d": 3.96,
           "a": 3.28
         }
       },
       "fair": {
-        "h": 2.16,
-        "d": 4.11,
+        "h": 2.15,
+        "d": 4.12,
         "a": 3.41
       },
       "open": {
         "h": 2.07,
-        "d": 3.95,
+        "d": 3.96,
         "a": 3.28
       },
       "movement": [
@@ -6612,23 +6587,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.67,
-          "d": 4.16,
-          "a": 4.95
+          "d": 4.18,
+          "a": 4.92
         }
       },
       "fair": {
         "h": 1.74,
-        "d": 4.33,
-        "a": 5.15
+        "d": 4.35,
+        "a": 5.12
       },
       "open": {
         "h": 1.67,
-        "d": 4.16,
-        "a": 4.95
+        "d": 4.18,
+        "a": 4.92
       },
       "movement": [
         1.67
@@ -6687,26 +6662,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.97,
+          "h": 1.96,
           "d": 4.15,
-          "a": 3.44
+          "a": 3.47
         }
       },
       "fair": {
-        "h": 2.05,
+        "h": 2.04,
         "d": 4.31,
-        "a": 3.58
+        "a": 3.61
       },
       "open": {
-        "h": 1.97,
+        "h": 1.96,
         "d": 4.15,
-        "a": 3.44
+        "a": 3.47
       },
       "movement": [
-        1.97
+        1.96
       ],
       "totals": {
         "line": 2.5,
@@ -6762,26 +6737,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 2.57,
-          "d": 3.64,
-          "a": 2.66
+          "h": 2.56,
+          "d": 3.67,
+          "a": 2.65
         }
       },
       "fair": {
-        "h": 2.67,
-        "d": 3.78,
-        "a": 2.77
+        "h": 2.66,
+        "d": 3.82,
+        "a": 2.76
       },
       "open": {
-        "h": 2.57,
-        "d": 3.64,
-        "a": 2.66
+        "h": 2.56,
+        "d": 3.67,
+        "a": 2.65
       },
       "movement": [
-        2.57
+        2.56
       ],
       "totals": {
         "line": 2.5,
@@ -6837,23 +6812,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.59,
           "d": 4.14,
-          "a": 5.87
+          "a": 5.86
         }
       },
       "fair": {
-        "h": 1.65,
+        "h": 1.66,
         "d": 4.31,
-        "a": 6.11
+        "a": 6.1
       },
       "open": {
         "h": 1.59,
         "d": 4.14,
-        "a": 5.87
+        "a": 5.86
       },
       "movement": [
         1.59
@@ -6861,14 +6836,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.86,
+          "o": 1.85,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.92,
+          "o": 1.93,
           "b": "SportyBet"
         },
-        "fairOver": 1.97
+        "fairOver": 1.96
       },
       "news": "Real odds via SportyBet feed (Serie A).",
       "fotmobId": "5749695",
@@ -6912,26 +6887,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 4.14,
-          "d": 3.42,
+          "h": 4.15,
+          "d": 3.41,
           "a": 1.98
         }
       },
       "fair": {
-        "h": 4.3,
-        "d": 3.55,
+        "h": 4.31,
+        "d": 3.54,
         "a": 2.06
       },
       "open": {
-        "h": 4.14,
-        "d": 3.42,
+        "h": 4.15,
+        "d": 3.41,
         "a": 1.98
       },
       "movement": [
-        4.14
+        4.15
       ],
       "totals": {
         "line": 2.5,
@@ -6987,26 +6962,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 4.29,
-          "d": 3.83,
-          "a": 1.83
+          "h": 4.31,
+          "d": 3.85,
+          "a": 1.82
         }
       },
       "fair": {
-        "h": 4.46,
-        "d": 3.99,
+        "h": 4.49,
+        "d": 4.01,
         "a": 1.9
       },
       "open": {
-        "h": 4.29,
-        "d": 3.83,
-        "a": 1.83
+        "h": 4.31,
+        "d": 3.85,
+        "a": 1.82
       },
       "movement": [
-        4.29
+        4.31
       ],
       "totals": {
         "line": 2.5,
@@ -7062,26 +7037,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 6.21,
-          "d": 4.06,
-          "a": 1.58
+          "h": 6.17,
+          "d": 4.04,
+          "a": 1.59
         }
       },
       "fair": {
-        "h": 6.46,
-        "d": 4.22,
-        "a": 1.64
+        "h": 6.41,
+        "d": 4.2,
+        "a": 1.65
       },
       "open": {
-        "h": 6.21,
-        "d": 4.06,
-        "a": 1.58
+        "h": 6.17,
+        "d": 4.04,
+        "a": 1.59
       },
       "movement": [
-        6.21
+        6.17
       ],
       "totals": {
         "line": 2.5,
@@ -7137,22 +7112,22 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.59,
-          "d": 4.39,
+          "d": 4.41,
           "a": 5.47
         }
       },
       "fair": {
         "h": 1.65,
-        "d": 4.56,
-        "a": 5.69
+        "d": 4.58,
+        "a": 5.68
       },
       "open": {
         "h": 1.59,
-        "d": 4.39,
+        "d": 4.41,
         "a": 5.47
       },
       "movement": [
@@ -7212,7 +7187,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.41,
@@ -7287,23 +7262,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.45,
           "d": 4.91,
-          "a": 6.84
+          "a": 6.82
         }
       },
       "fair": {
         "h": 1.51,
-        "d": 5.1,
-        "a": 7.11
+        "d": 5.11,
+        "a": 7.09
       },
       "open": {
         "h": 1.45,
         "d": 4.91,
-        "a": 6.84
+        "a": 6.82
       },
       "movement": [
         1.45
@@ -7362,23 +7337,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.01,
           "d": 3.7,
-          "a": 3.66
+          "a": 3.68
         }
       },
       "fair": {
         "h": 2.09,
         "d": 3.85,
-        "a": 3.81
+        "a": 3.83
       },
       "open": {
         "h": 2.01,
         "d": 3.7,
-        "a": 3.66
+        "a": 3.68
       },
       "movement": [
         2.01
@@ -7437,7 +7412,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 3.19,
@@ -7512,7 +7487,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.63,
@@ -7587,23 +7562,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.09,
-          "d": 12.23,
-          "a": 27.16
+          "d": 12.27,
+          "a": 26.94
         }
       },
       "fair": {
         "h": 1.13,
-        "d": 12.67,
-        "a": 28.14
+        "d": 12.71,
+        "a": 27.91
       },
       "open": {
         "h": 1.09,
-        "d": 12.23,
-        "a": 27.16
+        "d": 12.27,
+        "a": 26.94
       },
       "movement": [
         1.09
@@ -7662,7 +7637,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.32,
@@ -7737,23 +7712,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.46,
           "d": 5.08,
-          "a": 6.37
+          "a": 6.36
         }
       },
       "fair": {
         "h": 1.52,
         "d": 5.28,
-        "a": 6.62
+        "a": 6.61
       },
       "open": {
         "h": 1.46,
         "d": 5.08,
-        "a": 6.37
+        "a": 6.36
       },
       "movement": [
         1.46
@@ -7812,26 +7787,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 3.86,
-          "d": 3.92,
-          "a": 1.9
+          "h": 3.88,
+          "d": 3.94,
+          "a": 1.89
         }
       },
       "fair": {
-        "h": 4.02,
-        "d": 4.08,
-        "a": 1.98
+        "h": 4.04,
+        "d": 4.1,
+        "a": 1.97
       },
       "open": {
-        "h": 3.86,
-        "d": 3.92,
-        "a": 1.9
+        "h": 3.88,
+        "d": 3.94,
+        "a": 1.89
       },
       "movement": [
-        3.86
+        3.88
       ],
       "totals": {
         "line": 2.5,
@@ -7887,26 +7862,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 3.09,
+          "h": 3.07,
           "d": 3.59,
           "a": 2.29
         }
       },
       "fair": {
-        "h": 3.21,
-        "d": 3.73,
+        "h": 3.2,
+        "d": 3.74,
         "a": 2.38
       },
       "open": {
-        "h": 3.09,
+        "h": 3.07,
         "d": 3.59,
         "a": 2.29
       },
       "movement": [
-        3.09
+        3.07
       ],
       "totals": {
         "line": 2.5,
@@ -7962,7 +7937,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 3.15,
@@ -8037,7 +8012,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.44,
@@ -8112,7 +8087,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.28,
@@ -8187,7 +8162,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -8262,7 +8237,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.68,
@@ -8337,7 +8312,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.71,
@@ -8412,7 +8387,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -8487,7 +8462,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.78,
@@ -8562,23 +8537,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.03,
-          "d": 3.5,
-          "a": 3.56
+          "d": 3.47,
+          "a": 3.59
         }
       },
       "fair": {
         "h": 2.15,
-        "d": 3.71,
-        "a": 3.77
+        "d": 3.68,
+        "a": 3.8
       },
       "open": {
         "h": 2.03,
-        "d": 3.5,
-        "a": 3.56
+        "d": 3.47,
+        "a": 3.59
       },
       "movement": [
         2.03
@@ -8637,7 +8612,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.78,
@@ -8712,7 +8687,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.84,
@@ -8787,7 +8762,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 6.07,
@@ -8811,7 +8786,7 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.37,
+          "o": 1.38,
           "b": "SportyBet"
         },
         "under": {
@@ -8862,7 +8837,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.31,
@@ -8937,7 +8912,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.51,
@@ -8961,14 +8936,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.47,
+          "o": 1.46,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.6,
+          "o": 2.65,
           "b": "SportyBet"
         },
-        "fairOver": 1.57
+        "fairOver": 1.55
       },
       "news": "Real odds via SportyBet feed (Eredivisie).",
       "fotmobId": "5781761",
@@ -9012,7 +8987,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.95,
@@ -9087,7 +9062,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.04,
@@ -9162,7 +9137,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.55,
@@ -9237,7 +9212,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.76,
@@ -9312,7 +9287,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -9387,7 +9362,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.91,
@@ -9462,7 +9437,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.55,
@@ -9537,7 +9512,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -9612,7 +9587,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -9687,7 +9662,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -9759,7 +9734,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -9834,7 +9809,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.73,
@@ -9909,7 +9884,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.58,
@@ -9984,7 +9959,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 3.4,
@@ -10059,7 +10034,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -10134,7 +10109,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -10209,7 +10184,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 3.1,
@@ -10284,7 +10259,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.64,
@@ -10359,26 +10334,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.57,
-          "d": 4,
-          "a": 5.5
+          "h": 1.54,
+          "d": 4.1,
+          "a": 5.7
         }
       },
       "fair": {
-        "h": 1.68,
-        "d": 4.28,
-        "a": 5.88
+        "h": 1.65,
+        "d": 4.38,
+        "a": 6.09
       },
       "open": {
-        "h": 1.57,
-        "d": 4,
-        "a": 5.5
+        "h": 1.54,
+        "d": 4.1,
+        "a": 5.7
       },
       "movement": [
-        1.57
+        1.54
       ],
       "totals": {
         "line": 2.5,
@@ -10434,26 +10409,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 2.5,
+          "h": 2.55,
           "d": 3.2,
-          "a": 2.8
+          "a": 2.75
         }
       },
       "fair": {
-        "h": 2.67,
+        "h": 2.72,
         "d": 3.42,
-        "a": 2.99
+        "a": 2.94
       },
       "open": {
-        "h": 2.5,
+        "h": 2.55,
         "d": 3.2,
-        "a": 2.8
+        "a": 2.75
       },
       "movement": [
-        2.5
+        2.55
       ],
       "totals": {
         "line": 2.5,
@@ -10509,7 +10484,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.97,
@@ -10584,38 +10559,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 2.3,
+          "h": 2.4,
           "d": 3.3,
-          "a": 3.1
+          "a": 2.9
         }
       },
       "fair": {
-        "h": 2.44,
-        "d": 3.5,
-        "a": 3.29
+        "h": 2.55,
+        "d": 3.51,
+        "a": 3.09
       },
       "open": {
-        "h": 2.3,
+        "h": 2.4,
         "d": 3.3,
-        "a": 3.1
+        "a": 2.9
       },
       "movement": [
-        2.3
+        2.4
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.96,
+          "o": 2,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.79,
+          "o": 1.75,
           "b": "SportyBet"
         },
-        "fairOver": 2.09
+        "fairOver": 2.14
       },
       "news": "Real odds via SportyBet feed (LALIGA HYPERMOTION).",
       "fotmobId": "5868483",
@@ -10659,7 +10634,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -10734,7 +10709,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -10807,7 +10782,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.84,
@@ -10880,7 +10855,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -10953,26 +10928,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.69,
+          "h": 1.68,
           "d": 3.9,
-          "a": 4.9
+          "a": 5.1
         }
       },
       "fair": {
-        "h": 1.78,
-        "d": 4.1,
-        "a": 5.16
+        "h": 1.76,
+        "d": 4.09,
+        "a": 5.34
       },
       "open": {
-        "h": 1.69,
+        "h": 1.68,
         "d": 3.9,
-        "a": 4.9
+        "a": 5.1
       },
       "movement": [
-        1.69
+        1.68
       ],
       "totals": {
         "line": 2.5,
@@ -11026,7 +11001,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.8,
@@ -11099,7 +11074,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.93,
@@ -11172,26 +11147,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 4.1,
+          "h": 4.2,
           "d": 3.7,
-          "a": 1.87
+          "a": 1.85
         }
       },
       "fair": {
-        "h": 4.3,
+        "h": 4.41,
         "d": 3.88,
-        "a": 1.96
+        "a": 1.94
       },
       "open": {
-        "h": 4.1,
+        "h": 4.2,
         "d": 3.7,
-        "a": 1.87
+        "a": 1.85
       },
       "movement": [
-        4.1
+        4.2
       ],
       "totals": {
         "line": 2.5,
@@ -11224,7 +11199,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.1,
@@ -11276,7 +11251,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.5,
@@ -11328,7 +11303,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.56,
@@ -11380,26 +11355,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.06,
-          "d": 7.4,
-          "a": 19
+          "h": 1.05,
+          "d": 7.9,
+          "a": 19.5
         }
       },
       "fair": {
-        "h": 1.2,
-        "d": 8.37,
-        "a": 21.49
+        "h": 1.19,
+        "d": 8.93,
+        "a": 22.04
       },
       "open": {
-        "h": 1.06,
-        "d": 7.4,
-        "a": 19
+        "h": 1.05,
+        "d": 7.9,
+        "a": 19.5
       },
       "movement": [
-        1.06
+        1.05
       ],
       "totals": {
         "line": 4.5,
@@ -11408,7 +11383,7 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.77,
+          "o": 1.78,
           "b": "SportyBet"
         },
         "fairOver": 2.07
@@ -11452,23 +11427,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.15,
-          "d": 7.3,
-          "a": 13.5
+          "d": 7.4,
+          "a": 13
         }
       },
       "fair": {
         "h": 1.24,
-        "d": 7.89,
-        "a": 14.59
+        "d": 8,
+        "a": 14.06
       },
       "open": {
         "h": 1.15,
-        "d": 7.3,
-        "a": 13.5
+        "d": 7.4,
+        "a": 13
       },
       "movement": [
         1.15
@@ -11524,26 +11499,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 2.4,
-          "d": 3.25,
-          "a": 2.85
+          "h": 2.45,
+          "d": 3.2,
+          "a": 2.8
         }
       },
       "fair": {
-        "h": 2.58,
-        "d": 3.49,
-        "a": 3.06
+        "h": 2.64,
+        "d": 3.45,
+        "a": 3.02
       },
       "open": {
-        "h": 2.4,
-        "d": 3.25,
-        "a": 2.85
+        "h": 2.45,
+        "d": 3.2,
+        "a": 2.8
       },
       "movement": [
-        2.4
+        2.45
       ],
       "totals": {
         "line": 2.5,
@@ -11552,10 +11527,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.67,
+          "o": 1.69,
           "b": "SportyBet"
         },
-        "fairOver": 2.26
+        "fairOver": 2.24
       },
       "news": "Real odds via SportyBet feed (U21 UEFA European Championship, Qualification).",
       "newsItems": [
@@ -11596,38 +11571,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.08,
-          "d": 9.7,
-          "a": 21
+          "h": 1.07,
+          "d": 10,
+          "a": 23
         }
       },
       "fair": {
-        "h": 1.16,
-        "d": 10.44,
-        "a": 22.61
+        "h": 1.15,
+        "d": 10.78,
+        "a": 24.8
       },
       "open": {
-        "h": 1.08,
-        "d": 9.7,
-        "a": 21
+        "h": 1.07,
+        "d": 10,
+        "a": 23
       },
       "movement": [
-        1.08
+        1.07
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.25,
+          "o": 1.24,
           "b": "SportyBet"
         },
         "under": {
-          "o": 3.7,
+          "o": 3.75,
           "b": "SportyBet"
         },
-        "fairOver": 1.34
+        "fairOver": 1.33
       },
       "news": "Real odds via SportyBet feed (U21 UEFA European Championship, Qualification).",
       "newsItems": [
@@ -11668,7 +11643,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.32,
@@ -11692,14 +11667,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.59,
+          "o": 1.61,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.25,
+          "o": 2.2,
           "b": "SportyBet"
         },
-        "fairOver": 1.71
+        "fairOver": 1.73
       },
       "news": "Real odds via SportyBet feed (U21 UEFA European Championship, Qualification).",
       "newsItems": [
@@ -11740,38 +11715,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 9.6,
-          "d": 5.4,
-          "a": 1.27
+          "h": 9.75,
+          "d": 5.7,
+          "a": 1.25
         }
       },
       "fair": {
-        "h": 10.34,
-        "d": 5.81,
-        "a": 1.37
+        "h": 10.51,
+        "d": 6.14,
+        "a": 1.35
       },
       "open": {
-        "h": 9.6,
-        "d": 5.4,
-        "a": 1.27
+        "h": 9.75,
+        "d": 5.7,
+        "a": 1.25
       },
       "movement": [
-        9.6
+        9.75
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.6,
+          "o": 1.58,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.25,
+          "o": 2.3,
           "b": "SportyBet"
         },
-        "fairOver": 1.71
+        "fairOver": 1.69
       },
       "news": "Real odds via SportyBet feed (U21 UEFA European Championship, Qualification).",
       "newsItems": [
@@ -11812,7 +11787,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -11836,14 +11811,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.05,
+          "o": 2.1,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.72,
+          "o": 1.7,
           "b": "SportyBet"
         },
-        "fairOver": 2.19
+        "fairOver": 2.24
       },
       "news": "Real odds via SportyBet feed (U21 UEFA European Championship, Qualification).",
       "newsItems": [
@@ -11884,7 +11859,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.6,
@@ -11908,14 +11883,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.1,
+          "o": 2.05,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.68,
+          "o": 1.72,
           "b": "SportyBet"
         },
-        "fairOver": 2.25
+        "fairOver": 2.19
       },
       "news": "Real odds via SportyBet feed (U21 UEFA European Championship, Qualification).",
       "newsItems": [
@@ -11956,7 +11931,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.39,
@@ -12028,38 +12003,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 4.1,
+          "h": 4,
           "d": 3.6,
-          "a": 1.79
+          "a": 1.82
         }
       },
       "fair": {
-        "h": 4.43,
-        "d": 3.89,
-        "a": 1.93
+        "h": 4.31,
+        "d": 3.88,
+        "a": 1.96
       },
       "open": {
-        "h": 4.1,
+        "h": 4,
         "d": 3.6,
-        "a": 1.79
+        "a": 1.82
       },
       "movement": [
-        4.1
+        4
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.83,
+          "o": 1.77,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.91,
+          "o": 1.99,
           "b": "SportyBet"
         },
-        "fairOver": 1.96
+        "fairOver": 1.89
       },
       "news": "Real odds via SportyBet feed (U21 UEFA European Championship, Qualification).",
       "newsItems": [
@@ -12100,26 +12075,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.11,
-          "d": 8.7,
-          "a": 16
+          "h": 1.12,
+          "d": 8.1,
+          "a": 17
         }
       },
       "fair": {
         "h": 1.2,
-        "d": 9.38,
-        "a": 17.25
+        "d": 8.71,
+        "a": 18.28
       },
       "open": {
-        "h": 1.11,
-        "d": 8.7,
-        "a": 16
+        "h": 1.12,
+        "d": 8.1,
+        "a": 17
       },
       "movement": [
-        1.11
+        1.12
       ],
       "totals": {
         "line": 2.5,
@@ -12128,10 +12103,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.95,
+          "o": 2.9,
           "b": "SportyBet"
         },
-        "fairOver": 1.46
+        "fairOver": 1.47
       },
       "news": "Real odds via SportyBet feed (U21 UEFA European Championship, Qualification).",
       "newsItems": [
@@ -12172,26 +12147,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.9,
-          "d": 3.5,
-          "a": 4
+          "h": 1.81,
+          "d": 3.6,
+          "a": 4.3
         }
       },
       "fair": {
-        "h": 2.02,
-        "d": 3.72,
-        "a": 4.25
+        "h": 1.92,
+        "d": 3.83,
+        "a": 4.57
       },
       "open": {
-        "h": 1.9,
-        "d": 3.5,
-        "a": 4
+        "h": 1.81,
+        "d": 3.6,
+        "a": 4.3
       },
       "movement": [
-        1.9
+        1.81
       ],
       "totals": {
         "line": 2.5,
@@ -12539,38 +12514,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 1.82,
+          "h": 1.85,
           "d": 3.4,
-          "a": 4.5
+          "a": 4.4
         }
       },
       "fair": {
-        "h": 1.94,
-        "d": 3.62,
-        "a": 4.8
+        "h": 1.96,
+        "d": 3.61,
+        "a": 4.67
       },
       "open": {
-        "h": 1.82,
+        "h": 1.85,
         "d": 3.4,
-        "a": 4.5
+        "a": 4.4
       },
       "movement": [
-        1.82
+        1.85
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.3,
+          "o": 2.35,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.6,
+          "o": 1.58,
           "b": "SportyBet"
         },
-        "fairOver": 2.44
+        "fairOver": 2.49
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190754",
@@ -12906,26 +12881,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 9.1,
-          "d": 5.1,
-          "a": 1.33
+          "h": 8.8,
+          "d": 4.9,
+          "a": 1.34
         }
       },
       "fair": {
-        "h": 9.63,
-        "d": 5.4,
-        "a": 1.41
+        "h": 9.36,
+        "d": 5.21,
+        "a": 1.43
       },
       "open": {
-        "h": 9.1,
-        "d": 5.1,
-        "a": 1.33
+        "h": 8.8,
+        "d": 4.9,
+        "a": 1.34
       },
       "movement": [
-        9.1
+        8.8
       ],
       "totals": {
         "line": 2.5,
@@ -13273,7 +13248,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -13581,6 +13556,10 @@
               "shirt": "34"
             },
             {
+              "name": "Matheus",
+              "shirt": "21"
+            },
+            {
               "name": "Victor Feitosa",
               "shirt": "3"
             },
@@ -13595,10 +13574,6 @@
             {
               "name": "Vitinho",
               "shirt": "7"
-            },
-            {
-              "name": "Pablo Dyego",
-              "shirt": "11"
             }
           ],
           "missing": []
@@ -13640,7 +13615,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -14007,26 +13982,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 3.8,
-          "d": 3.5,
-          "a": 1.94
+          "h": 3.9,
+          "d": 3.4,
+          "a": 1.96
         }
       },
       "fair": {
-        "h": 4.04,
-        "d": 3.73,
-        "a": 2.06
+        "h": 4.14,
+        "d": 3.61,
+        "a": 2.08
       },
       "open": {
-        "h": 3.8,
-        "d": 3.5,
-        "a": 1.94
+        "h": 3.9,
+        "d": 3.4,
+        "a": 1.96
       },
       "movement": [
-        3.8
+        3.9
       ],
       "totals": {
         "line": 2.5,
@@ -14374,7 +14349,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.1,
@@ -14423,23 +14398,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
-          "d": 3.1,
-          "a": 3.5
+          "d": 3,
+          "a": 3.7
         }
       },
       "fair": {
-        "h": 2.34,
-        "d": 3.29,
-        "a": 3.72
+        "h": 2.33,
+        "d": 3.17,
+        "a": 3.92
       },
       "open": {
         "h": 2.2,
-        "d": 3.1,
-        "a": 3.5
+        "d": 3,
+        "a": 3.7
       },
       "movement": [
         2.2
@@ -14447,14 +14422,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.45,
+          "o": 2.5,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.51,
+          "o": 1.5,
           "b": "SportyBet"
         },
-        "fairOver": 2.62
+        "fairOver": 2.67
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190758",
@@ -14475,7 +14450,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -14527,26 +14502,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
-          "h": 3,
+          "h": 3.25,
           "d": 3.4,
-          "a": 2.3
+          "a": 2.2
         }
       },
       "fair": {
-        "h": 3.19,
-        "d": 3.61,
-        "a": 2.44
+        "h": 3.43,
+        "d": 3.59,
+        "a": 2.32
       },
       "open": {
-        "h": 3,
+        "h": 3.25,
         "d": 3.4,
-        "a": 2.3
+        "a": 2.2
       },
       "movement": [
-        3
+        3.25
       ],
       "totals": {
         "line": 2.5,
@@ -14579,7 +14554,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.83,
@@ -14654,7 +14629,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 3.1,
@@ -14729,7 +14704,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.79,
@@ -14804,7 +14779,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -14879,7 +14854,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.51,
@@ -14951,7 +14926,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 5.6,
@@ -15023,7 +14998,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 1.52,
@@ -15072,7 +15047,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-06T00:55:17.691Z",
+      "sbAt": "2026-10-06T07:22:33.854Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -15198,12 +15173,12 @@
     "Betika"
   ],
   "tips": [],
-  "updatedAt": "2026-10-06T00:55:17.691Z",
-  "generatedAt": "2026-10-06T00:55:17.691Z",
+  "updatedAt": "2026-10-06T07:22:33.854Z",
+  "generatedAt": "2026-10-06T07:22:33.854Z",
   "metadata": {
     "mode": "hybrid",
-    "oddsUpdatedAt": "2026-10-06T00:55:17.691Z",
-    "scoresUpdatedAt": "2026-10-06T00:55:17.691Z",
+    "oddsUpdatedAt": "2026-10-06T07:22:33.854Z",
+    "scoresUpdatedAt": "2026-10-06T07:22:33.854Z",
     "dataSources": [
       "ESPN scoreboards + odds (free)",
       "SportyBet odds feed (free)"
@@ -15212,18 +15187,18 @@
     "counts": {
       "real": 160
     },
-    "historyPoints": 6307,
+    "historyPoints": 6333,
     "books": {
       "Pinnacle": {
         "updatedAt": null,
         "source": "not in feed"
       },
       "DraftKings": {
-        "updatedAt": "2026-10-06T00:55:17.691Z",
+        "updatedAt": "2026-10-06T07:22:33.854Z",
         "source": "live feed"
       },
       "SportyBet": {
-        "updatedAt": "2026-10-06T00:55:17.691Z",
+        "updatedAt": "2026-10-06T07:22:33.854Z",
         "source": "live feed"
       },
       "Betway": {
@@ -15267,35 +15242,35 @@
       "espn": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-06T00:55:18.859Z",
+        "lastOk": "2026-10-06T07:22:34.831Z",
         "lastError": null,
         "count": 44
       },
       "sportybet": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-06T00:55:26.504Z",
+        "lastOk": "2026-10-06T07:22:45.289Z",
         "lastError": null,
         "count": 0
       },
       "fotmob": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-06T00:55:33.875Z",
+        "lastOk": "2026-10-06T07:22:57.511Z",
         "lastError": null,
         "count": 12
       },
       "espn-news": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-06T00:55:38.184Z",
+        "lastOk": "2026-10-06T07:23:02.003Z",
         "lastError": null,
         "count": 138
       },
       "oddsapi": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-06T00:55:38.185Z",
+        "lastOk": "2026-10-06T07:23:02.004Z",
         "lastError": null,
         "count": 0
       }
