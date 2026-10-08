@@ -17,20 +17,20 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.38,
-          "a": 8,
-          "d": 5
+          "h": 1.36,
+          "a": 8.5,
+          "d": 5.25
         },
         "SportyBet": {
-          "h": 1.39,
-          "d": 5.19,
+          "h": 1.4,
+          "d": 5.17,
           "a": 8.34
         }
       },
       "fair": {
-        "h": 1.45,
-        "d": 5.25,
-        "a": 8.4
+        "h": 1.42,
+        "d": 5.48,
+        "a": 8.87
       },
       "open": {
         "h": 1.29,
@@ -39,7 +39,7 @@
       },
       "movement": [
         1.29,
-        1.38
+        1.36
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -48,16 +48,16 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.8,
+          "o": 1.77,
           "b": "DraftKings"
         },
         "under": {
           "o": 2.05,
-          "b": "SportyBet"
+          "b": "DraftKings"
         },
-        "fairOver": 1.9
+        "fairOver": 1.86
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5795465",
       "fmHomeId": "9825",
       "fmAwayId": "8463",
@@ -239,9 +239,9 @@
           "d": 3.55
         },
         "SportyBet": {
-          "h": 2.7,
+          "h": 2.67,
           "d": 3.62,
-          "a": 2.61
+          "a": 2.64
         }
       },
       "fair": {
@@ -274,7 +274,7 @@
         },
         "fairOver": 1.79
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5795466",
       "fmHomeId": "10252",
       "fmAwayId": "9937",
@@ -457,8 +457,8 @@
         },
         "SportyBet": {
           "h": 1.73,
-          "d": 4.31,
-          "a": 4.54
+          "d": 4.27,
+          "a": 4.59
         }
       },
       "fair": {
@@ -491,7 +491,7 @@
         },
         "fairOver": 2.32
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5795467",
       "fmHomeId": "8455",
       "fmAwayId": "8678",
@@ -674,7 +674,7 @@
         },
         "SportyBet": {
           "h": 2.89,
-          "d": 3.59,
+          "d": 3.6,
           "a": 2.47
         }
       },
@@ -708,7 +708,7 @@
         },
         "fairOver": 1.83
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5795471",
       "fmHomeId": "9902",
       "fmAwayId": "9879",
@@ -890,8 +890,8 @@
           "d": 3.55
         },
         "SportyBet": {
-          "h": 3,
-          "d": 3.55,
+          "h": 3.01,
+          "d": 3.54,
           "a": 2.41
         }
       },
@@ -925,7 +925,7 @@
         },
         "fairOver": 1.9
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5795474",
       "fmHomeId": "8472",
       "fmAwayId": "10204",
@@ -1142,7 +1142,7 @@
         },
         "fairOver": 2.32
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5795473",
       "fmHomeId": "10260",
       "fmAwayId": "8586",
@@ -1324,8 +1324,8 @@
           "d": 3.2
         },
         "SportyBet": {
-          "h": 2.82,
-          "d": 3.3,
+          "h": 2.84,
+          "d": 3.28,
           "a": 2.76
         }
       },
@@ -1350,16 +1350,16 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.1,
+          "o": 2.05,
           "b": "DraftKings"
         },
         "under": {
           "o": 1.79,
           "b": "SportyBet"
         },
-        "fairOver": 2.21
+        "fairOver": 2.18
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5868086",
       "fmHomeId": "9864",
       "fmAwayId": "8558",
@@ -1588,7 +1588,6 @@
           "subs": [],
           "missing": [
             "Jofre Carreras",
-            "Javi Hernández",
             "Kike García"
           ]
         }
@@ -1779,15 +1778,15 @@
       "awayAbbr": "MIN",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-      "startsIn": "10/7/2026, 11:00:00 PM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-07T23:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 22,
-        "away": 20
+        "home": 123,
+        "away": 112
       },
-      "minute": "2:22",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -1798,25 +1797,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-07T23:14:23Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+          "headline": "Tyrese Haliburton scores 7 in 1st game in more than 16 months",
+          "description": "Pacers star Tyrese Haliburton scored seven points during his 16 minutes of action against the Wolves on Wednesday. It was his first game in more than 16 months, as Haliburton was recovering from a torn Achilles.",
+          "published": "2026-10-08T03:57:18Z",
+          "image": "https://a.espncdn.com/photo/2026/1008/r1727673_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50130092/tyrese-haliburton-scores-7-1st-game-more-16-months"
         },
         {
-          "headline": "Buss siblings formally file against Jeanie over Lakers sale",
-          "description": "The five Buss siblings attempting to sell the family's remaining shares in the Lakers officially filed their case against acting governor Jeanie Buss.",
-          "published": "2026-10-07T23:29:41Z",
-          "image": "https://a.espncdn.com/photo/2026/0527/r1664559_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50128244/buss-siblings-formally-file-jeanie-lakers-sale"
+          "headline": "Minnesota Timberwolves vs. Indiana Pacers: Game Highlights",
+          "description": "Minnesota Timberwolves vs. Indiana Pacers: Game Highlights",
+          "published": "2026-10-08T01:49:43Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/8403b562-68c9-4de7-8f77-08b403acdafa/8403b562-68c9-4de7-8f77-08b403acdafa.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50129245/game-highlights"
         },
         {
-          "headline": "Trail Blazers' Dundon says he intends to bring title to Portland",
-          "description": "New Trail Blazers owner Tom Dundon told season-ticket holders he intends to bring a championship to Portland.",
-          "published": "2026-10-07T21:59:02Z",
-          "image": "https://a.espncdn.com/photo/2026/0403/r1637876_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50127764/trail-blazers-dundon-says-intends-bring-title-portland"
+          "headline": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "description": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "published": "2026-10-08T05:05:47Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/d90975c3-d438-4292-a93b-5ffbb8c39f25/d90975c3-d438-4292-a93b-5ffbb8c39f25.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50130536/game-highlights"
         }
       ]
     },
@@ -1829,69 +1828,44 @@
       "awayAbbr": "ORL",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-      "startsIn": "10/8/2026, 12:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-08T00:00Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 118,
+        "away": 122
+      },
       "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 2.05,
-          "a": 1.8
-        }
-      },
-      "fair": {
-        "h": 2.14,
-        "d": null,
-        "a": 1.88
-      },
-      "open": {
-        "h": 2.1,
-        "d": null,
-        "a": 1.77
-      },
-      "movement": [
-        2.1,
-        2.05
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 234.5,
-        "over": {
-          "o": 1.89,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.93,
-          "b": "DraftKings"
-        },
-        "fairOver": 1.98
-      },
       "newsItems": [
         {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-07T23:14:23Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+          "headline": "Orlando Magic vs. Memphis Grizzlies: Game Highlights",
+          "description": "Orlando Magic vs. Memphis Grizzlies: Game Highlights",
+          "published": "2026-10-08T03:33:45Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/52ce7f58-2e19-400b-8ef6-eab38aff8ea9/52ce7f58-2e19-400b-8ef6-eab38aff8ea9.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50129878/game-highlights"
         },
         {
-          "headline": "Buss siblings formally file against Jeanie over Lakers sale",
-          "description": "The five Buss siblings attempting to sell the family's remaining shares in the Lakers officially filed their case against acting governor Jeanie Buss.",
-          "published": "2026-10-07T23:29:41Z",
-          "image": "https://a.espncdn.com/photo/2026/0527/r1664559_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50128244/buss-siblings-formally-file-jeanie-lakers-sale"
+          "headline": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "description": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "published": "2026-10-08T05:05:47Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/d90975c3-d438-4292-a93b-5ffbb8c39f25/d90975c3-d438-4292-a93b-5ffbb8c39f25.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50130536/game-highlights"
         },
         {
-          "headline": "Trail Blazers' Dundon says he intends to bring title to Portland",
-          "description": "New Trail Blazers owner Tom Dundon told season-ticket holders he intends to bring a championship to Portland.",
-          "published": "2026-10-07T21:59:02Z",
-          "image": "https://a.espncdn.com/photo/2026/0403/r1637876_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50127764/trail-blazers-dundon-says-intends-bring-title-portland"
+          "headline": "Tyrese Haliburton scores 7 in 1st game in more than 16 months",
+          "description": "Pacers star Tyrese Haliburton scored seven points during his 16 minutes of action against the Wolves on Wednesday. It was his first game in more than 16 months, as Haliburton was recovering from a torn Achilles.",
+          "published": "2026-10-08T03:57:18Z",
+          "image": "https://a.espncdn.com/photo/2026/1008/r1727673_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50130092/tyrese-haliburton-scores-7-1st-game-more-16-months"
         }
       ]
     },
@@ -1904,69 +1878,44 @@
       "awayAbbr": "MIL",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-      "startsIn": "10/8/2026, 12:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-08T00:00Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 126,
+        "away": 128
+      },
       "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 1.19,
-          "a": 4.9
-        }
-      },
-      "fair": {
-        "h": 1.24,
-        "d": null,
-        "a": 5.12
-      },
-      "open": {
-        "h": 1.22,
-        "d": null,
-        "a": 4.5
-      },
-      "movement": [
-        1.22,
-        1.19
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 218.5,
-        "over": {
-          "o": 1.91,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.91,
-          "b": "DraftKings"
-        },
-        "fairOver": 2
-      },
       "newsItems": [
         {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-07T23:14:23Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+          "headline": "Milwaukee Bucks vs. Oklahoma City Thunder: Game Highlights",
+          "description": "Milwaukee Bucks vs. Oklahoma City Thunder: Game Highlights",
+          "published": "2026-10-08T03:33:27Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/a90f4cae-cd5a-41b5-b82d-dc4f2ac61bbd/a90f4cae-cd5a-41b5-b82d-dc4f2ac61bbd.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50129886/game-highlights"
         },
         {
-          "headline": "Buss siblings formally file against Jeanie over Lakers sale",
-          "description": "The five Buss siblings attempting to sell the family's remaining shares in the Lakers officially filed their case against acting governor Jeanie Buss.",
-          "published": "2026-10-07T23:29:41Z",
-          "image": "https://a.espncdn.com/photo/2026/0527/r1664559_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50128244/buss-siblings-formally-file-jeanie-lakers-sale"
+          "headline": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "description": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "published": "2026-10-08T05:05:47Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/d90975c3-d438-4292-a93b-5ffbb8c39f25/d90975c3-d438-4292-a93b-5ffbb8c39f25.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50130536/game-highlights"
         },
         {
-          "headline": "Trail Blazers' Dundon says he intends to bring title to Portland",
-          "description": "New Trail Blazers owner Tom Dundon told season-ticket holders he intends to bring a championship to Portland.",
-          "published": "2026-10-07T21:59:02Z",
-          "image": "https://a.espncdn.com/photo/2026/0403/r1637876_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50127764/trail-blazers-dundon-says-intends-bring-title-portland"
+          "headline": "Tyrese Haliburton scores 7 in 1st game in more than 16 months",
+          "description": "Pacers star Tyrese Haliburton scored seven points during his 16 minutes of action against the Wolves on Wednesday. It was his first game in more than 16 months, as Haliburton was recovering from a torn Achilles.",
+          "published": "2026-10-08T03:57:18Z",
+          "image": "https://a.espncdn.com/photo/2026/1008/r1727673_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50130092/tyrese-haliburton-scores-7-1st-game-more-16-months"
         }
       ]
     },
@@ -1979,69 +1928,44 @@
       "awayAbbr": "PHX",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-      "startsIn": "10/8/2026, 12:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-08T00:00Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 124,
+        "away": 117
+      },
       "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 2.2,
-          "a": 1.7
-        }
-      },
-      "fair": {
-        "h": 2.29,
-        "d": null,
-        "a": 1.77
-      },
-      "open": {
-        "h": 2.2,
-        "d": null,
-        "a": 1.7
-      },
-      "movement": [
-        2.2,
-        2.2
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 228.5,
-        "over": {
-          "o": 1.87,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.95,
-          "b": "DraftKings"
-        },
-        "fairOver": 1.96
-      },
       "newsItems": [
         {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-07T23:14:23Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+          "headline": "Phoenix Suns vs. Chicago Bulls: Game Highlights",
+          "description": "Phoenix Suns vs. Chicago Bulls: Game Highlights",
+          "published": "2026-10-08T03:30:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/ac0cf659-6f72-48fc-8760-c1103f44a491/ac0cf659-6f72-48fc-8760-c1103f44a491.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50129923/game-highlights"
         },
         {
-          "headline": "Buss siblings formally file against Jeanie over Lakers sale",
-          "description": "The five Buss siblings attempting to sell the family's remaining shares in the Lakers officially filed their case against acting governor Jeanie Buss.",
-          "published": "2026-10-07T23:29:41Z",
-          "image": "https://a.espncdn.com/photo/2026/0527/r1664559_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50128244/buss-siblings-formally-file-jeanie-lakers-sale"
+          "headline": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "description": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "published": "2026-10-08T05:05:47Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/d90975c3-d438-4292-a93b-5ffbb8c39f25/d90975c3-d438-4292-a93b-5ffbb8c39f25.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50130536/game-highlights"
         },
         {
-          "headline": "Trail Blazers' Dundon says he intends to bring title to Portland",
-          "description": "New Trail Blazers owner Tom Dundon told season-ticket holders he intends to bring a championship to Portland.",
-          "published": "2026-10-07T21:59:02Z",
-          "image": "https://a.espncdn.com/photo/2026/0403/r1637876_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50127764/trail-blazers-dundon-says-intends-bring-title-portland"
+          "headline": "Tyrese Haliburton scores 7 in 1st game in more than 16 months",
+          "description": "Pacers star Tyrese Haliburton scored seven points during his 16 minutes of action against the Wolves on Wednesday. It was his first game in more than 16 months, as Haliburton was recovering from a torn Achilles.",
+          "published": "2026-10-08T03:57:18Z",
+          "image": "https://a.espncdn.com/photo/2026/1008/r1727673_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50130092/tyrese-haliburton-scores-7-1st-game-more-16-months"
         }
       ]
     },
@@ -2054,69 +1978,44 @@
       "awayAbbr": "GS",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-      "startsIn": "10/8/2026, 2:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-08T02:00Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 123,
+        "away": 118
+      },
       "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 1.19,
-          "a": 4.9
-        }
-      },
-      "fair": {
-        "h": 1.24,
-        "d": null,
-        "a": 5.12
-      },
-      "open": {
-        "h": 1.42,
-        "d": null,
-        "a": 2.95
-      },
-      "movement": [
-        1.42,
-        1.19
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 216.5,
-        "over": {
-          "o": 1.91,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.91,
-          "b": "DraftKings"
-        },
-        "fairOver": 2
-      },
       "newsItems": [
         {
-          "headline": "Trail Blazers' Dundon says he intends to bring title to Portland",
-          "description": "New Trail Blazers owner Tom Dundon told season-ticket holders he intends to bring a championship to Portland.",
-          "published": "2026-10-07T21:59:02Z",
-          "image": "https://a.espncdn.com/photo/2026/0403/r1637876_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50127764/trail-blazers-dundon-says-intends-bring-title-portland"
+          "headline": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "description": "Golden State Warriors vs. Portland Trail Blazers: Game Highlights",
+          "published": "2026-10-08T05:05:47Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/d90975c3-d438-4292-a93b-5ffbb8c39f25/d90975c3-d438-4292-a93b-5ffbb8c39f25.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50130536/game-highlights"
         },
         {
-          "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is just a few weeks away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-07T23:14:23Z",
-          "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+          "headline": "Tyrese Haliburton scores 7 in 1st game in more than 16 months",
+          "description": "Pacers star Tyrese Haliburton scored seven points during his 16 minutes of action against the Wolves on Wednesday. It was his first game in more than 16 months, as Haliburton was recovering from a torn Achilles.",
+          "published": "2026-10-08T03:57:18Z",
+          "image": "https://a.espncdn.com/photo/2026/1008/r1727673_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50130092/tyrese-haliburton-scores-7-1st-game-more-16-months"
         },
         {
-          "headline": "Buss siblings formally file against Jeanie over Lakers sale",
-          "description": "The five Buss siblings attempting to sell the family's remaining shares in the Lakers officially filed their case against acting governor Jeanie Buss.",
-          "published": "2026-10-07T23:29:41Z",
-          "image": "https://a.espncdn.com/photo/2026/0527/r1664559_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50128244/buss-siblings-formally-file-jeanie-lakers-sale"
+          "headline": "Phoenix Suns vs. Chicago Bulls: Game Highlights",
+          "description": "Phoenix Suns vs. Chicago Bulls: Game Highlights",
+          "published": "2026-10-08T03:30:26Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1008/ac0cf659-6f72-48fc-8760-c1103f44a491/ac0cf659-6f72-48fc-8760-c1103f44a491.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50129923/game-highlights"
         }
       ]
     },
@@ -2173,9 +2072,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -2185,13 +2091,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -2213,13 +2112,13 @@
       "prices": {
         "DraftKings": {
           "h": 1.28,
-          "a": 3.8
+          "a": 3.85
         }
       },
       "fair": {
-        "h": 1.34,
+        "h": 1.33,
         "d": null,
-        "a": 3.97
+        "a": 4.01
       },
       "open": {
         "h": 2.1,
@@ -2248,9 +2147,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -2260,13 +2166,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -2287,14 +2186,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 2.14,
-          "a": 1.74
+          "h": 2.1,
+          "a": 1.77
         }
       },
       "fair": {
-        "h": 2.23,
+        "h": 2.19,
         "d": null,
-        "a": 1.81
+        "a": 1.84
       },
       "open": {
         "h": 1.6,
@@ -2303,7 +2202,7 @@
       },
       "movement": [
         1.6,
-        2.14
+        2.1
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -2323,9 +2222,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -2335,13 +2241,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -2398,9 +2297,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -2410,13 +2316,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -2437,14 +2336,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 3.6,
-          "a": 1.31
+          "h": 3.5,
+          "a": 1.32
         }
       },
       "fair": {
-        "h": 3.75,
+        "h": 3.65,
         "d": null,
-        "a": 1.36
+        "a": 1.38
       },
       "open": {
         "h": 3.05,
@@ -2453,7 +2352,7 @@
       },
       "movement": [
         3.05,
-        3.6
+        3.5
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -2473,9 +2372,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -2485,13 +2391,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -2548,9 +2447,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -2560,13 +2466,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -2625,9 +2524,16 @@
         {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
+        },
+        {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
         },
         {
           "headline": "Broncos' Payton: Concerned about details, not playcalling",
@@ -2635,13 +2541,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -2705,18 +2604,18 @@
           "url": "https://www.espn.com/nfl/story/_/id/50127736/commanders-jayden-daniels-fully-practices-trending-return"
         },
         {
-          "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
-          "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
         },
         {
-          "headline": "Broncos' Payton: Concerned about details, not playcalling",
-          "description": "Sean Payton said righting the wrongs of Denver's offense is more about the \"specific and the detail of each play,\" not who is actually calling the plays.",
-          "published": "2026-10-07T22:57:41Z",
-          "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
+          "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
+          "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
+          "published": "2026-10-07T23:31:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         }
       ]
     },
@@ -2737,14 +2636,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.68,
-          "a": 2.24
+          "h": 1.7,
+          "a": 2.2
         }
       },
       "fair": {
-        "h": 1.75,
+        "h": 1.77,
         "d": null,
-        "a": 2.33
+        "a": 2.29
       },
       "open": {
         "h": 1.74,
@@ -2753,7 +2652,7 @@
       },
       "movement": [
         1.74,
-        1.68
+        1.7
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -2773,9 +2672,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -2785,13 +2691,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -2837,14 +2736,14 @@
       "totals": {
         "line": 42.5,
         "over": {
-          "o": 1.91,
+          "o": 1.95,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.91,
+          "o": 1.87,
           "b": "DraftKings"
         },
-        "fairOver": 2
+        "fairOver": 2.04
       },
       "newsItems": [
         {
@@ -2862,11 +2761,11 @@
           "url": "https://www.espn.com/nfl/story/_/id/50127736/commanders-jayden-daniels-fully-practices-trending-return"
         },
         {
-          "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
-          "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
         }
       ]
     },
@@ -2930,18 +2829,18 @@
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
         },
         {
-          "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
-          "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
         },
         {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
+          "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
+          "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
+          "published": "2026-10-07T23:31:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         }
       ]
     },
@@ -3005,18 +2904,18 @@
           "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         },
         {
-          "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
-          "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
         },
         {
-          "headline": "Broncos' Payton: Concerned about details, not playcalling",
-          "description": "Sean Payton said righting the wrongs of Denver's offense is more about the \"specific and the detail of each play,\" not who is actually calling the plays.",
-          "published": "2026-10-07T22:57:41Z",
-          "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
+          "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
+          "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
+          "published": "2026-10-07T23:31:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         }
       ]
     },
@@ -3073,9 +2972,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -3085,13 +2991,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -3148,9 +3047,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -3160,13 +3066,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -3223,9 +3122,16 @@
       },
       "newsItems": [
         {
+          "headline": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+          "description": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+          "published": "2026-10-08T00:38:11Z",
+          "image": "https://a.espncdn.com/photo/2024/0204/r1286856_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial"
+        },
+        {
           "headline": "Vikings' Justin Jefferson says plan is to play vs. Saints",
           "description": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
-          "published": "2026-10-07T23:26:09Z",
+          "published": "2026-10-07T23:31:55Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727583_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints"
         },
@@ -3235,13 +3141,6 @@
           "published": "2026-10-07T22:57:41Z",
           "image": "https://a.espncdn.com/photo/2026/0904/r1711543_600x600_1-1.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling"
-        },
-        {
-          "headline": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-          "description": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
-          "published": "2026-10-07T22:50:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727531_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate"
         }
       ]
     },
@@ -3268,8 +3167,8 @@
         },
         "SportyBet": {
           "h": 3.26,
-          "d": 3.37,
-          "a": 2.34
+          "d": 3.34,
+          "a": 2.36
         }
       },
       "fair": {
@@ -3300,9 +3199,9 @@
           "o": 1.78,
           "b": "SportyBet"
         },
-        "fairOver": 2.16
+        "fairOver": 2.18
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5749693",
       "fmHomeId": "10233",
       "fmAwayId": "8535",
@@ -3484,9 +3383,9 @@
           "d": 8
         },
         "SportyBet": {
-          "h": 1.16,
-          "d": 9.12,
-          "a": 17.18
+          "h": 1.17,
+          "d": 8.9,
+          "a": 16.72
         }
       },
       "fair": {
@@ -3519,7 +3418,7 @@
         },
         "fairOver": 1.98
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5749694",
       "fmHomeId": "8636",
       "fmAwayId": "10167",
@@ -3702,8 +3601,8 @@
         },
         "SportyBet": {
           "h": 1.44,
-          "d": 5.27,
-          "a": 6.84
+          "d": 5.3,
+          "a": 6.79
         }
       },
       "fair": {
@@ -3736,7 +3635,7 @@
         },
         "fairOver": 2.32
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5749697",
       "fmHomeId": "9875",
       "fmAwayId": "9891",
@@ -3944,16 +3843,16 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 2,
+          "o": 1.95,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.8,
+          "o": 1.83,
           "b": "DraftKings"
         },
-        "fairOver": 2.11
+        "fairOver": 2.07
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5881180",
       "fmHomeId": "9789",
       "fmAwayId": "8697",
@@ -4425,7 +4324,7 @@
         },
         "fairOver": 1.65
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "6106414",
       "fmHomeId": "8588",
       "fmAwayId": "9768",
@@ -4721,7 +4620,7 @@
         },
         "fairOver": 1.66
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "6106260",
       "fmHomeId": "9825",
       "fmAwayId": "8639",
@@ -4874,7 +4773,7 @@
         },
         "fairOver": 2.33
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "6106267",
       "fmHomeId": "9906",
       "fmAwayId": "10260",
@@ -5027,7 +4926,7 @@
         },
         "fairOver": 2.29
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "6106338",
       "fmHomeId": "8637",
       "fmAwayId": "8634",
@@ -5112,7 +5011,7 @@
         },
         "fairOver": 2.29
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "6106251",
       "fmHomeId": "8636",
       "fmAwayId": "8342",
@@ -5265,7 +5164,7 @@
         },
         "fairOver": 2.08
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "6106323",
       "fmHomeId": "178475",
       "fmAwayId": "8640",
@@ -5315,9 +5214,9 @@
           "d": 12
         },
         "SportyBet": {
-          "h": 19.99,
-          "d": 11.83,
-          "a": 1.1
+          "h": 19.97,
+          "d": 11.71,
+          "a": 1.11
         }
       },
       "fair": {
@@ -5350,7 +5249,7 @@
         },
         "fairOver": 2.08
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "6106417",
       "fmHomeId": "8478",
       "fmAwayId": "9823",
@@ -5435,7 +5334,7 @@
         },
         "fairOver": 1.79
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "6106328",
       "fmHomeId": "10205",
       "fmAwayId": "9875",
@@ -5553,9 +5452,9 @@
           "d": 3.85
         },
         "SportyBet": {
-          "h": 2.48,
-          "d": 3.85,
-          "a": 2.8
+          "h": 2.54,
+          "d": 3.82,
+          "a": 2.75
         }
       },
       "fair": {
@@ -5588,7 +5487,7 @@
         },
         "fairOver": 2.43
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5802947",
       "fmHomeId": "8588",
       "fmAwayId": "9748",
@@ -5816,7 +5715,6 @@
           ],
           "subs": [],
           "missing": [
-            "Nicolás Tagliafico",
             "Moussa Niakhaté"
           ]
         }
@@ -5991,7 +5889,7 @@
         },
         "fairOver": 2.48
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5836861",
       "fmHomeId": "8654",
       "fmAwayId": "10172",
@@ -6097,7 +5995,7 @@
         },
         "fairOver": 2.02
       },
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "fotmobId": "5781762",
       "fmHomeId": "8640",
       "fmAwayId": "10228",
@@ -6160,23 +6058,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.71,
-          "d": 3.38,
-          "a": 2.74
+          "d": 3.33,
+          "a": 2.77
         }
       },
       "fair": {
         "h": 2.79,
-        "d": 3.48,
-        "a": 2.82
+        "d": 3.43,
+        "a": 2.85
       },
       "open": {
         "h": 2.71,
-        "d": 3.38,
-        "a": 2.74
+        "d": 3.33,
+        "a": 2.77
       },
       "movement": [
         2.71
@@ -6184,14 +6082,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.93,
+          "o": 1.92,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.88,
+          "o": 1.89,
           "b": "SportyBet"
         },
-        "fairOver": 2.03
+        "fairOver": 2.02
       },
       "news": "Real odds via SportyBet feed (Premier League).",
       "fotmobId": "5795469",
@@ -6235,26 +6133,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 3.67,
-          "d": 3.46,
-          "a": 2.13
+          "h": 3.68,
+          "d": 3.48,
+          "a": 2.12
         }
       },
       "fair": {
-        "h": 3.78,
-        "d": 3.57,
-        "a": 2.2
+        "h": 3.79,
+        "d": 3.59,
+        "a": 2.19
       },
       "open": {
-        "h": 3.67,
-        "d": 3.46,
-        "a": 2.13
+        "h": 3.68,
+        "d": 3.48,
+        "a": 2.12
       },
       "movement": [
-        3.67
+        3.68
       ],
       "totals": {
         "line": 2.5,
@@ -6310,26 +6208,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.64,
-          "d": 3.75,
-          "a": 2.6
+          "h": 2.68,
+          "d": 3.72,
+          "a": 2.58
         }
       },
       "fair": {
-        "h": 2.72,
-        "d": 3.86,
-        "a": 2.68
+        "h": 2.76,
+        "d": 3.83,
+        "a": 2.66
       },
       "open": {
-        "h": 2.64,
-        "d": 3.75,
-        "a": 2.6
+        "h": 2.68,
+        "d": 3.72,
+        "a": 2.58
       },
       "movement": [
-        2.64
+        2.68
       ],
       "totals": {
         "line": 2.5,
@@ -6385,26 +6283,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 3.33,
-          "d": 3.68,
-          "a": 2.14
+          "h": 3.31,
+          "d": 3.67,
+          "a": 2.15
         }
       },
       "fair": {
-        "h": 3.46,
+        "h": 3.44,
         "d": 3.82,
-        "a": 2.22
+        "a": 2.24
       },
       "open": {
-        "h": 3.33,
-        "d": 3.68,
-        "a": 2.14
+        "h": 3.31,
+        "d": 3.67,
+        "a": 2.15
       },
       "movement": [
-        3.33
+        3.31
       ],
       "totals": {
         "line": 2.5,
@@ -6460,7 +6358,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 3.51,
@@ -6535,7 +6433,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 3.55,
@@ -6610,26 +6508,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.76,
-          "d": 3.47,
-          "a": 2.64
+          "h": 2.75,
+          "d": 3.45,
+          "a": 2.66
         }
       },
       "fair": {
-        "h": 2.84,
-        "d": 3.57,
-        "a": 2.72
+        "h": 2.83,
+        "d": 3.55,
+        "a": 2.74
       },
       "open": {
-        "h": 2.76,
-        "d": 3.47,
-        "a": 2.64
+        "h": 2.75,
+        "d": 3.45,
+        "a": 2.66
       },
       "movement": [
-        2.76
+        2.75
       ],
       "totals": {
         "line": 2.5,
@@ -6685,26 +6583,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 4.37,
-          "d": 3.85,
-          "a": 1.85
+          "h": 4.44,
+          "d": 3.86,
+          "a": 1.83
         }
       },
       "fair": {
-        "h": 4.5,
-        "d": 3.96,
-        "a": 1.9
+        "h": 4.58,
+        "d": 3.98,
+        "a": 1.89
       },
       "open": {
-        "h": 4.37,
-        "d": 3.85,
-        "a": 1.85
+        "h": 4.44,
+        "d": 3.86,
+        "a": 1.83
       },
       "movement": [
-        4.37
+        4.44
       ],
       "totals": {
         "line": 2.5,
@@ -6760,23 +6658,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.1,
-          "d": 12.47,
-          "a": 26.58
+          "d": 12.36,
+          "a": 25.78
         }
       },
       "fair": {
         "h": 1.13,
-        "d": 12.81,
-        "a": 27.3
+        "d": 12.72,
+        "a": 26.52
       },
       "open": {
         "h": 1.1,
-        "d": 12.47,
-        "a": 26.58
+        "d": 12.36,
+        "a": 25.78
       },
       "movement": [
         1.1
@@ -6835,26 +6733,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.37,
-          "d": 6.14,
-          "a": 7.26
+          "h": 1.36,
+          "d": 6.23,
+          "a": 7.41
         }
       },
       "fair": {
-        "h": 1.41,
-        "d": 6.33,
-        "a": 7.48
+        "h": 1.4,
+        "d": 6.42,
+        "a": 7.64
       },
       "open": {
-        "h": 1.37,
-        "d": 6.14,
-        "a": 7.26
+        "h": 1.36,
+        "d": 6.23,
+        "a": 7.41
       },
       "movement": [
-        1.37
+        1.36
       ],
       "totals": {
         "line": 2.5,
@@ -6910,26 +6808,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.83,
+          "h": 2.84,
           "d": 3.35,
-          "a": 2.64
+          "a": 2.63
         }
       },
       "fair": {
-        "h": 2.92,
+        "h": 2.93,
         "d": 3.45,
-        "a": 2.72
+        "a": 2.71
       },
       "open": {
-        "h": 2.83,
+        "h": 2.84,
         "d": 3.35,
-        "a": 2.64
+        "a": 2.63
       },
       "movement": [
-        2.83
+        2.84
       ],
       "totals": {
         "line": 2.5,
@@ -6938,10 +6836,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.81,
+          "o": 1.8,
           "b": "SportyBet"
         },
-        "fairOver": 2.1
+        "fairOver": 2.11
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868083",
@@ -6985,23 +6883,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.67,
-          "d": 4.1,
-          "a": 5.35
+          "d": 4.09,
+          "a": 5.36
         }
       },
       "fair": {
         "h": 1.72,
-        "d": 4.22,
-        "a": 5.51
+        "d": 4.21,
+        "a": 5.52
       },
       "open": {
         "h": 1.67,
-        "d": 4.1,
-        "a": 5.35
+        "d": 4.09,
+        "a": 5.36
       },
       "movement": [
         1.67
@@ -7060,26 +6958,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.58,
-          "d": 4.41,
-          "a": 5.93
+          "h": 1.57,
+          "d": 4.4,
+          "a": 6.01
         }
       },
       "fair": {
         "h": 1.62,
         "d": 4.53,
-        "a": 6.1
+        "a": 6.19
       },
       "open": {
-        "h": 1.58,
-        "d": 4.41,
-        "a": 5.93
+        "h": 1.57,
+        "d": 4.4,
+        "a": 6.01
       },
       "movement": [
-        1.58
+        1.57
       ],
       "totals": {
         "line": 2.5,
@@ -7135,26 +7033,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.35,
-          "d": 3.62,
-          "a": 3.05
+          "h": 2.36,
+          "d": 3.63,
+          "a": 3.02
         }
       },
       "fair": {
-        "h": 2.42,
-        "d": 3.73,
-        "a": 3.14
+        "h": 2.43,
+        "d": 3.74,
+        "a": 3.11
       },
       "open": {
-        "h": 2.35,
-        "d": 3.62,
-        "a": 3.05
+        "h": 2.36,
+        "d": 3.63,
+        "a": 3.02
       },
       "movement": [
-        2.35
+        2.36
       ],
       "totals": {
         "line": 2.5,
@@ -7210,26 +7108,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.68,
-          "d": 3.33,
-          "a": 2.73
+          "h": 2.7,
+          "d": 3.32,
+          "a": 2.72
         }
       },
       "fair": {
-        "h": 2.79,
-        "d": 3.46,
-        "a": 2.84
+        "h": 2.81,
+        "d": 3.45,
+        "a": 2.83
       },
       "open": {
-        "h": 2.68,
-        "d": 3.33,
-        "a": 2.73
+        "h": 2.7,
+        "d": 3.32,
+        "a": 2.72
       },
       "movement": [
-        2.68
+        2.7
       ],
       "totals": {
         "line": 2.5,
@@ -7285,26 +7183,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 11.34,
-          "d": 8.88,
+          "h": 11.29,
+          "d": 8.87,
           "a": 1.21
         }
       },
       "fair": {
-        "h": 11.65,
+        "h": 11.6,
         "d": 9.12,
         "a": 1.24
       },
       "open": {
-        "h": 11.34,
-        "d": 8.88,
+        "h": 11.29,
+        "d": 8.87,
         "a": 1.21
       },
       "movement": [
-        11.34
+        11.29
       ],
       "totals": {
         "line": 2.5,
@@ -7313,7 +7211,7 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 5.5,
+          "o": 5.6,
           "b": "SportyBet"
         },
         "fairOver": 1.21
@@ -7360,7 +7258,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.44,
@@ -7435,26 +7333,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.99,
-          "d": 3.92,
-          "a": 2.27
+          "h": 3,
+          "d": 3.88,
+          "a": 2.28
         }
       },
       "fair": {
-        "h": 3.08,
-        "d": 4.04,
-        "a": 2.34
+        "h": 3.09,
+        "d": 4,
+        "a": 2.35
       },
       "open": {
-        "h": 2.99,
-        "d": 3.92,
-        "a": 2.27
+        "h": 3,
+        "d": 3.88,
+        "a": 2.28
       },
       "movement": [
-        2.99
+        3
       ],
       "totals": {
         "line": 2.5,
@@ -7510,7 +7408,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 5,
@@ -7585,22 +7483,22 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
-          "d": 3.81,
+          "d": 3.79,
           "a": 2.86
         }
       },
       "fair": {
         "h": 2.47,
-        "d": 3.92,
-        "a": 2.94
+        "d": 3.9,
+        "a": 2.95
       },
       "open": {
         "h": 2.4,
-        "d": 3.81,
+        "d": 3.79,
         "a": 2.86
       },
       "movement": [
@@ -7660,7 +7558,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.58,
@@ -7735,7 +7633,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.08,
@@ -7810,22 +7708,22 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.68,
-          "d": 4.19,
+          "d": 4.2,
           "a": 5.09
         }
       },
       "fair": {
         "h": 1.73,
-        "d": 4.32,
+        "d": 4.33,
         "a": 5.24
       },
       "open": {
         "h": 1.68,
-        "d": 4.19,
+        "d": 4.2,
         "a": 5.09
       },
       "movement": [
@@ -7885,7 +7783,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.96,
@@ -7960,26 +7858,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.58,
-          "d": 3.67,
-          "a": 2.71
+          "h": 2.61,
+          "d": 3.62,
+          "a": 2.69
         }
       },
       "fair": {
-        "h": 2.66,
-        "d": 3.78,
-        "a": 2.79
+        "h": 2.69,
+        "d": 3.73,
+        "a": 2.77
       },
       "open": {
-        "h": 2.58,
-        "d": 3.67,
-        "a": 2.71
+        "h": 2.61,
+        "d": 3.62,
+        "a": 2.69
       },
       "movement": [
-        2.58
+        2.61
       ],
       "totals": {
         "line": 2.5,
@@ -8035,26 +7933,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.61,
-          "d": 4.2,
-          "a": 5.83
+          "h": 1.6,
+          "d": 4.21,
+          "a": 5.97
         }
       },
       "fair": {
-        "h": 1.66,
-        "d": 4.33,
-        "a": 6.01
+        "h": 1.65,
+        "d": 4.34,
+        "a": 6.15
       },
       "open": {
-        "h": 1.61,
-        "d": 4.2,
-        "a": 5.83
+        "h": 1.6,
+        "d": 4.21,
+        "a": 5.97
       },
       "movement": [
-        1.61
+        1.6
       ],
       "totals": {
         "line": 2.5,
@@ -8110,26 +8008,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 4.26,
-          "d": 3.45,
-          "a": 1.98
+          "h": 4.35,
+          "d": 3.48,
+          "a": 1.95
         }
       },
       "fair": {
-        "h": 4.39,
-        "d": 3.55,
-        "a": 2.04
+        "h": 4.48,
+        "d": 3.58,
+        "a": 2.01
       },
       "open": {
-        "h": 4.26,
-        "d": 3.45,
-        "a": 1.98
+        "h": 4.35,
+        "d": 3.48,
+        "a": 1.95
       },
       "movement": [
-        4.26
+        4.35
       ],
       "totals": {
         "line": 2.5,
@@ -8185,26 +8083,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 4.34,
-          "d": 3.88,
-          "a": 1.85
+          "h": 4.4,
+          "d": 3.87,
+          "a": 1.84
         }
       },
       "fair": {
-        "h": 4.46,
-        "d": 3.99,
-        "a": 1.9
+        "h": 4.53,
+        "d": 3.98,
+        "a": 1.89
       },
       "open": {
-        "h": 4.34,
-        "d": 3.88,
-        "a": 1.85
+        "h": 4.4,
+        "d": 3.87,
+        "a": 1.84
       },
       "movement": [
-        4.34
+        4.4
       ],
       "totals": {
         "line": 2.5,
@@ -8260,26 +8158,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 6.32,
-          "d": 4.09,
+          "h": 6.51,
+          "d": 4.04,
           "a": 1.59
         }
       },
       "fair": {
-        "h": 6.52,
-        "d": 4.22,
+        "h": 6.71,
+        "d": 4.16,
         "a": 1.64
       },
       "open": {
-        "h": 6.32,
-        "d": 4.09,
+        "h": 6.51,
+        "d": 4.04,
         "a": 1.59
       },
       "movement": [
-        6.32
+        6.51
       ],
       "totals": {
         "line": 2.5,
@@ -8335,26 +8233,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.58,
+          "h": 1.57,
           "d": 4.42,
-          "a": 5.51
+          "a": 5.62
         }
       },
       "fair": {
-        "h": 1.64,
+        "h": 1.63,
         "d": 4.6,
-        "a": 5.73
+        "a": 5.85
       },
       "open": {
-        "h": 1.58,
+        "h": 1.57,
         "d": 4.42,
-        "a": 5.51
+        "a": 5.62
       },
       "movement": [
-        1.58
+        1.57
       ],
       "totals": {
         "line": 2.5,
@@ -8410,26 +8308,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.4,
-          "d": 3.28,
-          "a": 3.14
+          "h": 2.39,
+          "d": 3.24,
+          "a": 3.2
         }
       },
       "fair": {
-        "h": 2.5,
-        "d": 3.41,
-        "a": 3.27
+        "h": 2.48,
+        "d": 3.37,
+        "a": 3.33
       },
       "open": {
-        "h": 2.4,
-        "d": 3.28,
-        "a": 3.14
+        "h": 2.39,
+        "d": 3.24,
+        "a": 3.2
       },
       "movement": [
-        2.4
+        2.39
       ],
       "totals": {
         "line": 2.5,
@@ -8485,7 +8383,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.45,
@@ -8560,26 +8458,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.06,
-          "d": 3.72,
-          "a": 3.64
+          "h": 2.05,
+          "d": 3.71,
+          "a": 3.67
         }
       },
       "fair": {
-        "h": 2.12,
-        "d": 3.83,
-        "a": 3.75
+        "h": 2.11,
+        "d": 3.82,
+        "a": 3.78
       },
       "open": {
-        "h": 2.06,
-        "d": 3.72,
-        "a": 3.64
+        "h": 2.05,
+        "d": 3.71,
+        "a": 3.67
       },
       "movement": [
-        2.06
+        2.05
       ],
       "totals": {
         "line": 2.5,
@@ -8635,26 +8533,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 3.33,
-          "d": 3.47,
-          "a": 2.27
+          "h": 3.31,
+          "d": 3.46,
+          "a": 2.28
         }
       },
       "fair": {
-        "h": 3.43,
-        "d": 3.57,
-        "a": 2.34
+        "h": 3.41,
+        "d": 3.56,
+        "a": 2.35
       },
       "open": {
-        "h": 3.33,
-        "d": 3.47,
-        "a": 2.27
+        "h": 3.31,
+        "d": 3.46,
+        "a": 2.28
       },
       "movement": [
-        3.33
+        3.31
       ],
       "totals": {
         "line": 2.5,
@@ -8710,26 +8608,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.61,
-          "d": 4.47,
-          "a": 5.35
+          "h": 1.62,
+          "d": 4.46,
+          "a": 5.36
         }
       },
       "fair": {
-        "h": 1.66,
-        "d": 4.61,
-        "a": 5.52
+        "h": 1.67,
+        "d": 4.59,
+        "a": 5.51
       },
       "open": {
-        "h": 1.61,
-        "d": 4.47,
-        "a": 5.35
+        "h": 1.62,
+        "d": 4.46,
+        "a": 5.36
       },
       "movement": [
-        1.61
+        1.62
       ],
       "totals": {
         "line": 2.5,
@@ -8785,23 +8683,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.09,
-          "d": 13,
-          "a": 28.84
+          "d": 12.72,
+          "a": 27.84
         }
       },
       "fair": {
         "h": 1.12,
-        "d": 13.38,
-        "a": 29.68
+        "d": 13.13,
+        "a": 28.73
       },
       "open": {
         "h": 1.09,
-        "d": 13,
-        "a": 28.84
+        "d": 12.72,
+        "a": 27.84
       },
       "movement": [
         1.09
@@ -8860,31 +8758,31 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.34,
-          "d": 3.67,
-          "a": 3.02
+          "h": 2.36,
+          "d": 3.66,
+          "a": 3
         }
       },
       "fair": {
-        "h": 2.41,
-        "d": 3.78,
-        "a": 3.11
+        "h": 2.43,
+        "d": 3.77,
+        "a": 3.09
       },
       "open": {
-        "h": 2.34,
-        "d": 3.67,
-        "a": 3.02
+        "h": 2.36,
+        "d": 3.66,
+        "a": 3
       },
       "movement": [
-        2.34
+        2.36
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.67,
+          "o": 1.68,
           "b": "SportyBet"
         },
         "under": {
@@ -8935,7 +8833,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.46,
@@ -9010,26 +8908,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 3.86,
-          "d": 3.96,
-          "a": 1.93
+          "h": 3.9,
+          "d": 3.94,
+          "a": 1.92
         }
       },
       "fair": {
-        "h": 3.97,
-        "d": 4.08,
-        "a": 1.99
+        "h": 4.02,
+        "d": 4.06,
+        "a": 1.98
       },
       "open": {
-        "h": 3.86,
-        "d": 3.96,
-        "a": 1.93
+        "h": 3.9,
+        "d": 3.94,
+        "a": 1.92
       },
       "movement": [
-        3.86
+        3.9
       ],
       "totals": {
         "line": 2.5,
@@ -9085,7 +8983,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 3.07,
@@ -9160,7 +9058,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 3.18,
@@ -9188,10 +9086,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.76,
+          "o": 1.73,
           "b": "SportyBet"
         },
-        "fairOver": 2.19
+        "fairOver": 2.21
       },
       "news": "Real odds via SportyBet feed (Championship).",
       "fotmobId": "5836852",
@@ -9235,7 +9133,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.39,
@@ -9310,7 +9208,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -9385,7 +9283,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.68,
@@ -9460,7 +9358,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.7,
@@ -9535,7 +9433,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.74,
@@ -9610,38 +9508,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.27,
-          "d": 3.72,
-          "a": 2.94
+          "h": 2.32,
+          "d": 3.67,
+          "a": 2.89
         }
       },
       "fair": {
-        "h": 2.38,
-        "d": 3.9,
-        "a": 3.09
+        "h": 2.43,
+        "d": 3.85,
+        "a": 3.03
       },
       "open": {
-        "h": 2.27,
-        "d": 3.72,
-        "a": 2.94
+        "h": 2.32,
+        "d": 3.67,
+        "a": 2.89
       },
       "movement": [
-        2.27
+        2.32
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.61,
+          "o": 1.63,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.35,
+          "o": 2.3,
           "b": "SportyBet"
         },
-        "fairOver": 1.69
+        "fairOver": 1.71
       },
       "news": "Real odds via SportyBet feed (Championship).",
       "fotmobId": "5836854",
@@ -9685,7 +9583,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.87,
@@ -9760,7 +9658,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -9835,7 +9733,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -9910,7 +9808,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.85,
@@ -9985,7 +9883,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 6.03,
@@ -10060,7 +9958,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.32,
@@ -10135,7 +10033,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.51,
@@ -10210,7 +10108,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.01,
@@ -10285,7 +10183,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -10360,7 +10258,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.58,
@@ -10435,7 +10333,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.76,
@@ -10510,7 +10408,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.7,
@@ -10606,7 +10504,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.92,
@@ -10702,31 +10600,31 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.6,
-          "d": 3.9,
-          "a": 2.45
+          "h": 2.5,
+          "d": 4,
+          "a": 2.5
         }
       },
       "fair": {
-        "h": 2.73,
-        "d": 4.09,
-        "a": 2.57
+        "h": 2.63,
+        "d": 4.2,
+        "a": 2.63
       },
       "open": {
-        "h": 2.6,
-        "d": 3.9,
-        "a": 2.45
+        "h": 2.5,
+        "d": 4,
+        "a": 2.5
       },
       "movement": [
-        2.6
+        2.5
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.39,
+          "o": 1.38,
           "b": "SportyBet"
         },
         "under": {
@@ -10777,7 +10675,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -10852,7 +10750,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -10927,7 +10825,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -10999,7 +10897,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -11074,7 +10972,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.73,
@@ -11149,7 +11047,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.58,
@@ -11224,7 +11122,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 3.4,
@@ -11299,7 +11197,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -11374,23 +11272,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
           "d": 3.5,
-          "a": 2.95
+          "a": 3.1
         }
       },
       "fair": {
-        "h": 2.41,
-        "d": 3.74,
-        "a": 3.15
+        "h": 2.37,
+        "d": 3.68,
+        "a": 3.26
       },
       "open": {
         "h": 2.25,
         "d": 3.5,
-        "a": 2.95
+        "a": 3.1
       },
       "movement": [
         2.25
@@ -11449,7 +11347,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 3,
@@ -11524,26 +11422,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.63,
-          "d": 4.1,
+          "h": 1.65,
+          "d": 4,
           "a": 4.75
         }
       },
       "fair": {
-        "h": 1.74,
-        "d": 4.38,
+        "h": 1.76,
+        "d": 4.27,
         "a": 5.07
       },
       "open": {
-        "h": 1.63,
-        "d": 4.1,
+        "h": 1.65,
+        "d": 4,
         "a": 4.75
       },
       "movement": [
-        1.63
+        1.65
       ],
       "totals": {
         "line": 2.5,
@@ -11599,7 +11497,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.58,
@@ -11674,7 +11572,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -11749,26 +11647,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2,
+          "h": 1.97,
           "d": 3.33,
-          "a": 3.7
+          "a": 3.8
         }
       },
       "fair": {
-        "h": 2.14,
-        "d": 3.56,
-        "a": 3.96
+        "h": 2.11,
+        "d": 3.57,
+        "a": 4.07
       },
       "open": {
-        "h": 2,
+        "h": 1.97,
         "d": 3.33,
-        "a": 3.7
+        "a": 3.8
       },
       "movement": [
-        2
+        1.97
       ],
       "totals": {
         "line": 2.5,
@@ -11824,7 +11722,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -11899,7 +11797,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -11961,79 +11859,6 @@
       ]
     },
     {
-      "id": "sb-brazil-cruzeiroecmg-v-saopaulofcsp-1791419400000",
-      "leagueId": "brazil",
-      "home": "Cruzeiro EC MG",
-      "away": "Sao Paulo FC SP",
-      "startsIn": "10/8/2026, 12:30:00 AM",
-      "commenceISO": "2026-10-08T00:30:00.000Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "real": true,
-      "sample": false,
-      "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
-      "prices": {
-        "SportyBet": {
-          "h": 1.76,
-          "d": 3.7,
-          "a": 4.7
-        }
-      },
-      "fair": {
-        "h": 1.85,
-        "d": 3.89,
-        "a": 4.94
-      },
-      "open": {
-        "h": 1.76,
-        "d": 3.7,
-        "a": 4.7
-      },
-      "movement": [
-        1.76
-      ],
-      "totals": {
-        "line": 2.5,
-        "over": {
-          "o": 1.97,
-          "b": "SportyBet"
-        },
-        "under": {
-          "o": 1.81,
-          "b": "SportyBet"
-        },
-        "fairOver": 2.09
-      },
-      "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
-      "fotmobId": "5103649",
-      "fmHomeId": "9781",
-      "fmAwayId": "10277",
-      "form": {
-        "home": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
-        "away": [
-          "L",
-          "L",
-          "D",
-          "W",
-          "L"
-        ]
-      },
-      "h2h": {
-        "homeWins": 8,
-        "draws": 5,
-        "awayWins": 18
-      }
-    },
-    {
       "id": "sb-brazil-santosfcsp-v-crflamengorj-1791498600000",
       "leagueId": "brazil",
       "home": "Santos FC SP",
@@ -12047,7 +11872,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 4.2,
@@ -12120,26 +11945,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.1,
+          "h": 2.15,
           "d": 3.33,
-          "a": 3.6
+          "a": 3.5
         }
       },
       "fair": {
-        "h": 2.21,
-        "d": 3.51,
-        "a": 3.8
+        "h": 2.26,
+        "d": 3.5,
+        "a": 3.68
       },
       "open": {
-        "h": 2.1,
+        "h": 2.15,
         "d": 3.33,
-        "a": 3.6
+        "a": 3.5
       },
       "movement": [
-        2.1
+        2.15
       ],
       "totals": {
         "line": 2.5,
@@ -12193,26 +12018,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.5,
+          "h": 1.48,
           "d": 4.4,
-          "a": 6.5
+          "a": 6.75
         }
       },
       "fair": {
-        "h": 1.57,
-        "d": 4.61,
-        "a": 6.81
+        "h": 1.56,
+        "d": 4.62,
+        "a": 7.09
       },
       "open": {
-        "h": 1.5,
+        "h": 1.48,
         "d": 4.4,
-        "a": 6.5
+        "a": 6.75
       },
       "movement": [
-        1.5
+        1.48
       ],
       "totals": {
         "line": 2.5,
@@ -12266,26 +12091,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.58,
-          "d": 4.3,
-          "a": 5.4
+          "h": 1.63,
+          "d": 4.2,
+          "a": 5
         }
       },
       "fair": {
-        "h": 1.66,
-        "d": 4.52,
-        "a": 5.67
+        "h": 1.71,
+        "d": 4.42,
+        "a": 5.26
       },
       "open": {
-        "h": 1.58,
-        "d": 4.3,
-        "a": 5.4
+        "h": 1.63,
+        "d": 4.2,
+        "a": 5
       },
       "movement": [
-        1.58
+        1.63
       ],
       "totals": {
         "line": 2.5,
@@ -12339,26 +12164,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.33,
-          "d": 5.4,
-          "a": 8.8
+          "h": 1.32,
+          "d": 5.5,
+          "a": 9.1
         }
       },
       "fair": {
-        "h": 1.4,
-        "d": 5.67,
-        "a": 9.25
+        "h": 1.39,
+        "d": 5.77,
+        "a": 9.55
       },
       "open": {
-        "h": 1.33,
-        "d": 5.4,
-        "a": 8.8
+        "h": 1.32,
+        "d": 5.5,
+        "a": 9.1
       },
       "movement": [
-        1.33
+        1.32
       ],
       "totals": {
         "line": 2.5,
@@ -12391,38 +12216,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.62,
-          "d": 3.8,
-          "a": 5.5
+          "h": 1.6,
+          "d": 4,
+          "a": 5.8
         }
       },
       "fair": {
-        "h": 1.72,
-        "d": 4.04,
-        "a": 5.84
+        "h": 1.68,
+        "d": 4.19,
+        "a": 6.08
       },
       "open": {
-        "h": 1.62,
-        "d": 3.8,
-        "a": 5.5
+        "h": 1.6,
+        "d": 4,
+        "a": 5.8
       },
       "movement": [
-        1.62
+        1.6
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.97,
+          "o": 1.96,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.77,
+          "o": 1.82,
           "b": "SportyBet"
         },
-        "fairOver": 2.11
+        "fairOver": 2.08
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103656",
@@ -12443,7 +12268,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.98,
@@ -12495,7 +12320,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.37,
@@ -12547,26 +12372,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.5,
-          "d": 3.33,
-          "a": 2.8
+          "h": 2.65,
+          "d": 3.3,
+          "a": 2.65
         }
       },
       "fair": {
-        "h": 2.64,
-        "d": 3.52,
-        "a": 2.96
-      },
-      "open": {
-        "h": 2.5,
-        "d": 3.33,
+        "h": 2.8,
+        "d": 3.49,
         "a": 2.8
       },
+      "open": {
+        "h": 2.65,
+        "d": 3.3,
+        "a": 2.65
+      },
       "movement": [
-        2.5
+        2.65
       ],
       "totals": {
         "line": 2.5,
@@ -12586,6 +12411,58 @@
       "fmAwayId": "8702"
     },
     {
+      "id": "sb-brazil-sepalmeirassp-v-sccorinthianssp-1791750600000",
+      "leagueId": "brazil",
+      "home": "SE Palmeiras SP",
+      "away": "SC Corinthians SP",
+      "startsIn": "10/11/2026, 8:30:00 PM",
+      "commenceISO": "2026-10-11T20:30:00.000Z",
+      "live": false,
+      "status": "upcoming",
+      "score": null,
+      "minute": null,
+      "real": true,
+      "sample": false,
+      "oddsStatus": "live",
+      "sbAt": "2026-10-08T05:23:31.182Z",
+      "prices": {
+        "SportyBet": {
+          "h": 1.52,
+          "d": 4.1,
+          "a": 6.4
+        }
+      },
+      "fair": {
+        "h": 1.61,
+        "d": 4.34,
+        "a": 6.77
+      },
+      "open": {
+        "h": 1.52,
+        "d": 4.1,
+        "a": 6.4
+      },
+      "movement": [
+        1.52
+      ],
+      "totals": {
+        "line": 2.5,
+        "over": {
+          "o": 2,
+          "b": "SportyBet"
+        },
+        "under": {
+          "o": 1.74,
+          "b": "SportyBet"
+        },
+        "fairOver": 2.15
+      },
+      "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
+      "fotmobId": "5103657",
+      "fmHomeId": "10283",
+      "fmAwayId": "9808"
+    },
+    {
       "id": "sb-brazil-cearascce-v-criciumaecsc-1791498600000",
       "leagueId": "brazil",
       "home": "Ceara SC CE",
@@ -12599,38 +12476,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 2.35,
+          "h": 2.45,
           "d": 3.2,
-          "a": 3.1
+          "a": 2.95
         }
       },
       "fair": {
-        "h": 2.49,
+        "h": 2.6,
         "d": 3.39,
-        "a": 3.29
+        "a": 3.13
       },
       "open": {
-        "h": 2.35,
+        "h": 2.45,
         "d": 3.2,
-        "a": 3.1
+        "a": 2.95
       },
       "movement": [
-        2.35
+        2.45
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.35,
+          "o": 2.25,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.57,
+          "o": 1.61,
           "b": "SportyBet"
         },
-        "fairOver": 2.5
+        "fairOver": 2.4
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190753",
@@ -12966,38 +12843,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 3.1,
-          "d": 3.4,
-          "a": 2.25
+          "h": 3.4,
+          "d": 3.5,
+          "a": 2.1
         }
       },
       "fair": {
-        "h": 3.29,
-        "d": 3.61,
-        "a": 2.39
+        "h": 3.59,
+        "d": 3.7,
+        "a": 2.22
       },
       "open": {
-        "h": 3.1,
-        "d": 3.4,
-        "a": 2.25
+        "h": 3.4,
+        "d": 3.5,
+        "a": 2.1
       },
       "movement": [
-        3.1
+        3.4
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.89,
+          "o": 1.83,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.89,
+          "o": 1.94,
           "b": "SportyBet"
         },
-        "fairOver": 2
+        "fairOver": 1.94
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190756",
@@ -13333,7 +13210,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.56,
@@ -13385,26 +13262,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.93,
+          "h": 1.89,
           "d": 3.4,
-          "a": 3.9
+          "a": 4
         }
       },
       "fair": {
-        "h": 2.06,
-        "d": 3.63,
-        "a": 4.17
+        "h": 2.03,
+        "d": 3.65,
+        "a": 4.29
       },
       "open": {
-        "h": 1.93,
+        "h": 1.89,
         "d": 3.4,
-        "a": 3.9
+        "a": 4
       },
       "movement": [
-        1.93
+        1.89
       ],
       "totals": {
         "line": 2.5,
@@ -13434,7 +13311,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -13486,26 +13363,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.59,
-          "d": 3.7,
-          "a": 5.9
+          "h": 1.61,
+          "d": 3.6,
+          "a": 5.75
         }
       },
       "fair": {
-        "h": 1.7,
-        "d": 3.95,
-        "a": 6.31
+        "h": 1.73,
+        "d": 3.86,
+        "a": 6.17
       },
       "open": {
-        "h": 1.59,
-        "d": 3.7,
-        "a": 5.9
+        "h": 1.61,
+        "d": 3.6,
+        "a": 5.75
       },
       "movement": [
-        1.59
+        1.61
       ],
       "totals": {
         "line": 2.5,
@@ -13538,7 +13415,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -13590,38 +13467,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.95,
-          "d": 3.33,
-          "a": 3.9
+          "h": 1.87,
+          "d": 3.4,
+          "a": 4.2
         }
       },
       "fair": {
-        "h": 2.09,
-        "d": 3.56,
-        "a": 4.17
+        "h": 2,
+        "d": 3.63,
+        "a": 4.48
       },
       "open": {
-        "h": 1.95,
-        "d": 3.33,
-        "a": 3.9
+        "h": 1.87,
+        "d": 3.4,
+        "a": 4.2
       },
       "movement": [
-        1.95
+        1.87
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.05,
+          "o": 2,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.72,
+          "o": 1.74,
           "b": "SportyBet"
         },
-        "fairOver": 2.19
+        "fairOver": 2.15
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B)."
     },
@@ -13639,31 +13516,31 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.1,
-          "d": 9.8,
-          "a": 18
+          "h": 1.11,
+          "d": 9,
+          "a": 17
         }
       },
       "fair": {
-        "h": 1.17,
-        "d": 10.45,
-        "a": 19.2
+        "h": 1.19,
+        "d": 9.64,
+        "a": 18.2
       },
       "open": {
-        "h": 1.1,
-        "d": 9.8,
-        "a": 18
+        "h": 1.11,
+        "d": 9,
+        "a": 17
       },
       "movement": [
-        1.1
+        1.11
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.33,
+          "o": 1.34,
           "b": "SportyBet"
         },
         "under": {
@@ -13691,7 +13568,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.41,
@@ -13743,26 +13620,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
-          "h": 1.85,
+          "h": 1.84,
           "d": 3.5,
-          "a": 4.25
+          "a": 4.4
         }
       },
       "fair": {
-        "h": 1.96,
-        "d": 3.72,
-        "a": 4.51
+        "h": 1.94,
+        "d": 3.7,
+        "a": 4.65
       },
       "open": {
-        "h": 1.85,
+        "h": 1.84,
         "d": 3.5,
-        "a": 4.25
+        "a": 4.4
       },
       "movement": [
-        1.85
+        1.84
       ],
       "totals": {
         "line": 2.5,
@@ -13818,7 +13695,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 3.2,
@@ -13893,7 +13770,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -13968,7 +13845,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -14043,7 +13920,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.52,
@@ -14115,7 +13992,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 5.3,
@@ -14187,7 +14064,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 1.52,
@@ -14236,7 +14113,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-07T23:30:48.451Z",
+      "sbAt": "2026-10-08T05:23:31.182Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -14362,12 +14239,12 @@
     "Betika"
   ],
   "tips": [],
-  "updatedAt": "2026-10-07T23:30:48.451Z",
-  "generatedAt": "2026-10-07T23:30:48.451Z",
+  "updatedAt": "2026-10-08T05:23:31.182Z",
+  "generatedAt": "2026-10-08T05:23:31.182Z",
   "metadata": {
     "mode": "hybrid",
-    "oddsUpdatedAt": "2026-10-07T23:30:48.451Z",
-    "scoresUpdatedAt": "2026-10-07T23:30:48.451Z",
+    "oddsUpdatedAt": "2026-10-08T05:23:31.182Z",
+    "scoresUpdatedAt": "2026-10-08T05:23:31.182Z",
     "dataSources": [
       "ESPN scoreboards + odds (free)",
       "SportyBet odds feed (free)"
@@ -14376,18 +14253,18 @@
     "counts": {
       "real": 148
     },
-    "historyPoints": 6487,
+    "historyPoints": 6485,
     "books": {
       "Pinnacle": {
         "updatedAt": null,
         "source": "not in feed"
       },
       "DraftKings": {
-        "updatedAt": "2026-10-07T23:30:48.451Z",
+        "updatedAt": "2026-10-08T05:23:31.182Z",
         "source": "live feed"
       },
       "SportyBet": {
-        "updatedAt": "2026-10-07T23:30:48.451Z",
+        "updatedAt": "2026-10-08T05:23:31.182Z",
         "source": "live feed"
       },
       "Betway": {
@@ -14431,35 +14308,35 @@
       "espn": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-07T23:30:48.996Z",
+        "lastOk": "2026-10-08T05:23:31.587Z",
         "lastError": null,
         "count": 43
       },
       "sportybet": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-07T23:30:59.571Z",
+        "lastOk": "2026-10-08T05:23:42.257Z",
         "lastError": null,
         "count": 0
       },
       "fotmob": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-07T23:31:11.793Z",
+        "lastOk": "2026-10-08T05:23:52.887Z",
         "lastError": null,
-        "count": 14
+        "count": 13
       },
       "espn-news": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-07T23:31:14.633Z",
+        "lastOk": "2026-10-08T05:23:56.888Z",
         "lastError": null,
         "count": 126
       },
       "oddsapi": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-07T23:31:14.635Z",
+        "lastOk": "2026-10-08T05:23:56.889Z",
         "lastError": null,
         "count": 0
       }
