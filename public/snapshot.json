@@ -22,9 +22,9 @@
           "d": 5
         },
         "SportyBet": {
-          "h": 1.41,
-          "d": 5.17,
-          "a": 8.36
+          "h": 1.43,
+          "d": 5.07,
+          "a": 8.06
         }
       },
       "fair": {
@@ -57,7 +57,7 @@
         },
         "fairOver": 1.92
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5795465",
       "fmHomeId": "9825",
       "fmAwayId": "8463",
@@ -527,7 +527,7 @@
         },
         "fairOver": 1.79
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5795466",
       "fmHomeId": "10252",
       "fmAwayId": "9937",
@@ -959,20 +959,20 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.71,
-          "a": 4.5,
+          "h": 1.67,
+          "a": 4.7,
           "d": 4.2
         },
         "SportyBet": {
-          "h": 1.74,
-          "d": 4.35,
-          "a": 4.67
+          "h": 1.73,
+          "d": 4.4,
+          "a": 4.63
         }
       },
       "fair": {
-        "h": 1.79,
-        "d": 4.39,
-        "a": 4.7
+        "h": 1.75,
+        "d": 4.41,
+        "a": 4.93
       },
       "open": {
         "h": 1.77,
@@ -981,7 +981,7 @@
       },
       "movement": [
         1.77,
-        1.71
+        1.67
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -990,16 +990,16 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 2.25,
+          "o": 2.2,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.65,
+          "o": 1.67,
           "b": "DraftKings"
         },
-        "fairOver": 2.36
+        "fairOver": 2.32
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5795467",
       "fmHomeId": "8455",
       "fmAwayId": "8678",
@@ -1436,9 +1436,9 @@
           "d": 3.55
         },
         "SportyBet": {
-          "h": 2.91,
+          "h": 2.89,
           "d": 3.63,
-          "a": 2.5
+          "a": 2.51
         }
       },
       "fair": {
@@ -1471,7 +1471,7 @@
         },
         "fairOver": 1.83
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5795471",
       "fmHomeId": "9902",
       "fmAwayId": "9879",
@@ -1900,7 +1900,7 @@
           "d": 3.55
         },
         "SportyBet": {
-          "h": 3.07,
+          "h": 3.06,
           "d": 3.61,
           "a": 2.4
         }
@@ -1935,7 +1935,7 @@
         },
         "fairOver": 1.86
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5795474",
       "fmHomeId": "8472",
       "fmAwayId": "10204",
@@ -2371,8 +2371,8 @@
         },
         "SportyBet": {
           "h": 1.76,
-          "d": 4.3,
-          "a": 4.58
+          "d": 4.31,
+          "a": 4.53
         }
       },
       "fair": {
@@ -2405,7 +2405,7 @@
         },
         "fairOver": 2.36
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5795473",
       "fmHomeId": "10260",
       "fmAwayId": "8586",
@@ -2837,20 +2837,20 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 2.75,
-          "a": 2.7,
+          "h": 2.85,
+          "a": 2.6,
           "d": 3.2
         },
         "SportyBet": {
-          "h": 2.82,
-          "d": 3.29,
-          "a": 2.76
+          "h": 2.83,
+          "d": 3.31,
+          "a": 2.74
         }
       },
       "fair": {
-        "h": 2.88,
+        "h": 2.99,
         "d": 3.35,
-        "a": 2.83
+        "a": 2.72
       },
       "open": {
         "h": 2.4,
@@ -2859,7 +2859,7 @@
       },
       "movement": [
         2.4,
-        2.75
+        2.85
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -2872,12 +2872,12 @@
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.8,
+          "o": 1.83,
           "b": "SportyBet"
         },
         "fairOver": 2.16
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5868086",
       "fmHomeId": "9864",
       "fmAwayId": "8558",
@@ -2993,7 +2993,6 @@
             "Jens-Lys Cajuste",
             "Diego Murillo",
             "Aarón Ochoa",
-            "Juan Cruz",
             "Julen Lobete"
           ]
         },
@@ -3296,15 +3295,15 @@
       "awayAbbr": "BOS",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-      "startsIn": "10/8/2026, 11:00:00 PM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-08T23:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 34,
-        "away": 34
+        "home": 113,
+        "away": 124
       },
-      "minute": "10:10",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -3315,25 +3314,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Tyrese Maxey, Jaylen Brown, VJ Edgecombe make 'Abbott Elementary' cameos",
-          "description": "\"Abbott Elementary\" continues to embrace Philadelphia sports culture with its latest instance starring the 76ers.",
-          "published": "2026-10-08T20:47:07Z",
-          "image": "https://a.espncdn.com/photo/2026/0928/r1723110_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134809/abbott-elementary-season-six-premiere-sixers-cameo"
+          "headline": "76ers' Embiid calls 'not true' LeBron report 'unfortunate'",
+          "description": "Joel Embiid said a recent report about LeBron James getting on him about being late to practice \"never happened\" and caused him to wonder why he was targeted.",
+          "published": "2026-10-09T05:23:05Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728117_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137826/76ers-embiid-calls-not-true-lebron-report-unfortunate"
         },
         {
-          "headline": "Sources: 76ers plan to play starters in preseason game vs. Nets",
-          "description": "The 76ers plan to play their starters Thursday against the Nets, sources told ESPN.",
-          "published": "2026-10-08T20:15:04Z",
-          "image": "https://a.espncdn.com/photo/2026/1006/r1726797_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134832/sources-76ers-plan-play-starters-preseason-game-vs-nets"
+          "headline": "LeBron James scores 10 points in 18 minutes in 76ers debut",
+          "description": "LeBron James, who joined the 76ers this summer, had 10 points, five assists and four rebounds in the first half of his debut with Philadelphia.",
+          "published": "2026-10-09T05:21:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728114_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137673/lebron-james-scores-10-points-18-minutes-76ers-debut"
         },
         {
-          "headline": "Fantasy basketball: Category league draft tiers",
-          "description": "Eric Moody groups players into tiers by each position for category-based leagues.",
-          "published": "2026-10-08T20:07:59Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1727941_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50134369/fantasy-basketball-category-league-draft-tiers-2026-27"
+          "headline": "Atlanta Hawks vs. San Antonio Spurs: Game Highlights",
+          "description": "Atlanta Hawks vs. San Antonio Spurs: Game Highlights",
+          "published": "2026-10-09T03:37:32Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/8bcac97f-8eac-4fb7-a6b6-47c29f254c06/8bcac97f-8eac-4fb7-a6b6-47c29f254c06.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50137491/game-highlights"
         }
       ]
     },
@@ -3346,15 +3345,15 @@
       "awayAbbr": "NO",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-      "startsIn": "10/8/2026, 11:30:00 PM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-08T23:30Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 5,
-        "away": 0
+        "home": 128,
+        "away": 118
       },
-      "minute": "10:40",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -3365,25 +3364,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Tyrese Maxey, Jaylen Brown, VJ Edgecombe make 'Abbott Elementary' cameos",
-          "description": "\"Abbott Elementary\" continues to embrace Philadelphia sports culture with its latest instance starring the 76ers.",
-          "published": "2026-10-08T20:47:07Z",
-          "image": "https://a.espncdn.com/photo/2026/0928/r1723110_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134809/abbott-elementary-season-six-premiere-sixers-cameo"
+          "headline": "New Orleans Pelicans vs. Miami Heat: Game Highlights",
+          "description": "New Orleans Pelicans vs. Miami Heat: Game Highlights",
+          "published": "2026-10-09T02:14:48Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/1c925fb8-cfd9-4c39-812b-dd104dc81c90/1c925fb8-cfd9-4c39-812b-dd104dc81c90.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50136993/game-highlights"
         },
         {
-          "headline": "Sources: 76ers plan to play starters in preseason game vs. Nets",
-          "description": "The 76ers plan to play their starters Thursday against the Nets, sources told ESPN.",
-          "published": "2026-10-08T20:15:04Z",
-          "image": "https://a.espncdn.com/photo/2026/1006/r1726797_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134832/sources-76ers-plan-play-starters-preseason-game-vs-nets"
+          "headline": "76ers' Embiid calls 'not true' LeBron report 'unfortunate'",
+          "description": "Joel Embiid said a recent report about LeBron James getting on him about being late to practice \"never happened\" and caused him to wonder why he was targeted.",
+          "published": "2026-10-09T05:23:05Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728117_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137826/76ers-embiid-calls-not-true-lebron-report-unfortunate"
         },
         {
-          "headline": "Fantasy basketball: Category league draft tiers",
-          "description": "Eric Moody groups players into tiers by each position for category-based leagues.",
-          "published": "2026-10-08T20:07:59Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1727941_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50134369/fantasy-basketball-category-league-draft-tiers-2026-27"
+          "headline": "LeBron James scores 10 points in 18 minutes in 76ers debut",
+          "description": "LeBron James, who joined the 76ers this summer, had 10 points, five assists and four rebounds in the first half of his debut with Philadelphia.",
+          "published": "2026-10-09T05:21:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728114_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137673/lebron-james-scores-10-points-18-minutes-76ers-debut"
         }
       ]
     },
@@ -3396,15 +3395,15 @@
       "awayAbbr": "PHI",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-      "startsIn": "10/8/2026, 11:30:00 PM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-08T23:30Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 6,
-        "away": 4
+        "home": 114,
+        "away": 108
       },
-      "minute": "10:10",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -3415,25 +3414,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Tyrese Maxey, Jaylen Brown, VJ Edgecombe make 'Abbott Elementary' cameos",
-          "description": "\"Abbott Elementary\" continues to embrace Philadelphia sports culture with its latest instance starring the 76ers.",
-          "published": "2026-10-08T20:47:07Z",
-          "image": "https://a.espncdn.com/photo/2026/0928/r1723110_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134809/abbott-elementary-season-six-premiere-sixers-cameo"
+          "headline": "76ers' Embiid calls 'not true' LeBron report 'unfortunate'",
+          "description": "Joel Embiid said a recent report about LeBron James getting on him about being late to practice \"never happened\" and caused him to wonder why he was targeted.",
+          "published": "2026-10-09T05:23:05Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728117_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137826/76ers-embiid-calls-not-true-lebron-report-unfortunate"
         },
         {
-          "headline": "Sources: 76ers plan to play starters in preseason game vs. Nets",
-          "description": "The 76ers plan to play their starters Thursday against the Nets, sources told ESPN.",
-          "published": "2026-10-08T20:15:04Z",
-          "image": "https://a.espncdn.com/photo/2026/1006/r1726797_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134832/sources-76ers-plan-play-starters-preseason-game-vs-nets"
+          "headline": "LeBron James scores 10 points in 18 minutes in 76ers debut",
+          "description": "LeBron James, who joined the 76ers this summer, had 10 points, five assists and four rebounds in the first half of his debut with Philadelphia.",
+          "published": "2026-10-09T05:21:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728114_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137673/lebron-james-scores-10-points-18-minutes-76ers-debut"
         },
         {
-          "headline": "Fantasy basketball: Category league draft tiers",
-          "description": "Eric Moody groups players into tiers by each position for category-based leagues.",
-          "published": "2026-10-08T20:07:59Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1727941_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50134369/fantasy-basketball-category-league-draft-tiers-2026-27"
+          "headline": "Philadelphia 76ers vs. Brooklyn Nets: Game Highlights",
+          "description": "Philadelphia 76ers vs. Brooklyn Nets: Game Highlights",
+          "published": "2026-10-09T03:05:35Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/e370eaaf-9d48-43e3-b82c-1f8e520955da/e370eaaf-9d48-43e3-b82c-1f8e520955da.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50137286/game-highlights"
         }
       ]
     },
@@ -3446,15 +3445,15 @@
       "awayAbbr": "WSH",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-      "startsIn": "10/8/2026, 11:30:00 PM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-08T23:30Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 0,
-        "away": 1
+        "home": 109,
+        "away": 111
       },
-      "minute": "11:21",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -3465,25 +3464,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Tyrese Maxey, Jaylen Brown, VJ Edgecombe make 'Abbott Elementary' cameos",
-          "description": "\"Abbott Elementary\" continues to embrace Philadelphia sports culture with its latest instance starring the 76ers.",
-          "published": "2026-10-08T20:47:07Z",
-          "image": "https://a.espncdn.com/photo/2026/0928/r1723110_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134809/abbott-elementary-season-six-premiere-sixers-cameo"
+          "headline": "Washington Wizards vs. New York Knicks: Game Highlights",
+          "description": "Washington Wizards vs. New York Knicks: Game Highlights",
+          "published": "2026-10-09T02:36:07Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/df8006d5-3de0-4bbb-8bdd-21d30dbb907a/df8006d5-3de0-4bbb-8bdd-21d30dbb907a.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50137095/game-highlights"
         },
         {
-          "headline": "Sources: 76ers plan to play starters in preseason game vs. Nets",
-          "description": "The 76ers plan to play their starters Thursday against the Nets, sources told ESPN.",
-          "published": "2026-10-08T20:15:04Z",
-          "image": "https://a.espncdn.com/photo/2026/1006/r1726797_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134832/sources-76ers-plan-play-starters-preseason-game-vs-nets"
+          "headline": "76ers' Embiid calls 'not true' LeBron report 'unfortunate'",
+          "description": "Joel Embiid said a recent report about LeBron James getting on him about being late to practice \"never happened\" and caused him to wonder why he was targeted.",
+          "published": "2026-10-09T05:23:05Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728117_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137826/76ers-embiid-calls-not-true-lebron-report-unfortunate"
         },
         {
-          "headline": "Fantasy basketball: Category league draft tiers",
-          "description": "Eric Moody groups players into tiers by each position for category-based leagues.",
-          "published": "2026-10-08T20:07:59Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1727941_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50134369/fantasy-basketball-category-league-draft-tiers-2026-27"
+          "headline": "LeBron James scores 10 points in 18 minutes in 76ers debut",
+          "description": "LeBron James, who joined the 76ers this summer, had 10 points, five assists and four rebounds in the first half of his debut with Philadelphia.",
+          "published": "2026-10-09T05:21:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728114_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137673/lebron-james-scores-10-points-18-minutes-76ers-debut"
         }
       ]
     },
@@ -3496,69 +3495,44 @@
       "awayAbbr": "ATL",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-      "startsIn": "10/9/2026, 12:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-09T00:00Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 116,
+        "away": 123
+      },
       "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 1.36,
-          "a": 3.25
-        }
-      },
-      "fair": {
-        "h": 1.42,
-        "d": null,
-        "a": 3.39
-      },
-      "open": {
-        "h": 1.43,
-        "d": null,
-        "a": 2.9
-      },
-      "movement": [
-        1.43,
-        1.36
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 226.5,
-        "over": {
-          "o": 1.93,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.89,
-          "b": "DraftKings"
-        },
-        "fairOver": 2.02
-      },
       "newsItems": [
         {
-          "headline": "Tyrese Maxey, Jaylen Brown, VJ Edgecombe make 'Abbott Elementary' cameos",
-          "description": "\"Abbott Elementary\" continues to embrace Philadelphia sports culture with its latest instance starring the 76ers.",
-          "published": "2026-10-08T20:47:07Z",
-          "image": "https://a.espncdn.com/photo/2026/0928/r1723110_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134809/abbott-elementary-season-six-premiere-sixers-cameo"
+          "headline": "Atlanta Hawks vs. San Antonio Spurs: Game Highlights",
+          "description": "Atlanta Hawks vs. San Antonio Spurs: Game Highlights",
+          "published": "2026-10-09T03:37:32Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/8bcac97f-8eac-4fb7-a6b6-47c29f254c06/8bcac97f-8eac-4fb7-a6b6-47c29f254c06.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50137491/game-highlights"
         },
         {
-          "headline": "Sources: 76ers plan to play starters in preseason game vs. Nets",
-          "description": "The 76ers plan to play their starters Thursday against the Nets, sources told ESPN.",
-          "published": "2026-10-08T20:15:04Z",
-          "image": "https://a.espncdn.com/photo/2026/1006/r1726797_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134832/sources-76ers-plan-play-starters-preseason-game-vs-nets"
+          "headline": "76ers' Embiid calls 'not true' LeBron report 'unfortunate'",
+          "description": "Joel Embiid said a recent report about LeBron James getting on him about being late to practice \"never happened\" and caused him to wonder why he was targeted.",
+          "published": "2026-10-09T05:23:05Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728117_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137826/76ers-embiid-calls-not-true-lebron-report-unfortunate"
         },
         {
-          "headline": "Fantasy basketball: Category league draft tiers",
-          "description": "Eric Moody groups players into tiers by each position for category-based leagues.",
-          "published": "2026-10-08T20:07:59Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1727941_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50134369/fantasy-basketball-category-league-draft-tiers-2026-27"
+          "headline": "LeBron James scores 10 points in 18 minutes in 76ers debut",
+          "description": "LeBron James, who joined the 76ers this summer, had 10 points, five assists and four rebounds in the first half of his debut with Philadelphia.",
+          "published": "2026-10-09T05:21:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728114_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137673/lebron-james-scores-10-points-18-minutes-76ers-debut"
         }
       ]
     },
@@ -3571,69 +3545,44 @@
       "awayAbbr": "SAC",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-      "startsIn": "10/9/2026, 2:30:00 AM",
-      "commenceISO": "2026-10-09T02:30Z",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-09T02:45Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 114,
+        "away": 110
+      },
       "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 1.26,
-          "a": 4
-        }
-      },
-      "fair": {
-        "h": 1.31,
-        "d": null,
-        "a": 4.17
-      },
-      "open": {
-        "h": 1.46,
-        "d": null,
-        "a": 2.8
-      },
-      "movement": [
-        1.46,
-        1.26
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 229.5,
-        "over": {
-          "o": 1.89,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.93,
-          "b": "DraftKings"
-        },
-        "fairOver": 1.98
-      },
       "newsItems": [
         {
-          "headline": "Tyrese Maxey, Jaylen Brown, VJ Edgecombe make 'Abbott Elementary' cameos",
-          "description": "\"Abbott Elementary\" continues to embrace Philadelphia sports culture with its latest instance starring the 76ers.",
-          "published": "2026-10-08T20:47:07Z",
-          "image": "https://a.espncdn.com/photo/2026/0928/r1723110_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134809/abbott-elementary-season-six-premiere-sixers-cameo"
+          "headline": "76ers' Embiid calls 'not true' LeBron report 'unfortunate'",
+          "description": "Joel Embiid said a recent report about LeBron James getting on him about being late to practice \"never happened\" and caused him to wonder why he was targeted.",
+          "published": "2026-10-09T05:23:05Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728117_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137826/76ers-embiid-calls-not-true-lebron-report-unfortunate"
         },
         {
-          "headline": "Sources: 76ers plan to play starters in preseason game vs. Nets",
-          "description": "The 76ers plan to play their starters Thursday against the Nets, sources told ESPN.",
-          "published": "2026-10-08T20:15:04Z",
-          "image": "https://a.espncdn.com/photo/2026/1006/r1726797_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50134832/sources-76ers-plan-play-starters-preseason-game-vs-nets"
+          "headline": "LeBron James scores 10 points in 18 minutes in 76ers debut",
+          "description": "LeBron James, who joined the 76ers this summer, had 10 points, five assists and four rebounds in the first half of his debut with Philadelphia.",
+          "published": "2026-10-09T05:21:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728114_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50137673/lebron-james-scores-10-points-18-minutes-76ers-debut"
         },
         {
-          "headline": "Fantasy basketball: Category league draft tiers",
-          "description": "Eric Moody groups players into tiers by each position for category-based leagues.",
-          "published": "2026-10-08T20:07:59Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1727941_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50134369/fantasy-basketball-category-league-draft-tiers-2026-27"
+          "headline": "Atlanta Hawks vs. San Antonio Spurs: Game Highlights",
+          "description": "Atlanta Hawks vs. San Antonio Spurs: Game Highlights",
+          "published": "2026-10-09T03:37:32Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/8bcac97f-8eac-4fb7-a6b6-47c29f254c06/8bcac97f-8eac-4fb7-a6b6-47c29f254c06.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50137491/game-highlights"
         }
       ]
     },
@@ -3646,69 +3595,44 @@
       "awayAbbr": "TB",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
-      "startsIn": "10/9/2026, 12:15:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-10-09T00:15Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 16,
+        "away": 24
+      },
       "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 1.2,
-          "a": 4.8
-        }
-      },
-      "fair": {
-        "h": 1.25,
-        "d": null,
-        "a": 5
-      },
-      "open": {
-        "h": 1.49,
-        "d": null,
-        "a": 2.7
-      },
-      "movement": [
-        1.49,
-        1.2
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 48.5,
-        "over": {
-          "o": 1.83,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 2,
-          "b": "DraftKings"
-        },
-        "fairOver": 1.92
-      },
       "newsItems": [
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Cowboys say sick Joey Porter Jr. won't face Bucs on 'TNF'",
-          "description": "Joey Porter Jr. was ruled out of Thursday night's game against the Tampa Bay Buccaneers because of an illness.",
-          "published": "2026-10-08T23:27:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1001/r1724652_600x600_1-1.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50135957/cowboys-say-sick-joey-porter-jr-face-bucs-tnf"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Week 5 TNF highlights: Best plays, moments, touchdowns from Cowboys vs. Bucs",
+          "description": "A look at the highlights from Dallas hosting Tampa Bay for \"Thursday Night Football\" to kick off Week 5.",
+          "published": "2026-10-09T04:17:25Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728056_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50134891/week-5-tnf-highlights-cowboys-buccaneers"
         }
       ]
     },
@@ -3765,25 +3689,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -3804,14 +3728,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 2.1,
-          "a": 1.77
+          "h": 2,
+          "a": 1.83
         }
       },
       "fair": {
-        "h": 2.19,
+        "h": 2.09,
         "d": null,
-        "a": 1.84
+        "a": 1.92
       },
       "open": {
         "h": 1.6,
@@ -3820,7 +3744,7 @@
       },
       "movement": [
         1.6,
-        2.1
+        2
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -3840,25 +3764,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears have opportunity to show again they've gained the upper hand in their rivalry with Packers",
-          "description": "— After beating the Green Bay Packers for the NFC North title and knocking them out of the playoffs last season, the Chicago Bears have one more opportunity to show definitively that a new chapter has started in the NFL’",
-          "published": "2026-10-08T23:03:45Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872990.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872990"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -3915,25 +3839,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -3990,25 +3914,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4065,25 +3989,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4140,25 +4064,25 @@
       },
       "newsItems": [
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4215,25 +4139,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4290,25 +4214,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4352,38 +4276,38 @@
       "real": true,
       "sample": false,
       "totals": {
-        "line": 41.5,
+        "line": 42.5,
         "over": {
-          "o": 1.87,
-          "b": "DraftKings"
-        },
-        "under": {
           "o": 1.95,
           "b": "DraftKings"
         },
-        "fairOver": 1.96
+        "under": {
+          "o": 1.87,
+          "b": "DraftKings"
+        },
+        "fairOver": 2.04
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4404,14 +4328,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 2.54,
-          "a": 1.54
+          "h": 2.5,
+          "a": 1.56
         }
       },
       "fair": {
-        "h": 2.65,
+        "h": 2.6,
         "d": null,
-        "a": 1.61
+        "a": 1.62
       },
       "open": {
         "h": 1.7,
@@ -4420,7 +4344,7 @@
       },
       "movement": [
         1.7,
-        2.54
+        2.5
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -4440,25 +4364,25 @@
       },
       "newsItems": [
         {
-          "headline": "Broncos seek first AFC West win as Chargers try to avoid an 0-5 start",
-          "description": "— Something's got to give when the Denver Broncos and Los Angeles Chargers...",
-          "published": "2026-10-08T22:57:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872989.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872989"
+          "headline": "Fantasy football buzz: Sean Payton not a cure-all for Broncos fantasy woes",
+          "description": "Sean Payton will call the plays for the Broncos' offense, but fantasy managers should temper their expectations.",
+          "published": "2026-10-09T04:26:22Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728089_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         },
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         }
       ]
     },
@@ -4515,25 +4439,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4590,25 +4514,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4665,25 +4589,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-08T23:14:33Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4740,25 +4664,25 @@
       },
       "newsItems": [
         {
-          "headline": "Broncos seek first AFC West win as Chargers try to avoid an 0-5 start",
-          "description": "— Something's got to give when the Denver Broncos and Los Angeles Chargers...",
-          "published": "2026-10-08T22:57:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872989.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872989"
+          "headline": "Buccaneers explode in third quarter against Cowboys to get first win",
+          "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+          "published": "2026-10-09T05:23:16Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf"
         },
         {
-          "headline": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-          "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers de",
-          "published": "2026-10-08T23:42:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872982"
+          "headline": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+          "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+          "published": "2026-10-09T04:32:27Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401872980"
         },
         {
-          "headline": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-          "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-          "published": "2026-10-08T23:25:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872987"
+          "headline": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+          "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+          "published": "2026-10-09T03:40:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts"
         }
       ]
     },
@@ -4819,7 +4743,7 @@
         },
         "fairOver": 2.18
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5749693",
       "fmHomeId": "10233",
       "fmAwayId": "8535",
@@ -5250,8 +5174,8 @@
         },
         "SportyBet": {
           "h": 1.16,
-          "d": 9.6,
-          "a": 19.28
+          "d": 9.4,
+          "a": 18.45
         }
       },
       "fair": {
@@ -5284,7 +5208,7 @@
         },
         "fairOver": 2
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5749694",
       "fmHomeId": "8636",
       "fmAwayId": "10167",
@@ -5713,9 +5637,9 @@
           "d": 4.7
         },
         "SportyBet": {
-          "h": 1.48,
+          "h": 1.49,
           "d": 5.23,
-          "a": 6.49
+          "a": 6.42
         }
       },
       "fair": {
@@ -5748,7 +5672,7 @@
         },
         "fairOver": 2.32
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5749697",
       "fmHomeId": "9875",
       "fmAwayId": "9891",
@@ -6212,12 +6136,12 @@
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.8,
+          "o": 1.83,
           "b": "DraftKings"
         },
-        "fairOver": 2.08
+        "fairOver": 2.07
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5881180",
       "fmHomeId": "9789",
       "fmAwayId": "8697",
@@ -6689,7 +6613,7 @@
         },
         "fairOver": 1.65
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "6106414",
       "fmHomeId": "8588",
       "fmAwayId": "9768",
@@ -6985,7 +6909,7 @@
         },
         "fairOver": 1.66
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "6106260",
       "fmHomeId": "9825",
       "fmAwayId": "8639",
@@ -7138,7 +7062,7 @@
         },
         "fairOver": 2.33
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "6106267",
       "fmHomeId": "9906",
       "fmAwayId": "10260",
@@ -7291,7 +7215,7 @@
         },
         "fairOver": 2.29
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "6106338",
       "fmHomeId": "8637",
       "fmAwayId": "8634",
@@ -7376,7 +7300,7 @@
         },
         "fairOver": 2.29
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "6106251",
       "fmHomeId": "8636",
       "fmAwayId": "8342",
@@ -7529,7 +7453,7 @@
         },
         "fairOver": 2.08
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "6106323",
       "fmHomeId": "178475",
       "fmAwayId": "8640",
@@ -7614,7 +7538,7 @@
         },
         "fairOver": 2.11
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "6106417",
       "fmHomeId": "8478",
       "fmAwayId": "9823",
@@ -7699,7 +7623,7 @@
         },
         "fairOver": 1.79
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "6106328",
       "fmHomeId": "10205",
       "fmAwayId": "9875",
@@ -7817,9 +7741,9 @@
           "d": 3.7
         },
         "SportyBet": {
-          "h": 2.46,
-          "d": 3.78,
-          "a": 2.86
+          "h": 2.44,
+          "d": 3.79,
+          "a": 2.89
         }
       },
       "fair": {
@@ -7852,7 +7776,7 @@
         },
         "fairOver": 2.38
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5802947",
       "fmHomeId": "8588",
       "fmAwayId": "9748",
@@ -7967,9 +7891,7 @@
           "missing": [
             "Abdallah Sima",
             "Maik Nawrocki",
-            "Samson Baidoo",
-            "Jhoanner Chávez",
-            "Saud Abdulhamid"
+            "Jhoanner Chávez"
           ]
         },
         "away": {
@@ -8219,9 +8141,9 @@
           "d": 4.8
         },
         "SportyBet": {
-          "h": 1.54,
-          "d": 4.77,
-          "a": 5.89
+          "h": 1.53,
+          "d": 4.81,
+          "a": 5.86
         }
       },
       "fair": {
@@ -8245,16 +8167,16 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 2.3,
+          "o": 2.35,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.61,
+          "o": 1.57,
           "b": "DraftKings"
         },
-        "fairOver": 2.43
+        "fairOver": 2.5
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5836861",
       "fmHomeId": "8654",
       "fmAwayId": "10172",
@@ -8320,20 +8242,20 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.24,
-          "a": 9,
-          "d": 7.5
+          "h": 1.26,
+          "a": 8,
+          "d": 7
         },
         "SportyBet": {
-          "h": 1.26,
-          "d": 7.65,
-          "a": 9.24
+          "h": 1.3,
+          "d": 7.2,
+          "a": 8.36
         }
       },
       "fair": {
-        "h": 1.3,
-        "d": 7.88,
-        "a": 9.46
+        "h": 1.34,
+        "d": 7.43,
+        "a": 8.49
       },
       "open": {
         "h": 1.21,
@@ -8342,7 +8264,7 @@
       },
       "movement": [
         1.21,
-        1.24
+        1.26
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -8351,16 +8273,16 @@
       "totals": {
         "line": 4.5,
         "over": {
-          "o": 1.91,
+          "o": 2.05,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.83,
+          "o": 1.71,
           "b": "DraftKings"
         },
-        "fairOver": 2.04
+        "fairOver": 2.2
       },
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "fotmobId": "5781762",
       "fmHomeId": "8640",
       "fmAwayId": "10228",
@@ -8590,7 +8512,6 @@
           "subs": [],
           "missing": [
             "Mats Egbring",
-            "Mees Hilgers",
             "Dirk Proper"
           ]
         }
@@ -8654,7 +8575,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.69,
@@ -8729,7 +8650,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.66,
@@ -8804,7 +8725,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.76,
@@ -8879,7 +8800,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.37,
@@ -8954,7 +8875,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.51,
@@ -9029,7 +8950,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.55,
@@ -9104,26 +9025,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 2.81,
-          "d": 3.5,
-          "a": 2.64
+          "h": 2.79,
+          "d": 3.48,
+          "a": 2.67
         }
       },
       "fair": {
-        "h": 2.87,
-        "d": 3.57,
-        "a": 2.69
+        "h": 2.85,
+        "d": 3.55,
+        "a": 2.72
       },
       "open": {
-        "h": 2.81,
-        "d": 3.5,
-        "a": 2.64
+        "h": 2.79,
+        "d": 3.48,
+        "a": 2.67
       },
       "movement": [
-        2.81
+        2.79
       ],
       "totals": {
         "line": 2.5,
@@ -9364,7 +9285,6 @@
           ],
           "subs": [],
           "missing": [
-            "Maroan Sannadi",
             "Unai Eguiluz",
             "Nico Williams"
           ]
@@ -9429,7 +9349,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 4.5,
@@ -9749,23 +9669,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.1,
-          "d": 12.74,
-          "a": 28.53
+          "d": 12.84,
+          "a": 29.98
         }
       },
       "fair": {
         "h": 1.12,
-        "d": 13.03,
-        "a": 29.18
+        "d": 13.1,
+        "a": 30.59
       },
       "open": {
         "h": 1.1,
-        "d": 12.74,
-        "a": 28.53
+        "d": 12.84,
+        "a": 29.98
       },
       "movement": [
         1.1
@@ -9773,14 +9693,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.28,
+          "o": 1.27,
           "b": "SportyBet"
         },
         "under": {
-          "o": 3.9,
+          "o": 4,
           "b": "SportyBet"
         },
-        "fairOver": 1.33
+        "fairOver": 1.32
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868084",
@@ -9895,7 +9815,6 @@
           ],
           "subs": [],
           "missing": [
-            "Joan García",
             "Andreas Christensen",
             "Frenkie de Jong",
             "Raphinha",
@@ -10075,26 +9994,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.41,
-          "d": 6.06,
-          "a": 6.87
+          "h": 1.42,
+          "d": 6.04,
+          "a": 6.73
         }
       },
       "fair": {
-        "h": 1.44,
-        "d": 6.18,
-        "a": 7.01
+        "h": 1.45,
+        "d": 6.15,
+        "a": 6.85
       },
       "open": {
-        "h": 1.41,
-        "d": 6.06,
-        "a": 6.87
+        "h": 1.42,
+        "d": 6.04,
+        "a": 6.73
       },
       "movement": [
-        1.41
+        1.42
       ],
       "totals": {
         "line": 2.5,
@@ -10335,8 +10254,7 @@
           ],
           "subs": [],
           "missing": [
-            "Tajon Buchanan",
-            "Ilias Akhomach"
+            "Tajon Buchanan"
           ]
         }
       },
@@ -10399,23 +10317,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.85,
           "d": 3.36,
-          "a": 2.61
+          "a": 2.62
         }
       },
       "fair": {
         "h": 2.94,
-        "d": 3.47,
-        "a": 2.69
+        "d": 3.46,
+        "a": 2.7
       },
       "open": {
         "h": 2.85,
         "d": 3.36,
-        "a": 2.61
+        "a": 2.62
       },
       "movement": [
         2.85
@@ -10474,31 +10392,31 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.67,
-          "d": 4.09,
-          "a": 5.4
+          "h": 1.66,
+          "d": 4.12,
+          "a": 5.36
         }
       },
       "fair": {
-        "h": 1.72,
-        "d": 4.21,
-        "a": 5.55
+        "h": 1.71,
+        "d": 4.25,
+        "a": 5.53
       },
       "open": {
-        "h": 1.67,
-        "d": 4.09,
-        "a": 5.4
+        "h": 1.66,
+        "d": 4.12,
+        "a": 5.36
       },
       "movement": [
-        1.67
+        1.66
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.75,
+          "o": 1.74,
           "b": "SportyBet"
         },
         "under": {
@@ -10549,26 +10467,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.58,
-          "d": 4.35,
-          "a": 5.97
+          "h": 1.59,
+          "d": 4.37,
+          "a": 5.87
         }
       },
       "fair": {
         "h": 1.63,
-        "d": 4.48,
-        "a": 6.15
+        "d": 4.49,
+        "a": 6.04
       },
       "open": {
-        "h": 1.58,
-        "d": 4.35,
-        "a": 5.97
+        "h": 1.59,
+        "d": 4.37,
+        "a": 5.87
       },
       "movement": [
-        1.58
+        1.59
       ],
       "totals": {
         "line": 2.5,
@@ -10624,22 +10542,22 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.36,
-          "d": 3.63,
+          "d": 3.64,
           "a": 3.02
         }
       },
       "fair": {
         "h": 2.43,
-        "d": 3.74,
+        "d": 3.75,
         "a": 3.11
       },
       "open": {
         "h": 2.36,
-        "d": 3.63,
+        "d": 3.64,
         "a": 3.02
       },
       "movement": [
@@ -10699,7 +10617,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.78,
@@ -10774,26 +10692,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 11.9,
-          "d": 9.2,
+          "h": 11.73,
+          "d": 9.14,
           "a": 1.21
         }
       },
       "fair": {
-        "h": 12.13,
-        "d": 9.38,
-        "a": 1.23
+        "h": 11.98,
+        "d": 9.33,
+        "a": 1.24
       },
       "open": {
-        "h": 11.9,
-        "d": 9.2,
+        "h": 11.73,
+        "d": 9.14,
         "a": 1.21
       },
       "movement": [
-        11.9
+        11.73
       ],
       "totals": {
         "line": 2.5,
@@ -11099,22 +11017,22 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.46,
-          "d": 5.51,
+          "d": 5.5,
           "a": 6.59
         }
       },
       "fair": {
         "h": 1.49,
-        "d": 5.61,
+        "d": 5.6,
         "a": 6.71
       },
       "open": {
         "h": 1.46,
-        "d": 5.51,
+        "d": 5.5,
         "a": 6.59
       },
       "movement": [
@@ -11424,7 +11342,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.02,
@@ -11751,26 +11669,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 5.07,
+          "h": 5.02,
           "d": 4.84,
-          "a": 1.62
+          "a": 1.63
         }
       },
       "fair": {
-        "h": 5.18,
-        "d": 4.94,
-        "a": 1.65
+        "h": 5.12,
+        "d": 4.93,
+        "a": 1.66
       },
       "open": {
-        "h": 5.07,
+        "h": 5.02,
         "d": 4.84,
-        "a": 1.62
+        "a": 1.63
       },
       "movement": [
-        5.07
+        5.02
       ],
       "totals": {
         "line": 2.5,
@@ -11779,10 +11697,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 3.2,
+          "o": 3.25,
           "b": "SportyBet"
         },
-        "fairOver": 1.43
+        "fairOver": 1.42
       },
       "news": "Real odds via SportyBet feed (Bundesliga).",
       "fotmobId": "5881185",
@@ -12079,26 +11997,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 2.43,
+          "h": 2.44,
           "d": 3.84,
-          "a": 2.87
+          "a": 2.86
         }
       },
       "fair": {
-        "h": 2.48,
+        "h": 2.49,
         "d": 3.92,
-        "a": 2.93
+        "a": 2.92
       },
       "open": {
-        "h": 2.43,
+        "h": 2.44,
         "d": 3.84,
-        "a": 2.87
+        "a": 2.86
       },
       "movement": [
-        2.43
+        2.44
       ],
       "totals": {
         "line": 2.5,
@@ -12404,23 +12322,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.59,
-          "d": 5.08,
-          "a": 5.13
+          "d": 5.1,
+          "a": 5.08
         }
       },
       "fair": {
         "h": 1.62,
-        "d": 5.19,
-        "a": 5.24
+        "d": 5.21,
+        "a": 5.19
       },
       "open": {
         "h": 1.59,
-        "d": 5.08,
-        "a": 5.13
+        "d": 5.1,
+        "a": 5.08
       },
       "movement": [
         1.59
@@ -12731,23 +12649,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.12,
-          "d": 3.99,
-          "a": 3.26
+          "d": 3.98,
+          "a": 3.25
         }
       },
       "fair": {
         "h": 2.18,
-        "d": 4.11,
+        "d": 4.1,
         "a": 3.35
       },
       "open": {
         "h": 2.12,
-        "d": 3.99,
-        "a": 3.26
+        "d": 3.98,
+        "a": 3.25
       },
       "movement": [
         2.12
@@ -12806,7 +12724,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.69,
@@ -12881,7 +12799,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.98,
@@ -12956,26 +12874,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 2.62,
-          "d": 3.65,
+          "h": 2.64,
+          "d": 3.63,
           "a": 2.67
         }
       },
       "fair": {
-        "h": 2.7,
-        "d": 3.76,
+        "h": 2.72,
+        "d": 3.73,
         "a": 2.75
       },
       "open": {
-        "h": 2.62,
-        "d": 3.65,
+        "h": 2.64,
+        "d": 3.63,
         "a": 2.67
       },
       "movement": [
-        2.62
+        2.64
       ],
       "totals": {
         "line": 2.5,
@@ -13031,26 +12949,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.61,
-          "d": 4.17,
-          "a": 5.87
+          "h": 1.62,
+          "d": 4.19,
+          "a": 5.81
         }
       },
       "fair": {
-        "h": 1.66,
-        "d": 4.3,
-        "a": 6.05
+        "h": 1.67,
+        "d": 4.31,
+        "a": 5.97
       },
       "open": {
-        "h": 1.61,
-        "d": 4.17,
-        "a": 5.87
+        "h": 1.62,
+        "d": 4.19,
+        "a": 5.81
       },
       "movement": [
-        1.61
+        1.62
       ],
       "totals": {
         "line": 2.5,
@@ -13106,26 +13024,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 4.35,
+          "h": 4.38,
           "d": 3.48,
-          "a": 1.95
+          "a": 1.94
         }
       },
       "fair": {
-        "h": 4.48,
-        "d": 3.58,
-        "a": 2.01
+        "h": 4.52,
+        "d": 3.59,
+        "a": 2
       },
       "open": {
-        "h": 4.35,
+        "h": 4.38,
         "d": 3.48,
-        "a": 1.95
+        "a": 1.94
       },
       "movement": [
-        4.35
+        4.38
       ],
       "totals": {
         "line": 2.5,
@@ -13181,26 +13099,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 4.37,
-          "d": 3.89,
-          "a": 1.84
+          "h": 4.27,
+          "d": 3.85,
+          "a": 1.86
         }
       },
       "fair": {
-        "h": 4.5,
-        "d": 4,
-        "a": 1.89
+        "h": 4.4,
+        "d": 3.97,
+        "a": 1.92
       },
       "open": {
-        "h": 4.37,
-        "d": 3.89,
-        "a": 1.84
+        "h": 4.27,
+        "d": 3.85,
+        "a": 1.86
       },
       "movement": [
-        4.37
+        4.27
       ],
       "totals": {
         "line": 2.5,
@@ -13256,26 +13174,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 6.38,
-          "d": 4.07,
+          "h": 6.32,
+          "d": 4.08,
           "a": 1.59
         }
       },
       "fair": {
-        "h": 6.58,
-        "d": 4.2,
+        "h": 6.52,
+        "d": 4.21,
         "a": 1.64
       },
       "open": {
-        "h": 6.38,
-        "d": 4.07,
+        "h": 6.32,
+        "d": 4.08,
         "a": 1.59
       },
       "movement": [
-        6.38
+        6.32
       ],
       "totals": {
         "line": 2.5,
@@ -13331,23 +13249,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.58,
-          "d": 4.48,
-          "a": 5.71
+          "d": 4.52,
+          "a": 5.64
         }
       },
       "fair": {
         "h": 1.63,
-        "d": 4.62,
-        "a": 5.89
+        "d": 4.66,
+        "a": 5.82
       },
       "open": {
         "h": 1.58,
-        "d": 4.48,
-        "a": 5.71
+        "d": 4.52,
+        "a": 5.64
       },
       "movement": [
         1.58
@@ -13406,7 +13324,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.42,
@@ -13481,7 +13399,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.46,
@@ -13804,38 +13722,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 2.06,
-          "d": 3.77,
-          "a": 3.7
+          "h": 2.09,
+          "d": 3.75,
+          "a": 3.65
         }
       },
       "fair": {
-        "h": 2.1,
-        "d": 3.85,
-        "a": 3.78
+        "h": 2.13,
+        "d": 3.82,
+        "a": 3.72
       },
       "open": {
-        "h": 2.06,
-        "d": 3.77,
-        "a": 3.7
+        "h": 2.09,
+        "d": 3.75,
+        "a": 3.65
       },
       "movement": [
-        2.06
+        2.09
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.72,
+          "o": 1.73,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.2,
+          "o": 2.15,
           "b": "SportyBet"
         },
-        "fairOver": 1.78
+        "fairOver": 1.8
       },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "fotmobId": "5802946",
@@ -14125,7 +14043,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.29,
@@ -14450,7 +14368,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.63,
@@ -14772,23 +14690,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.1,
-          "d": 13.31,
-          "a": 28.7
+          "d": 13.26,
+          "a": 28.74
         }
       },
       "fair": {
         "h": 1.12,
-        "d": 13.56,
-        "a": 29.25
+        "d": 13.52,
+        "a": 29.29
       },
       "open": {
         "h": 1.1,
-        "d": 13.31,
-        "a": 28.7
+        "d": 13.26,
+        "a": 28.74
       },
       "movement": [
         1.1
@@ -15096,7 +15014,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -15120,7 +15038,7 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.67,
+          "o": 1.68,
           "b": "SportyBet"
         },
         "under": {
@@ -15171,7 +15089,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.47,
@@ -15246,7 +15164,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.8,
@@ -15321,7 +15239,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.07,
@@ -15396,7 +15314,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.25,
@@ -15492,7 +15410,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.43,
@@ -15588,7 +15506,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.39,
@@ -15612,14 +15530,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.98,
+          "o": 2,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.87,
+          "o": 1.84,
           "b": "SportyBet"
         },
-        "fairOver": 2.06
+        "fairOver": 2.09
       },
       "news": "Real odds via SportyBet feed (Championship).",
       "fotmobId": "5836860",
@@ -15684,7 +15602,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.73,
@@ -15780,7 +15698,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.75,
@@ -15876,7 +15794,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.79,
@@ -15972,7 +15890,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -16068,7 +15986,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.93,
@@ -16164,7 +16082,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.18,
@@ -16260,7 +16178,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.82,
@@ -16356,7 +16274,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.88,
@@ -16452,7 +16370,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 6.23,
@@ -16548,7 +16466,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.34,
@@ -16644,7 +16562,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.51,
@@ -16719,7 +16637,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.01,
@@ -16794,7 +16712,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -16869,7 +16787,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.58,
@@ -16944,7 +16862,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.76,
@@ -17019,38 +16937,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 2.7,
-          "d": 3.7,
-          "a": 2.45
+          "h": 2.9,
+          "d": 3.75,
+          "a": 2.3
         }
       },
       "fair": {
-        "h": 2.83,
-        "d": 3.88,
-        "a": 2.57
+        "h": 3.03,
+        "d": 3.92,
+        "a": 2.41
       },
       "open": {
-        "h": 2.7,
-        "d": 3.7,
-        "a": 2.45
+        "h": 2.9,
+        "d": 3.75,
+        "a": 2.3
       },
       "movement": [
-        2.7
+        2.9
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.53,
+          "o": 1.57,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.45,
+          "o": 2.35,
           "b": "SportyBet"
         },
-        "fairOver": 1.62
+        "fairOver": 1.67
       },
       "news": "Real odds via SportyBet feed (2. Bundesliga).",
       "fotmobId": "5881682",
@@ -17115,38 +17033,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.92,
-          "d": 3.7,
-          "a": 3.8
+          "h": 1.94,
+          "d": 3.8,
+          "a": 3.7
         }
       },
       "fair": {
-        "h": 2.02,
-        "d": 3.9,
-        "a": 4.01
+        "h": 2.03,
+        "d": 3.99,
+        "a": 3.88
       },
       "open": {
-        "h": 1.92,
-        "d": 3.7,
-        "a": 3.8
+        "h": 1.94,
+        "d": 3.8,
+        "a": 3.7
       },
       "movement": [
-        1.92
+        1.94
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.58,
+          "o": 1.55,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.35,
+          "o": 2.4,
           "b": "SportyBet"
         },
-        "fairOver": 1.67
+        "fairOver": 1.65
       },
       "news": "Real odds via SportyBet feed (2. Bundesliga).",
       "fotmobId": "5881684",
@@ -17211,7 +17129,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -17307,7 +17225,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -17331,14 +17249,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.42,
+          "o": 1.41,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.8,
+          "o": 2.85,
           "b": "SportyBet"
         },
-        "fairOver": 1.51
+        "fairOver": 1.49
       },
       "news": "Real odds via SportyBet feed (2. Bundesliga).",
       "fotmobId": "5881683",
@@ -17403,7 +17321,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -17499,7 +17417,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -17571,7 +17489,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -17646,7 +17564,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.74,
@@ -17721,7 +17639,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.59,
@@ -17796,7 +17714,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.2,
@@ -18190,7 +18108,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -18588,7 +18506,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -18612,14 +18530,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.73,
+          "o": 1.7,
           "b": "SportyBet"
         },
         "under": {
           "o": 2.05,
           "b": "SportyBet"
         },
-        "fairOver": 1.84
+        "fairOver": 1.83
       },
       "news": "Real odds via SportyBet feed (LALIGA HYPERMOTION).",
       "fotmobId": "5868485",
@@ -18985,7 +18903,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.95,
@@ -19009,14 +18927,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.59,
+          "o": 1.61,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.25,
+          "o": 2.2,
           "b": "SportyBet"
         },
-        "fairOver": 1.71
+        "fairOver": 1.73
       },
       "news": "Real odds via SportyBet feed (LALIGA HYPERMOTION).",
       "fotmobId": "5868482",
@@ -19060,7 +18978,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.66,
@@ -19084,14 +19002,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.63,
+          "o": 1.66,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.2,
+          "o": 2.15,
           "b": "SportyBet"
         },
-        "fairOver": 1.74
+        "fairOver": 1.77
       },
       "news": "Real odds via SportyBet feed (LALIGA HYPERMOTION).",
       "fotmobId": "5868481",
@@ -19135,7 +19053,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.59,
@@ -19210,7 +19128,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -19285,7 +19203,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.97,
@@ -19360,7 +19278,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -19435,26 +19353,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 2.2,
+          "h": 2.25,
           "d": 3.2,
-          "a": 3.4
+          "a": 3.25
         }
       },
       "fair": {
-        "h": 2.33,
-        "d": 3.4,
-        "a": 3.61
+        "h": 2.4,
+        "d": 3.41,
+        "a": 3.46
       },
       "open": {
-        "h": 2.2,
+        "h": 2.25,
         "d": 3.2,
-        "a": 3.4
+        "a": 3.25
       },
       "movement": [
-        2.2
+        2.25
       ],
       "totals": {
         "line": 2.5,
@@ -19497,152 +19415,6 @@
       ]
     },
     {
-      "id": "sb-brazil-fluminensefcrj-v-coritibafcpr-1791505800000",
-      "leagueId": "brazil",
-      "home": "Fluminense FC RJ",
-      "away": "Coritiba FC PR",
-      "startsIn": "10/9/2026, 12:30:00 AM",
-      "commenceISO": "2026-10-09T00:30:00.000Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "real": true,
-      "sample": false,
-      "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
-      "prices": {
-        "SportyBet": {
-          "h": 1.49,
-          "d": 4.5,
-          "a": 6.3
-        }
-      },
-      "fair": {
-        "h": 1.57,
-        "d": 4.73,
-        "a": 6.63
-      },
-      "open": {
-        "h": 1.49,
-        "d": 4.5,
-        "a": 6.3
-      },
-      "movement": [
-        1.49
-      ],
-      "totals": {
-        "line": 2.5,
-        "over": {
-          "o": 1.71,
-          "b": "SportyBet"
-        },
-        "under": {
-          "o": 2.1,
-          "b": "SportyBet"
-        },
-        "fairOver": 1.81
-      },
-      "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
-      "fotmobId": "5103644",
-      "fmHomeId": "9863",
-      "fmAwayId": "9767",
-      "form": {
-        "home": [
-          "W",
-          "W",
-          "L",
-          "L",
-          "W"
-        ],
-        "away": [
-          "W",
-          "W",
-          "L",
-          "D",
-          "L"
-        ]
-      },
-      "h2h": {
-        "homeWins": 8,
-        "draws": 8,
-        "awayWins": 5
-      }
-    },
-    {
-      "id": "sb-brazil-sepalmeirassp-v-ecbahiaba-1791505800000",
-      "leagueId": "brazil",
-      "home": "SE Palmeiras SP",
-      "away": "EC Bahia BA",
-      "startsIn": "10/9/2026, 12:30:00 AM",
-      "commenceISO": "2026-10-09T00:30:00.000Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "real": true,
-      "sample": false,
-      "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
-      "prices": {
-        "SportyBet": {
-          "h": 1.55,
-          "d": 4.5,
-          "a": 5.6
-        }
-      },
-      "fair": {
-        "h": 1.62,
-        "d": 4.71,
-        "a": 5.86
-      },
-      "open": {
-        "h": 1.55,
-        "d": 4.5,
-        "a": 5.6
-      },
-      "movement": [
-        1.55
-      ],
-      "totals": {
-        "line": 2.5,
-        "over": {
-          "o": 1.6,
-          "b": "SportyBet"
-        },
-        "under": {
-          "o": 2.3,
-          "b": "SportyBet"
-        },
-        "fairOver": 1.7
-      },
-      "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
-      "fotmobId": "5103647",
-      "fmHomeId": "10283",
-      "fmAwayId": "7877",
-      "form": {
-        "home": [
-          "D",
-          "W",
-          "W",
-          "L",
-          "D"
-        ],
-        "away": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "L"
-        ]
-      },
-      "h2h": {
-        "homeWins": 12,
-        "draws": 9,
-        "awayWins": 4
-      }
-    },
-    {
       "id": "sb-brazil-crvascodagamarj-v-clubedoremopa-1791666000000",
       "leagueId": "brazil",
       "home": "CR Vasco da Gama RJ",
@@ -19656,26 +19428,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.29,
-          "d": 5.75,
-          "a": 9.8
+          "h": 1.32,
+          "d": 5.6,
+          "a": 9
         }
       },
       "fair": {
-        "h": 1.36,
-        "d": 6.04,
-        "a": 10.3
+        "h": 1.38,
+        "d": 5.86,
+        "a": 9.43
       },
       "open": {
-        "h": 1.29,
-        "d": 5.75,
-        "a": 9.8
+        "h": 1.32,
+        "d": 5.6,
+        "a": 9
       },
       "movement": [
-        1.29
+        1.32
       ],
       "totals": {
         "line": 2.5,
@@ -19839,6 +19611,7 @@
             }
           ],
           "missing": [
+            "Bruno Duarte",
             "Carlos Cuesta",
             "Brenner"
           ]
@@ -19989,6 +19762,7 @@
           ],
           "missing": [
             "Edson Fernando",
+            "Antonio Galeano",
             "Matheus Felipe",
             "Mayk",
             "João Lucas"
@@ -20031,7 +19805,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.65,
@@ -20067,7 +19841,336 @@
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103656",
       "fmHomeId": "10277",
-      "fmAwayId": "7733"
+      "fmAwayId": "7733",
+      "lineups": {
+        "home": {
+          "name": "São Paulo",
+          "formation": "3-4-1-2",
+          "rating": null,
+          "coach": "Dorival Júnior",
+          "xi": [
+            {
+              "name": "Carlos Coronel",
+              "shirt": "31",
+              "pos": 11,
+              "x": 0.1,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Rafael Tolói",
+              "shirt": "2",
+              "pos": 33,
+              "x": 0.292,
+              "y": 0.79,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Robert Arboleda",
+              "shirt": "5",
+              "pos": 35,
+              "x": 0.292,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Sabino",
+              "shirt": "35",
+              "pos": 37,
+              "x": 0.292,
+              "y": 0.21,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Pedro Lima",
+              "shirt": "32",
+              "pos": 62,
+              "x": 0.485,
+              "y": 0.875,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Pablo Maia",
+              "shirt": "29",
+              "pos": 64,
+              "x": 0.485,
+              "y": 0.625,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Marcos Antônio",
+              "shirt": "8",
+              "pos": 66,
+              "x": 0.485,
+              "y": 0.375,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Wendell",
+              "shirt": "18",
+              "pos": 68,
+              "x": 0.485,
+              "y": 0.125,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Damián Bobadilla",
+              "shirt": "16",
+              "pos": 85,
+              "x": 0.678,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Jonathan Calleri",
+              "shirt": "9",
+              "pos": 104,
+              "x": 0.87,
+              "y": 0.7,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Artur",
+              "shirt": "37",
+              "pos": 106,
+              "x": 0.87,
+              "y": 0.3,
+              "rating": null,
+              "goals": null
+            }
+          ],
+          "subs": [
+            {
+              "name": "João Pedro",
+              "shirt": "41"
+            },
+            {
+              "name": "Luis Osorio",
+              "shirt": "54"
+            },
+            {
+              "name": "Lucas Ramon",
+              "shirt": "19"
+            },
+            {
+              "name": "Pedro Ferreira",
+              "shirt": "46"
+            },
+            {
+              "name": "Newton",
+              "shirt": "28"
+            },
+            {
+              "name": "Pedro Bezerra",
+              "shirt": "58"
+            },
+            {
+              "name": "Djhordney",
+              "shirt": "48"
+            },
+            {
+              "name": "Ferreira",
+              "shirt": "11"
+            },
+            {
+              "name": "André",
+              "shirt": "17"
+            }
+          ],
+          "missing": [
+            "Marcos Antônio",
+            "Iago",
+            "Danielzinho",
+            "Luciano",
+            "Rafael",
+            "Domingos Duarte"
+          ]
+        },
+        "away": {
+          "name": "Vitória",
+          "formation": "4-2-3-1",
+          "rating": null,
+          "coach": "Jair Ventura",
+          "xi": [
+            {
+              "name": "Lucas Arcanjo",
+              "shirt": "1",
+              "pos": 11,
+              "x": 0.1,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Mateusinho",
+              "shirt": "98",
+              "pos": 32,
+              "x": 0.292,
+              "y": 0.875,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Cacá",
+              "shirt": "25",
+              "pos": 34,
+              "x": 0.292,
+              "y": 0.625,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Luan Cândido",
+              "shirt": "36",
+              "pos": 36,
+              "x": 0.292,
+              "y": 0.375,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Jamerson",
+              "shirt": "83",
+              "pos": 38,
+              "x": 0.292,
+              "y": 0.125,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Caíque",
+              "shirt": "95",
+              "pos": 64,
+              "x": 0.485,
+              "y": 0.7,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Emmanuel Martínez",
+              "shirt": "6",
+              "pos": 66,
+              "x": 0.485,
+              "y": 0.3,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Erick",
+              "shirt": "33",
+              "pos": 83,
+              "x": 0.678,
+              "y": 0.837,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Matheuzinho",
+              "shirt": "10",
+              "pos": 85,
+              "x": 0.678,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Diego Tarzia",
+              "shirt": "12",
+              "pos": 87,
+              "x": 0.678,
+              "y": 0.163,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Renê",
+              "shirt": "91",
+              "pos": 115,
+              "x": 0.87,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            }
+          ],
+          "subs": [
+            {
+              "name": "Yuri",
+              "shirt": "71"
+            },
+            {
+              "name": "Emanuel Brítez",
+              "shirt": "2"
+            },
+            {
+              "name": "Walace",
+              "shirt": "15"
+            },
+            {
+              "name": "Edenilson",
+              "shirt": "26"
+            },
+            {
+              "name": "Tomás Pochettino",
+              "shirt": "8"
+            },
+            {
+              "name": "Zé Vitor",
+              "shirt": "88"
+            },
+            {
+              "name": "Ignacio Laquintana",
+              "shirt": "77"
+            },
+            {
+              "name": "Renato Kayzer",
+              "shirt": "79"
+            },
+            {
+              "name": "Lucas Silva",
+              "shirt": "20"
+            }
+          ],
+          "missing": [
+            "Diego Tarzia",
+            "Ignacio Laquintana",
+            "Ramon",
+            "Gabriel Baralhas",
+            "Nathan Mendes",
+            "Anderson Pato"
+          ]
+        }
+      },
+      "form": {
+        "home": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "away": [
+          "L",
+          "W",
+          "D",
+          "L",
+          "W"
+        ]
+      },
+      "h2h": {
+        "homeWins": 12,
+        "draws": 0,
+        "awayWins": 5
+      }
     },
     {
       "id": "sb-brazil-atleticomineirom-v-santosfcsp-1791745200000",
@@ -20083,7 +20186,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2,
@@ -20135,26 +20238,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.37,
-          "d": 5,
-          "a": 8.2
+          "h": 1.44,
+          "d": 4.75,
+          "a": 7.1
         }
       },
       "fair": {
-        "h": 1.44,
-        "d": 5.26,
-        "a": 8.63
+        "h": 1.51,
+        "d": 4.97,
+        "a": 7.43
       },
       "open": {
-        "h": 1.37,
-        "d": 5,
-        "a": 8.2
+        "h": 1.44,
+        "d": 4.75,
+        "a": 7.1
       },
       "movement": [
-        1.37
+        1.44
       ],
       "totals": {
         "line": 2.5,
@@ -20187,7 +20290,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.75,
@@ -20239,26 +20342,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.53,
-          "d": 4.1,
-          "a": 6.5
+          "h": 1.58,
+          "d": 3.9,
+          "a": 6.2
         }
       },
       "fair": {
-        "h": 1.61,
-        "d": 4.31,
-        "a": 6.83
+        "h": 1.66,
+        "d": 4.1,
+        "a": 6.51
       },
       "open": {
-        "h": 1.53,
-        "d": 4.1,
-        "a": 6.5
+        "h": 1.58,
+        "d": 3.9,
+        "a": 6.2
       },
       "movement": [
-        1.53
+        1.58
       ],
       "totals": {
         "line": 2.5,
@@ -20291,26 +20394,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.68,
-          "d": 4,
-          "a": 4.9
+          "h": 1.72,
+          "d": 3.9,
+          "a": 4.7
         }
       },
       "fair": {
-        "h": 1.76,
-        "d": 4.2,
-        "a": 5.14
+        "h": 1.81,
+        "d": 4.1,
+        "a": 4.94
       },
       "open": {
-        "h": 1.68,
-        "d": 4,
-        "a": 4.9
+        "h": 1.72,
+        "d": 3.9,
+        "a": 4.7
       },
       "movement": [
-        1.68
+        1.72
       ],
       "totals": {
         "line": 2.5,
@@ -20343,23 +20446,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.6,
-          "d": 3.4,
-          "a": 2.65
+          "d": 3.5,
+          "a": 2.55
         }
       },
       "fair": {
-        "h": 2.75,
-        "d": 3.59,
-        "a": 2.8
+        "h": 2.76,
+        "d": 3.72,
+        "a": 2.71
       },
       "open": {
         "h": 2.6,
-        "d": 3.4,
-        "a": 2.65
+        "d": 3.5,
+        "a": 2.55
       },
       "movement": [
         2.6
@@ -20367,19 +20470,123 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.82,
+          "o": 1.79,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.92,
+          "o": 1.96,
           "b": "SportyBet"
         },
-        "fairOver": 1.95
+        "fairOver": 1.91
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103661",
       "fmHomeId": "9767",
       "fmAwayId": "8517"
+    },
+    {
+      "id": "sb-brazil-chapecoensesc-v-caparanaensepr-1791844200000",
+      "leagueId": "brazil",
+      "home": "Chapecoense SC",
+      "away": "CA Paranaense PR",
+      "startsIn": "10/12/2026, 10:30:00 PM",
+      "commenceISO": "2026-10-12T22:30:00.000Z",
+      "live": false,
+      "status": "upcoming",
+      "score": null,
+      "minute": null,
+      "real": true,
+      "sample": false,
+      "oddsStatus": "live",
+      "sbAt": "2026-10-09T05:27:04.928Z",
+      "prices": {
+        "SportyBet": {
+          "h": 3.6,
+          "d": 3.4,
+          "a": 2.05
+        }
+      },
+      "fair": {
+        "h": 3.81,
+        "d": 3.6,
+        "a": 2.17
+      },
+      "open": {
+        "h": 3.6,
+        "d": 3.4,
+        "a": 2.05
+      },
+      "movement": [
+        3.6
+      ],
+      "totals": {
+        "line": 2.5,
+        "over": {
+          "o": 1.92,
+          "b": "SportyBet"
+        },
+        "under": {
+          "o": 1.82,
+          "b": "SportyBet"
+        },
+        "fairOver": 2.05
+      },
+      "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
+      "fotmobId": "5103663",
+      "fmHomeId": "197693",
+      "fmAwayId": "10273"
+    },
+    {
+      "id": "sb-brazil-redbullbragantin-v-cruzeiroecmg-1791849600000",
+      "leagueId": "brazil",
+      "home": "Red Bull Bragantino SP",
+      "away": "Cruzeiro EC MG",
+      "startsIn": "10/13/2026, 12:00:00 AM",
+      "commenceISO": "2026-10-13T00:00:00.000Z",
+      "live": false,
+      "status": "upcoming",
+      "score": null,
+      "minute": null,
+      "real": true,
+      "sample": false,
+      "oddsStatus": "live",
+      "sbAt": "2026-10-09T05:27:04.928Z",
+      "prices": {
+        "SportyBet": {
+          "h": 2.15,
+          "d": 3.5,
+          "a": 3.2
+        }
+      },
+      "fair": {
+        "h": 2.29,
+        "d": 3.72,
+        "a": 3.4
+      },
+      "open": {
+        "h": 2.15,
+        "d": 3.5,
+        "a": 3.2
+      },
+      "movement": [
+        2.15
+      ],
+      "totals": {
+        "line": 2.5,
+        "over": {
+          "o": 1.73,
+          "b": "SportyBet"
+        },
+        "under": {
+          "o": 2.05,
+          "b": "SportyBet"
+        },
+        "fairOver": 1.84
+      },
+      "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
+      "fotmobId": "5103658",
+      "fmHomeId": "109705",
+      "fmAwayId": "9781"
     },
     {
       "id": "sb-brazil-ecjuventuders-v-saobernardofc-1791745200000",
@@ -20395,7 +20602,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.55,
@@ -20447,7 +20654,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.74,
@@ -20496,38 +20703,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 2.25,
+          "h": 2.35,
           "d": 3.2,
-          "a": 3.33
+          "a": 3.1
         }
       },
       "fair": {
-        "h": 2.38,
-        "d": 3.38,
-        "a": 3.52
+        "h": 2.49,
+        "d": 3.39,
+        "a": 3.29
       },
       "open": {
-        "h": 2.25,
+        "h": 2.35,
         "d": 3.2,
-        "a": 3.33
+        "a": 3.1
       },
       "movement": [
-        2.25
+        2.35
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.15,
+          "o": 2.1,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.64,
+          "o": 1.7,
           "b": "SportyBet"
         },
-        "fairOver": 2.31
+        "fairOver": 2.24
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190766",
@@ -20548,7 +20755,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.66,
@@ -20572,14 +20779,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.25,
+          "o": 2.2,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.6,
+          "o": 1.63,
           "b": "SportyBet"
         },
-        "fairOver": 2.41
+        "fairOver": 2.35
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190767",
@@ -20600,26 +20807,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 2.05,
+          "h": 2.1,
           "d": 3.3,
-          "a": 3.7
+          "a": 3.5
         }
       },
       "fair": {
-        "h": 2.18,
-        "d": 3.5,
-        "a": 3.93
+        "h": 2.24,
+        "d": 3.51,
+        "a": 3.73
       },
       "open": {
-        "h": 2.05,
+        "h": 2.1,
         "d": 3.3,
-        "a": 3.7
+        "a": 3.5
       },
       "movement": [
-        2.05
+        2.1
       ],
       "totals": {
         "line": 2.5,
@@ -20628,10 +20835,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.62,
+          "o": 1.64,
           "b": "SportyBet"
         },
-        "fairOver": 2.36
+        "fairOver": 2.34
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190762",
@@ -20652,7 +20859,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.79,
@@ -20701,26 +20908,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.1,
-          "d": 9.25,
-          "a": 20
+          "h": 1.08,
+          "d": 10,
+          "a": 22
         }
       },
       "fair": {
-        "h": 1.17,
-        "d": 9.87,
-        "a": 21.34
+        "h": 1.16,
+        "d": 10.71,
+        "a": 23.57
       },
       "open": {
-        "h": 1.1,
-        "d": 9.25,
-        "a": 20
+        "h": 1.08,
+        "d": 10,
+        "a": 22
       },
       "movement": [
-        1.1
+        1.08
       ],
       "totals": {
         "line": 2.5,
@@ -20753,26 +20960,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 1.39,
-          "d": 4.4,
-          "a": 7.9
+          "h": 1.33,
+          "d": 4.75,
+          "a": 9.25
         }
       },
       "fair": {
-        "h": 1.49,
-        "d": 4.72,
-        "a": 8.48
+        "h": 1.42,
+        "d": 5.08,
+        "a": 9.9
       },
       "open": {
-        "h": 1.39,
-        "d": 4.4,
-        "a": 7.9
+        "h": 1.33,
+        "d": 4.75,
+        "a": 9.25
       },
       "movement": [
-        1.39
+        1.33
       ],
       "totals": {
         "line": 2.5,
@@ -20805,7 +21012,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -20857,7 +21064,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.1,
@@ -20909,7 +21116,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.84,
@@ -21287,7 +21494,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 3.3,
@@ -21383,26 +21590,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
-          "h": 2,
-          "d": 3.4,
-          "a": 3.7
+          "h": 1.9,
+          "d": 3.5,
+          "a": 4
         }
       },
       "fair": {
-        "h": 2.13,
-        "d": 3.62,
-        "a": 3.94
+        "h": 2.02,
+        "d": 3.72,
+        "a": 4.25
       },
       "open": {
-        "h": 2,
-        "d": 3.4,
-        "a": 3.7
+        "h": 1.9,
+        "d": 3.5,
+        "a": 4
       },
       "movement": [
-        2
+        1.9
       ],
       "totals": {
         "line": 2.5,
@@ -21458,7 +21665,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -21533,7 +21740,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.52,
@@ -21605,7 +21812,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 5.3,
@@ -21629,14 +21836,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.92,
+          "o": 1.93,
           "b": "SportyBet"
         },
         "under": {
           "o": 1.82,
           "b": "SportyBet"
         },
-        "fairOver": 2.05
+        "fairOver": 2.06
       },
       "news": "Real odds via SportyBet feed (Championship).",
       "newsItems": [
@@ -21677,7 +21884,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 1.52,
@@ -21726,7 +21933,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-08T23:43:09.926Z",
+      "sbAt": "2026-10-09T05:27:04.928Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -21852,12 +22059,12 @@
     "Betika"
   ],
   "tips": [],
-  "updatedAt": "2026-10-08T23:43:09.926Z",
-  "generatedAt": "2026-10-08T23:43:09.926Z",
+  "updatedAt": "2026-10-09T05:27:04.928Z",
+  "generatedAt": "2026-10-09T05:27:04.928Z",
   "metadata": {
     "mode": "hybrid",
-    "oddsUpdatedAt": "2026-10-08T23:43:09.926Z",
-    "scoresUpdatedAt": "2026-10-08T23:43:09.926Z",
+    "oddsUpdatedAt": "2026-10-09T05:27:04.928Z",
+    "scoresUpdatedAt": "2026-10-09T05:27:04.928Z",
     "dataSources": [
       "ESPN scoreboards + odds (free)",
       "SportyBet odds feed (free)"
@@ -21866,18 +22073,18 @@
     "counts": {
       "real": 149
     },
-    "historyPoints": 6501,
+    "historyPoints": 6497,
     "books": {
       "Pinnacle": {
         "updatedAt": null,
         "source": "not in feed"
       },
       "DraftKings": {
-        "updatedAt": "2026-10-08T23:43:09.926Z",
+        "updatedAt": "2026-10-09T05:27:04.928Z",
         "source": "live feed"
       },
       "SportyBet": {
-        "updatedAt": "2026-10-08T23:43:09.926Z",
+        "updatedAt": "2026-10-09T05:27:04.928Z",
         "source": "live feed"
       },
       "Betway": {
@@ -21921,35 +22128,35 @@
       "espn": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-08T23:43:10.800Z",
+        "lastOk": "2026-10-09T05:27:05.950Z",
         "lastError": null,
         "count": 44
       },
       "sportybet": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-08T23:43:22.118Z",
+        "lastOk": "2026-10-09T05:27:17.524Z",
         "lastError": null,
         "count": 0
       },
       "fotmob": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-08T23:43:32.752Z",
+        "lastOk": "2026-10-09T05:27:30.190Z",
         "lastError": null,
-        "count": 55
+        "count": 54
       },
       "espn-news": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-08T23:43:37.160Z",
+        "lastOk": "2026-10-09T05:27:34.585Z",
         "lastError": null,
         "count": 127
       },
       "oddsapi": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-08T23:43:37.161Z",
+        "lastOk": "2026-10-09T05:27:34.586Z",
         "lastError": null,
         "count": 0
       }
