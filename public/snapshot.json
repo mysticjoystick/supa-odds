@@ -22,9 +22,9 @@
           "d": 4.9
         },
         "SportyBet": {
-          "h": 1.46,
-          "d": 4.92,
-          "a": 7.64
+          "h": 1.44,
+          "d": 5.03,
+          "a": 7.99
         }
       },
       "fair": {
@@ -57,7 +57,7 @@
         },
         "fairOver": 1.94
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "5795465",
       "fmHomeId": "9825",
       "fmAwayId": "8463",
@@ -170,12 +170,10 @@
           ],
           "subs": [],
           "missing": [
-            "Max Dowman",
             "Ezri Konsa",
-            "Piero Hincapié",
-            "Ben White",
             "William Saliba",
-            "Christos Tzolis"
+            "Christos Tzolis",
+            "Kai Havertz"
           ]
         },
         "away": {
@@ -449,6 +447,13 @@
       },
       "newsItems": [
         {
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
+        },
+        {
           "headline": "Arsenal 'very lucky' Mikel Arteta signed new deal, he is the 'best' - Declan Rice",
           "description": "Declan Rice has said that Arsenal are \"very lucky\" to have the \"best\" coach in Mikel Arteta after the Spaniard signed a four-year contract, committing his future at the club.",
           "published": "2026-10-09T22:26:00Z",
@@ -461,13 +466,6 @@
           "published": "2026-10-09T21:49:41Z",
           "image": "https://a.espncdn.com/photo/2026/1009/r1728428_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50142918/mikel-arteta-man-city-charges-guilty-arsenal"
-        },
-        {
-          "headline": "Michael Carrick: No timeline for Benjamin Sesko's Man United return",
-          "description": "Michael Carrick has said there is no timeline for Benjamin Sesko's return after the Manchester United striker suffered a second shin injury.",
-          "published": "2026-10-09T21:30:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728417_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50142759/man-united-injury-news-benjamin-sesko-michael-carrick"
         }
       ]
     },
@@ -528,7 +526,7 @@
         },
         "fairOver": 1.79
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "5795466",
       "fmHomeId": "10252",
       "fmAwayId": "9937",
@@ -644,9 +642,9 @@
             "Matty Cash",
             "Modou Kéba Cissé",
             "Marco Bizot",
-            "Pau Torres",
             "Leon Goretzka",
-            "Ian Maatsen"
+            "Ian Maatsen",
+            "Amadou Onana"
           ]
         },
         "away": {
@@ -921,6 +919,13 @@
       },
       "newsItems": [
         {
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
+        },
+        {
           "headline": "Burley: Carrick faces added pressure against Spurs",
           "description": "Burley: Carrick faces added pressure against Spurs",
           "published": "2026-10-09T22:13:25Z",
@@ -933,13 +938,6 @@
           "published": "2026-10-09T22:26:00Z",
           "image": "https://a.espncdn.com/photo/2026/1009/r1728425_3_594x334_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50143021/arsenal-lucky-best-arteta-signed-deal-rice"
-        },
-        {
-          "headline": "Nicol: Manchester City will 'struggle at Anfield'",
-          "description": "Nicol: Manchester City will 'struggle at Anfield'",
-          "published": "2026-10-09T22:13:07Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50143007/manchester-city-struggle-anfield"
         }
       ]
     },
@@ -965,9 +963,9 @@
           "d": 4.2
         },
         "SportyBet": {
-          "h": 1.75,
-          "d": 4.38,
-          "a": 4.57
+          "h": 1.74,
+          "d": 4.37,
+          "a": 4.6
         }
       },
       "fair": {
@@ -1000,7 +998,7 @@
         },
         "fairOver": 2.36
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "5795467",
       "fmHomeId": "8455",
       "fmAwayId": "8678",
@@ -1400,18 +1398,18 @@
           "url": "https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall"
         },
         {
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
+        },
+        {
           "headline": "Burley: Carrick faces added pressure against Spurs",
           "description": "Burley: Carrick faces added pressure against Spurs",
           "published": "2026-10-09T22:13:25Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Burley_Carrick_faces_added_pressure_against_Spurs/dm_261009_Burley_Carrick_faces_added_pressure_against_Spurs.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50143029/carrick-faces-added-pressure-spurs"
-        },
-        {
-          "headline": "Arsenal 'very lucky' Mikel Arteta signed new deal, he is the 'best' - Declan Rice",
-          "description": "Declan Rice has said that Arsenal are \"very lucky\" to have the \"best\" coach in Mikel Arteta after the Spaniard signed a four-year contract, committing his future at the club.",
-          "published": "2026-10-09T22:26:00Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728425_3_594x334_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50143021/arsenal-lucky-best-arteta-signed-deal-rice"
         }
       ]
     },
@@ -1437,9 +1435,9 @@
           "d": 3.55
         },
         "SportyBet": {
-          "h": 2.8,
-          "d": 3.59,
-          "a": 2.61
+          "h": 2.81,
+          "d": 3.61,
+          "a": 2.58
         }
       },
       "fair": {
@@ -1472,7 +1470,7 @@
         },
         "fairOver": 1.83
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "5795471",
       "fmHomeId": "9902",
       "fmAwayId": "9879",
@@ -1857,6 +1855,13 @@
       },
       "newsItems": [
         {
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
+        },
+        {
           "headline": "Burley: Carrick faces added pressure against Spurs",
           "description": "Burley: Carrick faces added pressure against Spurs",
           "published": "2026-10-09T22:13:25Z",
@@ -1869,13 +1874,6 @@
           "published": "2026-10-09T22:26:00Z",
           "image": "https://a.espncdn.com/photo/2026/1009/r1728425_3_594x334_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50143021/arsenal-lucky-best-arteta-signed-deal-rice"
-        },
-        {
-          "headline": "Nicol: Manchester City will 'struggle at Anfield'",
-          "description": "Nicol: Manchester City will 'struggle at Anfield'",
-          "published": "2026-10-09T22:13:07Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50143007/manchester-city-struggle-anfield"
         }
       ]
     },
@@ -1901,9 +1899,9 @@
           "d": 3.5
         },
         "SportyBet": {
-          "h": 3.09,
-          "d": 3.58,
-          "a": 2.4
+          "h": 3.1,
+          "d": 3.6,
+          "a": 2.38
         }
       },
       "fair": {
@@ -1936,7 +1934,7 @@
         },
         "fairOver": 1.9
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "5795474",
       "fmHomeId": "8472",
       "fmAwayId": "10204",
@@ -2327,6 +2325,13 @@
       },
       "newsItems": [
         {
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
+        },
+        {
           "headline": "Burley: Carrick faces added pressure against Spurs",
           "description": "Burley: Carrick faces added pressure against Spurs",
           "published": "2026-10-09T22:13:25Z",
@@ -2339,13 +2344,6 @@
           "published": "2026-10-09T22:26:00Z",
           "image": "https://a.espncdn.com/photo/2026/1009/r1728425_3_594x334_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50143021/arsenal-lucky-best-arteta-signed-deal-rice"
-        },
-        {
-          "headline": "Nicol: Manchester City will 'struggle at Anfield'",
-          "description": "Nicol: Manchester City will 'struggle at Anfield'",
-          "published": "2026-10-09T22:13:07Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50143007/manchester-city-struggle-anfield"
         }
       ]
     },
@@ -2373,7 +2371,7 @@
         "SportyBet": {
           "h": 1.76,
           "d": 4.3,
-          "a": 4.52
+          "a": 4.56
         }
       },
       "fair": {
@@ -2406,7 +2404,7 @@
         },
         "fairOver": 2.36
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "5795473",
       "fmHomeId": "10260",
       "fmAwayId": "8586",
@@ -2798,6 +2796,13 @@
       },
       "newsItems": [
         {
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
+        },
+        {
           "headline": "Nicol: Manchester City will 'struggle at Anfield'",
           "description": "Nicol: Manchester City will 'struggle at Anfield'",
           "published": "2026-10-09T22:13:07Z",
@@ -2810,13 +2815,6 @@
           "published": "2026-10-09T21:49:41Z",
           "image": "https://a.espncdn.com/photo/2026/1009/r1728428_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50142918/mikel-arteta-man-city-charges-guilty-arsenal"
-        },
-        {
-          "headline": "Michael Carrick: No timeline for Benjamin Sesko's Man United return",
-          "description": "Michael Carrick has said there is no timeline for Benjamin Sesko's return after the Manchester United striker suffered a second shin injury.",
-          "published": "2026-10-09T21:30:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728417_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50142759/man-united-injury-news-benjamin-sesko-michael-carrick"
         }
       ]
     },
@@ -2853,7 +2851,7 @@
         "home": {
           "name": "Málaga",
           "formation": "4-1-4-1",
-          "rating": 7,
+          "rating": 6.9,
           "coach": "Juan Funes",
           "xi": [
             {
@@ -2871,7 +2869,7 @@
               "pos": 32,
               "x": 0.292,
               "y": 0.875,
-              "rating": 7.6,
+              "rating": 7.5,
               "goals": null
             },
             {
@@ -2889,7 +2887,7 @@
               "pos": 36,
               "x": 0.292,
               "y": 0.375,
-              "rating": 7.4,
+              "rating": 7.3,
               "goals": null
             },
             {
@@ -2916,7 +2914,7 @@
               "pos": 82,
               "x": 0.678,
               "y": 0.875,
-              "rating": 7.6,
+              "rating": 7.8,
               "goals": null
             },
             {
@@ -2952,7 +2950,7 @@
               "pos": 115,
               "x": 0.89,
               "y": 0.5,
-              "rating": 6.6,
+              "rating": 6.4,
               "goals": null
             }
           ],
@@ -3156,7 +3154,7 @@
           "id": "1202525",
           "name": "Bryan Zaragoza",
           "team": "Espanyol",
-          "rating": 8.17,
+          "rating": 8.18,
           "goals": 1,
           "assists": 0,
           "minutes": 73
@@ -3171,19 +3169,19 @@
           "minutes": 90
         },
         {
-          "id": "1317624",
-          "name": "Dani Lorenzo",
+          "id": "1108863",
+          "name": "David Larrubia",
           "team": "Málaga",
-          "rating": 7.64,
+          "rating": 7.75,
           "goals": 0,
           "assists": 0,
           "minutes": 90
         },
         {
-          "id": "1108863",
-          "name": "David Larrubia",
+          "id": "1317624",
+          "name": "Dani Lorenzo",
           "team": "Málaga",
-          "rating": 7.58,
+          "rating": 7.63,
           "goals": 0,
           "assists": 0,
           "minutes": 90
@@ -3192,7 +3190,7 @@
           "id": "1668274",
           "name": "Carlos Puga",
           "team": "Málaga",
-          "rating": 7.56,
+          "rating": 7.5,
           "goals": 0,
           "assists": 0,
           "minutes": 62
@@ -3201,28 +3199,28 @@
           "id": "1427828",
           "name": "Javi Hernández",
           "team": "Espanyol",
-          "rating": 7.4,
+          "rating": 7.36,
           "goals": 0,
           "assists": 1,
           "minutes": 57
         },
         {
-          "id": "1260010",
-          "name": "Ángel Recio",
-          "team": "Málaga",
-          "rating": 7.37,
+          "id": "1184772",
+          "name": "Ángel Fortuno",
+          "team": "Espanyol",
+          "rating": 7.34,
           "goals": 0,
           "assists": 0,
           "minutes": 90
         },
         {
-          "id": "923298",
-          "name": "Pablo Martínez",
+          "id": "1260010",
+          "name": "Ángel Recio",
           "team": "Málaga",
-          "rating": 7.28,
+          "rating": 7.34,
           "goals": 0,
           "assists": 0,
-          "minutes": 82
+          "minutes": 90
         }
       ],
       "starMen": {
@@ -3478,46 +3476,21 @@
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
       "startsIn": "10/10/2026, 12:00:00 AM",
       "commenceISO": "2026-10-10T00:00Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 1.77,
-          "a": 2.1
-        }
+      "live": true,
+      "status": "inplay",
+      "score": {
+        "home": 87,
+        "away": 94
       },
-      "fair": {
-        "h": 1.84,
-        "d": null,
-        "a": 2.19
-      },
-      "open": {
-        "h": 1.65,
-        "d": null,
-        "a": 2.3
-      },
-      "movement": [
-        1.65,
-        1.77
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "minute": "9:13",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 239.5,
-        "over": {
-          "o": 1.93,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.89,
-          "b": "DraftKings"
-        },
-        "fairOver": 2.02
-      },
       "newsItems": [
         {
           "headline": "Fantasy basketball draft guide: Rankings, mock drafts, sleepers, projections and analysis",
@@ -3570,25 +3543,25 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
+        {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -3609,14 +3582,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.26,
-          "a": 4
+          "h": 1.25,
+          "a": 4.1
         }
       },
       "fair": {
-        "h": 1.31,
+        "h": 1.3,
         "d": null,
-        "a": 4.17
+        "a": 4.28
       },
       "open": {
         "h": 2.1,
@@ -3625,7 +3598,7 @@
       },
       "movement": [
         2.1,
-        1.26
+        1.25
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -3652,18 +3625,18 @@
           "url": "https://www.espn.com/video/clip/_/id/50142927/eagles-tested-jaguars"
         },
         {
-          "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
-          "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-          "published": "2026-10-09T22:36:03Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
         },
         {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
         }
       ]
     },
@@ -3727,18 +3700,18 @@
           "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         },
         {
-          "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
-          "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-          "published": "2026-10-09T22:36:03Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
         },
         {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
         }
       ]
     },
@@ -3759,14 +3732,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 3.95,
-          "a": 1.27
+          "h": 3.85,
+          "a": 1.28
         }
       },
       "fair": {
-        "h": 4.11,
+        "h": 4.01,
         "d": null,
-        "a": 1.32
+        "a": 1.33
       },
       "open": {
         "h": 2.6,
@@ -3775,45 +3748,45 @@
       },
       "movement": [
         2.6,
-        3.95
+        3.85
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
       "real": true,
       "sample": false,
       "totals": {
-        "line": 37.5,
+        "line": 38.5,
         "over": {
-          "o": 1.87,
-          "b": "DraftKings"
-        },
-        "under": {
           "o": 1.95,
           "b": "DraftKings"
         },
-        "fairOver": 1.96
+        "under": {
+          "o": 1.87,
+          "b": "DraftKings"
+        },
+        "fairOver": 2.04
       },
       "newsItems": [
+        {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
         {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -3870,25 +3843,25 @@
       },
       "newsItems": [
         {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
+        {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -3945,25 +3918,25 @@
       },
       "newsItems": [
         {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
+        {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -4020,25 +3993,25 @@
       },
       "newsItems": [
         {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
+        {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -4059,14 +4032,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.74,
-          "a": 2.14
+          "h": 1.77,
+          "a": 2.1
         }
       },
       "fair": {
-        "h": 1.81,
+        "h": 1.84,
         "d": null,
-        "a": 2.23
+        "a": 2.19
       },
       "open": {
         "h": 1.8,
@@ -4075,7 +4048,7 @@
       },
       "movement": [
         1.8,
-        1.74
+        1.77
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -4095,25 +4068,25 @@
       },
       "newsItems": [
         {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
+        {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -4159,36 +4132,36 @@
       "totals": {
         "line": 43.5,
         "over": {
-          "o": 1.87,
+          "o": 1.91,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.95,
+          "o": 1.91,
           "b": "DraftKings"
         },
-        "fairOver": 1.96
+        "fairOver": 2
       },
       "newsItems": [
+        {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
         {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -4209,14 +4182,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.56,
-          "a": 2.5
+          "h": 1.59,
+          "a": 2.42
         }
       },
       "fair": {
-        "h": 1.62,
+        "h": 1.66,
         "d": null,
-        "a": 2.6
+        "a": 2.52
       },
       "open": {
         "h": 1.74,
@@ -4225,7 +4198,7 @@
       },
       "movement": [
         1.74,
-        1.56
+        1.59
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -4245,25 +4218,25 @@
       },
       "newsItems": [
         {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
+        {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -4320,11 +4293,18 @@
       },
       "newsItems": [
         {
-          "headline": "Broncos OC Davis Webb says 'not ideal' to lose playcalling duties",
-          "description": "Broncos offensive coordinator Davis Webb said that \"it's not ideal\" to have been stripped of playcalling duties, but said he plans to \"be the best offensive coordinator I can be.\"",
-          "published": "2026-10-09T21:45:55Z",
-          "image": "https://a.espncdn.com/photo/2026/0920/r1719267_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50142757/broncos-oc-davis-webb-says-not-ideal-lose-play-calling-duties"
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
         },
         {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
@@ -4332,13 +4312,6 @@
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
         }
       ]
     },
@@ -4395,25 +4368,25 @@
       },
       "newsItems": [
         {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
+        {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -4477,18 +4450,18 @@
           "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
         },
         {
-          "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
-          "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-          "published": "2026-10-09T22:36:03Z",
-          "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
         },
         {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
         }
       ]
     },
@@ -4509,14 +4482,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.54,
-          "a": 2.54
+          "h": 1.56,
+          "a": 2.5
         }
       },
       "fair": {
-        "h": 1.61,
+        "h": 1.62,
         "d": null,
-        "a": 2.65
+        "a": 2.6
       },
       "open": {
         "h": 2.8,
@@ -4525,7 +4498,7 @@
       },
       "movement": [
         2.8,
-        1.54
+        1.56
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -4545,25 +4518,25 @@
       },
       "newsItems": [
         {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
+        {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -4620,25 +4593,25 @@
       },
       "newsItems": [
         {
+          "headline": "Rams DT Aaron Donald practices in full, plans to play MNF",
+          "description": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+          "published": "2026-10-10T00:05:43Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728453_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills"
+        },
+        {
+          "headline": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
+          "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+          "published": "2026-10-10T01:25:41Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728267_576x324_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active"
+        },
+        {
           "headline": "Fantasy playbook: NFL Week 5 Shadow Reports, lineup locks and projected scores",
           "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
           "published": "2026-10-09T22:36:03Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727772_576x324_16-9.jpg",
           "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow"
-        },
-        {
-          "headline": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-          "description": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-          "published": "2026-10-09T22:16:36Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728432_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks"
-        },
-        {
-          "headline": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-          "description": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-          "published": "2026-10-09T21:52:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728308_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
         }
       ]
     },
@@ -4664,9 +4637,9 @@
           "d": 3.15
         },
         "SportyBet": {
-          "h": 3.31,
-          "d": 3.38,
-          "a": 2.37
+          "h": 3.34,
+          "d": 3.39,
+          "a": 2.35
         }
       },
       "fair": {
@@ -4699,7 +4672,7 @@
         },
         "fairOver": 2.13
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "5749693",
       "fmHomeId": "10233",
       "fmAwayId": "8535",
@@ -5132,8 +5105,8 @@
         },
         "SportyBet": {
           "h": 1.15,
-          "d": 9.92,
-          "a": 20.64
+          "d": 9.84,
+          "a": 20.51
         }
       },
       "fair": {
@@ -5166,7 +5139,7 @@
         },
         "fairOver": 1.98
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "5749694",
       "fmHomeId": "8636",
       "fmAwayId": "10167",
@@ -5391,7 +5364,6 @@
           ],
           "subs": [],
           "missing": [
-            "Dominik Drobnič",
             "Abdoulaye Ndiaye",
             "Hans Nicolussi Caviglia",
             "Pontus Almqvist"
@@ -5632,7 +5604,7 @@
         },
         "fairOver": 2.27
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "5749697",
       "fmHomeId": "9875",
       "fmAwayId": "9891",
@@ -6087,7 +6059,7 @@
       "oddsStatus": "live",
       "real": true,
       "sample": false,
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "totals": {
         "line": 2.5,
         "over": {
@@ -6525,8 +6497,8 @@
           {
             "id": 1002058,
             "name": "Nico Schlotterbeck",
-            "rating": 8.07,
-            "goals": 0,
+            "rating": 8.04,
+            "goals": 1,
             "assists": 0,
             "pos": "CB",
             "shirt": 4
@@ -6534,7 +6506,7 @@
           {
             "id": 664970,
             "name": "Waldemar Anton",
-            "rating": 7.84,
+            "rating": 7.83,
             "goals": 0,
             "assists": 1,
             "pos": "CB",
@@ -6544,7 +6516,7 @@
             "id": 1209228,
             "name": "Daniel Svensson",
             "rating": 7.78,
-            "goals": 0,
+            "goals": 1,
             "assists": 0,
             "pos": "LWB,LM,RWB,LB,CB,RB",
             "shirt": 24
@@ -6733,7 +6705,7 @@
         },
         "fairOver": 1.65
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "6106414",
       "fmHomeId": "8588",
       "fmAwayId": "9768",
@@ -7029,7 +7001,7 @@
         },
         "fairOver": 1.67
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "6106260",
       "fmHomeId": "9825",
       "fmAwayId": "8639",
@@ -7182,7 +7154,7 @@
         },
         "fairOver": 2.33
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "6106267",
       "fmHomeId": "9906",
       "fmAwayId": "10260",
@@ -7335,7 +7307,7 @@
         },
         "fairOver": 2.29
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "6106338",
       "fmHomeId": "8637",
       "fmAwayId": "8634",
@@ -7420,7 +7392,7 @@
         },
         "fairOver": 2.29
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "6106251",
       "fmHomeId": "8636",
       "fmAwayId": "8342",
@@ -7573,7 +7545,7 @@
         },
         "fairOver": 2.07
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "6106323",
       "fmHomeId": "178475",
       "fmAwayId": "8640",
@@ -7658,7 +7630,7 @@
         },
         "fairOver": 2.11
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "6106417",
       "fmHomeId": "8478",
       "fmAwayId": "9823",
@@ -7743,7 +7715,7 @@
         },
         "fairOver": 1.72
       },
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "fotmobId": "6106328",
       "fmHomeId": "10205",
       "fmAwayId": "9875",
@@ -7872,7 +7844,7 @@
         "home": {
           "name": "Lens",
           "formation": "3-4-2-1",
-          "rating": 7.2,
+          "rating": 7.1,
           "coach": "Yannick Cahuzac",
           "xi": [
             {
@@ -7899,7 +7871,7 @@
               "pos": 35,
               "x": 0.292,
               "y": 0.5,
-              "rating": 7.6,
+              "rating": 7.5,
               "goals": null
             },
             {
@@ -7917,7 +7889,7 @@
               "pos": 62,
               "x": 0.485,
               "y": 0.875,
-              "rating": 7.6,
+              "rating": 7.7,
               "goals": null
             },
             {
@@ -7962,7 +7934,7 @@
               "pos": 86,
               "x": 0.678,
               "y": 0.3,
-              "rating": 8.1,
+              "rating": 8.2,
               "goals": null
             },
             {
@@ -8041,7 +8013,7 @@
               "pos": 32,
               "x": 0.357,
               "y": 0.875,
-              "rating": 6.5,
+              "rating": 6.7,
               "goals": null
             },
             {
@@ -8077,7 +8049,7 @@
               "pos": 73,
               "x": 0.613,
               "y": 0.79,
-              "rating": 6.3,
+              "rating": 6.2,
               "goals": null
             },
             {
@@ -8095,7 +8067,7 @@
               "pos": 77,
               "x": 0.613,
               "y": 0.21,
-              "rating": 6.3,
+              "rating": 6.2,
               "goals": null
             },
             {
@@ -8184,7 +8156,7 @@
           "id": "612699",
           "name": "Florian Sotoca",
           "team": "Lens",
-          "rating": 8.13,
+          "rating": 8.21,
           "goals": 1,
           "assists": 0,
           "minutes": 69
@@ -8193,7 +8165,7 @@
           "id": "1390336",
           "name": "Robin Risser",
           "team": "Lens",
-          "rating": 7.66,
+          "rating": 7.68,
           "goals": 0,
           "assists": 0,
           "minutes": 90
@@ -8202,16 +8174,7 @@
           "id": "561046",
           "name": "Ruben Aguilar",
           "team": "Lens",
-          "rating": 7.63,
-          "goals": 0,
-          "assists": 0,
-          "minutes": 90
-        },
-        {
-          "id": "1406645",
-          "name": "Ismaëlo Ganiou",
-          "team": "Lens",
-          "rating": 7.62,
+          "rating": 7.65,
           "goals": 0,
           "assists": 0,
           "minutes": 90
@@ -8220,10 +8183,28 @@
           "id": "660326",
           "name": "Matthieu Udol",
           "team": "Lens",
-          "rating": 7.57,
+          "rating": 7.59,
           "goals": 1,
           "assists": 0,
           "minutes": 84
+        },
+        {
+          "id": "1406645",
+          "name": "Ismaëlo Ganiou",
+          "team": "Lens",
+          "rating": 7.54,
+          "goals": 0,
+          "assists": 0,
+          "minutes": 90
+        },
+        {
+          "id": "861445",
+          "name": "Michaël Cuisance",
+          "team": "Lens",
+          "rating": 7.28,
+          "goals": 0,
+          "assists": 0,
+          "minutes": 83
         },
         {
           "id": "1793640",
@@ -8233,15 +8214,6 @@
           "goals": 1,
           "assists": 0,
           "minutes": 12
-        },
-        {
-          "id": "861445",
-          "name": "Michaël Cuisance",
-          "team": "Lens",
-          "rating": 7.27,
-          "goals": 0,
-          "assists": 0,
-          "minutes": 83
         }
       ],
       "starMen": {
@@ -8813,11 +8785,11 @@
       },
       "newsItems": [
         {
-          "headline": "Phil Parkinson grateful for Wrexham fans' support after 'difficult week'",
-          "description": "Phil Parkinson was touched by Wrexham fans' backing after a \"difficult week\" and hopes the last-gasp win against Southampton can breathe new life into their campaign.",
-          "published": "2026-09-19T19:54:31Z",
-          "image": "https://a.espncdn.com/photo/2026/0919/r1719087_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49981842/phil-parkinson-grateful-wrexham-fans-support-difficult-week-southampton"
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
         },
         {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
@@ -9315,7 +9287,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.79,
@@ -9464,7 +9436,6 @@
             "Dean Henderson",
             "Axel Disasi",
             "Chadi Riad",
-            "Anan Khalaili",
             "Jean-Philippe Mateta"
           ]
         },
@@ -9605,6 +9576,13 @@
       },
       "newsItems": [
         {
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
+        },
+        {
           "headline": "Burley: Carrick faces added pressure against Spurs",
           "description": "Burley: Carrick faces added pressure against Spurs",
           "published": "2026-10-09T22:13:25Z",
@@ -9617,13 +9595,6 @@
           "published": "2026-10-09T22:26:00Z",
           "image": "https://a.espncdn.com/photo/2026/1009/r1728425_3_594x334_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50143021/arsenal-lucky-best-arteta-signed-deal-rice"
-        },
-        {
-          "headline": "Nicol: Manchester City will 'struggle at Anfield'",
-          "description": "Nicol: Manchester City will 'struggle at Anfield'",
-          "published": "2026-10-09T22:13:07Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield/dm_261009_Nicol_Manchester_City_will_struggle_at_Anfield.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50143007/manchester-city-struggle-anfield"
         }
       ]
     },
@@ -9641,7 +9612,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.6,
@@ -9946,11 +9917,11 @@
           "url": "https://www.espn.com/soccer/story/_/id/50142918/mikel-arteta-man-city-charges-guilty-arsenal"
         },
         {
-          "headline": "Burley: Carrick faces added pressure against Spurs",
-          "description": "Burley: Carrick faces added pressure against Spurs",
-          "published": "2026-10-09T22:13:25Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Burley_Carrick_faces_added_pressure_against_Spurs/dm_261009_Burley_Carrick_faces_added_pressure_against_Spurs.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50143029/carrick-faces-added-pressure-spurs"
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
         }
       ]
     },
@@ -9968,7 +9939,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.03,
@@ -10259,6 +10230,13 @@
       },
       "newsItems": [
         {
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
+        },
+        {
           "headline": "Nicol: Manchester City will 'struggle at Anfield'",
           "description": "Nicol: Manchester City will 'struggle at Anfield'",
           "published": "2026-10-09T22:13:07Z",
@@ -10271,13 +10249,6 @@
           "published": "2026-10-09T21:49:41Z",
           "image": "https://a.espncdn.com/photo/2026/1009/r1728428_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50142918/mikel-arteta-man-city-charges-guilty-arsenal"
-        },
-        {
-          "headline": "Michael Carrick: No timeline for Benjamin Sesko's Man United return",
-          "description": "Michael Carrick has said there is no timeline for Benjamin Sesko's return after the Manchester United striker suffered a second shin injury.",
-          "published": "2026-10-09T21:30:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1009/r1728417_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50142759/man-united-injury-news-benjamin-sesko-michael-carrick"
         }
       ]
     },
@@ -10295,7 +10266,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.32,
@@ -10348,11 +10319,11 @@
           "url": "https://www.espn.com/soccer/story/_/id/50142918/mikel-arteta-man-city-charges-guilty-arsenal"
         },
         {
-          "headline": "Burley: Carrick faces added pressure against Spurs",
-          "description": "Burley: Carrick faces added pressure against Spurs",
-          "published": "2026-10-09T22:13:25Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Burley_Carrick_faces_added_pressure_against_Spurs/dm_261009_Burley_Carrick_faces_added_pressure_against_Spurs.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50143029/carrick-faces-added-pressure-spurs"
+          "headline": "Roberto De Zerbi: Dejan Kulusevski return can inspire Spurs at Man United",
+          "description": "Roberto De Zerbi has urged winless Tottenham to draw inspiration from Dejan Kulusevski's comeback ahead of Saturday's trip to Manchester United.",
+          "published": "2026-10-09T22:56:55Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728438_594x334_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143205/dejan-kulusevski-return-inspire-spurs-man-united"
         }
       ]
     },
@@ -10370,7 +10341,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.55,
@@ -10445,7 +10416,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.55,
@@ -10520,23 +10491,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.82,
-          "d": 3.48,
-          "a": 2.65
+          "d": 3.46,
+          "a": 2.66
         }
       },
       "fair": {
-        "h": 2.87,
-        "d": 3.55,
-        "a": 2.7
+        "h": 2.88,
+        "d": 3.53,
+        "a": 2.71
       },
       "open": {
         "h": 2.82,
-        "d": 3.48,
-        "a": 2.65
+        "d": 3.46,
+        "a": 2.66
       },
       "movement": [
         2.82
@@ -10544,14 +10515,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.9,
+          "o": 1.92,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.94,
+          "o": 1.93,
           "b": "SportyBet"
         },
-        "fairOver": 1.98
+        "fairOver": 1.99
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868088",
@@ -10845,26 +10816,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 4.43,
+          "h": 4.48,
           "d": 3.88,
           "a": 1.86
         }
       },
       "fair": {
-        "h": 4.52,
-        "d": 3.96,
-        "a": 1.9
+        "h": 4.56,
+        "d": 3.95,
+        "a": 1.89
       },
       "open": {
-        "h": 4.43,
+        "h": 4.48,
         "d": 3.88,
         "a": 1.86
       },
       "movement": [
-        4.43
+        4.48
       ],
       "totals": {
         "line": 2.5,
@@ -11165,23 +11136,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.11,
-          "d": 12.4,
-          "a": 26.99
+          "d": 12.05,
+          "a": 26.1
         }
       },
       "fair": {
         "h": 1.13,
-        "d": 12.63,
-        "a": 27.49
+        "d": 12.32,
+        "a": 26.68
       },
       "open": {
         "h": 1.11,
-        "d": 12.4,
-        "a": 26.99
+        "d": 12.05,
+        "a": 26.1
       },
       "movement": [
         1.11
@@ -11189,7 +11160,7 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.27,
+          "o": 1.28,
           "b": "SportyBet"
         },
         "under": {
@@ -11490,26 +11461,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 1.4,
+          "h": 1.41,
           "d": 6.1,
-          "a": 6.93
+          "a": 6.88
         }
       },
       "fair": {
-        "h": 1.43,
-        "d": 6.24,
-        "a": 7.09
+        "h": 1.44,
+        "d": 6.21,
+        "a": 7.01
       },
       "open": {
-        "h": 1.4,
+        "h": 1.41,
         "d": 6.1,
-        "a": 6.93
+        "a": 6.88
       },
       "movement": [
-        1.4
+        1.41
       ],
       "totals": {
         "line": 2.5,
@@ -11813,7 +11784,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.86,
@@ -12136,7 +12107,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.63,
@@ -12461,7 +12432,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.56,
@@ -12785,7 +12756,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.39,
@@ -13107,7 +13078,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.79,
@@ -13182,26 +13153,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 2.1,
-          "d": 3.53,
-          "a": 3.56
+          "h": 2.13,
+          "d": 3.51,
+          "a": 3.5
         }
       },
       "fair": {
-        "h": 2.18,
-        "d": 3.67,
-        "a": 3.7
+        "h": 2.22,
+        "d": 3.65,
+        "a": 3.64
       },
       "open": {
-        "h": 2.1,
-        "d": 3.53,
-        "a": 3.56
+        "h": 2.13,
+        "d": 3.51,
+        "a": 3.5
       },
       "movement": [
-        2.1
+        2.13
       ],
       "totals": {
         "line": 2.5,
@@ -13257,26 +13228,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 13.53,
-          "d": 9.8,
-          "a": 1.18
+          "h": 13.36,
+          "d": 9.75,
+          "a": 1.19
         }
       },
       "fair": {
-        "h": 13.85,
-        "d": 10.03,
+        "h": 13.6,
+        "d": 9.92,
         "a": 1.21
       },
       "open": {
-        "h": 13.53,
-        "d": 9.8,
-        "a": 1.18
+        "h": 13.36,
+        "d": 9.75,
+        "a": 1.19
       },
       "movement": [
-        13.53
+        13.36
       ],
       "totals": {
         "line": 2.5,
@@ -13582,7 +13553,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.44,
@@ -13907,26 +13878,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 3.02,
-          "d": 3.94,
-          "a": 2.3
+          "h": 3.04,
+          "d": 3.97,
+          "a": 2.28
         }
       },
       "fair": {
-        "h": 3.08,
-        "d": 4.02,
-        "a": 2.35
+        "h": 3.1,
+        "d": 4.05,
+        "a": 2.32
       },
       "open": {
-        "h": 3.02,
-        "d": 3.94,
-        "a": 2.3
+        "h": 3.04,
+        "d": 3.97,
+        "a": 2.28
       },
       "movement": [
-        3.02
+        3.04
       ],
       "totals": {
         "line": 2.5,
@@ -14234,7 +14205,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 5.06,
@@ -14562,26 +14533,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 2.47,
-          "d": 3.83,
-          "a": 2.83
+          "h": 2.45,
+          "d": 3.85,
+          "a": 2.84
         }
       },
       "fair": {
-        "h": 2.52,
-        "d": 3.9,
-        "a": 2.88
+        "h": 2.5,
+        "d": 3.93,
+        "a": 2.9
       },
       "open": {
-        "h": 2.47,
-        "d": 3.83,
-        "a": 2.83
+        "h": 2.45,
+        "d": 3.85,
+        "a": 2.84
       },
       "movement": [
-        2.47
+        2.45
       ],
       "totals": {
         "line": 2.5,
@@ -14887,22 +14858,22 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.63,
-          "d": 4.99,
+          "d": 4.98,
           "a": 4.89
         }
       },
       "fair": {
         "h": 1.66,
-        "d": 5.08,
+        "d": 5.07,
         "a": 4.98
       },
       "open": {
         "h": 1.63,
-        "d": 4.99,
+        "d": 4.98,
         "a": 4.89
       },
       "movement": [
@@ -15214,7 +15185,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.16,
@@ -15541,7 +15512,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.69,
@@ -15866,7 +15837,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.98,
@@ -15941,7 +15912,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.79,
@@ -16016,7 +15987,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -16334,7 +16305,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.66,
@@ -16659,7 +16630,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 4.43,
@@ -16980,7 +16951,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 4.34,
@@ -17306,7 +17277,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 6.36,
@@ -17570,9 +17541,9 @@
             "Lloyd Kelly",
             "Kamil Grabara",
             "Augusto Owusu",
-            "Juan Cabal",
             "Khéphren Thuram-Ulien",
-            "Manuel Locatelli"
+            "Manuel Locatelli",
+            "Jeff Ekhator"
           ]
         }
       },
@@ -17635,7 +17606,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.59,
@@ -17710,7 +17681,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.43,
@@ -17785,7 +17756,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.45,
@@ -17928,7 +17899,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 4.66,
@@ -18071,23 +18042,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.45,
-          "d": 5.17,
-          "a": 7.4
+          "d": 5.14,
+          "a": 7.27
         }
       },
       "fair": {
         "h": 1.48,
-        "d": 5.26,
-        "a": 7.53
+        "d": 5.25,
+        "a": 7.43
       },
       "open": {
         "h": 1.45,
-        "d": 5.17,
-        "a": 7.4
+        "d": 5.14,
+        "a": 7.27
       },
       "movement": [
         1.45
@@ -18095,7 +18066,7 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.62,
+          "o": 1.63,
           "b": "SportyBet"
         },
         "under": {
@@ -18395,26 +18366,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 2.09,
-          "d": 3.69,
-          "a": 3.71
+          "h": 2.07,
+          "d": 3.72,
+          "a": 3.72
         }
       },
       "fair": {
-        "h": 2.13,
-        "d": 3.76,
-        "a": 3.78
+        "h": 2.11,
+        "d": 3.8,
+        "a": 3.8
       },
       "open": {
-        "h": 2.09,
-        "d": 3.69,
-        "a": 3.71
+        "h": 2.07,
+        "d": 3.72,
+        "a": 3.72
       },
       "movement": [
-        2.09
+        2.07
       ],
       "totals": {
         "line": 2.5,
@@ -18716,26 +18687,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 3.4,
-          "d": 3.48,
-          "a": 2.28
+          "h": 3.41,
+          "d": 3.5,
+          "a": 2.27
         }
       },
       "fair": {
-        "h": 3.47,
-        "d": 3.55,
-        "a": 2.33
+        "h": 3.48,
+        "d": 3.57,
+        "a": 2.31
       },
       "open": {
-        "h": 3.4,
-        "d": 3.48,
-        "a": 2.28
+        "h": 3.41,
+        "d": 3.5,
+        "a": 2.27
       },
       "movement": [
-        3.4
+        3.41
       ],
       "totals": {
         "line": 2.5,
@@ -19041,23 +19012,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.63,
-          "d": 4.51,
-          "a": 5.38
+          "d": 4.5,
+          "a": 5.42
         }
       },
       "fair": {
         "h": 1.66,
-        "d": 4.61,
-        "a": 5.49
+        "d": 4.59,
+        "a": 5.53
       },
       "open": {
         "h": 1.63,
-        "d": 4.51,
-        "a": 5.38
+        "d": 4.5,
+        "a": 5.42
       },
       "movement": [
         1.63
@@ -19299,9 +19270,7 @@
             }
           ],
           "subs": [],
-          "missing": [
-            "Rasmus Nicolaisen"
-          ]
+          "missing": []
         }
       },
       "form": {
@@ -19363,23 +19332,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.11,
-          "d": 12.18,
-          "a": 24.73
+          "d": 12.16,
+          "a": 24.75
         }
       },
       "fair": {
         "h": 1.14,
-        "d": 12.47,
-        "a": 25.31
+        "d": 12.45,
+        "a": 25.33
       },
       "open": {
         "h": 1.11,
-        "d": 12.18,
-        "a": 24.73
+        "d": 12.16,
+        "a": 24.75
       },
       "movement": [
         1.11
@@ -19622,7 +19591,6 @@
           ],
           "subs": [],
           "missing": [
-            "Lucas Buadés",
             "Djibril Sidibé",
             "Martin Rossignol",
             "Erwan Colas"
@@ -19688,7 +19656,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.43,
@@ -20014,7 +19982,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.48,
@@ -20337,7 +20305,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.84,
@@ -20665,7 +20633,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.07,
@@ -20740,26 +20708,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 6.25,
-          "d": 5.55,
+          "h": 6.27,
+          "d": 5.53,
           "a": 1.43
         }
       },
       "fair": {
-        "h": 6.5,
-        "d": 5.77,
+        "h": 6.52,
+        "d": 5.75,
         "a": 1.49
       },
       "open": {
-        "h": 6.25,
-        "d": 5.55,
+        "h": 6.27,
+        "d": 5.53,
         "a": 1.43
       },
       "movement": [
-        6.25
+        6.27
       ],
       "totals": {
         "line": 2.5,
@@ -20815,7 +20783,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -20864,7 +20832,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.25,
@@ -20924,6 +20892,13 @@
       },
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -20936,13 +20911,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -20960,26 +20928,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 2.39,
-          "d": 3.6,
-          "a": 2.99
+          "h": 2.33,
+          "d": 3.61,
+          "a": 3.08
         }
       },
       "fair": {
-        "h": 2.46,
-        "d": 3.71,
-        "a": 3.08
+        "h": 2.4,
+        "d": 3.72,
+        "a": 3.18
       },
       "open": {
-        "h": 2.39,
-        "d": 3.6,
-        "a": 2.99
+        "h": 2.33,
+        "d": 3.61,
+        "a": 3.08
       },
       "movement": [
-        2.39
+        2.33
       ],
       "totals": {
         "line": 2.5,
@@ -21020,6 +20988,13 @@
       },
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -21032,13 +21007,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -21056,7 +21024,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.58,
@@ -21116,6 +21084,13 @@
       },
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -21128,13 +21103,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -21152,26 +21120,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 2.79,
-          "d": 3.72,
-          "a": 2.49
+          "h": 2.84,
+          "d": 3.76,
+          "a": 2.43
         }
       },
       "fair": {
-        "h": 2.87,
-        "d": 3.83,
-        "a": 2.56
+        "h": 2.92,
+        "d": 3.87,
+        "a": 2.5
       },
       "open": {
-        "h": 2.79,
-        "d": 3.72,
-        "a": 2.49
+        "h": 2.84,
+        "d": 3.76,
+        "a": 2.43
       },
       "movement": [
-        2.79
+        2.84
       ],
       "totals": {
         "line": 2.5,
@@ -21219,18 +21187,18 @@
           "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         },
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727866_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50133633/tonda-eckert-forever-grateful-southampton-support-spygate-fallout"
-        },
-        {
-          "headline": "Southampton's Tonda Eckert given suspended six-week ban for 'Spygate' role",
-          "description": "Southampton manager Tonda Eckert has avoided a ban for his role in \"Spygate\" after he was handed a six-week suspended sentence and a £28,000 fine.",
-          "published": "2026-10-07T17:16:58Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
         }
       ]
     },
@@ -21248,7 +21216,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.75,
@@ -21272,14 +21240,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.88,
+          "o": 1.91,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.97,
+          "o": 1.94,
           "b": "SportyBet"
         },
-        "fairOver": 1.95
+        "fairOver": 1.98
       },
       "news": "Real odds via SportyBet feed (Championship).",
       "fotmobId": "5836851",
@@ -21315,18 +21283,18 @@
           "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         },
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
           "image": "https://a.espncdn.com/photo/2026/1008/r1727866_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50133633/tonda-eckert-forever-grateful-southampton-support-spygate-fallout"
-        },
-        {
-          "headline": "Southampton's Tonda Eckert given suspended six-week ban for 'Spygate' role",
-          "description": "Southampton manager Tonda Eckert has avoided a ban for his role in \"Spygate\" after he was handed a six-week suspended sentence and a £28,000 fine.",
-          "published": "2026-10-07T17:16:58Z",
-          "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
         }
       ]
     },
@@ -21344,7 +21312,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.02,
@@ -21411,11 +21379,11 @@
           "url": "https://www.espn.com/soccer/story/_/id/50026264/humphrey-ker-steps-wrexham-board"
         },
         {
-          "headline": "Phil Parkinson grateful for Wrexham fans' support after 'difficult week'",
-          "description": "Phil Parkinson was touched by Wrexham fans' backing after a \"difficult week\" and hopes the last-gasp win against Southampton can breathe new life into their campaign.",
-          "published": "2026-09-19T19:54:31Z",
-          "image": "https://a.espncdn.com/photo/2026/0919/r1719087_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49981842/phil-parkinson-grateful-wrexham-fans-support-difficult-week-southampton"
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
         },
         {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
@@ -21440,26 +21408,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 2.3,
-          "d": 3.8,
-          "a": 3.01
+          "h": 2.26,
+          "d": 3.79,
+          "a": 3.09
         }
       },
       "fair": {
-        "h": 2.37,
-        "d": 3.91,
-        "a": 3.1
+        "h": 2.33,
+        "d": 3.9,
+        "a": 3.18
       },
       "open": {
-        "h": 2.3,
-        "d": 3.8,
-        "a": 3.01
+        "h": 2.26,
+        "d": 3.79,
+        "a": 3.09
       },
       "movement": [
-        2.3
+        2.26
       ],
       "totals": {
         "line": 2.5,
@@ -21500,6 +21468,13 @@
       },
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -21512,13 +21487,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -21536,7 +21504,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.93,
@@ -21596,6 +21564,13 @@
       },
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -21608,13 +21583,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -21632,7 +21600,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.28,
@@ -21692,6 +21660,13 @@
       },
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -21704,13 +21679,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -21728,7 +21696,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.9,
@@ -21788,6 +21756,13 @@
       },
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -21800,13 +21775,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -21824,7 +21792,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.79,
@@ -22145,7 +22113,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.85,
@@ -22471,7 +22439,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 6.23,
@@ -22618,7 +22586,6 @@
           "subs": [],
           "missing": [
             "Iván Márquez",
-            "Sven Simons",
             "Yassin Oukili"
           ]
         },
@@ -22730,7 +22697,6 @@
           ],
           "subs": [],
           "missing": [
-            "Kristian Hlynsson",
             "Stav Lemkin"
           ]
         }
@@ -22794,7 +22760,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.34,
@@ -22940,8 +22906,6 @@
           ],
           "subs": [],
           "missing": [
-            "Aaron Bouwman",
-            "Simon Adingra",
             "Caio Henrique",
             "Daley Blind",
             "Kasper Dolberg",
@@ -23124,7 +23088,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.53,
@@ -23220,7 +23184,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.04,
@@ -23316,7 +23280,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.09,
@@ -23412,7 +23376,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.62,
@@ -23508,7 +23472,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.76,
@@ -23583,7 +23547,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 9.23,
@@ -23658,7 +23622,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -23754,7 +23718,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -23850,7 +23814,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -23946,7 +23910,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -24018,7 +23982,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -24093,7 +24057,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.74,
@@ -24168,7 +24132,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.61,
@@ -24243,7 +24207,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.1,
@@ -24304,7 +24268,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -24379,7 +24343,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.2,
@@ -24773,7 +24737,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -25171,7 +25135,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -25568,7 +25532,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.95,
@@ -25643,7 +25607,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.66,
@@ -25718,7 +25682,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.6,
@@ -25793,7 +25757,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -25868,7 +25832,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2,
@@ -25943,7 +25907,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.45,
@@ -26018,7 +25982,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -26093,7 +26057,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.32,
@@ -26470,7 +26434,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.67,
@@ -26851,7 +26815,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.1,
@@ -27034,10 +26998,12 @@
             }
           ],
           "missing": [
+            "Tomás Pérez",
+            "Tomás Cuello",
+            "Fred",
             "Mateo Cassierra",
             "Gustavo Scarpa",
-            "Everson",
-            "Ruan"
+            "Everson"
           ]
         },
         "away": {
@@ -27227,7 +27193,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.44,
@@ -27410,6 +27376,7 @@
             }
           ],
           "missing": [
+            "Jorginho",
             "Giorgian De Arrascaeta",
             "Ayrton Lucas",
             "Evertton Araújo"
@@ -27560,6 +27527,7 @@
             }
           ],
           "missing": [
+            "Riquelme",
             "Renê",
             "Germán Cano",
             "Alisson",
@@ -27603,7 +27571,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.1,
@@ -27938,7 +27906,6 @@
             }
           ],
           "missing": [
-            "Victor Gabriel",
             "Guillermo Maripán",
             "Antonio Sanabria",
             "Kayky",
@@ -27983,7 +27950,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.65,
@@ -28359,7 +28326,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.74,
@@ -28542,6 +28509,7 @@
             }
           ],
           "missing": [
+            "Nicolás Acevedo",
             "Michel Araújo",
             "Léo Vieira"
           ]
@@ -28733,7 +28701,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -28785,7 +28753,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.6,
@@ -28837,7 +28805,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -28861,14 +28829,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.69,
+          "o": 1.71,
           "b": "SportyBet"
         },
         "under": {
           "o": 2.1,
           "b": "SportyBet"
         },
-        "fairOver": 1.8
+        "fairOver": 1.81
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103658",
@@ -28889,7 +28857,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.55,
@@ -28925,6 +28893,13 @@
       "news": "Real odds via SportyBet feed (U19 European Championship, Women, Qualification).",
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -28937,13 +28912,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -28961,7 +28929,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.54,
@@ -29328,7 +29296,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.74,
@@ -29377,7 +29345,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -29744,7 +29712,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.67,
@@ -30111,7 +30079,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -30478,7 +30446,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -30527,7 +30495,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.09,
@@ -30579,7 +30547,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.34,
@@ -30631,7 +30599,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -30683,7 +30651,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.1,
@@ -30735,7 +30703,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.84,
@@ -31077,6 +31045,13 @@
       },
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -31089,13 +31064,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -31113,7 +31081,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.2,
@@ -31152,6 +31120,13 @@
       "fmAwayId": "8457",
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -31164,13 +31139,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -31188,26 +31156,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
-          "h": 1.9,
+          "h": 1.94,
           "d": 3.5,
-          "a": 4
+          "a": 3.9
         }
       },
       "fair": {
-        "h": 2.02,
-        "d": 3.72,
-        "a": 4.25
+        "h": 2.05,
+        "d": 3.7,
+        "a": 4.12
       },
       "open": {
-        "h": 1.9,
+        "h": 1.94,
         "d": 3.5,
-        "a": 4
+        "a": 3.9
       },
       "movement": [
-        1.9
+        1.94
       ],
       "totals": {
         "line": 2.5,
@@ -31227,6 +31195,13 @@
       "fmAwayId": "8143",
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -31239,13 +31214,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -31263,7 +31231,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -31302,6 +31270,13 @@
       "fmAwayId": "8426",
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -31314,13 +31289,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -31338,7 +31306,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.5,
@@ -31381,11 +31349,11 @@
           "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         },
         {
-          "headline": "Phil Parkinson grateful for Wrexham fans' support after 'difficult week'",
-          "description": "Phil Parkinson was touched by Wrexham fans' backing after a \"difficult week\" and hopes the last-gasp win against Southampton can breathe new life into their campaign.",
-          "published": "2026-09-19T19:54:31Z",
-          "image": "https://a.espncdn.com/photo/2026/0919/r1719087_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49981842/phil-parkinson-grateful-wrexham-fans-support-difficult-week-southampton"
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
         },
         {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
@@ -31410,7 +31378,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 5.3,
@@ -31446,11 +31414,11 @@
       "news": "Real odds via SportyBet feed (Championship).",
       "newsItems": [
         {
-          "headline": "Phil Parkinson grateful for Wrexham fans' support after 'difficult week'",
-          "description": "Phil Parkinson was touched by Wrexham fans' backing after a \"difficult week\" and hopes the last-gasp win against Southampton can breathe new life into their campaign.",
-          "published": "2026-09-19T19:54:31Z",
-          "image": "https://a.espncdn.com/photo/2026/0919/r1719087_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49981842/phil-parkinson-grateful-wrexham-fans-support-difficult-week-southampton"
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
         },
         {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
@@ -31482,7 +31450,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.7,
@@ -31510,6 +31478,13 @@
       "fmAwayId": "8426",
       "newsItems": [
         {
+          "headline": "West Ham stunned by referee's 'massive mistake' in QPR draw",
+          "description": "West Ham United manager Nuno Espirito Santo was left feeling the pain of two penalties after his side missed the chance to go top of the Championship.",
+          "published": "2026-10-09T23:38:02Z",
+          "image": "https://a.espncdn.com/photo/2026/1009/r1728455_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50143373/west-ham-qpr-penalty-tomas-soucek-mistake-championship"
+        },
+        {
           "headline": "Tonda Eckert 'forever grateful' for Southampton support during 'Spygate' fallout",
           "description": "Tonda Eckert is relieved to finally draw a line under the 'Spygate' scandal and will \"forever be grateful\" for Southampton's support.",
           "published": "2026-10-08T16:34:50Z",
@@ -31522,13 +31497,6 @@
           "published": "2026-10-07T17:16:58Z",
           "image": "https://a.espncdn.com/photo/2026/1007/r1727375_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50050685/tonda-eckert-southampton-suspended-sentence-fine-spygate-avoids-fa-ban-championship-playoffs"
-        },
-        {
-          "headline": "Gavin Bazunu confirms withdrawal from Republic of Ireland matches against Israel",
-          "description": "Bolton Wanderers goalkeeper Gavin Bazunu has confirmed he has refused to participate in the Republic of Ireland's controversial Nations League fixtures with Israel as a matter of \"principle\".",
-          "published": "2026-09-26T22:41:40Z",
-          "image": "https://a.espncdn.com/photo/2026/0926/r1722196_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50036685/gavin-bazunu-confirms-withdrawal-republic-ireland-matches-israel"
         }
       ]
     },
@@ -31546,7 +31514,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.52,
@@ -31595,7 +31563,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -31644,7 +31612,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 3.1,
@@ -31716,7 +31684,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.95,
@@ -31788,7 +31756,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.13,
@@ -31860,7 +31828,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 6.5,
@@ -31884,14 +31852,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.8,
+          "o": 2.75,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.37,
+          "o": 1.38,
           "b": "SportyBet"
         },
-        "fairOver": 3.04
+        "fairOver": 2.99
       },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "newsItems": [
@@ -31932,7 +31900,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 1.75,
@@ -32004,7 +31972,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-09T22:51:02.494Z",
+      "sbAt": "2026-10-10T02:11:41.232Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -32153,12 +32121,12 @@
     "Betika"
   ],
   "tips": [],
-  "updatedAt": "2026-10-09T22:51:02.494Z",
-  "generatedAt": "2026-10-09T22:51:02.494Z",
+  "updatedAt": "2026-10-10T02:11:41.232Z",
+  "generatedAt": "2026-10-10T02:11:41.232Z",
   "metadata": {
     "mode": "hybrid",
-    "oddsUpdatedAt": "2026-10-09T22:51:02.494Z",
-    "scoresUpdatedAt": "2026-10-09T22:51:02.494Z",
+    "oddsUpdatedAt": "2026-10-10T02:11:41.232Z",
+    "scoresUpdatedAt": "2026-10-10T02:11:41.232Z",
     "dataSources": [
       "ESPN scoreboards + odds (free)",
       "SportyBet odds feed (free)"
@@ -32167,18 +32135,18 @@
     "counts": {
       "real": 161
     },
-    "historyPoints": 6541,
+    "historyPoints": 6539,
     "books": {
       "Pinnacle": {
         "updatedAt": null,
         "source": "not in feed"
       },
       "DraftKings": {
-        "updatedAt": "2026-10-09T22:51:02.494Z",
+        "updatedAt": "2026-10-10T02:11:41.232Z",
         "source": "live feed"
       },
       "SportyBet": {
-        "updatedAt": "2026-10-09T22:51:02.494Z",
+        "updatedAt": "2026-10-10T02:11:41.232Z",
         "source": "live feed"
       },
       "Betway": {
@@ -32222,35 +32190,35 @@
       "espn": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-09T22:51:03.407Z",
+        "lastOk": "2026-10-10T02:11:42.163Z",
         "lastError": null,
         "count": 40
       },
       "sportybet": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-09T22:51:13.539Z",
+        "lastOk": "2026-10-10T02:11:51.947Z",
         "lastError": null,
         "count": 0
       },
       "fotmob": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-09T22:51:23.016Z",
+        "lastOk": "2026-10-10T02:12:04.197Z",
         "lastError": null,
         "count": 82
       },
       "espn-news": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-09T22:51:27.404Z",
+        "lastOk": "2026-10-10T02:12:07.642Z",
         "lastError": null,
         "count": 138
       },
       "oddsapi": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-09T22:51:27.406Z",
+        "lastOk": "2026-10-10T02:12:07.644Z",
         "lastError": null,
         "count": 0
       }
