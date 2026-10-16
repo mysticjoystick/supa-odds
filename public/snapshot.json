@@ -57,7 +57,7 @@
         },
         "fairOver": 1.77
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "fotmobId": "5795478",
       "fmHomeId": "8668",
       "fmAwayId": "8455",
@@ -521,7 +521,7 @@
         },
         "fairOver": 1.65
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "fotmobId": "5795476",
       "fmHomeId": "9937",
       "fmAwayId": "8650",
@@ -992,7 +992,7 @@
         },
         "fairOver": 1.86
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "fotmobId": "5795479",
       "fmHomeId": "9879",
       "fmAwayId": "8667",
@@ -1425,9 +1425,9 @@
           "d": 7
         },
         "SportyBet": {
-          "h": 1.28,
-          "d": 7.01,
-          "a": 10.49
+          "h": 1.27,
+          "d": 7.09,
+          "a": 10.75
         }
       },
       "fair": {
@@ -1460,7 +1460,7 @@
         },
         "fairOver": 2.07
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "fotmobId": "5795481",
       "fmHomeId": "8456",
       "fmAwayId": "9902",
@@ -1922,7 +1922,7 @@
         },
         "fairOver": 1.69
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "fotmobId": "5795482",
       "fmHomeId": "10261",
       "fmAwayId": "10252",
@@ -2383,16 +2383,16 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.93,
-          "b": "SportyBet"
-        },
-        "under": {
           "o": 1.92,
           "b": "SportyBet"
         },
-        "fairOver": 2.02
+        "under": {
+          "o": 1.93,
+          "b": "SportyBet"
+        },
+        "fairOver": 2
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "fotmobId": "5868093",
       "fmHomeId": "9783",
       "fmAwayId": "8581",
@@ -2812,46 +2812,21 @@
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
       "startsIn": "10/15/2026, 11:30:00 PM",
       "commenceISO": "2026-10-15T23:30Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 1.49,
-          "a": 2.7
-        }
+      "live": true,
+      "status": "inplay",
+      "score": {
+        "home": 66,
+        "away": 65
       },
-      "fair": {
-        "h": 1.55,
-        "d": null,
-        "a": 2.81
-      },
-      "open": {
-        "h": 1.49,
-        "d": null,
-        "a": 2.7
-      },
-      "movement": [
-        1.49,
-        1.49
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "minute": "8:45",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 226.5,
-        "over": {
-          "o": 1.93,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.89,
-          "b": "DraftKings"
-        },
-        "fairOver": 2.02
-      },
       "newsItems": [
         {
           "headline": "Maxey: Healthy Embiid 'changes everything' for Sixers",
@@ -2887,46 +2862,21 @@
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
       "startsIn": "10/16/2026, 12:30:00 AM",
       "commenceISO": "2026-10-16T00:30Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 2.3,
-          "a": 1.65
-        }
+      "live": true,
+      "status": "inplay",
+      "score": {
+        "home": 31,
+        "away": 13
       },
-      "fair": {
-        "h": 2.39,
-        "d": null,
-        "a": 1.72
-      },
-      "open": {
-        "h": 2.36,
-        "d": null,
-        "a": 1.62
-      },
-      "movement": [
-        2.36,
-        2.3
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "minute": "41.0",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 226.5,
-        "over": {
-          "o": 1.95,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.87,
-          "b": "DraftKings"
-        },
-        "fairOver": 2.04
-      },
       "newsItems": [
         {
           "headline": "Maxey: Healthy Embiid 'changes everything' for Sixers",
@@ -2962,67 +2912,42 @@
       "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
       "startsIn": "10/16/2026, 12:15:00 AM",
       "commenceISO": "2026-10-16T00:15Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 2.24,
-          "a": 1.68
-        }
+      "live": true,
+      "status": "inplay",
+      "score": {
+        "home": 7,
+        "away": 3
       },
-      "fair": {
-        "h": 2.33,
-        "d": null,
-        "a": 1.75
-      },
-      "open": {
-        "h": 2.1,
-        "d": null,
-        "a": 1.77
-      },
-      "movement": [
-        2.1,
-        2.24
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "minute": "9:47",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 40.5,
-        "over": {
-          "o": 1.91,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.91,
-          "b": "DraftKings"
-        },
-        "fairOver": 2
-      },
       "newsItems": [
         {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
         }
       ]
     },
@@ -3042,7 +2967,7 @@
       "score": null,
       "minute": null,
       "prices": {
-        "DraftKings": {
+        "Draft Kings": {
           "h": 1.7,
           "a": 2.2
         }
@@ -3061,7 +2986,7 @@
         1.95,
         1.7
       ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
+      "news": "Real odds via ESPN (Draft Kings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
       "real": true,
       "sample": false,
@@ -3069,35 +2994,35 @@
         "line": 42.5,
         "over": {
           "o": 1.89,
-          "b": "DraftKings"
+          "b": "Draft Kings"
         },
         "under": {
           "o": 1.93,
-          "b": "DraftKings"
+          "b": "Draft Kings"
         },
         "fairOver": 1.98
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
-        },
-        {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
+        },
+        {
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -3154,25 +3079,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
-        },
-        {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
-        },
-        {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
+        },
+        {
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
+        },
+        {
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -3229,25 +3154,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
         },
         {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -3304,25 +3229,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
-        },
-        {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
+        },
+        {
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -3379,25 +3304,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
+          "headline": "Jon Morris, former AFL and NFL center with Patriots, dies at 84",
+          "description": "Jon Morris, who played 11 of his 15-year AFL and NFL career with the Boston and New England Patriots, has died at age 84.",
+          "published": "2026-10-15T23:39:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1015/r1731392_1296x1296_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50192401/jon-morris-former-afl-nfl-center-patriots-dies-84"
         },
         {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
         }
       ]
     },
@@ -3454,25 +3379,25 @@
       },
       "newsItems": [
         {
-          "headline": "Jayden Daniels addresses teammates on gaffe, vows 'it'll never happen again'",
-          "description": "Jayden Daniels addressed his Commanders teammates, once more blaming himself for the end-of-overtime debacle against the Giants and vowing it won't happen again.",
-          "published": "2026-10-15T22:17:34Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731326_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50191830/jayden-daniels-addresses-commanders-teammates-ot-gaffe"
-        },
-        {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
-        },
-        {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
+        },
+        {
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
+        },
+        {
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -3529,25 +3454,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
+          "headline": "Panthers to visit an Eagles team that was already reeling before losing Hurts to a blood clot",
+          "description": "— The Carolina Panthers had already been installed as road betting favorites as they prepare to visit Philadelphia and face a banged-up Eagles team riding a three-game losing streak.",
+          "published": "2026-10-15T23:23:28Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872998.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872998"
         },
         {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
         }
       ]
     },
@@ -3604,25 +3529,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
-        },
-        {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
+        },
+        {
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -3679,25 +3604,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
+          "headline": "Sean McVay faces former offensive coordinator Mike LaFleur for first time when Rams host Cardinals",
+          "description": "— The game between the Rams and Cardinals on Sunday is about more than the latest matchup pitting Sean McVay against one of his former offensive assistants — in this instance, ",
+          "published": "2026-10-15T22:56:28Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873004.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401873004"
         },
         {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
         }
       ]
     },
@@ -3754,25 +3679,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
-        },
-        {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
+        },
+        {
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -3829,25 +3754,25 @@
       },
       "newsItems": [
         {
-          "headline": "The Bills aim to avoid a letdown in Las Vegas as the Raiders seek a rebound",
-          "description": "— Buffalo will come into its game against Las Vegas trying to maintain momentum. The Bills could learn a lesson on what not to do from the Raiders.",
-          "published": "2026-10-15T21:28:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873005.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873005"
-        },
-        {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
-        },
-        {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
+        },
+        {
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
+        },
+        {
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -3904,25 +3829,25 @@
       },
       "newsItems": [
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
-        },
-        {
           "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
           "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-          "published": "2026-10-15T21:50:48Z",
-          "image": "https://a.espncdn.com/photo/2026/1012/r1729760_608x342_16-9.jpg",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-          "description": "— When Chicago Bears coach Ben Johnson said this week that “a lot of things have gone through our minds” about his quarterback depth chart, the Atlanta Falcons could relate.",
-          "published": "2026-10-15T21:44:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401872999"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
+        },
+        {
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -3979,25 +3904,25 @@
       },
       "newsItems": [
         {
-          "headline": "The 49ers look to avoid letdown, while the Commanders try to get past hangover of disappointing tie",
-          "description": "— The San Francisco 49ers were still basking in the glow of an exhilarating road win against division...",
-          "published": "2026-10-15T21:39:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873008.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873008"
+          "headline": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
+          "description": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
+          "published": "2026-10-16T01:03:35Z",
+          "image": "https://a.espncdn.com/photo/2026/1016/r1731417_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf"
         },
         {
-          "headline": "Jayden Daniels addresses teammates on gaffe, vows 'it'll never happen again'",
-          "description": "Jayden Daniels addressed his Commanders teammates, once more blaming himself for the end-of-overtime debacle against the Giants and vowing it won't happen again.",
-          "published": "2026-10-15T22:17:34Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731326_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50191830/jayden-daniels-addresses-commanders-teammates-ot-gaffe"
+          "headline": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+          "description": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+          "published": "2026-10-16T00:52:35Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401872997"
         },
         {
-          "headline": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-          "description": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-          "published": "2026-10-15T22:07:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing"
+          "headline": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+          "description": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+          "published": "2026-10-16T00:00:42Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
         }
       ]
     },
@@ -4023,9 +3948,9 @@
           "d": 3.55
         },
         "SportyBet": {
-          "h": 2.59,
-          "d": 3.83,
-          "a": 2.68
+          "h": 2.61,
+          "d": 3.81,
+          "a": 2.67
         }
       },
       "fair": {
@@ -4058,7 +3983,7 @@
         },
         "fairOver": 2.23
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "fotmobId": "5749704",
       "fmHomeId": "9891",
       "fmAwayId": "7943",
@@ -4490,9 +4415,9 @@
           "d": 3.95
         },
         "SportyBet": {
-          "h": 1.99,
-          "d": 4.26,
-          "a": 3.53
+          "h": 1.98,
+          "d": 4.27,
+          "a": 3.57
         }
       },
       "fair": {
@@ -4525,7 +4450,7 @@
         },
         "fairOver": 1.98
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "newsItems": [
         {
           "headline": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich?",
@@ -5906,8 +5831,8 @@
           "d": 3.6
         },
         "SportyBet": {
-          "h": 3.04,
-          "d": 3.64,
+          "h": 3.02,
+          "d": 3.67,
           "a": 2.4
         }
       },
@@ -5932,16 +5857,16 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.7,
-          "b": "SportyBet"
+          "o": 1.67,
+          "b": "DraftKings"
         },
         "under": {
-          "o": 2.2,
+          "o": 2.3,
           "b": "SportyBet"
         },
-        "fairOver": 1.79
+        "fairOver": 1.76
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "fotmobId": "5802957",
       "fmHomeId": "8682",
       "fmAwayId": "9941",
@@ -6568,6 +6493,8 @@
             }
           ],
           "missing": [
+            "Adam Armstrong",
+            "Rodrigo Gomes",
             "Raul Jiménez",
             "Yerson Mosquera"
           ]
@@ -6675,7 +6602,7 @@
         },
         "fairOver": 2.2
       },
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "fotmobId": "5781769",
       "fmHomeId": "10228",
       "fmAwayId": "10218",
@@ -6962,7 +6889,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.17,
@@ -7037,7 +6964,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.56,
@@ -7112,7 +7039,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.43,
@@ -7187,7 +7114,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 5.8,
@@ -7262,7 +7189,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.49,
@@ -7337,26 +7264,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
-          "h": 1.66,
-          "d": 4.21,
-          "a": 5.02
+          "h": 1.69,
+          "d": 4.19,
+          "a": 4.81
         }
       },
       "fair": {
-        "h": 1.72,
-        "d": 4.37,
-        "a": 5.22
+        "h": 1.75,
+        "d": 4.35,
+        "a": 4.99
       },
       "open": {
-        "h": 1.66,
-        "d": 4.21,
-        "a": 5.02
+        "h": 1.69,
+        "d": 4.19,
+        "a": 4.81
       },
       "movement": [
-        1.66
+        1.69
       ],
       "totals": {
         "line": 2.5,
@@ -7480,7 +7407,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 8.92,
@@ -7555,7 +7482,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.52,
@@ -7698,7 +7625,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.07,
@@ -7905,7 +7832,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.6,
@@ -7977,7 +7904,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.78,
@@ -8120,7 +8047,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.46,
@@ -8263,7 +8190,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.17,
@@ -8406,7 +8333,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.9,
@@ -8481,7 +8408,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -8624,7 +8551,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 4.86,
@@ -8945,7 +8872,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.49,
@@ -9266,26 +9193,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
-          "h": 6.26,
-          "d": 5.89,
+          "h": 6.28,
+          "d": 5.82,
           "a": 1.45
         }
       },
       "fair": {
-        "h": 6.38,
-        "d": 6,
+        "h": 6.41,
+        "d": 5.94,
         "a": 1.48
       },
       "open": {
-        "h": 6.26,
-        "d": 5.89,
+        "h": 6.28,
+        "d": 5.82,
         "a": 1.45
       },
       "movement": [
-        6.26
+        6.28
       ],
       "totals": {
         "line": 2.5,
@@ -9526,7 +9453,6 @@
           "missing": [
             "Andreas Christensen",
             "Frenkie de Jong",
-            "Raphinha",
             "Roony Bardghji"
           ]
         }
@@ -9658,7 +9584,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.39,
@@ -9985,7 +9911,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.08,
@@ -10060,7 +9986,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -10135,7 +10061,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.29,
@@ -10210,7 +10136,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.27,
@@ -10353,7 +10279,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.95,
@@ -10428,7 +10354,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.99,
@@ -10758,7 +10684,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.07,
@@ -11085,7 +11011,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.55,
@@ -11412,7 +11338,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 5.32,
@@ -11739,7 +11665,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.84,
@@ -12067,7 +11993,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.24,
@@ -12389,7 +12315,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.76,
@@ -12464,7 +12390,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.15,
@@ -12539,7 +12465,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.42,
@@ -12614,7 +12540,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 4.79,
@@ -12877,9 +12803,6 @@
           "subs": [],
           "missing": [
             "Alessandro Buongiorno",
-            "Mathías Olivera",
-            "Alisson Santos",
-            "Frank Anguissa",
             "Antonio Vergara",
             "Costantino Favasuli"
           ]
@@ -12944,7 +12867,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 5.5,
@@ -13090,11 +13013,8 @@
           ],
           "subs": [],
           "missing": [
-            "Arthur Theate",
             "Emil Holm",
-            "Jens Odgaard",
-            "Riccardo Orsolini",
-            "Samuel Mbangula"
+            "Riccardo Orsolini"
           ]
         },
         "away": {
@@ -13270,7 +13190,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.49,
@@ -13529,12 +13449,12 @@
           ],
           "subs": [],
           "missing": [
-            "Sebastian Otoa",
             "Amorim",
             "Djibril Sow",
             "Elias Havel",
             "Franz-Ethan Meichtry",
-            "Lorenzo Colombo"
+            "Lorenzo Colombo",
+            "Lorenzo Venturino"
           ]
         }
       },
@@ -13665,7 +13585,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.94,
@@ -13740,7 +13660,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.42,
@@ -13883,7 +13803,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.85,
@@ -13958,7 +13878,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.72,
@@ -14033,7 +13953,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.45,
@@ -14108,7 +14028,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.1,
@@ -14183,7 +14103,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 6.65,
@@ -14575,7 +14495,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.92,
@@ -14900,7 +14820,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 4.02,
@@ -15225,7 +15145,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.29,
@@ -15300,7 +15220,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.36,
@@ -15375,7 +15295,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.64,
@@ -15450,7 +15370,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.37,
@@ -15525,7 +15445,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.71,
@@ -15600,7 +15520,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.24,
@@ -15675,7 +15595,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.02,
@@ -16011,6 +15931,8 @@
             }
           ],
           "missing": [
+            "Adam Armstrong",
+            "Rodrigo Gomes",
             "Raul Jiménez",
             "Yerson Mosquera"
           ]
@@ -16075,7 +15997,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.55,
@@ -16472,7 +16394,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.71,
@@ -16807,6 +16729,8 @@
             }
           ],
           "missing": [
+            "Thomas Hamer",
+            "Conor McGrandles",
             "Mason Melia",
             "Tendayi Darikwa"
           ]
@@ -16871,26 +16795,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
-          "h": 2.48,
-          "d": 3.47,
-          "a": 2.95
+          "h": 2.54,
+          "d": 3.45,
+          "a": 2.88
         }
       },
       "fair": {
-        "h": 2.56,
-        "d": 3.58,
-        "a": 3.04
+        "h": 2.62,
+        "d": 3.56,
+        "a": 2.97
       },
       "open": {
-        "h": 2.48,
-        "d": 3.47,
-        "a": 2.95
+        "h": 2.54,
+        "d": 3.45,
+        "a": 2.88
       },
       "movement": [
-        2.48
+        2.54
       ],
       "totals": {
         "line": 2.5,
@@ -17269,7 +17193,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.12,
@@ -17665,7 +17589,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.16,
@@ -17994,6 +17918,7 @@
             }
           ],
           "missing": [
+            "Hamza Choudhury",
             "Femi Seriki"
           ]
         }
@@ -18057,7 +17982,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.99,
@@ -18240,12 +18165,12 @@
             }
           ],
           "missing": [
+            "Sondre Klingen Langås",
             "Max Johnston",
             "Eiran Cashin",
             "Charlie Taylor",
             "Jacob Widell Zetterström",
-            "Craig Forsyth",
-            "Derry Murkin"
+            "Craig Forsyth"
           ]
         },
         "away": {
@@ -18458,7 +18383,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.81,
@@ -18794,12 +18719,12 @@
             }
           ],
           "missing": [
+            "Keshi Anderson",
             "Benjamin Arthur",
             "Conor Shaughnessy",
             "Luke Brooke-Smith",
             "Josh Murphy",
-            "Thomas Waddingham",
-            "Franco Umeh-Chibueze"
+            "Thomas Waddingham"
           ]
         }
       },
@@ -18862,7 +18787,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.51,
@@ -19044,7 +18969,9 @@
               "shirt": "28"
             }
           ],
-          "missing": []
+          "missing": [
+            "Flynn Downes"
+          ]
         },
         "away": {
           "name": "Bolton Wanderers",
@@ -19254,7 +19181,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.16,
@@ -19636,6 +19563,543 @@
       ]
     },
     {
+      "id": "sb-championship-westbromwich-v-blackburnrovers-1792245600000",
+      "leagueId": "championship",
+      "home": "West Bromwich",
+      "away": "Blackburn Rovers",
+      "startsIn": "10/17/2026, 2:00:00 PM",
+      "commenceISO": "2026-10-17T14:00:00.000Z",
+      "live": false,
+      "status": "upcoming",
+      "score": null,
+      "minute": null,
+      "real": true,
+      "sample": false,
+      "oddsStatus": "live",
+      "sbAt": "2026-10-16T01:04:20.361Z",
+      "prices": {
+        "SportyBet": {
+          "h": 1.96,
+          "d": 3.63,
+          "a": 4.09
+        }
+      },
+      "fair": {
+        "h": 2.02,
+        "d": 3.74,
+        "a": 4.21
+      },
+      "open": {
+        "h": 1.96,
+        "d": 3.63,
+        "a": 4.09
+      },
+      "movement": [
+        1.96
+      ],
+      "totals": {
+        "line": 2.5,
+        "over": {
+          "o": 2.05,
+          "b": "SportyBet"
+        },
+        "under": {
+          "o": 1.83,
+          "b": "SportyBet"
+        },
+        "fairOver": 2.12
+      },
+      "news": "Real odds via SportyBet feed (Championship).",
+      "fotmobId": "5836884",
+      "fmHomeId": "8659",
+      "fmAwayId": "8655",
+      "lineups": {
+        "home": {
+          "name": "West Bromwich Albion",
+          "formation": "4-4-1-1",
+          "rating": null,
+          "coach": "James Morrison",
+          "xi": [
+            {
+              "name": "Max O'Leary",
+              "shirt": "1",
+              "pos": 11,
+              "x": 0.1,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Brayann Pereira",
+              "shirt": "18",
+              "pos": 32,
+              "x": 0.292,
+              "y": 0.875,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Chris Mepham",
+              "shirt": "2",
+              "pos": 34,
+              "x": 0.292,
+              "y": 0.625,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "George Campbell",
+              "shirt": "6",
+              "pos": 36,
+              "x": 0.292,
+              "y": 0.375,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Callum Styles",
+              "shirt": "4",
+              "pos": 38,
+              "x": 0.292,
+              "y": 0.125,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Harry Whitwell",
+              "shirt": "29",
+              "pos": 72,
+              "x": 0.485,
+              "y": 0.875,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Jayson Molumby",
+              "shirt": "8",
+              "pos": 74,
+              "x": 0.485,
+              "y": 0.625,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Toby Collyer",
+              "shirt": "15",
+              "pos": 76,
+              "x": 0.485,
+              "y": 0.375,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Isaac Price",
+              "shirt": "21",
+              "pos": 78,
+              "x": 0.485,
+              "y": 0.125,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Rabby Nzingoula",
+              "shirt": "20",
+              "pos": 95,
+              "x": 0.678,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Barney Stewart",
+              "shirt": "9",
+              "pos": 115,
+              "x": 0.87,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            }
+          ],
+          "subs": [
+            {
+              "name": "Matt Ingram",
+              "shirt": "13"
+            },
+            {
+              "name": "Conor Townsend",
+              "shirt": "22"
+            },
+            {
+              "name": "Nathaniel Phillips",
+              "shirt": "3"
+            },
+            {
+              "name": "Felix Horn Myhre",
+              "shirt": "7"
+            },
+            {
+              "name": "Ousmane Diakité",
+              "shirt": "17"
+            },
+            {
+              "name": "Matthew Crowther",
+              "shirt": "35"
+            },
+            {
+              "name": "Jimmy-Jay Morgan",
+              "shirt": "11"
+            },
+            {
+              "name": "Tammer Bany",
+              "shirt": "23"
+            },
+            {
+              "name": "Aune Selland Heggebø",
+              "shirt": "19"
+            }
+          ],
+          "missing": [
+            "Nolan Galves",
+            "Michael Johnston"
+          ]
+        },
+        "away": {
+          "name": "Blackburn Rovers",
+          "formation": "3-4-2-1",
+          "rating": null,
+          "coach": "Tony Mowbray",
+          "xi": [
+            {
+              "name": "Balázs Tóth",
+              "shirt": "22",
+              "pos": 11,
+              "x": 0.1,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Tom Atcheson",
+              "shirt": "6",
+              "pos": 33,
+              "x": 0.292,
+              "y": 0.79,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Hayden Carter",
+              "shirt": "17",
+              "pos": 35,
+              "x": 0.292,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Sean McLoughlin",
+              "shirt": "15",
+              "pos": 37,
+              "x": 0.292,
+              "y": 0.21,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Ryan Alebiosu",
+              "shirt": "2",
+              "pos": 62,
+              "x": 0.485,
+              "y": 0.875,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Sam Morsy",
+              "shirt": "8",
+              "pos": 64,
+              "x": 0.485,
+              "y": 0.625,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Kristi Montgomery",
+              "shirt": "31",
+              "pos": 66,
+              "x": 0.485,
+              "y": 0.375,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Harry Pickering",
+              "shirt": "3",
+              "pos": 68,
+              "x": 0.485,
+              "y": 0.125,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Ryoya Morishita",
+              "shirt": "25",
+              "pos": 84,
+              "x": 0.678,
+              "y": 0.7,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Oladapo Afolayan",
+              "shirt": "21",
+              "pos": 86,
+              "x": 0.678,
+              "y": 0.3,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Todd Cantwell",
+              "shirt": "10",
+              "pos": 105,
+              "x": 0.87,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            }
+          ],
+          "subs": [
+            {
+              "name": "Aynsley Pears",
+              "shirt": "1"
+            },
+            {
+              "name": "Gady Beyuku",
+              "shirt": "27"
+            },
+            {
+              "name": "Moussa Baradji",
+              "shirt": "24"
+            },
+            {
+              "name": "Dion De Neve",
+              "shirt": "14"
+            },
+            {
+              "name": "Jake Garrett",
+              "shirt": "30"
+            },
+            {
+              "name": "Mathias Jørgensen",
+              "shirt": "29"
+            },
+            {
+              "name": "Andri Guðjohnsen",
+              "shirt": "9"
+            },
+            {
+              "name": "Augustus Kargbo",
+              "shirt": "7"
+            },
+            {
+              "name": "Jayden Fevrier",
+              "shirt": "11"
+            }
+          ],
+          "missing": [
+            "Yuri Ribeiro",
+            "Scott Wharton",
+            "Yuki Ohashi",
+            "Lewis Miller"
+          ]
+        }
+      },
+      "form": {
+        "home": [
+          "W",
+          "D",
+          "L",
+          "L",
+          "W"
+        ],
+        "away": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "W"
+        ]
+      },
+      "h2h": {
+        "homeWins": 6,
+        "draws": 6,
+        "awayWins": 6
+      },
+      "newsItems": [
+        {
+          "headline": "Two late West Brom goals sink Wrexham to 16th",
+          "description": "West Brom staged a dramatic late revival to beat Wrexham 2-1 at The Racecourse on Tuesday.",
+          "published": "2026-10-13T21:04:52Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/r1730329_1296x729_16-9.jpg",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401880225"
+        },
+        {
+          "headline": "Racism allegation mars Swansea win at Millwall",
+          "description": "Substitute Ronald scored a last-minute winner to keep Swansea top of the Championship after their match at Millwall was held up due to alleged racist chanting aimed at the visitors' Eom Ji-sung.",
+          "published": "2026-10-14T07:25:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1014/r1730526_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50180025/racism-allegation-mars-swansea-win-millwall"
+        },
+        {
+          "headline": "Regulator: English football must address finances 'before it is too late'",
+          "description": "The chair of the Independent Football Regulator says the English game must \"act before it is too late\" to tackle the financial dangers facing it.",
+          "published": "2026-10-13T16:54:14Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/r1730173_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50174651/independent-football-regulator-english-address-finances-too-late"
+        }
+      ]
+    },
+    {
+      "id": "sb-championship-wrexhamafc-v-prestonnorthend-1792245600000",
+      "leagueId": "championship",
+      "home": "Wrexham AFC",
+      "away": "Preston North End",
+      "startsIn": "10/17/2026, 2:00:00 PM",
+      "commenceISO": "2026-10-17T14:00:00.000Z",
+      "live": false,
+      "status": "upcoming",
+      "score": null,
+      "minute": null,
+      "real": true,
+      "sample": false,
+      "oddsStatus": "live",
+      "sbAt": "2026-10-16T01:04:20.361Z",
+      "prices": {
+        "SportyBet": {
+          "h": 1.71,
+          "d": 4.06,
+          "a": 5.07
+        }
+      },
+      "fair": {
+        "h": 1.76,
+        "d": 4.18,
+        "a": 5.21
+      },
+      "open": {
+        "h": 1.71,
+        "d": 4.06,
+        "a": 5.07
+      },
+      "movement": [
+        1.71
+      ],
+      "totals": {
+        "line": 2.5,
+        "over": {
+          "o": 1.87,
+          "b": "SportyBet"
+        },
+        "under": {
+          "o": 1.98,
+          "b": "SportyBet"
+        },
+        "fairOver": 1.94
+      },
+      "news": "Real odds via SportyBet feed (Championship).",
+      "fotmobId": "5836885",
+      "fmHomeId": "9841",
+      "fmAwayId": "8411",
+      "newsItems": [
+        {
+          "headline": "Two late West Brom goals sink Wrexham to 16th",
+          "description": "West Brom staged a dramatic late revival to beat Wrexham 2-1 at The Racecourse on Tuesday.",
+          "published": "2026-10-13T21:04:52Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/r1730329_1296x729_16-9.jpg",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401880225"
+        },
+        {
+          "headline": "Racism allegation mars Swansea win at Millwall",
+          "description": "Substitute Ronald scored a last-minute winner to keep Swansea top of the Championship after their match at Millwall was held up due to alleged racist chanting aimed at the visitors' Eom Ji-sung.",
+          "published": "2026-10-14T07:25:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1014/r1730526_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50180025/racism-allegation-mars-swansea-win-millwall"
+        },
+        {
+          "headline": "Regulator: English football must address finances 'before it is too late'",
+          "description": "The chair of the Independent Football Regulator says the English game must \"act before it is too late\" to tackle the financial dangers facing it.",
+          "published": "2026-10-13T16:54:14Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/r1730173_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50174651/independent-football-regulator-english-address-finances-too-late"
+        }
+      ]
+    },
+    {
+      "id": "sb-championship-wolves-v-portsmouthfc-1792521900000",
+      "leagueId": "championship",
+      "home": "Wolves",
+      "away": "Portsmouth FC",
+      "startsIn": "10/20/2026, 6:45:00 PM",
+      "commenceISO": "2026-10-20T18:45:00.000Z",
+      "live": false,
+      "status": "upcoming",
+      "score": null,
+      "minute": null,
+      "real": true,
+      "sample": false,
+      "oddsStatus": "live",
+      "sbAt": "2026-10-16T01:04:20.361Z",
+      "prices": {
+        "SportyBet": {
+          "h": 1.53,
+          "d": 4.35,
+          "a": 5.66
+        }
+      },
+      "fair": {
+        "h": 1.62,
+        "d": 4.61,
+        "a": 6
+      },
+      "open": {
+        "h": 1.53,
+        "d": 4.35,
+        "a": 5.66
+      },
+      "movement": [
+        1.53
+      ],
+      "totals": null,
+      "news": "Real odds via SportyBet feed (Championship).",
+      "fotmobId": "5836821",
+      "fmHomeId": "8602",
+      "fmAwayId": "8462",
+      "newsItems": [
+        {
+          "headline": "Southampton beat rivals Portsmouth 1-0 in first match after Spygate conclusion",
+          "description": "Southampton ended a dramatic week with a memorable 1-0 derby win against Portsmouth as Tonda Eckert's men dug deep following Cameron Bragg's red card to seal James Bree's place in club folklore.",
+          "published": "2026-10-11T15:24:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1011/r1729155_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50157129/southampton-portsmouth-south-coast-derby-spygate-tonda-eckert"
+        },
+        {
+          "headline": "Racism allegation mars Swansea win at Millwall",
+          "description": "Substitute Ronald scored a last-minute winner to keep Swansea top of the Championship after their match at Millwall was held up due to alleged racist chanting aimed at the visitors' Eom Ji-sung.",
+          "published": "2026-10-14T07:25:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1014/r1730526_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50180025/racism-allegation-mars-swansea-win-millwall"
+        },
+        {
+          "headline": "Two late West Brom goals sink Wrexham to 16th",
+          "description": "West Brom staged a dramatic late revival to beat Wrexham 2-1 at The Racecourse on Tuesday.",
+          "published": "2026-10-13T21:04:52Z",
+          "image": "https://a.espncdn.com/photo/2026/1013/r1730329_1296x729_16-9.jpg",
+          "url": "http://www.espn.com/soccer/report/_/gameId/401880225"
+        }
+      ]
+    },
+    {
       "id": "sb-eredivisie-adodenhaag-v-psveindhoven-1792247400000",
       "leagueId": "eredivisie",
       "home": "ADO Den Haag",
@@ -19649,7 +20113,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 8.92,
@@ -20049,7 +20513,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 7.93,
@@ -20514,7 +20978,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.66,
@@ -20912,7 +21376,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.42,
@@ -20987,7 +21451,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 5.73,
@@ -21062,7 +21526,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.43,
@@ -21137,7 +21601,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.33,
@@ -21212,7 +21676,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.64,
@@ -21287,7 +21751,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.53,
@@ -21349,306 +21813,6 @@
       ]
     },
     {
-      "id": "sb-eredivisie-fcutrecht-v-peczwolle-1792852200000",
-      "leagueId": "eredivisie",
-      "home": "FC Utrecht",
-      "away": "PEC Zwolle",
-      "startsIn": "10/24/2026, 2:30:00 PM",
-      "commenceISO": "2026-10-24T14:30:00.000Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "real": true,
-      "sample": false,
-      "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
-      "prices": {
-        "SportyBet": {
-          "h": 1.55,
-          "d": 4.51,
-          "a": 5.14
-        }
-      },
-      "fair": {
-        "h": 1.65,
-        "d": 4.79,
-        "a": 5.46
-      },
-      "open": {
-        "h": 1.55,
-        "d": 4.51,
-        "a": 5.14
-      },
-      "movement": [
-        1.55
-      ],
-      "totals": {
-        "line": 2.5,
-        "over": {
-          "o": 1.44,
-          "b": "SportyBet"
-        },
-        "under": {
-          "o": 2.75,
-          "b": "SportyBet"
-        },
-        "fairOver": 1.52
-      },
-      "news": "Real odds via SportyBet feed (Eredivisie).",
-      "fotmobId": "5781784",
-      "fmHomeId": "9908",
-      "fmAwayId": "6413",
-      "newsItems": [
-        {
-          "headline": "Soccer's best 2025-26 kits: The most stylish jerseys you probably missed",
-          "description": "While the world's top clubs release their new kits on a wave of hype, there are many more who release absolutely banging jerseys that deserve to be seen.",
-          "published": "2026-09-29T07:38:13Z",
-          "image": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed"
-        },
-        {
-          "headline": "Ricardo Pepi's injury in PSV match a concern for USMNT",
-          "description": "PSV Eindhoven striker Ricardo Pepi had to be substituted because of injury in the club's match on Sunday, giving the U.S. men's national team a possible selection headache.",
-          "published": "2026-09-20T13:45:33Z",
-          "image": "https://a.espncdn.com/photo/2026/0920/r1719409_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49988715/ricardo-pepi-injury-psv-match-concern-usmnt"
-        },
-        {
-          "headline": "Ajax's Thilo Kehrer using his success to help Burundi's children",
-          "description": "Thilo Kehrer may have joined Ajax Amsterdam on loan from AS Monaco, but his mission away from football remains unchanged -- he is aiming to leverage his success in football to help children in Burundi.",
-          "published": "2026-09-11T10:18:43Z",
-          "image": "https://a.espncdn.com/photo/2026/0911/r1714790_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/story/_/id/49901824/ajax-thilo-kehrer-using-success-help-burundi-children"
-        }
-      ]
-    },
-    {
-      "id": "sb-eredivisie-willemiitilburg-v-sccambuur-1792860300000",
-      "leagueId": "eredivisie",
-      "home": "Willem II Tilburg",
-      "away": "SC Cambuur",
-      "startsIn": "10/24/2026, 4:45:00 PM",
-      "commenceISO": "2026-10-24T16:45:00.000Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "real": true,
-      "sample": false,
-      "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
-      "prices": {
-        "SportyBet": {
-          "h": 2.5,
-          "d": 3.61,
-          "a": 2.61
-        }
-      },
-      "fair": {
-        "h": 2.65,
-        "d": 3.83,
-        "a": 2.77
-      },
-      "open": {
-        "h": 2.5,
-        "d": 3.61,
-        "a": 2.61
-      },
-      "movement": [
-        2.5
-      ],
-      "totals": {
-        "line": 2.5,
-        "over": {
-          "o": 1.57,
-          "b": "SportyBet"
-        },
-        "under": {
-          "o": 2.35,
-          "b": "SportyBet"
-        },
-        "fairOver": 1.67
-      },
-      "news": "Real odds via SportyBet feed (Eredivisie).",
-      "fotmobId": "5781785",
-      "fmHomeId": "8525",
-      "fmAwayId": "7788",
-      "newsItems": [
-        {
-          "headline": "Man United loan teen striker Chido Obi to Dutch side Willem II",
-          "description": "Manchester United striker Chido Obi has joined Dutch side Willem II on a season-long loan deal",
-          "published": "2026-09-02T22:45:44Z",
-          "image": "https://a.espncdn.com/photo/2026/0902/r1710630_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49807577/man-united-chido-obi-loan-willem-ii"
-        },
-        {
-          "headline": "Soccer's best 2025-26 kits: The most stylish jerseys you probably missed",
-          "description": "While the world's top clubs release their new kits on a wave of hype, there are many more who release absolutely banging jerseys that deserve to be seen.",
-          "published": "2026-09-29T07:38:13Z",
-          "image": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed"
-        },
-        {
-          "headline": "Ricardo Pepi's injury in PSV match a concern for USMNT",
-          "description": "PSV Eindhoven striker Ricardo Pepi had to be substituted because of injury in the club's match on Sunday, giving the U.S. men's national team a possible selection headache.",
-          "published": "2026-09-20T13:45:33Z",
-          "image": "https://a.espncdn.com/photo/2026/0920/r1719409_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49988715/ricardo-pepi-injury-psv-match-concern-usmnt"
-        }
-      ]
-    },
-    {
-      "id": "sb-eredivisie-adodenhaag-v-scheerenveen-1792868400000",
-      "leagueId": "eredivisie",
-      "home": "ADO Den Haag",
-      "away": "SC Heerenveen",
-      "startsIn": "10/24/2026, 7:00:00 PM",
-      "commenceISO": "2026-10-24T19:00:00.000Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "real": true,
-      "sample": false,
-      "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
-      "prices": {
-        "SportyBet": {
-          "h": 3.29,
-          "d": 3.85,
-          "a": 2.02
-        }
-      },
-      "fair": {
-        "h": 3.48,
-        "d": 4.08,
-        "a": 2.14
-      },
-      "open": {
-        "h": 3.29,
-        "d": 3.85,
-        "a": 2.02
-      },
-      "movement": [
-        3.29
-      ],
-      "totals": {
-        "line": 2.5,
-        "over": {
-          "o": 1.51,
-          "b": "SportyBet"
-        },
-        "under": {
-          "o": 2.5,
-          "b": "SportyBet"
-        },
-        "fairOver": 1.6
-      },
-      "news": "Real odds via SportyBet feed (Eredivisie).",
-      "fotmobId": "5781779",
-      "fmHomeId": "10217",
-      "fmAwayId": "10228",
-      "newsItems": [
-        {
-          "headline": "Soccer's best 2025-26 kits: The most stylish jerseys you probably missed",
-          "description": "While the world's top clubs release their new kits on a wave of hype, there are many more who release absolutely banging jerseys that deserve to be seen.",
-          "published": "2026-09-29T07:38:13Z",
-          "image": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed"
-        },
-        {
-          "headline": "Ricardo Pepi's injury in PSV match a concern for USMNT",
-          "description": "PSV Eindhoven striker Ricardo Pepi had to be substituted because of injury in the club's match on Sunday, giving the U.S. men's national team a possible selection headache.",
-          "published": "2026-09-20T13:45:33Z",
-          "image": "https://a.espncdn.com/photo/2026/0920/r1719409_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49988715/ricardo-pepi-injury-psv-match-concern-usmnt"
-        },
-        {
-          "headline": "Ajax's Thilo Kehrer using his success to help Burundi's children",
-          "description": "Thilo Kehrer may have joined Ajax Amsterdam on loan from AS Monaco, but his mission away from football remains unchanged -- he is aiming to leverage his success in football to help children in Burundi.",
-          "published": "2026-09-11T10:18:43Z",
-          "image": "https://a.espncdn.com/photo/2026/0911/r1714790_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/story/_/id/49901824/ajax-thilo-kehrer-using-success-help-burundi-children"
-        }
-      ]
-    },
-    {
-      "id": "sb-eredivisie-fortunasittard-v-excelsiorrotterd-1792926900000",
-      "leagueId": "eredivisie",
-      "home": "Fortuna Sittard",
-      "away": "Excelsior Rotterdam",
-      "startsIn": "10/25/2026, 11:15:00 AM",
-      "commenceISO": "2026-10-25T11:15:00.000Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "real": true,
-      "sample": false,
-      "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
-      "prices": {
-        "SportyBet": {
-          "h": 2.65,
-          "d": 3.75,
-          "a": 2.4
-        }
-      },
-      "fair": {
-        "h": 2.81,
-        "d": 3.98,
-        "a": 2.55
-      },
-      "open": {
-        "h": 2.65,
-        "d": 3.75,
-        "a": 2.4
-      },
-      "movement": [
-        2.65
-      ],
-      "totals": {
-        "line": 2.5,
-        "over": {
-          "o": 1.51,
-          "b": "SportyBet"
-        },
-        "under": {
-          "o": 2.5,
-          "b": "SportyBet"
-        },
-        "fairOver": 1.6
-      },
-      "news": "Real odds via SportyBet feed (Eredivisie).",
-      "fotmobId": "5781780",
-      "fmHomeId": "6422",
-      "fmAwayId": "10218",
-      "newsItems": [
-        {
-          "headline": "Soccer's best 2025-26 kits: The most stylish jerseys you probably missed",
-          "description": "While the world's top clubs release their new kits on a wave of hype, there are many more who release absolutely banging jerseys that deserve to be seen.",
-          "published": "2026-09-29T07:38:13Z",
-          "image": "https://a.espncdn.com/photo/2026/0904/r1711227_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49812807/soccer-best-kits-2025-26-stylish-jerseys-probably-missed"
-        },
-        {
-          "headline": "Ricardo Pepi's injury in PSV match a concern for USMNT",
-          "description": "PSV Eindhoven striker Ricardo Pepi had to be substituted because of injury in the club's match on Sunday, giving the U.S. men's national team a possible selection headache.",
-          "published": "2026-09-20T13:45:33Z",
-          "image": "https://a.espncdn.com/photo/2026/0920/r1719409_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/49988715/ricardo-pepi-injury-psv-match-concern-usmnt"
-        },
-        {
-          "headline": "Ajax's Thilo Kehrer using his success to help Burundi's children",
-          "description": "Thilo Kehrer may have joined Ajax Amsterdam on loan from AS Monaco, but his mission away from football remains unchanged -- he is aiming to leverage his success in football to help children in Burundi.",
-          "published": "2026-09-11T10:18:43Z",
-          "image": "https://a.espncdn.com/photo/2026/0911/r1714790_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/story/_/id/49901824/ajax-thilo-kehrer-using-success-help-burundi-children"
-        }
-      ]
-    },
-    {
       "id": "sb-bundes-energiecottbus-v-1fcnuremberg-1792168200000",
       "leagueId": "bundes",
       "home": "Energie Cottbus",
@@ -21662,7 +21826,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.1,
@@ -21734,7 +21898,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.8,
@@ -22129,7 +22293,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -22527,7 +22691,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -22923,7 +23087,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.71,
@@ -23317,7 +23481,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -23711,7 +23875,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.78,
@@ -23786,7 +23950,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -23861,7 +24025,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -23936,7 +24100,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -24333,7 +24497,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.33,
@@ -24727,7 +24891,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.55,
@@ -25123,7 +25287,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.96,
@@ -25527,7 +25691,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.4,
@@ -25928,7 +26092,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3,
@@ -26003,7 +26167,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.88,
@@ -26078,7 +26242,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.84,
@@ -26153,7 +26317,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.95,
@@ -26228,7 +26392,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.7,
@@ -26303,7 +26467,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -26680,26 +26844,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
-          "h": 1.32,
-          "d": 5.6,
-          "a": 8.8
+          "h": 1.36,
+          "d": 5.3,
+          "a": 8
         }
       },
       "fair": {
-        "h": 1.39,
-        "d": 5.88,
-        "a": 9.24
+        "h": 1.43,
+        "d": 5.56,
+        "a": 8.39
       },
       "open": {
-        "h": 1.32,
-        "d": 5.6,
-        "a": 8.8
+        "h": 1.36,
+        "d": 5.3,
+        "a": 8
       },
       "movement": [
-        1.32
+        1.36
       ],
       "totals": {
         "line": 2.5,
@@ -27058,7 +27222,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.53,
@@ -27434,7 +27598,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.1,
@@ -27810,7 +27974,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.1,
@@ -27846,7 +28010,333 @@
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103666",
       "fmHomeId": "10277",
-      "fmAwayId": "10276"
+      "fmAwayId": "10276",
+      "lineups": {
+        "home": {
+          "name": "São Paulo",
+          "formation": "3-4-2-1",
+          "rating": null,
+          "coach": "Dorival Júnior",
+          "xi": [
+            {
+              "name": "Rafael",
+              "shirt": "23",
+              "pos": 11,
+              "x": 0.1,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Newton",
+              "shirt": "28",
+              "pos": 33,
+              "x": 0.292,
+              "y": 0.79,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Robert Arboleda",
+              "shirt": "5",
+              "pos": 35,
+              "x": 0.292,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Sabino",
+              "shirt": "35",
+              "pos": 37,
+              "x": 0.292,
+              "y": 0.21,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Lucas Ramon",
+              "shirt": "19",
+              "pos": 62,
+              "x": 0.485,
+              "y": 0.875,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Damián Bobadilla",
+              "shirt": "16",
+              "pos": 64,
+              "x": 0.485,
+              "y": 0.625,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Djhordney",
+              "shirt": "48",
+              "pos": 66,
+              "x": 0.485,
+              "y": 0.375,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Iago",
+              "shirt": "12",
+              "pos": 68,
+              "x": 0.485,
+              "y": 0.125,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Artur",
+              "shirt": "37",
+              "pos": 84,
+              "x": 0.678,
+              "y": 0.7,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Gustavo Santana",
+              "shirt": "43",
+              "pos": 86,
+              "x": 0.678,
+              "y": 0.3,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Jonathan Calleri",
+              "shirt": "9",
+              "pos": 105,
+              "x": 0.87,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            }
+          ],
+          "subs": [
+            {
+              "name": "Carlos Coronel",
+              "shirt": "31"
+            },
+            {
+              "name": "Pedro Lima",
+              "shirt": "32"
+            },
+            {
+              "name": "Wendell",
+              "shirt": "18"
+            },
+            {
+              "name": "Rafael Tolói",
+              "shirt": "2"
+            },
+            {
+              "name": "Pedro Ferreira",
+              "shirt": "46"
+            },
+            {
+              "name": "Marcos Antônio",
+              "shirt": "8"
+            },
+            {
+              "name": "Pablo Maia",
+              "shirt": "29"
+            },
+            {
+              "name": "Lucca Marques",
+              "shirt": "45"
+            },
+            {
+              "name": "André",
+              "shirt": "17"
+            }
+          ],
+          "missing": [
+            "Djhordney",
+            "Danielzinho",
+            "Luciano",
+            "Domingos Duarte",
+            "Nicolas",
+            "Aurélio Buta"
+          ]
+        },
+        "away": {
+          "name": "Vasco da Gama",
+          "formation": "4-1-4-1",
+          "rating": null,
+          "coach": "Pedro Emanuel",
+          "xi": [
+            {
+              "name": "Léo",
+              "shirt": "1",
+              "pos": 11,
+              "x": 0.1,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Paulo Henrique",
+              "shirt": "96",
+              "pos": 32,
+              "x": 0.292,
+              "y": 0.875,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Alan Saldivia",
+              "shirt": "4",
+              "pos": 34,
+              "x": 0.292,
+              "y": 0.625,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Robert Renan",
+              "shirt": "30",
+              "pos": 36,
+              "x": 0.292,
+              "y": 0.375,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Cuiabano",
+              "shirt": "66",
+              "pos": 38,
+              "x": 0.292,
+              "y": 0.125,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Santiago Sosa",
+              "shirt": "5",
+              "pos": 65,
+              "x": 0.485,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Adson",
+              "shirt": "28",
+              "pos": 82,
+              "x": 0.678,
+              "y": 0.875,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Alan Lescano",
+              "shirt": "22",
+              "pos": 84,
+              "x": 0.678,
+              "y": 0.625,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Thiago Mendes",
+              "shirt": "23",
+              "pos": 86,
+              "x": 0.678,
+              "y": 0.375,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Andrés Gómez",
+              "shirt": "11",
+              "pos": 88,
+              "x": 0.678,
+              "y": 0.125,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Bruno Duarte",
+              "shirt": "19",
+              "pos": 115,
+              "x": 0.89,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            }
+          ],
+          "subs": [
+            {
+              "name": "Daniel Fuzato",
+              "shirt": "13"
+            },
+            {
+              "name": "Gabriel Pereira",
+              "shirt": "55"
+            },
+            {
+              "name": "José Rodriguez",
+              "shirt": "2"
+            },
+            {
+              "name": "Lucas Freitas",
+              "shirt": "43"
+            },
+            {
+              "name": "Lucas Piton",
+              "shirt": "6"
+            },
+            {
+              "name": "Ramon Rique",
+              "shirt": "83"
+            },
+            {
+              "name": "Jair",
+              "shirt": "8"
+            },
+            {
+              "name": "Tchê Tchê",
+              "shirt": "3"
+            },
+            {
+              "name": "Nuno Moreira",
+              "shirt": "17"
+            }
+          ],
+          "missing": [
+            "Cauan Barros",
+            "Facundo Colidio",
+            "Carlos Cuesta"
+          ]
+        }
+      },
+      "form": {
+        "home": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "away": [
+          "W",
+          "W",
+          "W",
+          "D",
+          "W"
+        ]
+      },
+      "h2h": {
+        "homeWins": 14,
+        "draws": 8,
+        "awayWins": 8
+      }
     },
     {
       "id": "sb-brazil-fluminensefcrj-v-santosfcsp-1792350000000",
@@ -27862,38 +28352,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
-          "h": 2.1,
+          "h": 2.15,
           "d": 3.5,
-          "a": 3.5
+          "a": 3.4
         }
       },
       "fair": {
-        "h": 2.2,
-        "d": 3.67,
-        "a": 3.67
+        "h": 2.25,
+        "d": 3.66,
+        "a": 3.55
       },
       "open": {
-        "h": 2.1,
+        "h": 2.15,
         "d": 3.5,
-        "a": 3.5
+        "a": 3.4
       },
       "movement": [
-        2.1
+        2.15
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.85,
+          "o": 1.95,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.92,
+          "o": 1.83,
           "b": "SportyBet"
         },
-        "fairOver": 1.96
+        "fairOver": 2.07
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103664",
@@ -27914,7 +28404,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.95,
@@ -27966,7 +28456,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.33,
@@ -28018,7 +28508,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.25,
@@ -28070,7 +28560,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.65,
@@ -28122,7 +28612,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 9.3,
@@ -28171,7 +28661,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -28199,10 +28689,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.68,
+          "o": 1.7,
           "b": "SportyBet"
         },
-        "fairOver": 2.25
+        "fairOver": 2.24
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190776",
@@ -28538,7 +29028,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.8,
@@ -28905,7 +29395,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.2,
@@ -29272,7 +29762,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -29324,7 +29814,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.63,
@@ -29373,7 +29863,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.95,
@@ -29425,7 +29915,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.75,
@@ -29477,26 +29967,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
-          "h": 1.78,
+          "h": 1.74,
           "d": 3.6,
-          "a": 4.3
+          "a": 4.5
         }
       },
       "fair": {
-        "h": 1.91,
-        "d": 3.86,
-        "a": 4.61
+        "h": 1.87,
+        "d": 3.87,
+        "a": 4.84
       },
       "open": {
-        "h": 1.78,
+        "h": 1.74,
         "d": 3.6,
-        "a": 4.3
+        "a": 4.5
       },
       "movement": [
-        1.78
+        1.74
       ],
       "totals": {
         "line": 2.5,
@@ -29529,26 +30019,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
-          "h": 2.65,
-          "d": 3.2,
-          "a": 2.65
+          "h": 2.75,
+          "d": 3.1,
+          "a": 2.6
         }
       },
       "fair": {
-        "h": 2.83,
-        "d": 3.42,
-        "a": 2.83
+        "h": 2.94,
+        "d": 3.32,
+        "a": 2.78
       },
       "open": {
-        "h": 2.65,
-        "d": 3.2,
-        "a": 2.65
+        "h": 2.75,
+        "d": 3.1,
+        "a": 2.6
       },
       "movement": [
-        2.65
+        2.75
       ],
       "totals": {
         "line": 2.5,
@@ -29581,7 +30071,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 4.5,
@@ -29618,321 +30108,6 @@
       "fotmobId": "5794343",
       "fmHomeId": "9913",
       "fmAwayId": "8426",
-      "lineups": {
-        "home": {
-          "name": "Ayr United",
-          "formation": "3-5-2",
-          "rating": null,
-          "coach": "Gary Naysmith",
-          "xi": [
-            {
-              "name": "Harry Stone",
-              "shirt": "1",
-              "pos": 11,
-              "x": 0.1,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Nicholas McAllister",
-              "shirt": "2",
-              "pos": 33,
-              "x": 0.357,
-              "y": 0.79,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Kevin Holt",
-              "shirt": "5",
-              "pos": 35,
-              "x": 0.357,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Liam Dick",
-              "shirt": "3",
-              "pos": 37,
-              "x": 0.357,
-              "y": 0.21,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Dylan Watret",
-              "shirt": "32",
-              "pos": 71,
-              "x": 0.613,
-              "y": 0.89,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Olly Whyte",
-              "shirt": "12",
-              "pos": 73,
-              "x": 0.613,
-              "y": 0.695,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Luke McBeth",
-              "shirt": "20",
-              "pos": 75,
-              "x": 0.613,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Reece Lyon",
-              "shirt": "6",
-              "pos": 77,
-              "x": 0.613,
-              "y": 0.305,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Scott McMann",
-              "shirt": "33",
-              "pos": 79,
-              "x": 0.613,
-              "y": 0.11,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Owen Stirton",
-              "shirt": "7",
-              "pos": 104,
-              "x": 0.87,
-              "y": 0.7,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Ethan Walker",
-              "shirt": "21",
-              "pos": 106,
-              "x": 0.87,
-              "y": 0.3,
-              "rating": null,
-              "goals": null
-            }
-          ],
-          "subs": [
-            {
-              "name": "Liam Russell",
-              "shirt": "38"
-            },
-            {
-              "name": "Kenzie Mitchell",
-              "shirt": "25"
-            },
-            {
-              "name": "Ben Summers",
-              "shirt": "16"
-            },
-            {
-              "name": "Jamie Douglas",
-              "shirt": "34"
-            },
-            {
-              "name": "Marco Rus",
-              "shirt": "23"
-            },
-            {
-              "name": "Thomas Hatton",
-              "shirt": "17"
-            },
-            {
-              "name": "Jamie Murphy",
-              "shirt": "15"
-            },
-            {
-              "name": "Josh Landers",
-              "shirt": "9"
-            },
-            {
-              "name": "Kieran Shanks",
-              "shirt": "10"
-            }
-          ],
-          "missing": []
-        },
-        "away": {
-          "name": "Partick Thistle",
-          "formation": "4-2-3-1",
-          "rating": null,
-          "coach": "Mark Wilson",
-          "xi": [
-            {
-              "name": "Lewis Budinauckas",
-              "shirt": "1",
-              "pos": 11,
-              "x": 0.1,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Ben McPherson",
-              "shirt": "24",
-              "pos": 32,
-              "x": 0.292,
-              "y": 0.875,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Lee Ashcroft",
-              "shirt": "5",
-              "pos": 34,
-              "x": 0.292,
-              "y": 0.625,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Cale Loughrey",
-              "shirt": "22",
-              "pos": 36,
-              "x": 0.292,
-              "y": 0.375,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Patrick Reading",
-              "shirt": "3",
-              "pos": 38,
-              "x": 0.292,
-              "y": 0.125,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Ben Dempsey",
-              "shirt": "6",
-              "pos": 64,
-              "x": 0.485,
-              "y": 0.7,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Robbie Crawford",
-              "shirt": "14",
-              "pos": 66,
-              "x": 0.485,
-              "y": 0.3,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Seb Drozd",
-              "shirt": "7",
-              "pos": 83,
-              "x": 0.678,
-              "y": 0.837,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Ben Stanway",
-              "shirt": "26",
-              "pos": 85,
-              "x": 0.678,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Euan Henderson",
-              "shirt": "10",
-              "pos": 87,
-              "x": 0.678,
-              "y": 0.163,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Alex Samuel",
-              "shirt": "9",
-              "pos": 115,
-              "x": 0.87,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            }
-          ],
-          "subs": [
-            {
-              "name": "Connor Storey",
-              "shirt": "27"
-            },
-            {
-              "name": "Cammy Logan",
-              "shirt": "2"
-            },
-            {
-              "name": "Daniel O'Reilly",
-              "shirt": "20"
-            },
-            {
-              "name": "Ethan Ingram",
-              "shirt": "17"
-            },
-            {
-              "name": "Gary Mackay-Steven",
-              "shirt": "11"
-            },
-            {
-              "name": "Steven Docherty",
-              "shirt": "34"
-            },
-            {
-              "name": "Tsoanelo Letsosa",
-              "shirt": "64"
-            },
-            {
-              "name": "Aidan Fitzpatrick",
-              "shirt": "21"
-            },
-            {
-              "name": "Tony Watt",
-              "shirt": "32"
-            }
-          ],
-          "missing": []
-        }
-      },
-      "form": {
-        "home": [
-          "L",
-          "W",
-          "L",
-          "W",
-          "D"
-        ],
-        "away": [
-          "W",
-          "L",
-          "D",
-          "W",
-          "W"
-        ]
-      },
-      "h2h": {
-        "homeWins": 11,
-        "draws": 8,
-        "awayWins": 22
-      },
       "newsItems": [
         {
           "headline": "Racism allegation mars Swansea win at Millwall",
@@ -29971,7 +30146,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.7,
@@ -30046,7 +30221,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -30118,7 +30293,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.52,
@@ -30193,7 +30368,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 3.3,
@@ -30268,7 +30443,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.8,
@@ -30332,7 +30507,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 1.61,
@@ -30381,7 +30556,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-15T22:36:26.562Z",
+      "sbAt": "2026-10-16T01:04:20.361Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -30507,32 +30682,32 @@
     "Betika"
   ],
   "tips": [],
-  "updatedAt": "2026-10-15T22:36:26.562Z",
-  "generatedAt": "2026-10-15T22:36:26.562Z",
+  "updatedAt": "2026-10-16T01:04:20.361Z",
+  "generatedAt": "2026-10-16T01:04:20.361Z",
   "metadata": {
     "mode": "hybrid",
-    "oddsUpdatedAt": "2026-10-15T22:36:26.562Z",
-    "scoresUpdatedAt": "2026-10-15T22:36:26.562Z",
+    "oddsUpdatedAt": "2026-10-16T01:04:20.361Z",
+    "scoresUpdatedAt": "2026-10-16T01:04:20.361Z",
     "dataSources": [
       "ESPN scoreboards + odds (free)",
       "SportyBet odds feed (free)"
     ],
     "leagues": "all",
     "counts": {
-      "real": 157
+      "real": 156
     },
-    "historyPoints": 6549,
+    "historyPoints": 6540,
     "books": {
       "Pinnacle": {
         "updatedAt": null,
         "source": "not in feed"
       },
       "DraftKings": {
-        "updatedAt": "2026-10-15T22:36:26.562Z",
+        "updatedAt": "2026-10-16T01:04:20.361Z",
         "source": "live feed"
       },
       "SportyBet": {
-        "updatedAt": "2026-10-15T22:36:26.562Z",
+        "updatedAt": "2026-10-16T01:04:20.361Z",
         "source": "live feed"
       },
       "Betway": {
@@ -30570,41 +30745,45 @@
       "Betika": {
         "updatedAt": null,
         "source": "not in feed"
+      },
+      "Draft Kings": {
+        "updatedAt": "2026-10-16T01:04:20.361Z",
+        "source": "live feed"
       }
     },
     "health": {
       "espn": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-15T22:36:27.098Z",
+        "lastOk": "2026-10-16T01:04:21.799Z",
         "lastError": null,
         "count": 36
       },
       "sportybet": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-15T22:36:37.763Z",
+        "lastOk": "2026-10-16T01:04:33.676Z",
         "lastError": null,
         "count": 0
       },
       "fotmob": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-15T22:36:51.254Z",
+        "lastOk": "2026-10-16T01:04:56.649Z",
         "lastError": null,
-        "count": 57
+        "count": 58
       },
       "espn-news": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-15T22:36:56.608Z",
+        "lastOk": "2026-10-16T01:05:06.915Z",
         "lastError": null,
-        "count": 135
+        "count": 134
       },
       "oddsapi": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-15T22:36:56.610Z",
+        "lastOk": "2026-10-16T01:05:06.916Z",
         "lastError": null,
         "count": 0
       }
