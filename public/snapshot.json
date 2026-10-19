@@ -577,6 +577,13 @@
       },
       "newsItems": [
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "published": "2026-10-18T22:24:20Z",
@@ -589,13 +596,6 @@
           "published": "2026-10-18T22:23:21Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average"
-        },
-        {
-          "headline": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "published": "2026-10-18T22:00:29Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal"
         }
       ]
     },
@@ -1179,6 +1179,13 @@
       },
       "newsItems": [
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "published": "2026-10-18T22:24:20Z",
@@ -1191,13 +1198,6 @@
           "published": "2026-10-18T22:23:21Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average"
-        },
-        {
-          "headline": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "published": "2026-10-18T22:00:29Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal"
         }
       ]
     },
@@ -1252,7 +1252,7 @@
               "pos": 33,
               "x": 0.292,
               "y": 0.79,
-              "rating": 7.3,
+              "rating": 7.5,
               "goals": null
             },
             {
@@ -1288,7 +1288,7 @@
               "pos": 64,
               "x": 0.485,
               "y": 0.625,
-              "rating": 6.7,
+              "rating": 6.6,
               "goals": null
             },
             {
@@ -1315,7 +1315,7 @@
               "pos": 84,
               "x": 0.678,
               "y": 0.7,
-              "rating": 7,
+              "rating": 6.9,
               "goals": null
             },
             {
@@ -1333,7 +1333,7 @@
               "pos": 105,
               "x": 0.87,
               "y": 0.5,
-              "rating": 7.8,
+              "rating": 7.7,
               "goals": null
             }
           ],
@@ -1393,7 +1393,7 @@
               "pos": 11,
               "x": 0.1,
               "y": 0.5,
-              "rating": 7,
+              "rating": 7.1,
               "goals": null
             },
             {
@@ -1429,7 +1429,7 @@
               "pos": 38,
               "x": 0.292,
               "y": 0.125,
-              "rating": 8.2,
+              "rating": 8.3,
               "goals": null
             },
             {
@@ -1438,7 +1438,7 @@
               "pos": 64,
               "x": 0.485,
               "y": 0.7,
-              "rating": 6.7,
+              "rating": 6.6,
               "goals": null
             },
             {
@@ -1540,7 +1540,7 @@
           "id": "751550",
           "name": "Diogo Dalot",
           "team": "Manchester United",
-          "rating": 8.2,
+          "rating": 8.27,
           "goals": 0,
           "assists": 0,
           "minutes": 90
@@ -1564,27 +1564,36 @@
           "minutes": 90
         },
         {
-          "id": "612150",
-          "name": "Dominic Calvert-Lewin",
-          "team": "Leeds United",
-          "rating": 7.8,
-          "goals": 1,
-          "assists": 0,
-          "minutes": 90
-        },
-        {
           "id": "465960",
           "name": "Youri Tielemans",
           "team": "Manchester United",
-          "rating": 7.71,
+          "rating": 7.72,
           "goals": 0,
           "assists": 1,
           "minutes": 84
         },
         {
+          "id": "612150",
+          "name": "Dominic Calvert-Lewin",
+          "team": "Leeds United",
+          "rating": 7.71,
+          "goals": 1,
+          "assists": 0,
+          "minutes": 90
+        },
+        {
           "id": "255610",
           "name": "Harry Maguire",
           "team": "Manchester United",
+          "rating": 7.51,
+          "goals": 0,
+          "assists": 0,
+          "minutes": 90
+        },
+        {
+          "id": "710158",
+          "name": "James Justin",
+          "team": "Leeds United",
           "rating": 7.51,
           "goals": 0,
           "assists": 0,
@@ -1598,15 +1607,6 @@
           "goals": 0,
           "assists": 0,
           "minutes": 45
-        },
-        {
-          "id": "710158",
-          "name": "James Justin",
-          "team": "Leeds United",
-          "rating": 7.25,
-          "goals": 0,
-          "assists": 0,
-          "minutes": 90
         }
       ],
       "starMen": {
@@ -1617,7 +1617,7 @@
         },
         "team": "Manchester United",
         "rating": {
-          "num": "8.2",
+          "num": "8.3",
           "isTop": {
             "isTopRating": true,
             "isMatchFinished": true
@@ -1779,6 +1779,13 @@
       },
       "newsItems": [
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Leboeuf labels Carrick's Man United as 'average'",
           "description": "Leboeuf labels Carrick's Man United as 'average'",
           "published": "2026-10-18T22:23:21Z",
@@ -1791,13 +1798,6 @@
           "published": "2026-10-18T20:21:05Z",
           "image": "https://a.espncdn.com/photo/2026/1018/r1732437_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50212578/dominic-calvert-lewin-showed-respect-standing-others-took-knee-racism-campaign-daniel-farke"
-        },
-        {
-          "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
-          "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
-          "published": "2026-10-18T22:24:20Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest"
         }
       ]
     },
@@ -2390,11 +2390,11 @@
           "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal"
         },
         {
-          "headline": "Mikel Arteta puts stale Arsenal display down to Nottingham Forest tactics: 'They put a Christmas tree there'",
-          "description": "Mikel Arteta has defended his Arsenal team after they only managed one shot on target in their 1-0 win at Nottingham Forest on Sunday.",
-          "published": "2026-10-18T19:28:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732537_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50211883/mikel-arteta-stale-arsenal-display-nottingham-forest-tactics-christmas-tree"
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
         }
       ]
     },
@@ -3036,7 +3036,7 @@
               "pos": 11,
               "x": 0.1,
               "y": 0.5,
-              "rating": 8.3,
+              "rating": 8.4,
               "goals": null
             },
             {
@@ -3063,7 +3063,7 @@
               "pos": 37,
               "x": 0.357,
               "y": 0.21,
-              "rating": 7.9,
+              "rating": 7.8,
               "goals": null
             },
             {
@@ -3072,7 +3072,7 @@
               "pos": 72,
               "x": 0.613,
               "y": 0.875,
-              "rating": 7.4,
+              "rating": 7.6,
               "goals": null
             },
             {
@@ -3081,7 +3081,7 @@
               "pos": 74,
               "x": 0.613,
               "y": 0.625,
-              "rating": 7,
+              "rating": 7.1,
               "goals": null
             },
             {
@@ -3090,7 +3090,7 @@
               "pos": 76,
               "x": 0.613,
               "y": 0.375,
-              "rating": 6.3,
+              "rating": 6.5,
               "goals": null
             },
             {
@@ -3099,7 +3099,7 @@
               "pos": 78,
               "x": 0.613,
               "y": 0.125,
-              "rating": 6.4,
+              "rating": 6.8,
               "goals": null
             },
             {
@@ -3188,7 +3188,7 @@
               "pos": 11,
               "x": 0.1,
               "y": 0.5,
-              "rating": 5.5,
+              "rating": 5.7,
               "goals": null
             },
             {
@@ -3197,7 +3197,7 @@
               "pos": 33,
               "x": 0.357,
               "y": 0.695,
-              "rating": 6.2,
+              "rating": 6.3,
               "goals": null
             },
             {
@@ -3206,7 +3206,7 @@
               "pos": 35,
               "x": 0.357,
               "y": 0.5,
-              "rating": 6.6,
+              "rating": 7.1,
               "goals": null
             },
             {
@@ -3233,7 +3233,7 @@
               "pos": 59,
               "x": 0.371,
               "y": 0.11,
-              "rating": 6.5,
+              "rating": 6.8,
               "goals": null
             },
             {
@@ -3260,7 +3260,7 @@
               "pos": 77,
               "x": 0.613,
               "y": 0.21,
-              "rating": 6.2,
+              "rating": 6.3,
               "goals": null
             },
             {
@@ -3332,7 +3332,7 @@
           "id": "1435439",
           "name": "Javi Rodríguez",
           "team": "Celta de Vigo",
-          "rating": 8.69,
+          "rating": 8.65,
           "goals": 1,
           "assists": 1,
           "minutes": 90
@@ -3341,7 +3341,7 @@
           "id": "681213",
           "name": "Ionuț Radu",
           "team": "Celta de Vigo",
-          "rating": 8.34,
+          "rating": 8.37,
           "goals": 0,
           "assists": 0,
           "minutes": 90
@@ -3350,7 +3350,7 @@
           "id": "1020026",
           "name": "Sebastián Cáceres",
           "team": "Celta de Vigo",
-          "rating": 7.86,
+          "rating": 7.83,
           "goals": 0,
           "assists": 0,
           "minutes": 77
@@ -3359,26 +3359,8 @@
           "id": "1102732",
           "name": "Ferrán Jutglà",
           "team": "Celta de Vigo",
-          "rating": 7.76,
+          "rating": 7.8,
           "goals": 1,
-          "assists": 0,
-          "minutes": 90
-        },
-        {
-          "id": "845998",
-          "name": "Antonio Blanco",
-          "team": "Alavés",
-          "rating": 7.54,
-          "goals": 0,
-          "assists": 0,
-          "minutes": 88
-        },
-        {
-          "id": "1238154",
-          "name": "Pablo Ibánez",
-          "team": "Alavés",
-          "rating": 7.51,
-          "goals": 0,
           "assists": 0,
           "minutes": 90
         },
@@ -3386,7 +3368,7 @@
           "id": "1175969",
           "name": "Hugo Novoa",
           "team": "Alavés",
-          "rating": 7.48,
+          "rating": 7.57,
           "goals": 1,
           "assists": 0,
           "minutes": 28
@@ -3395,10 +3377,28 @@
           "id": "1106742",
           "name": "Sergio Carreira",
           "team": "Celta de Vigo",
-          "rating": 7.44,
+          "rating": 7.55,
           "goals": 0,
           "assists": 0,
           "minutes": 90
+        },
+        {
+          "id": "1238154",
+          "name": "Pablo Ibánez",
+          "team": "Alavés",
+          "rating": 7.48,
+          "goals": 0,
+          "assists": 0,
+          "minutes": 90
+        },
+        {
+          "id": "845998",
+          "name": "Antonio Blanco",
+          "team": "Alavés",
+          "rating": 7.45,
+          "goals": 0,
+          "assists": 0,
+          "minutes": 88
         }
       ],
       "starMen": {
@@ -4271,7 +4271,7 @@
               "pos": 38,
               "x": 0.292,
               "y": 0.125,
-              "rating": 7.2,
+              "rating": 7.3,
               "goals": null
             },
             {
@@ -4289,7 +4289,7 @@
               "pos": 66,
               "x": 0.485,
               "y": 0.3,
-              "rating": 8.2,
+              "rating": 8.1,
               "goals": null
             },
             {
@@ -4298,7 +4298,7 @@
               "pos": 83,
               "x": 0.678,
               "y": 0.837,
-              "rating": 6.5,
+              "rating": 6.6,
               "goals": null
             },
             {
@@ -4307,7 +4307,7 @@
               "pos": 85,
               "x": 0.678,
               "y": 0.5,
-              "rating": 8.1,
+              "rating": 8,
               "goals": null
             },
             {
@@ -4316,7 +4316,7 @@
               "pos": 87,
               "x": 0.678,
               "y": 0.163,
-              "rating": 8.8,
+              "rating": 8.9,
               "goals": null
             },
             {
@@ -4431,7 +4431,7 @@
               "pos": 64,
               "x": 0.485,
               "y": 0.7,
-              "rating": 6.8,
+              "rating": 6.7,
               "goals": null
             },
             {
@@ -4535,13 +4535,13 @@
           "rating": 8.97,
           "goals": 2,
           "assists": 0,
-          "minutes": 85
+          "minutes": 84
         },
         {
           "id": "1735453",
           "name": "Yan Diomande",
           "team": "Real Madrid",
-          "rating": 8.79,
+          "rating": 8.86,
           "goals": 1,
           "assists": 1,
           "minutes": 90
@@ -4550,7 +4550,7 @@
           "id": "1253890",
           "name": "Arda Güler",
           "team": "Real Madrid",
-          "rating": 8.62,
+          "rating": 8.57,
           "goals": 1,
           "assists": 0,
           "minutes": 78
@@ -4559,7 +4559,7 @@
           "id": "914458",
           "name": "Aurélien Tchouaméni",
           "team": "Real Madrid",
-          "rating": 8.2,
+          "rating": 8.1,
           "goals": 0,
           "assists": 1,
           "minutes": 90
@@ -4568,10 +4568,10 @@
           "id": "1077894",
           "name": "Jude Bellingham",
           "team": "Real Madrid",
-          "rating": 8.1,
+          "rating": 7.98,
           "goals": 0,
           "assists": 1,
-          "minutes": 70
+          "minutes": 69
         },
         {
           "id": "1367619",
@@ -4586,19 +4586,19 @@
           "id": "170323",
           "name": "Thibaut Courtois",
           "team": "Real Madrid",
-          "rating": 7.42,
+          "rating": 7.38,
           "goals": 0,
           "assists": 0,
           "minutes": 90
         },
         {
-          "id": "1428849",
-          "name": "Manu Bueno",
-          "team": "Sevilla",
-          "rating": 7.39,
-          "goals": 1,
+          "id": "873289",
+          "name": "Marc Cucurella",
+          "team": "Real Madrid",
+          "rating": 7.25,
+          "goals": 0,
           "assists": 0,
-          "minutes": 34
+          "minutes": 90
         }
       ],
       "starMen": {
@@ -4810,14 +4810,14 @@
       "minute": null,
       "prices": {
         "Draft Kings": {
-          "h": 1.93,
-          "a": 1.89
+          "h": 1.91,
+          "a": 1.91
         }
       },
       "fair": {
-        "h": 2.02,
+        "h": 2,
         "d": null,
-        "a": 1.98
+        "a": 2
       },
       "open": {
         "h": 1.8,
@@ -4826,7 +4826,7 @@
       },
       "movement": [
         1.8,
-        1.93
+        1.91
       ],
       "news": "Real odds via ESPN (Draft Kings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -4847,10 +4847,17 @@
       "newsItems": [
         {
           "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is less than a week away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-18T23:33:07Z",
+          "description": "NBA basketball is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders.",
+          "published": "2026-10-19T02:59:31Z",
           "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
           "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+        },
+        {
+          "headline": "Cruel Achilles injury has killed the Ben Simmons comeback Australia was dying to see",
+          "description": "For the first time in years, Ben Simmons had given us a reason to believe. That's what made the news of his Achilles injury hit so heavily -- he'd started to answer a question that had followed him for half a decade, Olg",
+          "published": "2026-10-19T01:30:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732754_1296x518_5-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50215522/cruel-achilles-injury-killed-ben-simmons-comeback-australia-was-dying-see"
         },
         {
           "headline": "Warriors' Stephen Curry 'fine' after tweaking right ankle in practice",
@@ -4858,13 +4865,6 @@
           "published": "2026-10-19T00:01:10Z",
           "image": "https://a.espncdn.com/photo/2026/1018/r1732680_600x400_3-2.jpg",
           "url": "https://www.espn.com/nba/story/_/id/50214211/stephen-curry-fine-tweaking-right-ankle-practice"
-        },
-        {
-          "headline": "Kings guard Ben Simmons, 30, has torn Achilles tendon, will undergo surgery",
-          "description": "Kings guard Ben Simmons has sustained a torn Achilles tendon and will undergo surgery, the team announced Sunday, an injury that is likely season-ending for the 30-year-old veteran who authored an impressive training cam",
-          "published": "2026-10-19T00:20:47Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732677_600x600_1-1.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50214131/kings-simmons-believed-achilles-tendon-tear"
         }
       ]
     },
@@ -4885,14 +4885,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.52,
-          "a": 2.6
+          "h": 1.54,
+          "a": 2.54
         }
       },
       "fair": {
-        "h": 1.58,
+        "h": 1.61,
         "d": null,
-        "a": 2.71
+        "a": 2.65
       },
       "open": {
         "h": 1.59,
@@ -4901,7 +4901,7 @@
       },
       "movement": [
         1.59,
-        1.52
+        1.54
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -4936,8 +4936,8 @@
         },
         {
           "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is less than a week away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-18T23:33:07Z",
+          "description": "NBA basketball is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders.",
+          "published": "2026-10-19T02:59:31Z",
           "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
           "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
         }
@@ -4960,14 +4960,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.7,
-          "a": 2.2
+          "h": 1.74,
+          "a": 2.14
         }
       },
       "fair": {
-        "h": 1.77,
+        "h": 1.81,
         "d": null,
-        "a": 2.29
+        "a": 2.23
       },
       "open": {
         "h": 1.8,
@@ -4976,7 +4976,7 @@
       },
       "movement": [
         1.8,
-        1.7
+        1.74
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -4985,22 +4985,29 @@
       "totals": {
         "line": 231.5,
         "over": {
-          "o": 1.89,
+          "o": 1.91,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.93,
+          "o": 1.91,
           "b": "DraftKings"
         },
-        "fairOver": 1.98
+        "fairOver": 2
       },
       "newsItems": [
         {
           "headline": "NBA preseason buzz: Latest on trades, news and intel",
-          "description": "The NBA regular season is less than a week away, and we're tracking all the news, deals, and trades across the league.",
-          "published": "2026-10-18T23:33:07Z",
+          "description": "NBA basketball is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders.",
+          "published": "2026-10-19T02:59:31Z",
           "image": "https://a.espncdn.com/photo/2026/0929/r1723601_608x342_16-9.jpg",
           "url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+        },
+        {
+          "headline": "Cruel Achilles injury has killed the Ben Simmons comeback Australia was dying to see",
+          "description": "For the first time in years, Ben Simmons had given us a reason to believe. That's what made the news of his Achilles injury hit so heavily -- he'd started to answer a question that had followed him for half a decade, Olg",
+          "published": "2026-10-19T01:30:29Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732754_1296x518_5-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50215522/cruel-achilles-injury-killed-ben-simmons-comeback-australia-was-dying-see"
         },
         {
           "headline": "Warriors' Stephen Curry 'fine' after tweaking right ankle in practice",
@@ -5008,663 +5015,6 @@
           "published": "2026-10-19T00:01:10Z",
           "image": "https://a.espncdn.com/photo/2026/1018/r1732680_600x400_3-2.jpg",
           "url": "https://www.espn.com/nba/story/_/id/50214211/stephen-curry-fine-tweaking-right-ankle-practice"
-        },
-        {
-          "headline": "Kings guard Ben Simmons, 30, has torn Achilles tendon, will undergo surgery",
-          "description": "Kings guard Ben Simmons has sustained a torn Achilles tendon and will undergo surgery, the team announced Sunday, an injury that is likely season-ending for the 30-year-old veteran who authored an impressive training cam",
-          "published": "2026-10-19T00:20:47Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732677_600x600_1-1.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50214131/kings-simmons-believed-achilles-tendon-tear"
-        }
-      ]
-    },
-    {
-      "id": "esp-401872996",
-      "leagueId": "nfl",
-      "home": "Jacksonville Jaguars",
-      "away": "Houston Texans",
-      "homeAbbr": "JAX",
-      "awayAbbr": "HOU",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T13:30Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 31,
-        "away": 34
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401872999",
-      "leagueId": "nfl",
-      "home": "Atlanta Falcons",
-      "away": "Chicago Bears",
-      "homeAbbr": "ATL",
-      "awayAbbr": "CHI",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T17:00Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 23,
-        "away": 31
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401872997",
-      "leagueId": "nfl",
-      "home": "Cleveland Browns",
-      "away": "Baltimore Ravens",
-      "homeAbbr": "CLE",
-      "awayAbbr": "BAL",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T17:00Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 13,
-        "away": 10
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401873003",
-      "leagueId": "nfl",
-      "home": "Indianapolis Colts",
-      "away": "Tennessee Titans",
-      "homeAbbr": "IND",
-      "awayAbbr": "TEN",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T17:00Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 20,
-        "away": 26
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401873001",
-      "leagueId": "nfl",
-      "home": "New England Patriots",
-      "away": "New York Jets",
-      "homeAbbr": "NE",
-      "awayAbbr": "NYJ",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T17:00Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 26,
-        "away": 19
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401873000",
-      "leagueId": "nfl",
-      "home": "New York Giants",
-      "away": "New Orleans Saints",
-      "homeAbbr": "NYG",
-      "awayAbbr": "NO",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T17:00Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 27,
-        "away": 34
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401872998",
-      "leagueId": "nfl",
-      "home": "Philadelphia Eagles",
-      "away": "Carolina Panthers",
-      "homeAbbr": "PHI",
-      "awayAbbr": "CAR",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T17:00Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 14,
-        "away": 25
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401873002",
-      "leagueId": "nfl",
-      "home": "Tampa Bay Buccaneers",
-      "away": "Pittsburgh Steelers",
-      "homeAbbr": "TB",
-      "awayAbbr": "PIT",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T17:00Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 19,
-        "away": 26
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401873004",
-      "leagueId": "nfl",
-      "home": "Los Angeles Rams",
-      "away": "Arizona Cardinals",
-      "homeAbbr": "LAR",
-      "awayAbbr": "ARI",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T20:05Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 16,
-        "away": 18
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401873006",
-      "leagueId": "nfl",
-      "home": "Kansas City Chiefs",
-      "away": "Los Angeles Chargers",
-      "homeAbbr": "KC",
-      "awayAbbr": "LAC",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T20:25Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 22,
-        "away": 6
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
-        }
-      ]
-    },
-    {
-      "id": "esp-401873005",
-      "leagueId": "nfl",
-      "home": "Las Vegas Raiders",
-      "away": "Buffalo Bills",
-      "homeAbbr": "LV",
-      "awayAbbr": "BUF",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-18T20:25Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 30,
-        "away": 33
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Buffalo Bills vs. Las Vegas Raiders: Game Highlights",
-          "description": "Buffalo Bills vs. Las Vegas Raiders: Game Highlights",
-          "published": "2026-10-18T23:56:50Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/3f0e433a-4206-4b9f-86be-f1d5a0932790/3f0e433a-4206-4b9f-86be-f1d5a0932790.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50214776/game-highlights"
-        },
-        {
-          "headline": "Josh Allen ties Jim Kelly's Bills TD pass record as Buffalo holds off Raiders 33-30",
-          "description": "— Josh Allen passed for 255 yards and two touchdowns, using his improvisational brilliance to tie the Bills' career TD passing record, and Buffalo held off the Las Vegas Raiders 33-30 on Sunday.",
-          "published": "2026-10-18T23:52:28Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873005.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/recap?gameId=401873005"
-        },
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        }
-      ]
-    },
-    {
-      "id": "esp-401873007",
-      "leagueId": "nfl",
-      "home": "Green Bay Packers",
-      "away": "Dallas Cowboys",
-      "homeAbbr": "GB",
-      "awayAbbr": "DAL",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
-      "startsIn": "10/19/2026, 12:20:00 AM",
-      "commenceISO": "2026-10-19T00:20Z",
-      "live": true,
-      "status": "inplay",
-      "score": {
-        "home": 0,
-        "away": 0
-      },
-      "minute": "15:00",
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Packers LB Zaire Franklin leads NFL Week 6's best arrivals",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-18T23:58:17Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732713_608x342_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals"
-        },
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        }
-      ]
-    },
-    {
-      "id": "esp-401872995",
-      "leagueId": "nfl",
-      "home": "Denver Broncos",
-      "away": "Seattle Seahawks",
-      "homeAbbr": "DEN",
-      "awayAbbr": "SEA",
-      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
-      "startsIn": "Final",
-      "commenceISO": "2026-10-16T00:15Z",
-      "live": false,
-      "status": "final",
-      "score": {
-        "home": 17,
-        "away": 14
-      },
-      "minute": null,
-      "prices": {},
-      "fair": null,
-      "open": null,
-      "movement": [],
-      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
-      "oddsStatus": "needs-key",
-      "real": true,
-      "sample": false,
-      "newsItems": [
-        {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
-        },
-        {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
-        },
-        {
-          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
         }
       ]
     },
@@ -5721,25 +5071,675 @@
       },
       "newsItems": [
         {
-          "headline": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-          "description": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-          "published": "2026-10-19T00:22:41Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams"
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
         },
         {
-          "headline": "Who are the winningest NFL coaches of all time?",
-          "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-          "published": "2026-10-19T00:06:25Z",
-          "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins"
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
         },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401872995",
+      "leagueId": "nfl",
+      "home": "Denver Broncos",
+      "away": "Seattle Seahawks",
+      "homeAbbr": "DEN",
+      "awayAbbr": "SEA",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-16T00:15Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 17,
+        "away": 14
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
         {
           "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
           "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-          "published": "2026-10-19T00:03:56Z",
+          "published": "2026-10-19T04:46:54Z",
           "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401872996",
+      "leagueId": "nfl",
+      "home": "Jacksonville Jaguars",
+      "away": "Houston Texans",
+      "homeAbbr": "JAX",
+      "awayAbbr": "HOU",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T13:30Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 31,
+        "away": 34
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401872999",
+      "leagueId": "nfl",
+      "home": "Atlanta Falcons",
+      "away": "Chicago Bears",
+      "homeAbbr": "ATL",
+      "awayAbbr": "CHI",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T17:00Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 23,
+        "away": 31
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401872997",
+      "leagueId": "nfl",
+      "home": "Cleveland Browns",
+      "away": "Baltimore Ravens",
+      "homeAbbr": "CLE",
+      "awayAbbr": "BAL",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T17:00Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 13,
+        "away": 10
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401873003",
+      "leagueId": "nfl",
+      "home": "Indianapolis Colts",
+      "away": "Tennessee Titans",
+      "homeAbbr": "IND",
+      "awayAbbr": "TEN",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T17:00Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 20,
+        "away": 26
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401873001",
+      "leagueId": "nfl",
+      "home": "New England Patriots",
+      "away": "New York Jets",
+      "homeAbbr": "NE",
+      "awayAbbr": "NYJ",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T17:00Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 26,
+        "away": 19
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401873000",
+      "leagueId": "nfl",
+      "home": "New York Giants",
+      "away": "New Orleans Saints",
+      "homeAbbr": "NYG",
+      "awayAbbr": "NO",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T17:00Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 27,
+        "away": 34
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401872998",
+      "leagueId": "nfl",
+      "home": "Philadelphia Eagles",
+      "away": "Carolina Panthers",
+      "homeAbbr": "PHI",
+      "awayAbbr": "CAR",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T17:00Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 14,
+        "away": 25
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401873002",
+      "leagueId": "nfl",
+      "home": "Tampa Bay Buccaneers",
+      "away": "Pittsburgh Steelers",
+      "homeAbbr": "TB",
+      "awayAbbr": "PIT",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T17:00Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 19,
+        "away": 26
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401873004",
+      "leagueId": "nfl",
+      "home": "Los Angeles Rams",
+      "away": "Arizona Cardinals",
+      "homeAbbr": "LAR",
+      "awayAbbr": "ARI",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T20:05Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 16,
+        "away": 18
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401873006",
+      "leagueId": "nfl",
+      "home": "Kansas City Chiefs",
+      "away": "Los Angeles Chargers",
+      "homeAbbr": "KC",
+      "awayAbbr": "LAC",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T20:25Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 22,
+        "away": 6
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401873005",
+      "leagueId": "nfl",
+      "home": "Las Vegas Raiders",
+      "away": "Buffalo Bills",
+      "homeAbbr": "LV",
+      "awayAbbr": "BUF",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-18T20:25Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 30,
+        "away": 33
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+          "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+          "published": "2026-10-19T04:46:54Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+        },
+        {
+          "headline": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+          "description": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+          "published": "2026-10-19T04:17:26Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+        },
+        {
+          "headline": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+          "description": "A look at the leading fantasy scorers through Sunday Night Football.",
+          "published": "2026-10-19T04:07:08Z",
+          "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+        }
+      ]
+    },
+    {
+      "id": "esp-401873007",
+      "leagueId": "nfl",
+      "home": "Green Bay Packers",
+      "away": "Dallas Cowboys",
+      "homeAbbr": "GB",
+      "awayAbbr": "DAL",
+      "crestHome": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+      "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+      "startsIn": "Final",
+      "commenceISO": "2026-10-19T00:20Z",
+      "live": false,
+      "status": "final",
+      "score": {
+        "home": 23,
+        "away": 13
+      },
+      "minute": null,
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
+      "real": true,
+      "sample": false,
+      "newsItems": [
+        {
+          "headline": "Jordan Love, Green Bay's defense lead the way in Packers' 23-13 victory over Cowboys",
+          "description": "— Jordan Love threw a touchdown pass and also scored on a 1-yard keeper and the Green Bay Packers held Dallas’ high-powered offense in check and beat the Cowboys 23-13 in a penalty-filled game Sunday night.",
+          "published": "2026-10-19T04:03:32Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873007.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/recap?gameId=401873007"
+        },
+        {
+          "headline": "Packers use timely turnovers, third-down conversions to beat struggling Cowboys",
+          "description": "The Packers used timely third-down conversions and a few big defensive plays to topple a scuffling Cowboys squad.",
+          "published": "2026-10-19T04:22:04Z",
+          "image": "https://a.espncdn.com/photo/2026/1019/r1732733_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50190741/packers-beat-cowboys-sunday-night-football-jordan-love"
+        },
+        {
+          "headline": "Packers dismantle Cowboys on SNF",
+          "description": "Packers dismantle Cowboys on SNF ",
+          "published": "2026-10-19T03:47:01Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1019/03659021-50c0-4f5b-b8eb-0adc238c9e1c/03659021-50c0-4f5b-b8eb-0adc238c9e1c.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50216129/packers-dismantle-cowboys-snf"
         }
       ]
     },
@@ -7392,7 +7392,7 @@
           {
             "id": 1342754,
             "name": "Diego Moreira",
-            "rating": 7.65,
+            "rating": 7.63,
             "goals": 3,
             "assists": 1,
             "pos": "RW,LWB,LM,RWB",
@@ -7419,7 +7419,7 @@
           {
             "id": 1106074,
             "name": "Mario Gila",
-            "rating": 7.29,
+            "rating": 7.31,
             "goals": 1,
             "assists": 0,
             "pos": "CB",
@@ -7428,7 +7428,7 @@
           {
             "id": 688295,
             "name": "Christian Pulisic",
-            "rating": 7.29,
+            "rating": 7.31,
             "goals": 1,
             "assists": 1,
             "pos": "ST,LW,CAM",
@@ -7437,7 +7437,7 @@
           {
             "id": 466439,
             "name": "Mike Maignan",
-            "rating": 7.21,
+            "rating": 7.23,
             "goals": 0,
             "assists": 0,
             "pos": "GK",
@@ -7984,7 +7984,7 @@
           {
             "id": 857269,
             "name": "Gleison Bremer",
-            "rating": 7.37,
+            "rating": 7.38,
             "goals": 2,
             "assists": 0,
             "pos": "CB",
@@ -8002,7 +8002,7 @@
           {
             "id": 1131217,
             "name": "Pierre Kalulu",
-            "rating": 7.28,
+            "rating": 7.29,
             "goals": 0,
             "assists": 0,
             "pos": "CB,RB",
@@ -8011,7 +8011,7 @@
           {
             "id": 787350,
             "name": "Douglas Luiz",
-            "rating": 7.27,
+            "rating": 7.28,
             "goals": 0,
             "assists": 0,
             "pos": "CDM,CM",
@@ -8020,7 +8020,7 @@
           {
             "id": 841672,
             "name": "Nicolás González",
-            "rating": 7.2,
+            "rating": 7.19,
             "goals": 1,
             "assists": 0,
             "pos": "LM,CAM,LWB,LW",
@@ -9192,11 +9192,11 @@
         },
         "under": {
           "o": 2.35,
-          "b": "SportyBet"
+          "b": "DraftKings"
         },
-        "fairOver": 1.7
+        "fairOver": 1.68
       },
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "fotmobId": "6106333",
       "fmHomeId": "8695",
       "fmAwayId": "7787",
@@ -9813,9 +9813,9 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.19,
-          "a": 13,
-          "d": 7.5
+          "h": 1.18,
+          "a": 14,
+          "d": 8
         },
         "SportyBet": {
           "h": 1.19,
@@ -9824,9 +9824,9 @@
         }
       },
       "fair": {
-        "h": 1.25,
-        "d": 7.88,
-        "a": 13.66
+        "h": 1.23,
+        "d": 8.35,
+        "a": 14.61
       },
       "open": {
         "h": 1.13,
@@ -9835,7 +9835,7 @@
       },
       "movement": [
         1.13,
-        1.19
+        1.18
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -9844,16 +9844,16 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 1.8,
+          "o": 1.77,
           "b": "DraftKings"
         },
         "under": {
-          "o": 2,
+          "o": 2.05,
           "b": "DraftKings"
         },
-        "fairOver": 1.9
+        "fairOver": 1.86
       },
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "fotmobId": "6106277",
       "fmHomeId": "8686",
       "fmAwayId": "6019",
@@ -10183,7 +10183,7 @@
         },
         "fairOver": 2.48
       },
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "fotmobId": "6106287",
       "fmHomeId": "9773",
       "fmAwayId": "8640",
@@ -10479,20 +10479,20 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.5,
-          "a": 5.75,
-          "d": 4.8
+          "h": 1.48,
+          "a": 6,
+          "d": 4.9
         },
         "SportyBet": {
-          "h": 1.54,
-          "d": 4.87,
-          "a": 6.09
+          "h": 1.49,
+          "d": 5.14,
+          "a": 6.45
         }
       },
       "fair": {
-        "h": 1.57,
-        "d": 5.03,
-        "a": 6.03
+        "h": 1.55,
+        "d": 5.13,
+        "a": 6.28
       },
       "open": {
         "h": 1.49,
@@ -10501,7 +10501,7 @@
       },
       "movement": [
         1.49,
-        1.5
+        1.48
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -10510,16 +10510,16 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 2.2,
+          "o": 2.15,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.67,
+          "o": 1.71,
           "b": "DraftKings"
         },
-        "fairOver": 2.32
+        "fairOver": 2.26
       },
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "fotmobId": "6106248",
       "fmHomeId": "8650",
       "fmAwayId": "10205",
@@ -10844,16 +10844,16 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 1.74,
+          "o": 1.69,
           "b": "DraftKings"
         },
         "under": {
-          "o": 2.1,
+          "o": 2.15,
           "b": "DraftKings"
         },
-        "fairOver": 1.83
+        "fairOver": 1.79
       },
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "fotmobId": "6106257",
       "fmHomeId": "8456",
       "fmAwayId": "8563",
@@ -11168,10 +11168,10 @@
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.67,
+          "o": 1.69,
           "b": "DraftKings"
         },
-        "fairOver": 2.32
+        "fairOver": 2.3
       },
       "newsItems": [
         {
@@ -11245,16 +11245,16 @@
       "totals": {
         "line": 4.5,
         "over": {
-          "o": 2.15,
+          "o": 2.1,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.69,
+          "o": 1.71,
           "b": "DraftKings"
         },
-        "fairOver": 2.27
+        "fairOver": 2.23
       },
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "fotmobId": "6106234",
       "fmHomeId": "9847",
       "fmAwayId": "8634",
@@ -11586,7 +11586,7 @@
         },
         "fairOver": 2.41
       },
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "fotmobId": "6106397",
       "fmHomeId": "10269",
       "fmAwayId": "9906",
@@ -13354,7 +13354,7 @@
               "pos": 11,
               "x": 0.1,
               "y": 0.5,
-              "rating": 7.5,
+              "rating": 7.4,
               "goals": null
             },
             {
@@ -13381,7 +13381,7 @@
               "pos": 36,
               "x": 0.292,
               "y": 0.375,
-              "rating": 7.5,
+              "rating": 7.6,
               "goals": null
             },
             {
@@ -13390,7 +13390,7 @@
               "pos": 38,
               "x": 0.292,
               "y": 0.125,
-              "rating": 7,
+              "rating": 6.9,
               "goals": null
             },
             {
@@ -13408,7 +13408,7 @@
               "pos": 66,
               "x": 0.485,
               "y": 0.3,
-              "rating": 7.1,
+              "rating": 7.3,
               "goals": null
             },
             {
@@ -13426,7 +13426,7 @@
               "pos": 85,
               "x": 0.678,
               "y": 0.5,
-              "rating": 6.8,
+              "rating": 6.7,
               "goals": null
             },
             {
@@ -13444,7 +13444,7 @@
               "pos": 115,
               "x": 0.87,
               "y": 0.5,
-              "rating": 7.7,
+              "rating": 7.8,
               "goals": null
             }
           ],
@@ -13540,7 +13540,7 @@
               "pos": 62,
               "x": 0.485,
               "y": 0.875,
-              "rating": 7.8,
+              "rating": 7.7,
               "goals": null
             },
             {
@@ -13549,7 +13549,7 @@
               "pos": 64,
               "x": 0.485,
               "y": 0.625,
-              "rating": 6.5,
+              "rating": 6.6,
               "goals": null
             },
             {
@@ -13558,7 +13558,7 @@
               "pos": 66,
               "x": 0.485,
               "y": 0.375,
-              "rating": 7.3,
+              "rating": 7.2,
               "goals": null
             },
             {
@@ -13664,12 +13664,12 @@
           "minutes": 90
         },
         {
-          "id": "715301",
-          "name": "Jonathan Clauss",
+          "id": "1213430",
+          "name": "Elye Wahi",
           "team": "Nice",
-          "rating": 7.84,
-          "goals": 0,
-          "assists": 1,
+          "rating": 7.81,
+          "goals": 1,
+          "assists": 0,
           "minutes": 90
         },
         {
@@ -13682,37 +13682,37 @@
           "minutes": 75
         },
         {
-          "id": "1213430",
-          "name": "Elye Wahi",
-          "team": "Nice",
-          "rating": 7.8,
-          "goals": 1,
-          "assists": 0,
-          "minutes": 90
-        },
-        {
           "id": "1037539",
           "name": "Pavel Šulc",
           "team": "Lyon",
-          "rating": 7.65,
+          "rating": 7.75,
           "goals": 1,
           "assists": 0,
           "minutes": 81
         },
         {
+          "id": "715301",
+          "name": "Jonathan Clauss",
+          "team": "Nice",
+          "rating": 7.72,
+          "goals": 0,
+          "assists": 1,
+          "minutes": 90
+        },
+        {
           "id": "592102",
           "name": "Moussa Niakhaté",
           "team": "Lyon",
-          "rating": 7.51,
+          "rating": 7.59,
           "goals": 0,
           "assists": 0,
           "minutes": 90
         },
         {
-          "id": "767014",
-          "name": "Rémy Descamps",
+          "id": "266105",
+          "name": "Clinton Mata",
           "team": "Lyon",
-          "rating": 7.51,
+          "rating": 7.38,
           "goals": 0,
           "assists": 0,
           "minutes": 90
@@ -16524,38 +16524,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 1.52,
-          "d": 4.92,
-          "a": 6.23
+          "h": 1.56,
+          "d": 4.76,
+          "a": 5.86
         }
       },
       "fair": {
-        "h": 1.55,
-        "d": 5.03,
-        "a": 6.36
+        "h": 1.59,
+        "d": 4.86,
+        "a": 5.99
       },
       "open": {
-        "h": 1.52,
-        "d": 4.92,
-        "a": 6.23
+        "h": 1.56,
+        "d": 4.76,
+        "a": 5.86
       },
       "movement": [
-        1.52
+        1.56
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.57,
+          "o": 1.58,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.5,
+          "o": 2.45,
           "b": "SportyBet"
         },
-        "fairOver": 1.63
+        "fairOver": 1.64
       },
       "news": "Real odds via SportyBet feed (Premier League).",
       "fotmobId": "5795484",
@@ -16824,18 +16824,18 @@
           "url": "https://www.espn.com/soccer/story/_/id/50213362/roberto-de-zerbi-latest-tottenham-training-ploy-removed-phones-meals"
         },
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "published": "2026-10-18T22:24:20Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest"
-        },
-        {
-          "headline": "Leboeuf labels Carrick's Man United as 'average'",
-          "description": "Leboeuf labels Carrick's Man United as 'average'",
-          "published": "2026-10-18T22:23:21Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average"
         }
       ]
     },
@@ -16853,7 +16853,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3.13,
@@ -16967,11 +16967,11 @@
           "url": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest"
         },
         {
-          "headline": "Mikel Arteta puts stale Arsenal display down to Nottingham Forest tactics: 'They put a Christmas tree there'",
-          "description": "Mikel Arteta has defended his Arsenal team after they only managed one shot on target in their 1-0 win at Nottingham Forest on Sunday.",
-          "published": "2026-10-18T19:28:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732537_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50211883/mikel-arteta-stale-arsenal-display-nottingham-forest-tactics-christmas-tree"
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
         },
         {
           "headline": "Leboeuf labels Carrick's Man United as 'average'",
@@ -16996,7 +16996,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 4.43,
@@ -17035,6 +17035,13 @@
       "fmAwayId": "8456",
       "newsItems": [
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Dominic Calvert-Lewin 'showed respect by standing' as others took knee for racism campaign - Daniel Farke",
           "description": "Leeds boss Daniel Farke has said that striker Dominic Calvert-Lewin showed \"respect\" after not taking the knee prior to Leeds United's draw with Manchester United on Sunday.",
           "published": "2026-10-18T20:21:05Z",
@@ -17047,13 +17054,6 @@
           "published": "2026-10-18T22:24:20Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest"
-        },
-        {
-          "headline": "Leboeuf labels Carrick's Man United as 'average'",
-          "description": "Leboeuf labels Carrick's Man United as 'average'",
-          "published": "2026-10-18T22:23:21Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average"
         }
       ]
     },
@@ -17071,7 +17071,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.42,
@@ -17192,11 +17192,11 @@
           "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal"
         },
         {
-          "headline": "Mikel Arteta puts stale Arsenal display down to Nottingham Forest tactics: 'They put a Christmas tree there'",
-          "description": "Mikel Arteta has defended his Arsenal team after they only managed one shot on target in their 1-0 win at Nottingham Forest on Sunday.",
-          "published": "2026-10-18T19:28:09Z",
-          "image": "https://a.espncdn.com/photo/2026/1018/r1732537_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50211883/mikel-arteta-stale-arsenal-display-nottingham-forest-tactics-christmas-tree"
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
         }
       ]
     },
@@ -17214,7 +17214,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.97,
@@ -17253,6 +17253,13 @@
       "fmAwayId": "9879",
       "newsItems": [
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "published": "2026-10-18T22:24:20Z",
@@ -17265,13 +17272,6 @@
           "published": "2026-10-18T22:23:21Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average"
-        },
-        {
-          "headline": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "published": "2026-10-18T22:00:29Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal"
         }
       ]
     },
@@ -17289,26 +17289,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 1.74,
-          "d": 4.21,
-          "a": 4.42
+          "h": 1.76,
+          "d": 4.17,
+          "a": 4.33
         }
       },
       "fair": {
-        "h": 1.81,
-        "d": 4.37,
-        "a": 4.59
+        "h": 1.83,
+        "d": 4.33,
+        "a": 4.5
       },
       "open": {
-        "h": 1.74,
-        "d": 4.21,
-        "a": 4.42
+        "h": 1.76,
+        "d": 4.17,
+        "a": 4.33
       },
       "movement": [
-        1.74
+        1.76
       ],
       "totals": {
         "line": 2.5,
@@ -17335,18 +17335,18 @@
           "url": "https://www.espn.com/soccer/story/_/id/50213362/roberto-de-zerbi-latest-tottenham-training-ploy-removed-phones-meals"
         },
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "published": "2026-10-18T22:24:20Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest"
-        },
-        {
-          "headline": "Leboeuf labels Carrick's Man United as 'average'",
-          "description": "Leboeuf labels Carrick's Man United as 'average'",
-          "published": "2026-10-18T22:23:21Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average"
         }
       ]
     },
@@ -17364,7 +17364,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.86,
@@ -17471,6 +17471,13 @@
       },
       "newsItems": [
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "published": "2026-10-18T22:24:20Z",
@@ -17483,13 +17490,6 @@
           "published": "2026-10-18T22:23:21Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average"
-        },
-        {
-          "headline": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "published": "2026-10-18T22:00:29Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal"
         }
       ]
     },
@@ -17507,26 +17507,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 4.37,
-          "d": 3.94,
-          "a": 1.79
+          "h": 4.44,
+          "d": 3.93,
+          "a": 1.78
         }
       },
       "fair": {
-        "h": 4.55,
-        "d": 4.1,
-        "a": 1.86
+        "h": 4.62,
+        "d": 4.09,
+        "a": 1.85
       },
       "open": {
-        "h": 4.37,
-        "d": 3.94,
-        "a": 1.79
+        "h": 4.44,
+        "d": 3.93,
+        "a": 1.78
       },
       "movement": [
-        4.37
+        4.44
       ],
       "totals": {
         "line": 2.5,
@@ -17546,6 +17546,13 @@
       "fmAwayId": "9937",
       "newsItems": [
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "published": "2026-10-18T22:24:20Z",
@@ -17558,13 +17565,6 @@
           "published": "2026-10-18T22:23:21Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average"
-        },
-        {
-          "headline": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "published": "2026-10-18T22:00:29Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal"
         }
       ]
     },
@@ -17582,26 +17582,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 2.11,
-          "d": 3.8,
-          "a": 3.31
+          "h": 2.13,
+          "d": 3.79,
+          "a": 3.25
         }
       },
       "fair": {
-        "h": 2.19,
+        "h": 2.22,
         "d": 3.95,
-        "a": 3.44
+        "a": 3.38
       },
       "open": {
-        "h": 2.11,
-        "d": 3.8,
-        "a": 3.31
+        "h": 2.13,
+        "d": 3.79,
+        "a": 3.25
       },
       "movement": [
-        2.11
+        2.13
       ],
       "totals": {
         "line": 2.5,
@@ -17689,6 +17689,13 @@
       },
       "newsItems": [
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
           "published": "2026-10-18T22:24:20Z",
@@ -17701,13 +17708,6 @@
           "published": "2026-10-18T22:23:21Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18/dm_261018_COM_SOC_Analysis_Leboeuf_labels_CarrickE28099s_Man_United_as_E28098averageE28099__GLOBAL_2026-10-18.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50213698/leboeuf-labels-carrick-man-united-average"
-        },
-        {
-          "headline": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "description": "Arteta: Madueke is loved in the dressing room at Arsenal",
-          "published": "2026-10-18T22:00:29Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal/dm_261018_Arteta_Madueke_is_loved_in_the_dressing_room_at_Arsenal.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213629/madueke-loved-dressing-room-arsenal"
         }
       ]
     },
@@ -17725,23 +17725,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.87,
-          "d": 3.99,
-          "a": 3.94
+          "d": 4,
+          "a": 3.93
         }
       },
       "fair": {
         "h": 1.94,
-        "d": 4.15,
-        "a": 4.09
+        "d": 4.16,
+        "a": 4.08
       },
       "open": {
         "h": 1.87,
-        "d": 3.99,
-        "a": 3.94
+        "d": 4,
+        "a": 3.93
       },
       "movement": [
         1.87
@@ -17896,6 +17896,13 @@
       },
       "newsItems": [
         {
+          "headline": "United's form slump continues after draw with Leeds",
+          "description": "Manchester United's winless run in the Premier League stretches to five after Leeds United came away with a 1-1 draw at home.",
+          "published": "2026-10-19T01:59:24Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS/dm_261018_Soccer_HIGHLIGHT_Uniteds_form_slump_continues_after_draw_with_Leeds_20261019_AUS.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50215724/united-form-slump-continues-draw-leeds"
+        },
+        {
           "headline": "Leboeuf labels Carrick's Man United as 'average'",
           "description": "Leboeuf labels Carrick's Man United as 'average'",
           "published": "2026-10-18T22:23:21Z",
@@ -17908,13 +17915,6 @@
           "published": "2026-10-18T20:21:05Z",
           "image": "https://a.espncdn.com/photo/2026/1018/r1732437_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50212578/dominic-calvert-lewin-showed-respect-standing-others-took-knee-racism-campaign-daniel-farke"
-        },
-        {
-          "headline": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
-          "description": "Burley: Arsenal are hard to watch despite victory vs. Nottingham Forest",
-          "published": "2026-10-18T22:24:20Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20/dm_261018_COM_SOC_Analysis_Burley3A_Arsenal_are_hard_to_watch_despite_victory_vs_Nottingham_Forest_GLOBAL_20.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50213729/arsenal-hard-watch-victory-vs-nottingham-forest"
         }
       ]
     },
@@ -17932,7 +17932,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 9.42,
@@ -18247,7 +18247,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.62,
@@ -18319,7 +18319,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.32,
@@ -18526,38 +18526,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 3.09,
-          "d": 3.07,
+          "h": 3.1,
+          "d": 3.06,
           "a": 2.7
         }
       },
       "fair": {
-        "h": 3.15,
-        "d": 3.13,
+        "h": 3.16,
+        "d": 3.12,
         "a": 2.75
       },
       "open": {
-        "h": 3.09,
-        "d": 3.07,
+        "h": 3.1,
+        "d": 3.06,
         "a": 2.7
       },
       "movement": [
-        3.09
+        3.1
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.6,
+          "o": 2.65,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.52,
+          "o": 1.51,
           "b": "SportyBet"
         },
-        "fairOver": 2.71
+        "fairOver": 2.75
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868095",
@@ -18852,7 +18852,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3.42,
@@ -18927,7 +18927,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.82,
@@ -19134,7 +19134,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -19209,7 +19209,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.53,
@@ -19352,26 +19352,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 3.18,
-          "d": 3.65,
-          "a": 2.21
+          "h": 3.2,
+          "d": 3.59,
+          "a": 2.23
         }
       },
       "fair": {
-        "h": 3.31,
-        "d": 3.8,
-        "a": 2.3
+        "h": 3.33,
+        "d": 3.73,
+        "a": 2.32
       },
       "open": {
-        "h": 3.18,
-        "d": 3.65,
-        "a": 2.21
+        "h": 3.2,
+        "d": 3.59,
+        "a": 2.23
       },
       "movement": [
-        3.18
+        3.2
       ],
       "totals": {
         "line": 2.5,
@@ -19427,7 +19427,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.26,
@@ -19451,14 +19451,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.49,
+          "o": 1.5,
           "b": "SportyBet"
         },
         "under": {
           "o": 2.55,
           "b": "SportyBet"
         },
-        "fairOver": 1.58
+        "fairOver": 1.59
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868103",
@@ -19502,7 +19502,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.65,
@@ -19577,7 +19577,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.8,
@@ -19720,7 +19720,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.75,
@@ -19863,7 +19863,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.41,
@@ -19938,7 +19938,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.9,
@@ -20013,7 +20013,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.07,
@@ -20088,7 +20088,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.71,
@@ -20163,7 +20163,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -20238,7 +20238,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.42,
@@ -20266,10 +20266,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 3.8,
+          "o": 3.75,
           "b": "SportyBet"
         },
-        "fairOver": 1.33
+        "fairOver": 1.34
       },
       "news": "Real odds via SportyBet feed (Bundesliga).",
       "fotmobId": "5881204",
@@ -20313,26 +20313,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 1.49,
-          "d": 5.21,
-          "a": 5.58
+          "h": 1.5,
+          "d": 5.18,
+          "a": 5.53
         }
       },
       "fair": {
-        "h": 1.55,
-        "d": 5.43,
-        "a": 5.82
+        "h": 1.56,
+        "d": 5.39,
+        "a": 5.75
       },
       "open": {
-        "h": 1.49,
-        "d": 5.21,
-        "a": 5.58
+        "h": 1.5,
+        "d": 5.18,
+        "a": 5.53
       },
       "movement": [
-        1.49
+        1.5
       ],
       "totals": {
         "line": 2.5,
@@ -20388,7 +20388,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.75,
@@ -20531,7 +20531,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 6.46,
@@ -20606,7 +20606,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3.28,
@@ -20681,38 +20681,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 2.5,
-          "d": 3.29,
-          "a": 3.17
+          "h": 2.56,
+          "d": 3.28,
+          "a": 3.07
         }
       },
       "fair": {
-        "h": 2.55,
+        "h": 2.61,
         "d": 3.35,
-        "a": 3.23
+        "a": 3.14
       },
       "open": {
-        "h": 2.5,
-        "d": 3.29,
-        "a": 3.17
+        "h": 2.56,
+        "d": 3.28,
+        "a": 3.07
       },
       "movement": [
-        2.5
+        2.56
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.1,
+          "o": 2.05,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.79,
+          "o": 1.8,
           "b": "SportyBet"
         },
-        "fairOver": 2.17
+        "fairOver": 2.14
       },
       "news": "Real odds via SportyBet feed (Serie A).",
       "fotmobId": "5749706",
@@ -21008,38 +21008,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 3.32,
-          "d": 3.17,
-          "a": 2.48
+          "h": 3.28,
+          "d": 3.16,
+          "a": 2.51
         }
       },
       "fair": {
-        "h": 3.39,
-        "d": 3.23,
-        "a": 2.53
+        "h": 3.34,
+        "d": 3.22,
+        "a": 2.56
       },
       "open": {
-        "h": 3.32,
-        "d": 3.17,
-        "a": 2.48
+        "h": 3.28,
+        "d": 3.16,
+        "a": 2.51
       },
       "movement": [
-        3.32
+        3.28
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.35,
+          "o": 2.3,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.63,
+          "o": 1.66,
           "b": "SportyBet"
         },
-        "fairOver": 2.44
+        "fairOver": 2.39
       },
       "news": "Real odds via SportyBet feed (Serie A).",
       "fotmobId": "5749707",
@@ -21331,7 +21331,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.16,
@@ -21406,26 +21406,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 3.11,
-          "d": 3.21,
-          "a": 2.46
+          "h": 3.15,
+          "d": 3.22,
+          "a": 2.43
         }
       },
       "fair": {
-        "h": 3.23,
-        "d": 3.34,
-        "a": 2.56
+        "h": 3.27,
+        "d": 3.35,
+        "a": 2.53
       },
       "open": {
-        "h": 3.11,
-        "d": 3.21,
-        "a": 2.46
+        "h": 3.15,
+        "d": 3.22,
+        "a": 2.43
       },
       "movement": [
-        3.11
+        3.15
       ],
       "totals": {
         "line": 2.5,
@@ -21481,26 +21481,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 1.48,
-          "d": 5.02,
-          "a": 6.08
+          "h": 1.49,
+          "d": 4.93,
+          "a": 5.95
         }
       },
       "fair": {
-        "h": 1.54,
-        "d": 5.22,
-        "a": 6.32
+        "h": 1.55,
+        "d": 5.14,
+        "a": 6.2
       },
       "open": {
-        "h": 1.48,
-        "d": 5.02,
-        "a": 6.08
+        "h": 1.49,
+        "d": 4.93,
+        "a": 5.95
       },
       "movement": [
-        1.48
+        1.49
       ],
       "totals": {
         "line": 2.5,
@@ -21624,7 +21624,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.98,
@@ -21699,7 +21699,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.51,
@@ -21842,26 +21842,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 1.37,
-          "d": 5.38,
-          "a": 7.94
+          "h": 1.4,
+          "d": 5.45,
+          "a": 7.07
         }
       },
       "fair": {
-        "h": 1.43,
-        "d": 5.6,
-        "a": 8.27
+        "h": 1.45,
+        "d": 5.66,
+        "a": 7.35
       },
       "open": {
-        "h": 1.37,
-        "d": 5.38,
-        "a": 7.94
+        "h": 1.4,
+        "d": 5.45,
+        "a": 7.07
       },
       "movement": [
-        1.37
+        1.4
       ],
       "totals": {
         "line": 2.5,
@@ -21985,7 +21985,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.74,
@@ -22128,7 +22128,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -22203,23 +22203,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.24,
-          "d": 3.63,
-          "a": 3.15
+          "d": 3.58,
+          "a": 3.19
         }
       },
       "fair": {
         "h": 2.33,
-        "d": 3.77,
-        "a": 3.27
+        "d": 3.72,
+        "a": 3.32
       },
       "open": {
         "h": 2.24,
-        "d": 3.63,
-        "a": 3.15
+        "d": 3.58,
+        "a": 3.19
       },
       "movement": [
         2.24
@@ -22278,7 +22278,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.65,
@@ -22353,7 +22353,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.33,
@@ -22428,7 +22428,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.17,
@@ -22503,7 +22503,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.17,
@@ -22578,7 +22578,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.73,
@@ -22653,26 +22653,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 1.59,
-          "d": 4.46,
-          "a": 5.34
+          "h": 1.58,
+          "d": 4.5,
+          "a": 5.43
         }
       },
       "fair": {
-        "h": 1.65,
-        "d": 4.64,
-        "a": 5.56
+        "h": 1.64,
+        "d": 4.68,
+        "a": 5.64
       },
       "open": {
-        "h": 1.59,
-        "d": 4.46,
-        "a": 5.34
+        "h": 1.58,
+        "d": 4.5,
+        "a": 5.43
       },
       "movement": [
-        1.59
+        1.58
       ],
       "totals": {
         "line": 2.5,
@@ -22728,26 +22728,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 1.75,
-          "d": 4.32,
-          "a": 4.21
+          "h": 1.76,
+          "d": 4.31,
+          "a": 4.15
         }
       },
       "fair": {
-        "h": 1.82,
+        "h": 1.83,
         "d": 4.49,
-        "a": 4.38
+        "a": 4.32
       },
       "open": {
-        "h": 1.75,
-        "d": 4.32,
-        "a": 4.21
+        "h": 1.76,
+        "d": 4.31,
+        "a": 4.15
       },
       "movement": [
-        1.75
+        1.76
       ],
       "totals": {
         "line": 2.5,
@@ -22803,31 +22803,31 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 1.38,
-          "d": 5.77,
-          "a": 7.08
+          "h": 1.37,
+          "d": 5.84,
+          "a": 7.23
         }
       },
       "fair": {
-        "h": 1.43,
-        "d": 6,
-        "a": 7.36
+        "h": 1.42,
+        "d": 6.07,
+        "a": 7.52
       },
       "open": {
-        "h": 1.38,
-        "d": 5.77,
-        "a": 7.08
+        "h": 1.37,
+        "d": 5.84,
+        "a": 7.23
       },
       "movement": [
-        1.38
+        1.37
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.34,
+          "o": 1.33,
           "b": "SportyBet"
         },
         "under": {
@@ -22878,7 +22878,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 9.69,
@@ -22953,7 +22953,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.59,
@@ -23354,7 +23354,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 4.53,
@@ -23429,7 +23429,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3.26,
@@ -23504,7 +23504,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.56,
@@ -23579,7 +23579,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.87,
@@ -23654,7 +23654,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.69,
@@ -23729,7 +23729,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.59,
@@ -23804,7 +23804,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3.09,
@@ -23879,7 +23879,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3.5,
@@ -23954,7 +23954,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.43,
@@ -24029,7 +24029,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.31,
@@ -24104,7 +24104,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.69,
@@ -24179,7 +24179,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.36,
@@ -24254,7 +24254,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.58,
@@ -24329,7 +24329,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.64,
@@ -24353,14 +24353,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.44,
+          "o": 1.48,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.75,
+          "o": 2.6,
           "b": "SportyBet"
         },
-        "fairOver": 1.52
+        "fairOver": 1.57
       },
       "news": "Real odds via SportyBet feed (Eredivisie).",
       "fotmobId": "5781784",
@@ -24404,7 +24404,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -24428,14 +24428,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.57,
+          "o": 1.52,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.35,
+          "o": 2.5,
           "b": "SportyBet"
         },
-        "fairOver": 1.67
+        "fairOver": 1.61
       },
       "news": "Real odds via SportyBet feed (Eredivisie).",
       "fotmobId": "5781785",
@@ -24479,38 +24479,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 3.29,
-          "d": 3.85,
-          "a": 2.02
+          "h": 3.1,
+          "d": 3.89,
+          "a": 2.08
         }
       },
       "fair": {
-        "h": 3.48,
-        "d": 4.08,
-        "a": 2.14
+        "h": 3.29,
+        "d": 4.13,
+        "a": 2.21
       },
       "open": {
-        "h": 3.29,
-        "d": 3.85,
-        "a": 2.02
+        "h": 3.1,
+        "d": 3.89,
+        "a": 2.08
       },
       "movement": [
-        3.29
+        3.1
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.47,
+          "o": 1.44,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.6,
+          "o": 2.75,
           "b": "SportyBet"
         },
-        "fairOver": 1.57
+        "fairOver": 1.52
       },
       "news": "Real odds via SportyBet feed (Eredivisie).",
       "fotmobId": "5781779",
@@ -24554,38 +24554,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 2.55,
-          "d": 3.7,
-          "a": 2.51
+          "h": 2.44,
+          "d": 3.65,
+          "a": 2.66
         }
       },
       "fair": {
-        "h": 2.71,
-        "d": 3.93,
-        "a": 2.66
+        "h": 2.59,
+        "d": 3.87,
+        "a": 2.82
       },
       "open": {
-        "h": 2.55,
-        "d": 3.7,
-        "a": 2.51
+        "h": 2.44,
+        "d": 3.65,
+        "a": 2.66
       },
       "movement": [
-        2.55
+        2.44
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.51,
+          "o": 1.57,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.5,
+          "o": 2.35,
           "b": "SportyBet"
         },
-        "fairOver": 1.6
+        "fairOver": 1.67
       },
       "news": "Real odds via SportyBet feed (Eredivisie).",
       "fotmobId": "5781780",
@@ -24629,26 +24629,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 2.19,
-          "d": 3.86,
-          "a": 2.91
+          "h": 2.31,
+          "d": 3.84,
+          "a": 2.73
         }
       },
       "fair": {
-        "h": 2.32,
-        "d": 4.09,
-        "a": 3.08
+        "h": 2.45,
+        "d": 4.07,
+        "a": 2.89
       },
       "open": {
-        "h": 2.19,
-        "d": 3.86,
-        "a": 2.91
+        "h": 2.31,
+        "d": 3.84,
+        "a": 2.73
       },
       "movement": [
-        2.19
+        2.31
       ],
       "totals": {
         "line": 2.5,
@@ -24704,7 +24704,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.92,
@@ -24728,14 +24728,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.34,
+          "o": 1.3,
           "b": "SportyBet"
         },
         "under": {
-          "o": 3.2,
+          "o": 3.5,
           "b": "SportyBet"
         },
-        "fairOver": 1.42
+        "fairOver": 1.37
       },
       "news": "Real odds via SportyBet feed (Eredivisie).",
       "fotmobId": "5781783",
@@ -24779,26 +24779,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 5.57,
-          "d": 5.01,
-          "a": 1.47
+          "h": 4.96,
+          "d": 4.78,
+          "a": 1.54
         }
       },
       "fair": {
-        "h": 5.9,
-        "d": 5.31,
-        "a": 1.56
+        "h": 5.26,
+        "d": 5.07,
+        "a": 1.63
       },
       "open": {
-        "h": 5.57,
-        "d": 5.01,
-        "a": 1.47
+        "h": 4.96,
+        "d": 4.78,
+        "a": 1.54
       },
       "movement": [
-        5.57
+        4.96
       ],
       "totals": {
         "line": 2.5,
@@ -24854,26 +24854,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 2.28,
-          "d": 3.81,
-          "a": 2.79
+          "h": 2.17,
+          "d": 3.9,
+          "a": 2.92
         }
       },
       "fair": {
-        "h": 2.42,
-        "d": 4.04,
-        "a": 2.96
+        "h": 2.3,
+        "d": 4.13,
+        "a": 3.09
       },
       "open": {
-        "h": 2.28,
-        "d": 3.81,
-        "a": 2.79
+        "h": 2.17,
+        "d": 3.9,
+        "a": 2.92
       },
       "movement": [
-        2.28
+        2.17
       ],
       "totals": {
         "line": 2.5,
@@ -24929,7 +24929,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.95,
@@ -25004,7 +25004,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3,
@@ -25079,7 +25079,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.76,
@@ -25154,7 +25154,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.64,
@@ -25229,7 +25229,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -25304,7 +25304,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.86,
@@ -25376,7 +25376,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3,
@@ -25451,7 +25451,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -25526,7 +25526,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -25601,7 +25601,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.65,
@@ -25993,7 +25993,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -26068,7 +26068,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -26143,7 +26143,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3.2,
@@ -26218,7 +26218,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.3,
@@ -26282,7 +26282,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -26357,7 +26357,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.71,
@@ -26432,7 +26432,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.1,
@@ -26496,7 +26496,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -26571,7 +26571,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.92,
@@ -26646,7 +26646,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.66,
@@ -27026,7 +27026,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.34,
@@ -27050,14 +27050,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.52,
+          "o": 1.5,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.4,
+          "o": 2.5,
           "b": "SportyBet"
         },
-        "fairOver": 1.63
+        "fairOver": 1.6
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103679",
@@ -27078,7 +27078,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.55,
@@ -27130,7 +27130,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -27154,14 +27154,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.1,
+          "o": 2,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.69,
+          "o": 1.75,
           "b": "SportyBet"
         },
-        "fairOver": 2.24
+        "fairOver": 2.14
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103678",
@@ -27182,7 +27182,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -27234,7 +27234,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -27286,7 +27286,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.56,
@@ -27310,14 +27310,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.82,
+          "o": 1.73,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.92,
+          "o": 2.05,
           "b": "SportyBet"
         },
-        "fairOver": 1.95
+        "fairOver": 1.84
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103677",
@@ -27338,7 +27338,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 4.3,
@@ -27390,38 +27390,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
-          "h": 2.1,
-          "d": 3.5,
-          "a": 3.3
+          "h": 2,
+          "d": 3.7,
+          "a": 3.4
         }
       },
       "fair": {
-        "h": 2.24,
-        "d": 3.73,
-        "a": 3.51
+        "h": 2.13,
+        "d": 3.94,
+        "a": 3.62
       },
       "open": {
-        "h": 2.1,
-        "d": 3.5,
-        "a": 3.3
+        "h": 2,
+        "d": 3.7,
+        "a": 3.4
       },
       "movement": [
-        2.1
+        2
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.73,
+          "o": 1.66,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.05,
+          "o": 2.15,
           "b": "SportyBet"
         },
-        "fairOver": 1.84
+        "fairOver": 1.77
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103676",
@@ -27442,7 +27442,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -27466,14 +27466,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.95,
+          "o": 1.88,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.76,
+          "o": 1.83,
           "b": "SportyBet"
         },
-        "fairOver": 2.11
+        "fairOver": 2.03
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103681",
@@ -27494,7 +27494,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.76,
@@ -27861,7 +27861,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.75,
@@ -28228,7 +28228,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.86,
@@ -28280,7 +28280,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -28332,7 +28332,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -28384,7 +28384,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -28433,7 +28433,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.55,
@@ -28485,7 +28485,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 10.5,
@@ -28537,7 +28537,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.9,
@@ -28927,7 +28927,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 3.33,
@@ -29002,7 +29002,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.34,
@@ -29077,7 +29077,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.46,
@@ -29152,7 +29152,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 5.2,
@@ -29224,7 +29224,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -29299,7 +29299,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 1.61,
@@ -29348,7 +29348,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-19T00:23:34.895Z",
+      "sbAt": "2026-10-19T05:07:30.681Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -29474,12 +29474,12 @@
     "Betika"
   ],
   "tips": [],
-  "updatedAt": "2026-10-19T00:23:34.895Z",
-  "generatedAt": "2026-10-19T00:23:34.895Z",
+  "updatedAt": "2026-10-19T05:07:30.681Z",
+  "generatedAt": "2026-10-19T05:07:30.681Z",
   "metadata": {
     "mode": "hybrid",
-    "oddsUpdatedAt": "2026-10-19T00:23:34.895Z",
-    "scoresUpdatedAt": "2026-10-19T00:23:34.895Z",
+    "oddsUpdatedAt": "2026-10-19T05:07:30.681Z",
+    "scoresUpdatedAt": "2026-10-19T05:07:30.681Z",
     "dataSources": [
       "ESPN scoreboards + odds (free)",
       "SportyBet odds feed (free)"
@@ -29495,11 +29495,11 @@
         "source": "not in feed"
       },
       "DraftKings": {
-        "updatedAt": "2026-10-19T00:23:34.895Z",
+        "updatedAt": "2026-10-19T05:07:30.681Z",
         "source": "live feed"
       },
       "SportyBet": {
-        "updatedAt": "2026-10-19T00:23:34.895Z",
+        "updatedAt": "2026-10-19T05:07:30.681Z",
         "source": "live feed"
       },
       "Betway": {
@@ -29539,7 +29539,7 @@
         "source": "not in feed"
       },
       "Draft Kings": {
-        "updatedAt": "2026-10-19T00:23:34.895Z",
+        "updatedAt": "2026-10-19T05:07:30.681Z",
         "source": "live feed"
       }
     },
@@ -29547,35 +29547,35 @@
       "espn": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-19T00:23:35.483Z",
+        "lastOk": "2026-10-19T05:07:31.908Z",
         "lastError": null,
         "count": 51
       },
       "sportybet": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-19T00:23:45.431Z",
+        "lastOk": "2026-10-19T05:07:43.246Z",
         "lastError": null,
         "count": 0
       },
       "fotmob": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-19T00:24:02.289Z",
+        "lastOk": "2026-10-19T05:08:01.342Z",
         "lastError": null,
         "count": 43
       },
       "espn-news": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-19T00:24:08.190Z",
+        "lastOk": "2026-10-19T05:08:08.344Z",
         "lastError": null,
         "count": 151
       },
       "oddsapi": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-19T00:24:08.192Z",
+        "lastOk": "2026-10-19T05:08:08.346Z",
         "lastError": null,
         "count": 0
       }
