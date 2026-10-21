@@ -57,7 +57,7 @@
         },
         "fairOver": 1.83
       },
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "fotmobId": "5795491",
       "fmHomeId": "9902",
       "fmAwayId": "10203",
@@ -195,6 +195,13 @@
       },
       "newsItems": [
         {
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
+        },
+        {
           "headline": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "published": "2026-10-20T22:53:44Z",
@@ -207,13 +214,6 @@
           "published": "2026-10-20T21:33:15Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty"
-        },
-        {
-          "headline": "Carrick says he feels backed by Man United's board",
-          "description": "Carrick says he feels backed by Man United's board",
-          "published": "2026-10-20T20:01:41Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board"
         }
       ]
     },
@@ -493,7 +493,6 @@
           ],
           "subs": [],
           "missing": [
-            "Álvaro Djaló",
             "Unai Eguiluz",
             "Oihan Sancet",
             "Gorka Guruzeta"
@@ -705,6 +704,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "Pistons kick off season vs. Celtics with NBA's largest opening day comeback",
+          "description": "The Pistons rallied from a 22-point deficit against the Celtics to pull off the largest comeback on the first day of an NBA season in the play-by-play era.",
+          "published": "2026-10-21T01:40:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1021/r1733731_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50233539/pistons-open-season-22-point-comeback-vs-celtics"
+        },
+        {
           "headline": "Boston Celtics vs. Detroit Pistons: Game Highlights",
           "description": "Boston Celtics vs. Detroit Pistons: Game Highlights",
           "published": "2026-10-20T22:07:39Z",
@@ -712,18 +718,11 @@
           "url": "https://www.espn.com/video/clip/_/id/50232313/game-highlights"
         },
         {
-          "headline": "Paul George's 38-point debut not enough as Piston rally late to down Celtics",
-          "description": "Paul George poured in 38 points in his Celtics debut, but it wasn't enough as the Pistons rallied late to down Boston 121-113 in Tuesday's season opener.",
-          "published": "2026-10-20T22:31:13Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733655_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50232192/paul-george-38-not-enough-pistons-rally-defeat-celtics"
-        },
-        {
-          "headline": "NBA season tips off with Pistons rallying to beat Celtics 121-113, spoiling Paul George's debut",
-          "description": "— Javonte Green scored 19 points after not playing in the first half and Cade Cunningham finished with 22 points and eight assists, helping the Detroit Pistons come back and beat the ",
-          "published": "2026-10-20T21:51:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909088.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nba/recap?gameId=401909088"
+          "headline": "NBA opening day: Live updates, highlights from tripleheader",
+          "description": "The 2026-27 NBA season is back with a bang. Follow along for all of the live updates and highlights from the tripleheader.",
+          "published": "2026-10-21T01:30:32Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733695_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50220591/nba-opening-day-live-updates-highlights"
         }
       ]
     },
@@ -741,10 +740,10 @@
       "live": true,
       "status": "inplay",
       "score": {
-        "home": 0,
-        "away": 0
+        "home": 98,
+        "away": 104
       },
-      "minute": "12:00",
+      "minute": "49.5",
       "prices": {},
       "fair": null,
       "open": null,
@@ -755,25 +754,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Knicks reverse course, hang banner for NBA Cup title",
-          "description": "The Knicks on Tuesday hung a banner at Madison Square Garden to celebrate the NBA Cup title they won last season.",
-          "published": "2026-10-20T23:09:25Z",
-          "image": "https://a.espncdn.com/photo/2026/0916/r1717567_600x400_3-2.jpg",
+          "headline": "Knicks celebrate NBA title, add surprise Cup banner",
+          "description": "The Knicks celebrated their 2025-26 season Tuesday with banners -- two of them -- and rings before hosting the 76ers in their season opener.",
+          "published": "2026-10-21T01:02:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1021/r1733703_600x400_3-2.jpg",
           "url": "https://www.espn.com/nba/story/_/id/50232540/knicks-nba-cup-banner-championship-night"
         },
         {
           "headline": "NBA opening day: Live updates, highlights from tripleheader",
           "description": "The 2026-27 NBA season is back with a bang. Follow along for all of the live updates and highlights from the tripleheader.",
-          "published": "2026-10-20T22:38:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733589_608x342_16-9.jpg",
+          "published": "2026-10-21T01:30:32Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733695_608x342_16-9.jpg",
           "url": "https://www.espn.com/nba/story/_/id/50220591/nba-opening-day-live-updates-highlights"
         },
         {
-          "headline": "JJ Redick says Lakers' 'biggest unknown' is how they will deal with adversity",
-          "description": "JJ Redick said the Lakers' \"biggest unknown\" is how his new-look roster sans LeBron James will deal with adversity.",
-          "published": "2026-10-20T22:45:07Z",
-          "image": "https://a.espncdn.com/photo/2026/0411/r1641743_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50232351/redick-lakers-biggest-test-dealing-adversity"
+          "headline": "Pistons kick off season vs. Celtics with NBA's largest opening day comeback",
+          "description": "The Pistons rallied from a 22-point deficit against the Celtics to pull off the largest comeback on the first day of an NBA season in the play-by-play era.",
+          "published": "2026-10-21T01:40:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1021/r1733731_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50233539/pistons-open-season-22-point-comeback-vs-celtics"
         }
       ]
     },
@@ -786,69 +785,44 @@
       "awayAbbr": "OKC",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-      "startsIn": "10/21/2026, 1:30:00 AM",
-      "commenceISO": "2026-10-21T01:30Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "prices": {
-        "Draft Kings": {
-          "h": 1.98,
-          "a": 1.85
-        }
+      "startsIn": "10/21/2026, 1:50:00 AM",
+      "commenceISO": "2026-10-21T01:50Z",
+      "live": true,
+      "status": "inplay",
+      "score": {
+        "home": 3,
+        "away": 0
       },
-      "fair": {
-        "h": 2.07,
-        "d": null,
-        "a": 1.93
-      },
-      "open": {
-        "h": 1.8,
-        "d": null,
-        "a": 2.05
-      },
-      "movement": [
-        1.8,
-        1.98
-      ],
-      "news": "Real odds via ESPN (Draft Kings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "minute": "11:18",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 230.5,
-        "over": {
-          "o": 1.95,
-          "b": "Draft Kings"
-        },
-        "under": {
-          "o": 1.87,
-          "b": "Draft Kings"
-        },
-        "fairOver": 2.04
-      },
       "newsItems": [
         {
           "headline": "NBA opening day: Live updates, highlights from tripleheader",
           "description": "The 2026-27 NBA season is back with a bang. Follow along for all of the live updates and highlights from the tripleheader.",
-          "published": "2026-10-20T22:38:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733589_608x342_16-9.jpg",
+          "published": "2026-10-21T01:30:32Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733695_608x342_16-9.jpg",
           "url": "https://www.espn.com/nba/story/_/id/50220591/nba-opening-day-live-updates-highlights"
         },
         {
-          "headline": "Knicks reverse course, hang banner for NBA Cup title",
-          "description": "The Knicks on Tuesday hung a banner at Madison Square Garden to celebrate the NBA Cup title they won last season.",
-          "published": "2026-10-20T23:09:25Z",
-          "image": "https://a.espncdn.com/photo/2026/0916/r1717567_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50232540/knicks-nba-cup-banner-championship-night"
+          "headline": "Pistons kick off season vs. Celtics with NBA's largest opening day comeback",
+          "description": "The Pistons rallied from a 22-point deficit against the Celtics to pull off the largest comeback on the first day of an NBA season in the play-by-play era.",
+          "published": "2026-10-21T01:40:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1021/r1733731_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50233539/pistons-open-season-22-point-comeback-vs-celtics"
         },
         {
-          "headline": "JJ Redick says Lakers' 'biggest unknown' is how they will deal with adversity",
-          "description": "JJ Redick said the Lakers' \"biggest unknown\" is how his new-look roster sans LeBron James will deal with adversity.",
-          "published": "2026-10-20T22:45:07Z",
-          "image": "https://a.espncdn.com/photo/2026/0411/r1641743_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50232351/redick-lakers-biggest-test-dealing-adversity"
+          "headline": "Warriors' Brandin Podziemski to miss opener vs. Lakers with back soreness",
+          "description": "The Warriors will be without Brandin Podziemski for their season opener against the Lakers because of a back issue, a surprise scratch for the durable 23-year-old.",
+          "published": "2026-10-21T00:59:00Z",
+          "image": "https://a.espncdn.com/photo/2026/1021/r1733709_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50233339/warriors-guard-podziemski-vs-lakers-back-soreness"
         }
       ]
     },
@@ -880,6 +854,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
@@ -892,13 +873,6 @@
           "published": "2026-10-20T21:45:43Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
-        },
-        {
-          "headline": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-          "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-          "published": "2026-10-20T22:12:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         }
       ]
     },
@@ -930,11 +904,11 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Reports: NFL won't punish Eagles for letting Jalen Hurts play with blood clot",
-          "description": "The NFL will not punish the Eagles for how they handled the process surrounding quarterback Jalen Hurts being cleared to play Week 5 against the Jaguars, according to multiple reports.",
-          "published": "2026-10-20T20:27:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1011/r1729145_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50230816/reports-nfl-punish-eagles-jalen-hurts-situation"
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
         },
         {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
@@ -980,6 +954,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
@@ -992,13 +973,6 @@
           "published": "2026-10-20T21:45:43Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
-        },
-        {
-          "headline": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-          "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-          "published": "2026-10-20T22:12:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         }
       ]
     },
@@ -1030,6 +1004,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
@@ -1042,13 +1023,6 @@
           "published": "2026-10-20T21:45:43Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
-        },
-        {
-          "headline": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-          "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-          "published": "2026-10-20T22:12:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         }
       ]
     },
@@ -1080,6 +1054,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
@@ -1092,13 +1073,6 @@
           "published": "2026-10-20T21:45:43Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
-        },
-        {
-          "headline": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-          "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-          "published": "2026-10-20T22:12:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         }
       ]
     },
@@ -1130,6 +1104,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
@@ -1142,13 +1123,6 @@
           "published": "2026-10-20T21:45:43Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
-        },
-        {
-          "headline": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-          "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-          "published": "2026-10-20T22:12:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         }
       ]
     },
@@ -1180,6 +1154,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
@@ -1192,13 +1173,6 @@
           "published": "2026-10-20T21:45:43Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
-        },
-        {
-          "headline": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-          "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-          "published": "2026-10-20T22:12:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         }
       ]
     },
@@ -1230,18 +1204,18 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Get ready for Cowboys vs. Eagles on Monday Night Football",
           "description": "Get ready for Cowboys vs. Eagles on Monday Night Football",
           "published": "2026-10-20T21:45:43Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
-        },
-        {
-          "headline": "Reports: NFL won't punish Eagles for letting Jalen Hurts play with blood clot",
-          "description": "The NFL will not punish the Eagles for how they handled the process surrounding quarterback Jalen Hurts being cleared to play Week 5 against the Jaguars, according to multiple reports.",
-          "published": "2026-10-20T20:27:55Z",
-          "image": "https://a.espncdn.com/photo/2026/1011/r1729145_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50230816/reports-nfl-punish-eagles-jalen-hurts-situation"
         },
         {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
@@ -1294,11 +1268,11 @@
           "url": "https://www.espn.com/video/clip/_/id/50231436/cam-heyward-details-steelers-preparation-paris-game"
         },
         {
-          "headline": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-          "description": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-          "published": "2026-10-20T21:45:43Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
         }
       ]
     },
@@ -1337,18 +1311,18 @@
           "url": "https://www.espn.com/nfl/story/_/id/50231705/sources-rams-signing-free-agent-kicker-brandon-mcmanus"
         },
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
           "image": "https://a.espncdn.com/photo/2026/0916/r1717334_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries"
-        },
-        {
-          "headline": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-          "description": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-          "published": "2026-10-20T21:45:43Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
         }
       ]
     },
@@ -1380,6 +1354,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
@@ -1392,13 +1373,6 @@
           "published": "2026-10-20T21:45:43Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
-        },
-        {
-          "headline": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-          "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-          "published": "2026-10-20T22:12:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         }
       ]
     },
@@ -1430,6 +1404,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
@@ -1442,13 +1423,6 @@
           "published": "2026-10-20T21:45:43Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
-        },
-        {
-          "headline": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-          "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-          "published": "2026-10-20T22:12:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         }
       ]
     },
@@ -1487,18 +1461,18 @@
           "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
         },
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
           "image": "https://a.espncdn.com/photo/2026/0916/r1717334_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries"
-        },
-        {
-          "headline": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-          "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-          "published": "2026-10-20T22:12:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         }
       ]
     },
@@ -1537,18 +1511,18 @@
           "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play"
         },
         {
+          "headline": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+          "description": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing r",
+          "published": "2026-10-21T01:17:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded"
+        },
+        {
           "headline": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
           "description": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
           "published": "2026-10-20T22:49:56Z",
           "image": "https://a.espncdn.com/photo/2026/0916/r1717334_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries"
-        },
-        {
-          "headline": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-          "description": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-          "published": "2026-10-20T21:45:43Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football"
         }
       ]
     },
@@ -1574,9 +1548,9 @@
           "d": 3.35
         },
         "SportyBet": {
-          "h": 2.17,
-          "d": 3.49,
-          "a": 3.53
+          "h": 2.16,
+          "d": 3.5,
+          "a": 3.55
         }
       },
       "fair": {
@@ -1609,7 +1583,7 @@
         },
         "fairOver": 2.04
       },
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "fotmobId": "5749718",
       "fmHomeId": "9804",
       "fmAwayId": "6504",
@@ -2031,7 +2005,7 @@
               "pos": 32,
               "x": 0.292,
               "y": 0.875,
-              "rating": 7.5,
+              "rating": 7.6,
               "goals": null
             },
             {
@@ -2058,7 +2032,7 @@
               "pos": 38,
               "x": 0.292,
               "y": 0.125,
-              "rating": 7.1,
+              "rating": 7.3,
               "goals": null
             },
             {
@@ -2067,7 +2041,7 @@
               "pos": 64,
               "x": 0.485,
               "y": 0.7,
-              "rating": 7.6,
+              "rating": 7.7,
               "goals": null
             },
             {
@@ -2076,7 +2050,7 @@
               "pos": 66,
               "x": 0.485,
               "y": 0.3,
-              "rating": 7.3,
+              "rating": 7.2,
               "goals": null
             },
             {
@@ -2200,7 +2174,7 @@
               "pos": 37,
               "x": 0.292,
               "y": 0.21,
-              "rating": 6.3,
+              "rating": 6.1,
               "goals": null
             },
             {
@@ -2209,7 +2183,7 @@
               "pos": 62,
               "x": 0.485,
               "y": 0.875,
-              "rating": 7.1,
+              "rating": 7.3,
               "goals": null
             },
             {
@@ -2218,7 +2192,7 @@
               "pos": 64,
               "x": 0.485,
               "y": 0.625,
-              "rating": 7.2,
+              "rating": 7.1,
               "goals": null
             },
             {
@@ -2236,7 +2210,7 @@
               "pos": 68,
               "x": 0.485,
               "y": 0.125,
-              "rating": 7.6,
+              "rating": 7.7,
               "goals": null
             },
             {
@@ -2245,7 +2219,7 @@
               "pos": 84,
               "x": 0.678,
               "y": 0.7,
-              "rating": 7.2,
+              "rating": 7.3,
               "goals": null
             },
             {
@@ -2254,7 +2228,7 @@
               "pos": 86,
               "x": 0.678,
               "y": 0.3,
-              "rating": 6.3,
+              "rating": 6.2,
               "goals": null
             },
             {
@@ -2320,7 +2294,7 @@
           "id": "950473",
           "name": "Mason Greenwood",
           "team": "Fenerbahçe",
-          "rating": 7.94,
+          "rating": 7.91,
           "goals": 1,
           "assists": 0,
           "minutes": 82
@@ -2338,25 +2312,16 @@
           "id": "319300",
           "name": "N'Golo Kanté",
           "team": "Fenerbahçe",
-          "rating": 7.64,
+          "rating": 7.72,
           "goals": 0,
           "assists": 0,
-          "minutes": 90
-        },
-        {
-          "id": "309328",
-          "name": "Milan Škriniar",
-          "team": "Fenerbahçe",
-          "rating": 7.59,
-          "goals": 0,
-          "assists": 1,
           "minutes": 90
         },
         {
           "id": "1782189",
           "name": "Oskar Kubiak",
           "team": "Slavia Prague",
-          "rating": 7.55,
+          "rating": 7.65,
           "goals": 0,
           "assists": 0,
           "minutes": 75
@@ -2365,7 +2330,16 @@
           "id": "470834",
           "name": "Nélson Semedo",
           "team": "Fenerbahçe",
-          "rating": 7.52,
+          "rating": 7.63,
+          "goals": 0,
+          "assists": 1,
+          "minutes": 90
+        },
+        {
+          "id": "309328",
+          "name": "Milan Škriniar",
+          "team": "Fenerbahçe",
+          "rating": 7.57,
           "goals": 0,
           "assists": 1,
           "minutes": 90
@@ -2374,18 +2348,18 @@
           "id": "1092015",
           "name": "Oğuz Aydın",
           "team": "Fenerbahçe",
-          "rating": 7.51,
+          "rating": 7.5,
           "goals": 1,
           "assists": 0,
           "minutes": 63
         },
         {
-          "id": "800609",
-          "name": "Mattéo Guendouzi",
-          "team": "Fenerbahçe",
-          "rating": 7.25,
+          "id": "1327747",
+          "name": "Emmanuel Ayaosi",
+          "team": "Slavia Prague",
+          "rating": 7.34,
           "goals": 0,
-          "assists": 0,
+          "assists": 1,
           "minutes": 90
         }
       ],
@@ -2559,6 +2533,13 @@
       },
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -2568,16 +2549,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -3084,6 +3058,13 @@
       },
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -3093,16 +3074,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -3166,7 +3140,7 @@
               "pos": 35,
               "x": 0.292,
               "y": 0.5,
-              "rating": 8.5,
+              "rating": 8.4,
               "goals": null
             },
             {
@@ -3211,7 +3185,7 @@
               "pos": 68,
               "x": 0.485,
               "y": 0.125,
-              "rating": 7.8,
+              "rating": 7.7,
               "goals": null
             },
             {
@@ -3229,7 +3203,7 @@
               "pos": 86,
               "x": 0.678,
               "y": 0.3,
-              "rating": 7.4,
+              "rating": 7.5,
               "goals": null
             },
             {
@@ -3325,7 +3299,7 @@
               "pos": 36,
               "x": 0.292,
               "y": 0.375,
-              "rating": 5.5,
+              "rating": 5.4,
               "goals": null
             },
             {
@@ -3465,15 +3439,6 @@
           "minutes": 77
         },
         {
-          "id": "958464",
-          "name": "Leonardo Balerdi",
-          "team": "Roma",
-          "rating": 8.48,
-          "goals": 0,
-          "assists": 0,
-          "minutes": 90
-        },
-        {
           "id": "726345",
           "name": "Nahuel Molina",
           "team": "Roma",
@@ -3492,22 +3457,31 @@
           "minutes": 90
         },
         {
-          "id": "1320176",
-          "name": "Wesley",
+          "id": "958464",
+          "name": "Leonardo Balerdi",
           "team": "Roma",
-          "rating": 7.76,
+          "rating": 8.42,
           "goals": 0,
           "assists": 0,
-          "minutes": 59
+          "minutes": 90
         },
         {
           "id": "862024",
           "name": "Dominik Takác",
           "team": "Slovan Bratislava",
-          "rating": 7.66,
+          "rating": 7.74,
           "goals": 0,
           "assists": 0,
           "minutes": 90
+        },
+        {
+          "id": "1320176",
+          "name": "Wesley",
+          "team": "Roma",
+          "rating": 7.67,
+          "goals": 0,
+          "assists": 0,
+          "minutes": 59
         }
       ],
       "starMen": {
@@ -3680,6 +3654,13 @@
       },
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -3689,16 +3670,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -4279,6 +4253,13 @@
       },
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -4288,16 +4269,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -4880,7 +4854,7 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
         },
@@ -4892,11 +4866,11 @@
           "url": "https://www.espn.com/video/clip/_/id/50232573/leboeuf-hails-ngumoha-liverpool-comeback-vs-villarreal"
         },
         {
-          "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
-          "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
-          "published": "2026-10-20T23:05:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733682_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start"
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
         }
       ]
     },
@@ -4933,7 +4907,7 @@
         "home": {
           "name": "Manchester City",
           "formation": "4-2-3-1",
-          "rating": 7.5,
+          "rating": 7.6,
           "coach": "Enzo Maresca",
           "xi": [
             {
@@ -5271,7 +5245,7 @@
           "id": "1721789",
           "name": "Allan",
           "team": "Manchester City",
-          "rating": 7.56,
+          "rating": 7.64,
           "goals": 0,
           "assists": 0,
           "minutes": 90
@@ -5280,7 +5254,7 @@
           "id": "618878",
           "name": "Gianluigi Donnarumma",
           "team": "Manchester City",
-          "rating": 7.5,
+          "rating": 7.49,
           "goals": 0,
           "assists": 0,
           "minutes": 90
@@ -5289,7 +5263,7 @@
           "id": "614006",
           "name": "Rúben Dias",
           "team": "Manchester City",
-          "rating": 7.31,
+          "rating": 7.32,
           "goals": 0,
           "assists": 0,
           "minutes": 83
@@ -5476,18 +5450,18 @@
           "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         },
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733682_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start"
-        },
-        {
-          "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
-          "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
         }
       ]
     },
@@ -5519,6 +5493,13 @@
       "sample": false,
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -5528,16 +5509,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -5583,7 +5557,7 @@
               "pos": 11,
               "x": 0.1,
               "y": 0.5,
-              "rating": 6.3,
+              "rating": 6.5,
               "goals": null
             },
             {
@@ -5628,7 +5602,7 @@
               "pos": 73,
               "x": 0.613,
               "y": 0.79,
-              "rating": 8.7,
+              "rating": 8.6,
               "goals": null
             },
             {
@@ -5722,7 +5696,7 @@
         "away": {
           "name": "Barcelona",
           "formation": "4-2-3-1",
-          "rating": 6.5,
+          "rating": 6.6,
           "coach": "Hans-Dieter Flick",
           "xi": [
             {
@@ -5731,7 +5705,7 @@
               "pos": 11,
               "x": 0.1,
               "y": 0.5,
-              "rating": 7.5,
+              "rating": 7.7,
               "goals": null
             },
             {
@@ -5821,7 +5795,7 @@
               "pos": 115,
               "x": 0.87,
               "y": 0.5,
-              "rating": 7,
+              "rating": 6.9,
               "goals": null
             }
           ],
@@ -5882,21 +5856,21 @@
           "minutes": 78
         },
         {
-          "id": "1342757",
-          "name": "João Neves",
-          "team": "Paris Saint-Germain",
-          "rating": 8.69,
-          "goals": 0,
-          "assists": 1,
-          "minutes": 90
-        },
-        {
           "id": "605654",
           "name": "Fabián Ruiz",
           "team": "Paris Saint-Germain",
           "rating": 8.6,
           "goals": 1,
           "assists": 0,
+          "minutes": 90
+        },
+        {
+          "id": "1342757",
+          "name": "João Neves",
+          "team": "Paris Saint-Germain",
+          "rating": 8.6,
+          "goals": 0,
+          "assists": 1,
           "minutes": 90
         },
         {
@@ -5912,7 +5886,7 @@
           "id": "1467236",
           "name": "Lamine Yamal",
           "team": "Barcelona",
-          "rating": 7.96,
+          "rating": 7.98,
           "goals": 1,
           "assists": 0,
           "minutes": 90
@@ -5936,13 +5910,13 @@
           "minutes": 78
         },
         {
-          "id": "900433",
-          "name": "Khvicha Kvaratskhelia",
-          "team": "Paris Saint-Germain",
-          "rating": 7.48,
+          "id": "1167220",
+          "name": "Joan García",
+          "team": "Barcelona",
+          "rating": 7.73,
           "goals": 0,
           "assists": 0,
-          "minutes": 59
+          "minutes": 90
         }
       ],
       "starMen": {
@@ -6115,6 +6089,13 @@
       },
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -6124,16 +6105,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -6711,11 +6685,11 @@
       },
       "newsItems": [
         {
-          "headline": "Álvarez scores first Atleti goal since April: Sure it was coming",
-          "description": "Julián Álvarez scored his first goal for Atlético Madrid in almost six months as they fought back to draw 1-1 at Stuttgart in the Champions League.",
-          "published": "2026-10-20T22:19:14Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733632_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232091/sure-was-coming"
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
         },
         {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
@@ -6727,7 +6701,7 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
         }
@@ -6756,8 +6730,8 @@
         },
         "SportyBet": {
           "h": 2.31,
-          "d": 3.61,
-          "a": 3.13
+          "d": 3.58,
+          "a": 3.15
         }
       },
       "fair": {
@@ -6790,7 +6764,7 @@
         },
         "fairOver": 1.81
       },
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "fotmobId": "5802966",
       "fmHomeId": "8521",
       "fmAwayId": "9831",
@@ -7477,7 +7451,7 @@
         },
         "fairOver": 2.17
       },
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "fotmobId": "5781781",
       "fmHomeId": "6433",
       "fmAwayId": "6414",
@@ -7519,26 +7493,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 4.5,
-          "d": 4.2,
-          "a": 1.75
+          "h": 4.56,
+          "d": 4.26,
+          "a": 1.74
         }
       },
       "fair": {
-        "h": 4.64,
-        "d": 4.33,
-        "a": 1.81
+        "h": 4.69,
+        "d": 4.38,
+        "a": 1.79
       },
       "open": {
-        "h": 4.5,
-        "d": 4.2,
-        "a": 1.75
+        "h": 4.56,
+        "d": 4.26,
+        "a": 1.74
       },
       "movement": [
-        4.5
+        4.56
       ],
       "totals": {
         "line": 2.5,
@@ -7626,6 +7600,13 @@
       },
       "newsItems": [
         {
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
+        },
+        {
           "headline": "Transfer rumors, news: Barcelona, Bayern eye Aston Villa's Manzambi",
           "description": "Both Barcelona and Bayern Munich are competing to sign Aston Villa's Johan Manzambi. Transfer Talk has the latest.",
           "published": "2026-10-20T21:33:15Z",
@@ -7638,13 +7619,6 @@
           "published": "2026-10-20T20:03:09Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733528_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50230163/michael-carrick-man-united-coach-future-board"
-        },
-        {
-          "headline": "Referees' boss Webb backs VAR over Newcastle's Botman challenge on Villa's Jackson",
-          "description": "Referees boss Howard Webb believes the video assistant referee was right not to intervene after Newcastle's Sven Botman was shown a yellow card for his tackle on Aston Villa's Nicolas Jackson at the weekend.",
-          "published": "2026-10-20T18:30:04Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733514_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50230051/newcastle-aston-villa-botman-jackson-tackle-var-webb"
         }
       ]
     },
@@ -7662,23 +7636,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.42,
           "d": 4.97,
-          "a": 8.01
+          "a": 8.08
         }
       },
       "fair": {
         "h": 1.46,
         "d": 5.12,
-        "a": 8.25
+        "a": 8.32
       },
       "open": {
         "h": 1.42,
         "d": 4.97,
-        "a": 8.01
+        "a": 8.08
       },
       "movement": [
         1.42
@@ -7701,6 +7675,13 @@
       "fmAwayId": "8668",
       "newsItems": [
         {
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
+        },
+        {
           "headline": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "published": "2026-10-20T22:53:44Z",
@@ -7713,13 +7694,6 @@
           "published": "2026-10-20T21:33:15Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty"
-        },
-        {
-          "headline": "Carrick says he feels backed by Man United's board",
-          "description": "Carrick says he feels backed by Man United's board",
-          "published": "2026-10-20T20:01:41Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board"
         }
       ]
     },
@@ -7737,26 +7711,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.93,
-          "d": 3.57,
-          "a": 2.45
+          "h": 2.97,
+          "d": 3.55,
+          "a": 2.43
         }
       },
       "fair": {
-        "h": 3.02,
-        "d": 3.68,
-        "a": 2.52
+        "h": 3.06,
+        "d": 3.66,
+        "a": 2.5
       },
       "open": {
-        "h": 2.93,
-        "d": 3.57,
-        "a": 2.45
+        "h": 2.97,
+        "d": 3.55,
+        "a": 2.43
       },
       "movement": [
-        2.93
+        2.97
       ],
       "totals": {
         "line": 2.5,
@@ -7776,6 +7750,13 @@
       "fmAwayId": "9879",
       "newsItems": [
         {
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
+        },
+        {
           "headline": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "published": "2026-10-20T22:53:44Z",
@@ -7788,13 +7769,6 @@
           "published": "2026-10-20T21:33:15Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty"
-        },
-        {
-          "headline": "Carrick says he feels backed by Man United's board",
-          "description": "Carrick says he feels backed by Man United's board",
-          "published": "2026-10-20T20:01:41Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board"
         }
       ]
     },
@@ -7812,23 +7786,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.71,
-          "d": 4.34,
-          "a": 4.65
+          "d": 4.33,
+          "a": 4.69
         }
       },
       "fair": {
         "h": 1.76,
-        "d": 4.47,
-        "a": 4.79
+        "d": 4.46,
+        "a": 4.83
       },
       "open": {
         "h": 1.71,
-        "d": 4.34,
-        "a": 4.65
+        "d": 4.33,
+        "a": 4.69
       },
       "movement": [
         1.71
@@ -7851,6 +7825,13 @@
       "fmAwayId": "8586",
       "newsItems": [
         {
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
+        },
+        {
           "headline": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "published": "2026-10-20T22:53:44Z",
@@ -7863,13 +7844,6 @@
           "published": "2026-10-20T21:33:15Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty"
-        },
-        {
-          "headline": "Carrick says he feels backed by Man United's board",
-          "description": "Carrick says he feels backed by Man United's board",
-          "published": "2026-10-20T20:01:41Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board"
         }
       ]
     },
@@ -7887,26 +7861,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.82,
+          "h": 2.85,
           "d": 3.64,
-          "a": 2.44
+          "a": 2.42
         }
       },
       "fair": {
-        "h": 2.93,
+        "h": 2.96,
         "d": 3.78,
-        "a": 2.54
+        "a": 2.51
       },
       "open": {
-        "h": 2.82,
+        "h": 2.85,
         "d": 3.64,
-        "a": 2.44
+        "a": 2.42
       },
       "movement": [
-        2.82
+        2.85
       ],
       "totals": {
         "line": 2.5,
@@ -7933,11 +7907,11 @@
           "url": "https://www.espn.com/soccer/story/_/id/50230051/newcastle-aston-villa-botman-jackson-tackle-var-webb"
         },
         {
-          "headline": "Animal rights group PETA call for Crystal Palace to retire bald eagle mascot",
-          "description": "Animal rights group PETA has urged Crystal Palace to retire the club's bald eagle mascot, Phoenix, with immediate effect.",
-          "published": "2026-10-20T16:31:52Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733441_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50229182/animal-rights-group-peta-call-crystal-palace-retire-bald-eagle-mascot"
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
         },
         {
           "headline": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
@@ -7962,26 +7936,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 4.42,
-          "d": 3.96,
-          "a": 1.78
+          "h": 4.48,
+          "d": 3.97,
+          "a": 1.77
         }
       },
       "fair": {
-        "h": 4.6,
-        "d": 4.12,
-        "a": 1.85
+        "h": 4.66,
+        "d": 4.13,
+        "a": 1.84
       },
       "open": {
-        "h": 4.42,
-        "d": 3.96,
-        "a": 1.78
+        "h": 4.48,
+        "d": 3.97,
+        "a": 1.77
       },
       "movement": [
-        4.42
+        4.48
       ],
       "totals": {
         "line": 2.5,
@@ -8001,6 +7975,13 @@
       "fmAwayId": "9937",
       "newsItems": [
         {
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
+        },
+        {
           "headline": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "published": "2026-10-20T22:53:44Z",
@@ -8013,13 +7994,6 @@
           "published": "2026-10-20T21:33:15Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty"
-        },
-        {
-          "headline": "Carrick says he feels backed by Man United's board",
-          "description": "Carrick says he feels backed by Man United's board",
-          "published": "2026-10-20T20:01:41Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board"
         }
       ]
     },
@@ -8037,23 +8011,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.19,
-          "d": 3.78,
-          "a": 3.13
+          "d": 3.75,
+          "a": 3.16
         }
       },
       "fair": {
         "h": 2.28,
-        "d": 3.93,
-        "a": 3.26
+        "d": 3.9,
+        "a": 3.29
       },
       "open": {
         "h": 2.19,
-        "d": 3.78,
-        "a": 3.13
+        "d": 3.75,
+        "a": 3.16
       },
       "movement": [
         2.19
@@ -8144,6 +8118,13 @@
       },
       "newsItems": [
         {
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
+        },
+        {
           "headline": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
           "published": "2026-10-20T22:53:44Z",
@@ -8156,13 +8137,6 @@
           "published": "2026-10-20T21:33:15Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733629_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty"
-        },
-        {
-          "headline": "Carrick says he feels backed by Man United's board",
-          "description": "Carrick says he feels backed by Man United's board",
-          "published": "2026-10-20T20:01:41Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL/dm_261020_COM_SOC_Presser_Carrick_says_he_feels_backed_by_Man_Uniteds_board_20261020_GLOBAL.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50231037/carrick-says-feels-backed-man-united-board"
         }
       ]
     },
@@ -8180,23 +8154,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.89,
-          "d": 3.92,
-          "a": 3.9
+          "d": 3.88,
+          "a": 3.93
         }
       },
       "fair": {
         "h": 1.97,
-        "d": 4.08,
-        "a": 4.06
+        "d": 4.04,
+        "a": 4.09
       },
       "open": {
         "h": 1.89,
-        "d": 3.92,
-        "a": 3.9
+        "d": 3.88,
+        "a": 3.93
       },
       "movement": [
         1.89
@@ -8219,6 +8193,13 @@
       "fmAwayId": "8678",
       "newsItems": [
         {
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
+        },
+        {
           "headline": "Carrick says he feels backed by Man United's board",
           "description": "Carrick says he feels backed by Man United's board",
           "published": "2026-10-20T20:01:41Z",
@@ -8231,13 +8212,6 @@
           "published": "2026-10-20T20:03:09Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733528_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50230163/michael-carrick-man-united-coach-future-board"
-        },
-        {
-          "headline": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
-          "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
-          "published": "2026-10-20T22:53:44Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Analysis_Klinsmann_Ten_Hag_should_have_kept_Ronaldo_comments_to_himself_20261020_GLOBAL/dm_261020_COM_SOC_Analysis_Klinsmann_Ten_Hag_should_have_kept_Ronaldo_comments_to_himself_20261020_GLOBAL.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50232810/ten-hag-kept-ronaldo-comments-himself"
         }
       ]
     },
@@ -8255,26 +8229,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.98,
-          "d": 3.31,
+          "h": 3,
+          "d": 3.29,
           "a": 2.49
         }
       },
       "fair": {
-        "h": 3.1,
-        "d": 3.44,
+        "h": 3.12,
+        "d": 3.42,
         "a": 2.59
       },
       "open": {
-        "h": 2.98,
-        "d": 3.31,
+        "h": 3,
+        "d": 3.29,
         "a": 2.49
       },
       "movement": [
-        2.98
+        3
       ],
       "totals": {
         "line": 2.5,
@@ -8308,11 +8282,11 @@
           "url": "https://www.espn.com/soccer/story/_/id/50230163/michael-carrick-man-united-coach-future-board"
         },
         {
-          "headline": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
-          "description": "Klinsmann: Ten Hag should have kept Ronaldo comments to himself",
-          "published": "2026-10-20T22:53:44Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_COM_SOC_Analysis_Klinsmann_Ten_Hag_should_have_kept_Ronaldo_comments_to_himself_20261020_GLOBAL/dm_261020_COM_SOC_Analysis_Klinsmann_Ten_Hag_should_have_kept_Ronaldo_comments_to_himself_20261020_GLOBAL.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50232810/ten-hag-kept-ronaldo-comments-himself"
+          "headline": "Football watchdog chair asserts 'absolute' power to force City sale",
+          "description": "The Independent Football Regulator will have \"absolute power\" to force Manchester City's owners to sell if they are ultimately found to have run the club improperly, the watchdog's chair has said.",
+          "published": "2026-10-20T23:53:19Z",
+          "image": "https://a.espncdn.com/photo/2026/1006/r1726836_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232973/football-watchdog-chair-power-force-city-sale"
         }
       ]
     },
@@ -8330,7 +8304,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.85,
@@ -8354,14 +8328,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.55,
+          "o": 1.53,
           "b": "SportyBet"
         },
         "under": {
           "o": 2.75,
           "b": "SportyBet"
         },
-        "fairOver": 1.61
+        "fairOver": 1.59
       },
       "news": "Real odds via SportyBet feed (UEFA Champions League).",
       "fotmobId": "6106410",
@@ -8622,18 +8596,18 @@
           "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         },
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733682_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start"
-        },
-        {
-          "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
-          "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
         }
       ]
     },
@@ -8651,7 +8625,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.24,
@@ -8912,8 +8886,6 @@
           ],
           "subs": [],
           "missing": [
-            "Günay Güvenc",
-            "Wilfried Singo",
             "Rafael Leão"
           ]
         }
@@ -8936,6 +8908,13 @@
       },
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -8945,16 +8924,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -8972,12 +8944,12 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.19,
-          "d": 7.7,
-          "a": 10.5
+          "h": 1.22,
+          "d": 7.1,
+          "a": 9.1
         }
       },
       "fair": {
@@ -9262,7 +9234,7 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
         },
@@ -9274,11 +9246,11 @@
           "url": "https://www.espn.com/video/clip/_/id/50232573/leboeuf-hails-ngumoha-liverpool-comeback-vs-villarreal"
         },
         {
-          "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
-          "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
-          "published": "2026-10-20T23:05:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733682_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232684/barcelona-psg-champions-league-hansi-flick-perfect-start"
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
         }
       ]
     },
@@ -9296,7 +9268,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.6,
@@ -9320,14 +9292,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.58,
+          "o": 1.56,
           "b": "SportyBet"
         },
         "under": {
           "o": 3.9,
           "b": "SportyBet"
         },
-        "fairOver": 1.64
+        "fairOver": 1.62
       },
       "news": "Real odds via SportyBet feed (UEFA Champions League).",
       "fotmobId": "6106238",
@@ -9553,7 +9525,6 @@
           ],
           "subs": [],
           "missing": [
-            "Piero Hincapié",
             "William Saliba",
             "Christos Tzolis"
           ]
@@ -9582,6 +9553,13 @@
       },
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -9591,16 +9569,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -9618,7 +9589,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.6,
@@ -9657,6 +9628,13 @@
       "fmAwayId": "10235",
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -9666,16 +9644,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -9693,7 +9664,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.71,
@@ -9732,6 +9703,13 @@
       "fmAwayId": "8588",
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -9741,16 +9719,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -9768,23 +9739,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.23,
-          "d": 7.97,
-          "a": 11.9
+          "d": 7.99,
+          "a": 11.87
         }
       },
       "fair": {
         "h": 1.26,
-        "d": 8.15,
-        "a": 12.17
+        "d": 8.17,
+        "a": 12.14
       },
       "open": {
         "h": 1.23,
-        "d": 7.97,
-        "a": 11.9
+        "d": 7.99,
+        "a": 11.87
       },
       "movement": [
         1.23
@@ -9807,6 +9778,13 @@
       "fmAwayId": "9728",
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -9816,16 +9794,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -9843,7 +9814,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.19,
@@ -9852,17 +9823,17 @@
         }
       },
       "fair": {
-        "h": 1.29,
-        "d": 7.83,
-        "a": 10.09
+        "h": 1.27,
+        "d": 8.1,
+        "a": 10.87
       },
       "open": {
-        "h": 1.27,
-        "d": 7.69,
-        "a": 9.91
+        "h": 1.25,
+        "d": 7.94,
+        "a": 10.66
       },
       "movement": [
-        1.27
+        1.25
       ],
       "totals": {
         "line": 2.5,
@@ -9884,7 +9855,7 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
         },
@@ -9896,11 +9867,11 @@
           "url": "https://www.espn.com/video/clip/_/id/50232573/leboeuf-hails-ngumoha-liverpool-comeback-vs-villarreal"
         },
         {
-          "headline": "Álvarez scores first Atleti goal since April: Sure it was coming",
-          "description": "Julián Álvarez scored his first goal for Atlético Madrid in almost six months as they fought back to draw 1-1 at Stuttgart in the Champions League.",
-          "published": "2026-10-20T22:19:14Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733632_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232091/sure-was-coming"
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
         }
       ]
     },
@@ -9918,12 +9889,12 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.29,
-          "d": 6.1,
-          "a": 7.6
+          "h": 1.33,
+          "d": 5.8,
+          "a": 6.9
         }
       },
       "fair": {
@@ -9946,7 +9917,7 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 4.3,
+          "o": 4.2,
           "b": "SportyBet"
         },
         "fairOver": 1.33
@@ -9957,6 +9928,13 @@
       "fmAwayId": "9977",
       "newsItems": [
         {
+          "headline": "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+          "description": "Barcelona have reported Paris Saint-Germain to UEFA for the tifo unfurled by the French club's supporters before Tuesday's Champions League game, a source told ESPN.",
+          "published": "2026-10-20T23:28:48Z",
+          "image": "https://a.espncdn.com/photo/2026/1020/r1733680_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50232689/source-barcelona-report-psg-halloween-tifo"
+        },
+        {
           "headline": "Tired Barcelona undone by 'too many mistakes' as perfect start ends at PSG",
           "description": "Barcelona coach Hansi Flick says his tired Barcelona side made too many mistakes as their perfect start to the season ended with a 4-2 defeat to Paris Saint-Germain on Wednesday in the Champions League.",
           "published": "2026-10-20T23:05:01Z",
@@ -9966,16 +9944,9 @@
         {
           "headline": "Ngumoha sparks Liverpool's comeback Champions League win",
           "description": "Still just 18, Rio Ngumoha produced the finest game of his Liverpool career thus far in helping the Reds overturn a two-goal deficit vs. Villarreal.",
-          "published": "2026-10-20T23:17:04Z",
+          "published": "2026-10-20T23:26:13Z",
           "image": "https://a.espncdn.com/photo/2026/1020/r1733606_1296x729_16-9.jpg",
           "url": "https://www.espn.com/soccer/story/_/id/50231666/ngumoha-sparks-liverpool-comeback-champions-league-win"
-        },
-        {
-          "headline": "Phil Foden: Still 'long way' from my best despite hat trick in Man City rout",
-          "description": "Phil Foden said he was heading in the right direction but still a long way from being back to his best after netting a hat trick in Manchester City's 5-1 Champions League win over AEK Athens on Tuesday.",
-          "published": "2026-10-20T22:38:28Z",
-          "image": "https://a.espncdn.com/photo/2026/1020/r1733603_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50232453/phil-foden-manchester-city-hat-trick-champions-league"
         }
       ]
     },
@@ -9993,7 +9964,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.61,
@@ -10251,7 +10222,6 @@
           ],
           "subs": [],
           "missing": [
-            "Álvaro Djaló",
             "Unai Eguiluz",
             "Oihan Sancet",
             "Gorka Guruzeta"
@@ -10449,7 +10419,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -10524,26 +10494,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.81,
-          "d": 3.88,
-          "a": 4.55
+          "h": 1.79,
+          "d": 3.89,
+          "a": 4.64
         }
       },
       "fair": {
-        "h": 1.86,
-        "d": 4,
-        "a": 4.69
+        "h": 1.85,
+        "d": 4.01,
+        "a": 4.78
       },
       "open": {
-        "h": 1.81,
-        "d": 3.88,
-        "a": 4.55
+        "h": 1.79,
+        "d": 3.89,
+        "a": 4.64
       },
       "movement": [
-        1.81
+        1.79
       ],
       "totals": {
         "line": 2.5,
@@ -10599,26 +10569,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.42,
-          "d": 3.72,
-          "a": 2.88
+          "h": 2.39,
+          "d": 3.73,
+          "a": 2.92
         }
       },
       "fair": {
-        "h": 2.49,
-        "d": 3.83,
-        "a": 2.96
+        "h": 2.46,
+        "d": 3.84,
+        "a": 3
       },
       "open": {
-        "h": 2.42,
-        "d": 3.72,
-        "a": 2.88
+        "h": 2.39,
+        "d": 3.73,
+        "a": 2.92
       },
       "movement": [
-        2.42
+        2.39
       ],
       "totals": {
         "line": 2.5,
@@ -10674,26 +10644,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 3.22,
-          "d": 3.67,
-          "a": 2.24
+          "h": 3.25,
+          "d": 3.65,
+          "a": 2.23
         }
       },
       "fair": {
-        "h": 3.31,
-        "d": 3.78,
-        "a": 2.31
+        "h": 3.35,
+        "d": 3.76,
+        "a": 2.3
       },
       "open": {
-        "h": 3.22,
-        "d": 3.67,
-        "a": 2.24
+        "h": 3.25,
+        "d": 3.65,
+        "a": 2.23
       },
       "movement": [
-        3.22
+        3.25
       ],
       "totals": {
         "line": 2.5,
@@ -10817,7 +10787,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.28,
@@ -10960,23 +10930,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.65,
-          "d": 3.88,
-          "a": 5.66
+          "d": 3.83,
+          "a": 5.78
         }
       },
       "fair": {
         "h": 1.72,
-        "d": 4.04,
-        "a": 5.89
+        "d": 3.98,
+        "a": 6.01
       },
       "open": {
         "h": 1.65,
-        "d": 3.88,
-        "a": 5.66
+        "d": 3.83,
+        "a": 5.78
       },
       "movement": [
         1.65
@@ -11103,7 +11073,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.81,
@@ -11178,38 +11148,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.74,
-          "d": 4.14,
-          "a": 4.49
+          "h": 1.73,
+          "d": 4.13,
+          "a": 4.53
         }
       },
       "fair": {
-        "h": 1.81,
+        "h": 1.8,
         "d": 4.3,
-        "a": 4.67
+        "a": 4.72
       },
       "open": {
-        "h": 1.74,
-        "d": 4.14,
-        "a": 4.49
+        "h": 1.73,
+        "d": 4.13,
+        "a": 4.53
       },
       "movement": [
-        1.74
+        1.73
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.56,
+          "o": 1.57,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.4,
+          "o": 2.35,
           "b": "SportyBet"
         },
-        "fairOver": 1.65
+        "fairOver": 1.67
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868108",
@@ -11321,26 +11291,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.6,
-          "d": 5.3,
-          "a": 4.38
+          "h": 1.62,
+          "d": 5.34,
+          "a": 4.22
         }
       },
       "fair": {
-        "h": 1.67,
-        "d": 5.52,
-        "a": 4.56
+        "h": 1.69,
+        "d": 5.56,
+        "a": 4.4
       },
       "open": {
-        "h": 1.6,
-        "d": 5.3,
-        "a": 4.38
+        "h": 1.62,
+        "d": 5.34,
+        "a": 4.22
       },
       "movement": [
-        1.6
+        1.62
       ],
       "totals": {
         "line": 2.5,
@@ -11464,26 +11434,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.39,
-          "d": 6.05,
-          "a": 6.96
+          "h": 1.36,
+          "d": 6.25,
+          "a": 7.5
         }
       },
       "fair": {
-        "h": 1.43,
-        "d": 6.22,
-        "a": 7.16
+        "h": 1.4,
+        "d": 6.43,
+        "a": 7.71
       },
       "open": {
-        "h": 1.39,
-        "d": 6.05,
-        "a": 6.96
+        "h": 1.36,
+        "d": 6.25,
+        "a": 7.5
       },
       "movement": [
-        1.39
+        1.36
       ],
       "totals": {
         "line": 2.5,
@@ -11671,26 +11641,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.92,
-          "d": 4.04,
-          "a": 3.82
+          "h": 1.9,
+          "d": 4.03,
+          "a": 3.91
         }
       },
       "fair": {
-        "h": 1.98,
-        "d": 4.16,
-        "a": 3.94
+        "h": 1.96,
+        "d": 4.15,
+        "a": 4.03
       },
       "open": {
-        "h": 1.92,
-        "d": 4.04,
-        "a": 3.82
+        "h": 1.9,
+        "d": 4.03,
+        "a": 3.91
       },
       "movement": [
-        1.92
+        1.9
       ],
       "totals": {
         "line": 2.5,
@@ -11746,7 +11716,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.12,
@@ -11821,26 +11791,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.75,
-          "d": 4.25,
-          "a": 4.47
+          "h": 1.74,
+          "d": 4.26,
+          "a": 4.55
         }
       },
       "fair": {
-        "h": 1.8,
+        "h": 1.79,
         "d": 4.38,
-        "a": 4.61
+        "a": 4.68
       },
       "open": {
-        "h": 1.75,
-        "d": 4.25,
-        "a": 4.47
+        "h": 1.74,
+        "d": 4.26,
+        "a": 4.55
       },
       "movement": [
-        1.75
+        1.74
       ],
       "totals": {
         "line": 2.5,
@@ -11896,26 +11866,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.31,
+          "h": 2.3,
           "d": 3.77,
-          "a": 3.01
+          "a": 3.03
         }
       },
       "fair": {
-        "h": 2.38,
+        "h": 2.37,
         "d": 3.88,
-        "a": 3.1
+        "a": 3.12
       },
       "open": {
-        "h": 2.31,
+        "h": 2.3,
         "d": 3.77,
-        "a": 3.01
+        "a": 3.03
       },
       "movement": [
-        2.31
+        2.3
       ],
       "totals": {
         "line": 2.5,
@@ -11971,23 +11941,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.42,
-          "d": 5.84,
-          "a": 6.57
+          "d": 5.79,
+          "a": 6.46
         }
       },
       "fair": {
-        "h": 1.46,
-        "d": 6,
-        "a": 6.75
+        "h": 1.47,
+        "d": 5.97,
+        "a": 6.67
       },
       "open": {
         "h": 1.42,
-        "d": 5.84,
-        "a": 6.57
+        "d": 5.79,
+        "a": 6.46
       },
       "movement": [
         1.42
@@ -12046,7 +12016,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.49,
@@ -12189,26 +12159,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.7,
-          "d": 3.96,
-          "a": 2.4
+          "h": 2.75,
+          "d": 3.93,
+          "a": 2.37
         }
       },
       "fair": {
-        "h": 2.81,
-        "d": 4.12,
-        "a": 2.49
+        "h": 2.86,
+        "d": 4.09,
+        "a": 2.46
       },
       "open": {
-        "h": 2.7,
-        "d": 3.96,
-        "a": 2.4
+        "h": 2.75,
+        "d": 3.93,
+        "a": 2.37
       },
       "movement": [
-        2.7
+        2.75
       ],
       "totals": {
         "line": 2.5,
@@ -12264,7 +12234,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 6.49,
@@ -12339,7 +12309,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.3,
@@ -12414,7 +12384,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.12,
@@ -12489,23 +12459,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.55,
-          "d": 4.83,
-          "a": 5.58
+          "d": 4.82,
+          "a": 5.62
         }
       },
       "fair": {
         "h": 1.6,
-        "d": 4.98,
-        "a": 5.76
+        "d": 4.97,
+        "a": 5.79
       },
       "open": {
         "h": 1.55,
-        "d": 4.83,
-        "a": 5.58
+        "d": 4.82,
+        "a": 5.62
       },
       "movement": [
         1.55
@@ -12564,26 +12534,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.83,
-          "d": 3.44,
-          "a": 2.59
+          "h": 2.85,
+          "d": 3.43,
+          "a": 2.58
         }
       },
       "fair": {
-        "h": 2.92,
-        "d": 3.54,
-        "a": 2.67
+        "h": 2.94,
+        "d": 3.53,
+        "a": 2.66
       },
       "open": {
-        "h": 2.83,
-        "d": 3.44,
-        "a": 2.59
+        "h": 2.85,
+        "d": 3.43,
+        "a": 2.58
       },
       "movement": [
-        2.83
+        2.85
       ],
       "totals": {
         "line": 2.5,
@@ -12707,26 +12677,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.48,
-          "d": 4.63,
-          "a": 7.22
+          "h": 1.47,
+          "d": 4.65,
+          "a": 7.35
         }
       },
       "fair": {
         "h": 1.52,
-        "d": 4.77,
-        "a": 7.44
+        "d": 4.8,
+        "a": 7.58
       },
       "open": {
-        "h": 1.48,
-        "d": 4.63,
-        "a": 7.22
+        "h": 1.47,
+        "d": 4.65,
+        "a": 7.35
       },
       "movement": [
-        1.48
+        1.47
       ],
       "totals": {
         "line": 2.5,
@@ -12782,26 +12752,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.36,
-          "d": 5.71,
-          "a": 7.59
+          "h": 1.37,
+          "d": 5.66,
+          "a": 7.58
         }
       },
       "fair": {
         "h": 1.42,
-        "d": 5.95,
-        "a": 7.91
+        "d": 5.88,
+        "a": 7.87
       },
       "open": {
-        "h": 1.36,
-        "d": 5.71,
-        "a": 7.59
+        "h": 1.37,
+        "d": 5.66,
+        "a": 7.58
       },
       "movement": [
-        1.36
+        1.37
       ],
       "totals": {
         "line": 2.5,
@@ -12857,23 +12827,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
-          "d": 4.21,
-          "a": 4.03
+          "d": 4.18,
+          "a": 4.06
         }
       },
       "fair": {
         "h": 1.87,
-        "d": 4.38,
-        "a": 4.2
+        "d": 4.35,
+        "a": 4.23
       },
       "open": {
         "h": 1.8,
-        "d": 4.21,
-        "a": 4.03
+        "d": 4.18,
+        "a": 4.06
       },
       "movement": [
         1.8
@@ -12932,26 +12902,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.15,
-          "d": 3.48,
-          "a": 3.49
+          "h": 2.12,
+          "d": 3.47,
+          "a": 3.57
         }
       },
       "fair": {
-        "h": 2.23,
-        "d": 3.62,
-        "a": 3.63
+        "h": 2.2,
+        "d": 3.61,
+        "a": 3.71
       },
       "open": {
-        "h": 2.15,
-        "d": 3.48,
-        "a": 3.49
+        "h": 2.12,
+        "d": 3.47,
+        "a": 3.57
       },
       "movement": [
-        2.15
+        2.12
       ],
       "totals": {
         "line": 2.5,
@@ -13007,7 +12977,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 7.03,
@@ -13082,26 +13052,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 5.27,
+          "h": 5.31,
           "d": 3.98,
           "a": 1.67
         }
       },
       "fair": {
-        "h": 5.48,
-        "d": 4.14,
-        "a": 1.74
+        "h": 5.51,
+        "d": 4.13,
+        "a": 1.73
       },
       "open": {
-        "h": 5.27,
+        "h": 5.31,
         "d": 3.98,
         "a": 1.67
       },
       "movement": [
-        5.27
+        5.31
       ],
       "totals": {
         "line": 2.5,
@@ -13157,7 +13127,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.8,
@@ -13232,7 +13202,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.37,
@@ -13375,7 +13345,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 4.49,
@@ -13518,7 +13488,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.63,
@@ -13593,7 +13563,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.01,
@@ -13668,7 +13638,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 7.43,
@@ -13743,7 +13713,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 5.4,
@@ -13818,7 +13788,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.86,
@@ -13961,26 +13931,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.66,
-          "d": 4.34,
-          "a": 5.11
+          "h": 1.65,
+          "d": 4.32,
+          "a": 5.16
         }
       },
       "fair": {
-        "h": 1.71,
+        "h": 1.7,
         "d": 4.46,
-        "a": 5.26
+        "a": 5.32
       },
       "open": {
-        "h": 1.66,
-        "d": 4.34,
-        "a": 5.11
+        "h": 1.65,
+        "d": 4.32,
+        "a": 5.16
       },
       "movement": [
-        1.66
+        1.65
       ],
       "totals": {
         "line": 2.5,
@@ -14036,26 +14006,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.37,
-          "d": 3.72,
-          "a": 2.96
+          "h": 2.4,
+          "d": 3.66,
+          "a": 2.94
         }
       },
       "fair": {
-        "h": 2.44,
-        "d": 3.83,
-        "a": 3.04
+        "h": 2.47,
+        "d": 3.77,
+        "a": 3.03
       },
       "open": {
-        "h": 2.37,
-        "d": 3.72,
-        "a": 2.96
+        "h": 2.4,
+        "d": 3.66,
+        "a": 2.94
       },
       "movement": [
-        2.37
+        2.4
       ],
       "totals": {
         "line": 2.5,
@@ -14111,38 +14081,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.19,
-          "d": 3.48,
-          "a": 3.38
+          "h": 2.18,
+          "d": 3.46,
+          "a": 3.43
         }
       },
       "fair": {
-        "h": 2.28,
-        "d": 3.62,
-        "a": 3.51
+        "h": 2.27,
+        "d": 3.6,
+        "a": 3.56
       },
       "open": {
-        "h": 2.19,
-        "d": 3.48,
-        "a": 3.38
+        "h": 2.18,
+        "d": 3.46,
+        "a": 3.43
       },
       "movement": [
-        2.19
+        2.18
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.79,
+          "o": 1.78,
           "b": "SportyBet"
         },
         "under": {
           "o": 2,
           "b": "SportyBet"
         },
-        "fairOver": 1.9
+        "fairOver": 1.89
       },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "fotmobId": "5802969",
@@ -14186,23 +14156,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.17,
-          "d": 3.62,
-          "a": 3.29
+          "d": 3.61,
+          "a": 3.32
         }
       },
       "fair": {
-        "h": 2.26,
-        "d": 3.77,
-        "a": 3.42
+        "h": 2.25,
+        "d": 3.75,
+        "a": 3.45
       },
       "open": {
         "h": 2.17,
-        "d": 3.62,
-        "a": 3.29
+        "d": 3.61,
+        "a": 3.32
       },
       "movement": [
         2.17
@@ -14261,26 +14231,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.95,
-          "d": 3.36,
-          "a": 2.48
+          "h": 3,
+          "d": 3.35,
+          "a": 2.45
         }
       },
       "fair": {
-        "h": 3.07,
-        "d": 3.49,
-        "a": 2.58
+        "h": 3.12,
+        "d": 3.48,
+        "a": 2.55
       },
       "open": {
-        "h": 2.95,
-        "d": 3.36,
-        "a": 2.48
+        "h": 3,
+        "d": 3.35,
+        "a": 2.45
       },
       "movement": [
-        2.95
+        3
       ],
       "totals": {
         "line": 2.5,
@@ -14336,26 +14306,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.58,
-          "d": 4.53,
-          "a": 5.38
+          "h": 1.59,
+          "d": 4.51,
+          "a": 5.32
         }
       },
       "fair": {
-        "h": 1.64,
-        "d": 4.71,
-        "a": 5.59
+        "h": 1.65,
+        "d": 4.68,
+        "a": 5.53
       },
       "open": {
-        "h": 1.58,
-        "d": 4.53,
-        "a": 5.38
+        "h": 1.59,
+        "d": 4.51,
+        "a": 5.32
       },
       "movement": [
-        1.58
+        1.59
       ],
       "totals": {
         "line": 2.5,
@@ -14411,26 +14381,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.77,
+          "h": 1.76,
           "d": 4.3,
-          "a": 4.14
+          "a": 4.17
         }
       },
       "fair": {
-        "h": 1.84,
+        "h": 1.83,
         "d": 4.47,
-        "a": 4.3
+        "a": 4.34
       },
       "open": {
-        "h": 1.77,
+        "h": 1.76,
         "d": 4.3,
-        "a": 4.14
+        "a": 4.17
       },
       "movement": [
-        1.77
+        1.76
       ],
       "totals": {
         "line": 2.5,
@@ -14486,23 +14456,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.45,
-          "d": 5.29,
-          "a": 6.23
+          "d": 5.3,
+          "a": 6.24
         }
       },
       "fair": {
         "h": 1.51,
         "d": 5.5,
-        "a": 6.47
+        "a": 6.48
       },
       "open": {
         "h": 1.45,
-        "d": 5.29,
-        "a": 6.23
+        "d": 5.3,
+        "a": 6.24
       },
       "movement": [
         1.45
@@ -14510,14 +14480,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.38,
+          "o": 1.36,
           "b": "SportyBet"
         },
         "under": {
-          "o": 3,
+          "o": 3.1,
           "b": "SportyBet"
         },
-        "fairOver": 1.46
+        "fairOver": 1.44
       },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "fotmobId": "5802972",
@@ -14629,7 +14599,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 9.61,
@@ -14772,7 +14742,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 4.77,
@@ -14847,7 +14817,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.3,
@@ -14922,7 +14892,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.38,
@@ -14997,7 +14967,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.88,
@@ -15072,7 +15042,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.72,
@@ -15147,7 +15117,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.61,
@@ -15222,7 +15192,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.99,
@@ -15297,7 +15267,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.68,
@@ -15372,7 +15342,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.42,
@@ -15447,7 +15417,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.33,
@@ -15522,7 +15492,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.65,
@@ -15597,7 +15567,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.51,
@@ -15672,7 +15642,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.14,
@@ -15747,26 +15717,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.44,
+          "h": 2.39,
           "d": 3.65,
-          "a": 2.66
+          "a": 2.72
         }
       },
       "fair": {
-        "h": 2.59,
+        "h": 2.53,
         "d": 3.87,
-        "a": 2.82
+        "a": 2.88
       },
       "open": {
-        "h": 2.44,
+        "h": 2.39,
         "d": 3.65,
-        "a": 2.66
+        "a": 2.72
       },
       "movement": [
-        2.44
+        2.39
       ],
       "totals": {
         "line": 2.5,
@@ -15822,7 +15792,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.31,
@@ -15897,7 +15867,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.03,
@@ -16040,7 +16010,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 4.67,
@@ -16115,7 +16085,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.17,
@@ -16190,7 +16160,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.15,
@@ -16265,7 +16235,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3,
@@ -16340,7 +16310,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3,
@@ -16415,7 +16385,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.77,
@@ -16490,7 +16460,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.7,
@@ -16565,7 +16535,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.84,
@@ -16640,7 +16610,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2,
@@ -16712,7 +16682,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.95,
@@ -16787,7 +16757,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -16862,7 +16832,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -16937,7 +16907,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -17012,7 +16982,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -17087,7 +17057,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.2,
@@ -17162,7 +17132,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.43,
@@ -17237,7 +17207,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.99,
@@ -17312,7 +17282,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.64,
@@ -17387,7 +17357,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.92,
@@ -17462,7 +17432,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -17537,7 +17507,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.91,
@@ -17612,7 +17582,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.5,
@@ -17687,7 +17657,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.36,
@@ -17739,7 +17709,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.55,
@@ -17763,14 +17733,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.97,
+          "o": 1.93,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.78,
+          "o": 1.81,
           "b": "SportyBet"
         },
-        "fairOver": 2.11
+        "fairOver": 2.07
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103682",
@@ -17791,7 +17761,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -17843,7 +17813,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2,
@@ -17895,7 +17865,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.7,
@@ -17947,7 +17917,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.56,
@@ -17999,7 +17969,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 4,
@@ -18051,26 +18021,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 2.05,
+          "h": 1.99,
           "d": 3.6,
-          "a": 3.5
+          "a": 3.6
         }
       },
       "fair": {
-        "h": 2.16,
-        "d": 3.78,
-        "a": 3.68
+        "h": 2.11,
+        "d": 3.81,
+        "a": 3.81
       },
       "open": {
-        "h": 2.05,
+        "h": 1.99,
         "d": 3.6,
-        "a": 3.5
+        "a": 3.6
       },
       "movement": [
-        2.05
+        1.99
       ],
       "totals": {
         "line": 2.5,
@@ -18103,7 +18073,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -18155,7 +18125,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.35,
@@ -18207,7 +18177,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.91,
@@ -18259,22 +18229,22 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
-          "d": 3.2,
+          "d": 3.25,
           "a": 3.1
         }
       },
       "fair": {
-        "h": 2.46,
-        "d": 3.42,
-        "a": 3.32
+        "h": 2.45,
+        "d": 3.46,
+        "a": 3.3
       },
       "open": {
         "h": 2.3,
-        "d": 3.2,
+        "d": 3.25,
         "a": 3.1
       },
       "movement": [
@@ -18311,7 +18281,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -18363,7 +18333,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -18412,7 +18382,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.8,
@@ -18464,7 +18434,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 11,
@@ -18516,26 +18486,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
-          "h": 1.47,
-          "d": 4.4,
-          "a": 6.2
+          "h": 1.48,
+          "d": 4.5,
+          "a": 5.8
         }
       },
       "fair": {
-        "h": 1.57,
-        "d": 4.7,
-        "a": 6.63
+        "h": 1.58,
+        "d": 4.82,
+        "a": 6.21
       },
       "open": {
-        "h": 1.47,
-        "d": 4.4,
-        "a": 6.2
+        "h": 1.48,
+        "d": 4.5,
+        "a": 5.8
       },
       "movement": [
-        1.47
+        1.48
       ],
       "totals": {
         "line": 2.5,
@@ -18565,23 +18535,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.6,
-          "d": 3.6,
-          "a": 1.94
+          "d": 3.5,
+          "a": 1.97
         }
       },
       "fair": {
         "h": 3.86,
-        "d": 3.86,
-        "a": 2.08
+        "d": 3.75,
+        "a": 2.11
       },
       "open": {
         "h": 3.6,
-        "d": 3.6,
-        "a": 1.94
+        "d": 3.5,
+        "a": 1.97
       },
       "movement": [
         3.6
@@ -18589,14 +18559,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2,
+          "o": 2.1,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.74,
+          "o": 1.7,
           "b": "SportyBet"
         },
-        "fairOver": 2.15
+        "fairOver": 2.24
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190781",
@@ -18617,7 +18587,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.53,
@@ -18656,6 +18626,58 @@
       "fmAwayId": "2369"
     },
     {
+      "id": "sb-brazil-cearascce-v-goiasecgo-1793142000000",
+      "leagueId": "brazil",
+      "home": "Ceara SC CE",
+      "away": "Goias EC GO",
+      "startsIn": "10/27/2026, 11:00:00 PM",
+      "commenceISO": "2026-10-27T23:00:00.000Z",
+      "live": false,
+      "status": "upcoming",
+      "score": null,
+      "minute": null,
+      "real": true,
+      "sample": false,
+      "oddsStatus": "live",
+      "sbAt": "2026-10-21T01:53:22.230Z",
+      "prices": {
+        "SportyBet": {
+          "h": 2.05,
+          "d": 3.2,
+          "a": 3.75
+        }
+      },
+      "fair": {
+        "h": 2.19,
+        "d": 3.41,
+        "a": 4
+      },
+      "open": {
+        "h": 2.05,
+        "d": 3.2,
+        "a": 3.75
+      },
+      "movement": [
+        2.05
+      ],
+      "totals": {
+        "line": 2.5,
+        "over": {
+          "o": 2.1,
+          "b": "SportyBet"
+        },
+        "under": {
+          "o": 1.7,
+          "b": "SportyBet"
+        },
+        "fairOver": 2.24
+      },
+      "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
+      "fotmobId": "5190783",
+      "fmHomeId": "172341",
+      "fmAwayId": "9862"
+    },
+    {
       "id": "sb-championship-greenockmortonfc-v-ayrunitedfc-1792850400000",
       "leagueId": "championship",
       "home": "Greenock Morton FC",
@@ -18669,7 +18691,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 3.25,
@@ -18744,7 +18766,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.35,
@@ -18819,7 +18841,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.45,
@@ -18894,7 +18916,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 5.1,
@@ -18966,7 +18988,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -19041,7 +19063,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.8,
@@ -19105,7 +19127,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 1.85,
@@ -19154,7 +19176,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-20T23:18:24.463Z",
+      "sbAt": "2026-10-21T01:53:22.230Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -19280,32 +19302,32 @@
     "Betika"
   ],
   "tips": [],
-  "updatedAt": "2026-10-20T23:18:24.463Z",
-  "generatedAt": "2026-10-20T23:18:24.463Z",
+  "updatedAt": "2026-10-21T01:53:22.230Z",
+  "generatedAt": "2026-10-21T01:53:22.230Z",
   "metadata": {
     "mode": "hybrid",
-    "oddsUpdatedAt": "2026-10-20T23:18:24.463Z",
-    "scoresUpdatedAt": "2026-10-20T23:18:24.463Z",
+    "oddsUpdatedAt": "2026-10-21T01:53:22.230Z",
+    "scoresUpdatedAt": "2026-10-21T01:53:22.230Z",
     "dataSources": [
       "ESPN scoreboards + odds (free)",
       "SportyBet odds feed (free)"
     ],
     "leagues": "all",
     "counts": {
-      "real": 162
+      "real": 163
     },
-    "historyPoints": 6512,
+    "historyPoints": 6513,
     "books": {
       "Pinnacle": {
         "updatedAt": null,
         "source": "not in feed"
       },
       "DraftKings": {
-        "updatedAt": "2026-10-20T23:18:24.463Z",
+        "updatedAt": "2026-10-21T01:53:22.230Z",
         "source": "live feed"
       },
       "SportyBet": {
-        "updatedAt": "2026-10-20T23:18:24.463Z",
+        "updatedAt": "2026-10-21T01:53:22.230Z",
         "source": "live feed"
       },
       "Betway": {
@@ -19343,45 +19365,41 @@
       "Betika": {
         "updatedAt": null,
         "source": "not in feed"
-      },
-      "Draft Kings": {
-        "updatedAt": "2026-10-20T23:18:24.463Z",
-        "source": "live feed"
       }
     },
     "health": {
       "espn": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-20T23:18:25.287Z",
+        "lastOk": "2026-10-21T01:53:22.757Z",
         "lastError": null,
         "count": 33
       },
       "sportybet": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-20T23:18:36.532Z",
+        "lastOk": "2026-10-21T01:53:31.784Z",
         "lastError": null,
         "count": 0
       },
       "fotmob": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-20T23:18:58.479Z",
+        "lastOk": "2026-10-21T01:53:43.228Z",
         "lastError": null,
         "count": 15
       },
       "espn-news": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-20T23:19:05.434Z",
+        "lastOk": "2026-10-21T01:53:48.060Z",
         "lastError": null,
         "count": 141
       },
       "oddsapi": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-20T23:19:05.435Z",
+        "lastOk": "2026-10-21T01:53:48.061Z",
         "lastError": null,
         "count": 0
       }
