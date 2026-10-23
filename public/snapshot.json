@@ -57,7 +57,7 @@
         },
         "fairOver": 1.85
       },
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "fotmobId": "5795491",
       "fmHomeId": "9902",
       "fmAwayId": "10203",
@@ -486,9 +486,9 @@
           "d": 3.8
         },
         "SportyBet": {
-          "h": 1.71,
-          "d": 3.89,
-          "a": 5.65
+          "h": 1.7,
+          "d": 3.92,
+          "a": 5.7
         }
       },
       "fair": {
@@ -521,7 +521,7 @@
         },
         "fairOver": 2.16
       },
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "fotmobId": "5868101",
       "fmHomeId": "9866",
       "fmAwayId": "9864",
@@ -945,10 +945,10 @@
       "live": true,
       "status": "inplay",
       "score": {
-        "home": 0,
-        "away": 2
+        "home": 106,
+        "away": 102
       },
-      "minute": "11:11",
+      "minute": "1:19",
       "prices": {},
       "fair": null,
       "open": null,
@@ -959,11 +959,18 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "President Trump criticizes 76ers' LeBron James for actions amid national anthem",
-          "description": "President Donald Trump has accused LeBron James of disrespecting the U.S. after the 76ers star appeared to continue his warmups during the national anthem.",
-          "published": "2026-10-22T20:19:42Z",
-          "image": "https://a.espncdn.com/photo/2026/1022/r1734683_600x600_1-1.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50251603/president-trump-criticizes-lebron-james-anthem-actions"
+          "headline": "Cavs coach Atkinson 'depressed' when LeBron deal fell through",
+          "description": "When the Cleveland Cavaliers opened their season Thursday against the Philadelphia 76ers, it didn't just mean excitement for the start of something new for Cavs coach Kenny Atkinson.",
+          "published": "2026-10-23T00:30:44Z",
+          "image": "https://a.espncdn.com/photo/2026/1022/r1734797_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50253148/cavs-coach-atkinson-depressed-lebron-deal-fell-through"
+        },
+        {
+          "headline": "Jason Kidd on Luka-Yaxel drama: 'I love it'",
+          "description": "Jason Kidd on Luka-Yaxel drama: 'I love it'",
+          "published": "2026-10-23T00:08:18Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/ss_20261022_185138065_37061461207/ss_20261022_185138065_37061461207.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50252942/love-it"
         },
         {
           "headline": "'Inside the NBA' crew breaks down why Cavs are being overlooked",
@@ -971,13 +978,6 @@
           "published": "2026-10-22T23:06:03Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/ss_20261022_184517794_37061451143/ss_20261022_184517794_37061451143.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50252919/inside-nba-crew-breaks-why-cavs-being-overlooked"
-        },
-        {
-          "headline": "Co-defendant denies Billups gave him info, pleads guilty in NBA gambling case",
-          "description": "Eric Earnest pleaded guilty to conspiracy to commit wire fraud Thursday but denied receiving inside information from former NBA player and coach Chauncey Billups.",
-          "published": "2026-10-22T22:44:17Z",
-          "image": "https://a.espncdn.com/photo/2026/0305/r1623688_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50252916/co-defendant-denies-billups-gave-info-nba-gambling-case"
         }
       ]
     },
@@ -1034,25 +1034,25 @@
       },
       "newsItems": [
         {
+          "headline": "Cavs coach Atkinson 'depressed' when LeBron deal fell through",
+          "description": "When the Cleveland Cavaliers opened their season Thursday against the Philadelphia 76ers, it didn't just mean excitement for the start of something new for Cavs coach Kenny Atkinson.",
+          "published": "2026-10-23T00:30:44Z",
+          "image": "https://a.espncdn.com/photo/2026/1022/r1734797_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50253148/cavs-coach-atkinson-depressed-lebron-deal-fell-through"
+        },
+        {
+          "headline": "Jason Kidd on Luka-Yaxel drama: 'I love it'",
+          "description": "Jason Kidd on Luka-Yaxel drama: 'I love it'",
+          "published": "2026-10-23T00:08:18Z",
+          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/ss_20261022_185138065_37061461207/ss_20261022_185138065_37061461207.jpg",
+          "url": "https://www.espn.com/video/clip/_/id/50252942/love-it"
+        },
+        {
           "headline": "'Inside the NBA' crew breaks down why Cavs are being overlooked",
           "description": "'Inside the NBA' crew breaks down why Cavs are being overlooked",
           "published": "2026-10-22T23:06:03Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/ss_20261022_184517794_37061451143/ss_20261022_184517794_37061451143.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50252919/inside-nba-crew-breaks-why-cavs-being-overlooked"
-        },
-        {
-          "headline": "Co-defendant denies Billups gave him info, pleads guilty in NBA gambling case",
-          "description": "Eric Earnest pleaded guilty to conspiracy to commit wire fraud Thursday but denied receiving inside information from former NBA player and coach Chauncey Billups.",
-          "published": "2026-10-22T22:44:17Z",
-          "image": "https://a.espncdn.com/photo/2026/0305/r1623688_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50252916/co-defendant-denies-billups-gave-info-nba-gambling-case"
-        },
-        {
-          "headline": "Tony Kornheiser and Michael Wilbon kick off PTI 25 with their top headlines",
-          "description": "Tony Kornheiser and Michael Wilbon kick off PTI 25 with their top headlines",
-          "published": "2026-10-22T23:10:03Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1022/ss_20261022_180106815_3706111/ss_20261022_180106815_3706111.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50252633/tony-kornheiser-michael-wilbon-kick-pti-25-their-top-headlines"
         }
       ]
     },
@@ -1067,67 +1067,42 @@
       "crestAway": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
       "startsIn": "10/23/2026, 12:15:00 AM",
       "commenceISO": "2026-10-23T00:15Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "prices": {
-        "Draft Kings": {
-          "h": 1.65,
-          "a": 2.3
-        }
+      "live": true,
+      "status": "inplay",
+      "score": {
+        "home": 20,
+        "away": 14
       },
-      "fair": {
-        "h": 1.72,
-        "d": null,
-        "a": 2.39
-      },
-      "open": {
-        "h": 1.83,
-        "d": null,
-        "a": 2
-      },
-      "movement": [
-        1.83,
-        1.65
-      ],
-      "news": "Real odds via ESPN (Draft Kings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "minute": "0:00",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 50.5,
-        "over": {
-          "o": 1.83,
-          "b": "Draft Kings"
-        },
-        "under": {
-          "o": 2,
-          "b": "Draft Kings"
-        },
-        "fairOver": 1.92
-      },
       "newsItems": [
         {
-          "headline": "Bears QB Caleb Williams leads NFL Week 7's best arrivals",
-          "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-          "published": "2026-10-22T22:13:38Z",
-          "image": "https://a.espncdn.com/photo/2026/1022/r1734769_800x450_16-9.png",
-          "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1147,7 +1122,7 @@
       "score": null,
       "minute": null,
       "prices": {
-        "DraftKings": {
+        "Draft Kings": {
           "h": 2.45,
           "a": 1.57
         }
@@ -1166,7 +1141,7 @@
         2.14,
         2.45
       ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
+      "news": "Real odds via ESPN (Draft Kings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
       "real": true,
       "sample": false,
@@ -1174,35 +1149,35 @@
         "line": 44.5,
         "over": {
           "o": 1.91,
-          "b": "DraftKings"
+          "b": "Draft Kings"
         },
         "under": {
           "o": 1.91,
-          "b": "DraftKings"
+          "b": "Draft Kings"
         },
         "fairOver": 2
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1259,25 +1234,25 @@
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1334,25 +1309,25 @@
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1409,25 +1384,25 @@
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Source: Several teams interested in Colts RB Taylor as trade deadline approaches",
-          "description": "As the Colts plot their next moves after firing GM Chris Ballard, a source told ESPN that several teams would be open to a potential trade for Jonathan Taylor.",
-          "published": "2026-10-22T22:44:23Z",
-          "image": "https://a.espncdn.com/photo/2026/0916/r1717667_4_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252635/several-teams-interested-trade-colts-jonathan-taylor"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1484,25 +1459,25 @@
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1523,14 +1498,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.6,
-          "a": 2.4
+          "h": 1.62,
+          "a": 2.36
         }
       },
       "fair": {
-        "h": 1.67,
+        "h": 1.69,
         "d": null,
-        "a": 2.5
+        "a": 2.46
       },
       "open": {
         "h": 1.98,
@@ -1539,7 +1514,7 @@
       },
       "movement": [
         1.98,
-        1.6
+        1.62
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -1559,25 +1534,25 @@
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1634,25 +1609,25 @@
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Trey Hendrickson is set to face the Bengals for the first time since signing with Baltimore",
+          "description": "— Trey Hendrickson is finally looking healthier — just in time for a matchup with his former team.",
+          "published": "2026-10-22T23:47:08Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873012.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401873012"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         }
       ]
     },
@@ -1709,25 +1684,25 @@
       },
       "newsItems": [
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1784,25 +1759,25 @@
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1859,25 +1834,25 @@
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -1934,25 +1909,25 @@
       },
       "newsItems": [
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "A battered Rams team faces a near must-win at Las Vegas",
+          "description": "— The tone for the Rams' season was set from the beginning when they ",
+          "published": "2026-10-23T00:25:09Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873021.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401873021"
         },
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         }
       ]
     },
@@ -2009,25 +1984,25 @@
       },
       "newsItems": [
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         },
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis",
+          "description": "Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+          "published": "2026-10-23T01:39:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734807_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons"
         }
       ]
     },
@@ -2084,25 +2059,25 @@
       },
       "newsItems": [
         {
-          "headline": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-          "description": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-          "published": "2026-10-22T22:43:27Z",
-          "image": "https://a.espncdn.com/photo/2026/1021/16x9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms"
+          "headline": "Eagles still trying to salvage NFC East crown without Hurts as they host Cowboys on Monday night",
+          "description": "— Tanner McKee spent most of his two seasons widely considered one of the top young backup quarterbacks in the NFL.",
+          "published": "2026-10-23T00:03:25Z",
+          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873009.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nfl/preview?gameId=401873009"
         },
         {
-          "headline": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-          "description": "— The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-          "published": "2026-10-22T23:12:09Z",
-          "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873020.png?templateId=espn.applewatch.awayhome.1",
-          "url": "http://www.espn.com/nfl/preview?gameId=401873020"
+          "headline": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
+          "description": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
+          "published": "2026-10-23T01:18:20Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734835_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns"
         },
         {
-          "headline": "Rams WR Puka Nacua leaves practice with calf injury",
-          "description": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-          "published": "2026-10-22T23:04:48Z",
-          "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury"
+          "headline": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+          "description": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+          "published": "2026-10-23T01:03:47Z",
+          "image": "https://a.espncdn.com/photo/2026/1023/r1734816_608x342_16-9.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game"
         }
       ]
     },
@@ -2124,8 +2099,8 @@
       "prices": {
         "DraftKings": {
           "h": 2.1,
-          "a": 3.3,
-          "d": 3.35
+          "a": 3.35,
+          "d": 3.25
         },
         "SportyBet": {
           "h": 2.21,
@@ -2134,9 +2109,9 @@
         }
       },
       "fair": {
-        "h": 2.26,
-        "d": 3.61,
-        "a": 3.56
+        "h": 2.27,
+        "d": 3.52,
+        "a": 3.63
       },
       "open": {
         "h": 2.05,
@@ -2161,9 +2136,9 @@
           "o": 1.93,
           "b": "SportyBet"
         },
-        "fairOver": 2.04
+        "fairOver": 2.02
       },
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "fotmobId": "5749718",
       "fmHomeId": "9804",
       "fmAwayId": "6504",
@@ -4633,7 +4608,7 @@
         },
         "fairOver": 1.79
       },
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "fotmobId": "5802966",
       "fmHomeId": "8521",
       "fmAwayId": "9831",
@@ -4959,16 +4934,16 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 2.25,
+          "o": 2.3,
           "b": "DraftKings"
         },
         "under": {
           "o": 1.63,
           "b": "DraftKings"
         },
-        "fairOver": 2.38
+        "fairOver": 2.41
       },
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "fotmobId": "5836887",
       "fmHomeId": "8559",
       "fmAwayId": "8549",
@@ -5374,7 +5349,7 @@
         },
         "fairOver": 2.2
       },
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "fotmobId": "5781781",
       "fmHomeId": "6433",
       "fmAwayId": "6414",
@@ -5661,26 +5636,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 4.85,
-          "d": 4.4,
-          "a": 1.71
+          "h": 4.91,
+          "d": 4.44,
+          "a": 1.69
         }
       },
       "fair": {
-        "h": 4.94,
-        "d": 4.48,
-        "a": 1.74
+        "h": 5.01,
+        "d": 4.53,
+        "a": 1.72
       },
       "open": {
-        "h": 4.85,
-        "d": 4.4,
-        "a": 1.71
+        "h": 4.91,
+        "d": 4.44,
+        "a": 1.69
       },
       "movement": [
-        4.85
+        4.91
       ],
       "totals": {
         "line": 2.5,
@@ -5807,12 +5782,11 @@
           ],
           "subs": [],
           "missing": [
-            "George Hemmings",
-            "Ian Maatsen",
             "Aaron Wan-Bissaka",
             "Matteo Ruggeri",
             "Modou Kéba Cissé",
-            "Amadou Onana"
+            "Amadou Onana",
+            "Johan Manzambi"
           ]
         },
         "away": {
@@ -6057,7 +6031,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.48,
@@ -6446,7 +6420,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.13,
@@ -6770,7 +6744,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.76,
@@ -7100,7 +7074,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.92,
@@ -7175,7 +7149,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 4.88,
@@ -7250,23 +7224,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.19,
-          "d": 3.8,
-          "a": 3.22
+          "d": 3.83,
+          "a": 3.21
         }
       },
       "fair": {
-        "h": 2.26,
-        "d": 3.92,
-        "a": 3.32
+        "h": 2.25,
+        "d": 3.94,
+        "a": 3.3
       },
       "open": {
         "h": 2.19,
-        "d": 3.8,
-        "a": 3.22
+        "d": 3.83,
+        "a": 3.21
       },
       "movement": [
         2.19
@@ -7325,7 +7299,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -7468,7 +7442,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.17,
@@ -7543,7 +7517,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.31,
@@ -7750,7 +7724,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.69,
@@ -7893,7 +7867,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.33,
@@ -8036,26 +8010,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 1.24,
-          "d": 7.39,
-          "a": 9.96
+          "h": 1.25,
+          "d": 7.24,
+          "a": 9.58
         }
       },
       "fair": {
-        "h": 1.29,
-        "d": 7.7,
-        "a": 10.38
+        "h": 1.3,
+        "d": 7.55,
+        "a": 9.99
       },
       "open": {
-        "h": 1.24,
-        "d": 7.39,
-        "a": 9.96
+        "h": 1.25,
+        "d": 7.24,
+        "a": 9.58
       },
       "movement": [
-        1.24
+        1.25
       ],
       "totals": {
         "line": 2.5,
@@ -8179,7 +8153,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.03,
@@ -8251,7 +8225,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 4.53,
@@ -8458,7 +8432,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.48,
@@ -8533,7 +8507,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.17,
@@ -8676,7 +8650,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 4.79,
@@ -8751,7 +8725,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 7.45,
@@ -8894,7 +8868,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.83,
@@ -9154,8 +9128,7 @@
           ],
           "subs": [],
           "missing": [
-            "Marc Aguado",
-            "Yago Santiago"
+            "Marc Aguado"
           ]
         }
       },
@@ -9218,38 +9191,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 2.47,
+          "h": 2.46,
           "d": 3.75,
-          "a": 2.87
+          "a": 2.88
         }
       },
       "fair": {
-        "h": 2.52,
-        "d": 3.82,
-        "a": 2.93
+        "h": 2.51,
+        "d": 3.83,
+        "a": 2.94
       },
       "open": {
-        "h": 2.47,
+        "h": 2.46,
         "d": 3.75,
-        "a": 2.87
+        "a": 2.88
       },
       "movement": [
-        2.47
+        2.46
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.61,
+          "o": 1.63,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.4,
+          "o": 2.35,
           "b": "SportyBet"
         },
-        "fairOver": 1.67
+        "fairOver": 1.69
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868106",
@@ -9540,7 +9513,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.27,
@@ -9867,22 +9840,22 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.29,
-          "d": 6.45,
+          "d": 6.44,
           "a": 11
         }
       },
       "fair": {
         "h": 1.32,
-        "d": 6.59,
-        "a": 11.23
+        "d": 6.58,
+        "a": 11.24
       },
       "open": {
         "h": 1.29,
-        "d": 6.45,
+        "d": 6.44,
         "a": 11
       },
       "movement": [
@@ -9891,14 +9864,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.57,
+          "o": 1.56,
           "b": "SportyBet"
         },
         "under": {
           "o": 2.5,
           "b": "SportyBet"
         },
-        "fairOver": 1.63
+        "fairOver": 1.62
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868103",
@@ -10130,7 +10103,6 @@
             "Marc Casadó",
             "Noé",
             "Pierre-Emerick Aubameyang",
-            "Yeremay Hernández",
             "Zakaria Eddahchouri"
           ]
         }
@@ -10194,7 +10166,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.62,
@@ -10269,7 +10241,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.02,
@@ -10412,7 +10384,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.69,
@@ -10436,14 +10408,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.57,
+          "o": 1.58,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.45,
+          "o": 2.4,
           "b": "SportyBet"
         },
-        "fairOver": 1.64
+        "fairOver": 1.66
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868108",
@@ -10487,7 +10459,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.65,
@@ -10630,7 +10602,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.98,
@@ -10705,7 +10677,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.4,
@@ -11166,23 +11138,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.91,
-          "d": 4.11,
-          "a": 3.96
+          "d": 4.12,
+          "a": 3.92
         }
       },
       "fair": {
         "h": 1.95,
-        "d": 4.19,
-        "a": 4.04
+        "d": 4.21,
+        "a": 4
       },
       "open": {
         "h": 1.91,
-        "d": 4.11,
-        "a": 3.96
+        "d": 4.12,
+        "a": 3.92
       },
       "movement": [
         1.91
@@ -11495,7 +11467,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -11643,10 +11615,10 @@
           "missing": [
             "Imad Rondić",
             "Ellyes Skhiri",
-            "Joël Schmied",
             "Rav van den Berg",
             "Timo Hübers",
-            "Ragnar Ache"
+            "Ragnar Ache",
+            "Thijs Dallinga"
           ]
         },
         "away": {
@@ -11824,7 +11796,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.79,
@@ -12087,9 +12059,9 @@
             "Moussa N'Diaye",
             "Felix Agu",
             "Jens Stage",
-            "Senne Lynen",
             "Skelly Alvero",
-            "Justin Njinmah"
+            "Justin Njinmah",
+            "Keke Topp"
           ]
         }
       },
@@ -12152,7 +12124,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -12415,8 +12387,6 @@
           "missing": [
             "Mario Vušković",
             "Nicolai Remberg",
-            "Albert Sambi Lokonga",
-            "Bakery Jatta",
             "Patson Daka"
           ]
         }
@@ -12480,7 +12450,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.46,
@@ -12508,10 +12478,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 3.8,
+          "o": 3.9,
           "b": "SportyBet"
         },
-        "fairOver": 1.34
+        "fairOver": 1.33
       },
       "news": "Real odds via SportyBet feed (Bundesliga).",
       "fotmobId": "5881204",
@@ -12872,7 +12842,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.51,
@@ -13196,7 +13166,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.78,
@@ -13271,7 +13241,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 6.76,
@@ -13414,7 +13384,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.32,
@@ -13489,7 +13459,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.17,
@@ -13813,26 +13783,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 1.54,
-          "d": 5.04,
-          "a": 5.84
+          "h": 1.53,
+          "d": 5.07,
+          "a": 5.89
         }
       },
       "fair": {
-        "h": 1.57,
-        "d": 5.14,
-        "a": 5.95
+        "h": 1.56,
+        "d": 5.17,
+        "a": 6.01
       },
       "open": {
-        "h": 1.54,
-        "d": 5.04,
-        "a": 5.84
+        "h": 1.53,
+        "d": 5.07,
+        "a": 5.89
       },
       "movement": [
-        1.54
+        1.53
       ],
       "totals": {
         "line": 2.5,
@@ -14207,7 +14177,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.89,
@@ -14534,7 +14504,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.42,
@@ -14859,7 +14829,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.36,
@@ -15002,7 +14972,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.84,
@@ -15077,7 +15047,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.17,
@@ -15152,7 +15122,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 7.2,
@@ -15227,7 +15197,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 5.12,
@@ -15302,7 +15272,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.48,
@@ -15695,7 +15665,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.12,
@@ -15838,7 +15808,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.16,
@@ -15913,7 +15883,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.04,
@@ -15988,7 +15958,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.6,
@@ -16063,7 +16033,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.79,
@@ -16138,7 +16108,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.62,
@@ -16213,26 +16183,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 1.48,
+          "h": 1.47,
           "d": 5.29,
-          "a": 6.1
+          "a": 6.16
         }
       },
       "fair": {
         "h": 1.52,
-        "d": 5.44,
-        "a": 6.27
+        "d": 5.46,
+        "a": 6.35
       },
       "open": {
-        "h": 1.48,
+        "h": 1.47,
         "d": 5.29,
-        "a": 6.1
+        "a": 6.16
       },
       "movement": [
-        1.48
+        1.47
       ],
       "totals": {
         "line": 2.5,
@@ -16288,7 +16258,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 10.15,
@@ -16363,7 +16333,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.22,
@@ -16764,7 +16734,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.42,
@@ -17168,7 +17138,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.88,
@@ -17568,7 +17538,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.77,
@@ -17970,7 +17940,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.73,
@@ -18368,7 +18338,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.06,
@@ -18551,7 +18521,9 @@
             }
           ],
           "missing": [
+            "Thomas Hamer",
             "Deji Elerewe",
+            "Freddie Draper",
             "Mason Melia",
             "Tendayi Darikwa"
           ]
@@ -18769,7 +18741,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.77,
@@ -19169,7 +19141,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.46,
@@ -19352,6 +19324,9 @@
             }
           ],
           "missing": [
+            "Rumarn Burrell",
+            "Nicolas Madsen",
+            "Tariq Lamptey",
             "Amadou Salif Mbengue",
             "Ilias Chair",
             "Karamoko Dembélé"
@@ -19566,7 +19541,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.37,
@@ -19965,7 +19940,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.68,
@@ -20364,7 +20339,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.56,
@@ -20763,7 +20738,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.32,
@@ -21157,7 +21132,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.35,
@@ -21232,7 +21207,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.33,
@@ -21307,7 +21282,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -21450,7 +21425,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 5.23,
@@ -21525,7 +21500,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.19,
@@ -21600,7 +21575,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.15,
@@ -21743,26 +21718,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 3.1,
+          "h": 3.2,
           "d": 3.9,
           "a": 2.1
         }
       },
       "fair": {
-        "h": 3.27,
-        "d": 4.12,
-        "a": 2.22
+        "h": 3.34,
+        "d": 4.08,
+        "a": 2.19
       },
       "open": {
-        "h": 3.1,
+        "h": 3.2,
         "d": 3.9,
         "a": 2.1
       },
       "movement": [
-        3.1
+        3.2
       ],
       "totals": {
         "line": 2.5,
@@ -22140,7 +22115,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.1,
@@ -22537,26 +22512,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 1.79,
+          "h": 1.82,
           "d": 4.1,
-          "a": 4
+          "a": 3.9
         }
       },
       "fair": {
-        "h": 1.88,
-        "d": 4.32,
-        "a": 4.21
+        "h": 1.91,
+        "d": 4.3,
+        "a": 4.09
       },
       "open": {
-        "h": 1.79,
+        "h": 1.82,
         "d": 4.1,
-        "a": 4
+        "a": 3.9
       },
       "movement": [
-        1.79
+        1.82
       ],
       "totals": {
         "line": 2.5,
@@ -22930,7 +22905,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.73,
@@ -23322,7 +23297,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.85,
@@ -23397,7 +23372,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -23469,7 +23444,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.9,
@@ -23544,26 +23519,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 2.25,
-          "d": 3.75,
-          "a": 2.95
+          "h": 2.3,
+          "d": 3.7,
+          "a": 2.85
         }
       },
       "fair": {
-        "h": 2.36,
-        "d": 3.94,
-        "a": 3.1
+        "h": 2.43,
+        "d": 3.91,
+        "a": 3.01
       },
       "open": {
-        "h": 2.25,
-        "d": 3.75,
-        "a": 2.95
+        "h": 2.3,
+        "d": 3.7,
+        "a": 2.85
       },
       "movement": [
-        2.25
+        2.3
       ],
       "totals": {
         "line": 2.5,
@@ -23619,7 +23594,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -23694,7 +23669,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -24094,7 +24069,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -24491,7 +24466,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.2,
@@ -24890,7 +24865,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.37,
@@ -25289,7 +25264,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -25686,7 +25661,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.64,
@@ -26088,7 +26063,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.94,
@@ -26163,7 +26138,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -26238,7 +26213,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.92,
@@ -26313,7 +26288,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.5,
@@ -26388,7 +26363,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.39,
@@ -26412,14 +26387,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.54,
+          "o": 1.53,
           "b": "SportyBet"
         },
         "under": {
           "o": 2.45,
           "b": "SportyBet"
         },
-        "fairOver": 1.63
+        "fairOver": 1.62
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103679",
@@ -26572,6 +26547,7 @@
           ],
           "missing": [
             "João Marcelo",
+            "Felipe Morais",
             "Luis Sinisterra",
             "Gabriel Pec"
           ]
@@ -26722,10 +26698,11 @@
           ],
           "missing": [
             "Bill",
+            "Mayk",
+            "Yago Pikachu",
+            "Poveda",
             "Duplexe Tchamba",
-            "Jáderson",
-            "Matheus Felipe",
-            "João Lucas"
+            "Jáderson"
           ]
         }
       },
@@ -26765,7 +26742,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.6,
@@ -27144,26 +27121,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 2.25,
-          "d": 3.33,
-          "a": 3.3
+          "h": 2.35,
+          "d": 3.3,
+          "a": 3.1
         }
       },
       "fair": {
-        "h": 2.36,
-        "d": 3.49,
-        "a": 3.46
+        "h": 2.47,
+        "d": 3.47,
+        "a": 3.26
       },
       "open": {
-        "h": 2.25,
-        "d": 3.33,
-        "a": 3.3
+        "h": 2.35,
+        "d": 3.3,
+        "a": 3.1
       },
       "movement": [
-        2.25
+        2.35
       ],
       "totals": {
         "line": 2.5,
@@ -27520,26 +27497,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 1.97,
+          "h": 2,
           "d": 3.6,
-          "a": 3.75
+          "a": 3.6
         }
       },
       "fair": {
-        "h": 2.07,
-        "d": 3.79,
-        "a": 3.95
+        "h": 2.11,
+        "d": 3.8,
+        "a": 3.8
       },
       "open": {
-        "h": 1.97,
+        "h": 2,
         "d": 3.6,
-        "a": 3.75
+        "a": 3.6
       },
       "movement": [
-        1.97
+        2
       ],
       "totals": {
         "line": 2.5,
@@ -27900,7 +27877,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.71,
@@ -28232,6 +28209,8 @@
             }
           ],
           "missing": [
+            "Gabriel Paulista",
+            "Memphis Depay",
             "Raniele",
             "José Martínez",
             "Zakaria Labyad",
@@ -28275,7 +28254,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.57,
@@ -28460,6 +28439,7 @@
           "missing": [
             "Andreas Pereira",
             "Joaquín Piquerez",
+            "Paulinho",
             "Vitor Roque",
             "Jefté"
           ]
@@ -28610,9 +28590,11 @@
           ],
           "missing": [
             "Ramires",
+            "Gustavinho",
+            "José Hurtado",
+            "Gustavo Marques",
             "Henry Mosquera",
-            "Rodriguinho",
-            "Davi Gomes"
+            "Rodriguinho"
           ]
         }
       },
@@ -28652,7 +28634,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 4,
@@ -28987,11 +28969,11 @@
           ],
           "missing": [
             "Jefferson Savarino",
+            "Julián Millán",
             "Martinelli",
             "Riquelme",
             "Germán Cano",
-            "Alisson",
-            "John Kennedy"
+            "Alisson"
           ]
         }
       },
@@ -29031,7 +29013,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.97,
@@ -29067,7 +29049,333 @@
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103676",
       "fmHomeId": "8514",
-      "fmAwayId": "7877"
+      "fmAwayId": "7877",
+      "lineups": {
+        "home": {
+          "name": "Santos",
+          "formation": "4-2-3-1",
+          "rating": null,
+          "coach": "Cuca",
+          "xi": [
+            {
+              "name": "Diógenes",
+              "shirt": "1",
+              "pos": 11,
+              "x": 0.1,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Rodinei",
+              "shirt": "23",
+              "pos": 32,
+              "x": 0.292,
+              "y": 0.875,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Lucas Veríssimo",
+              "shirt": "4",
+              "pos": 34,
+              "x": 0.292,
+              "y": 0.625,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Luan Peres",
+              "shirt": "14",
+              "pos": 36,
+              "x": 0.292,
+              "y": 0.375,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Álvaro Barreal",
+              "shirt": "22",
+              "pos": 38,
+              "x": 0.292,
+              "y": 0.125,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Gabriel Bontempo",
+              "shirt": "8",
+              "pos": 64,
+              "x": 0.485,
+              "y": 0.7,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Gustavo Henrique",
+              "shirt": "48",
+              "pos": 66,
+              "x": 0.485,
+              "y": 0.3,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Philippe Coutinho",
+              "shirt": "11",
+              "pos": 83,
+              "x": 0.678,
+              "y": 0.837,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Neymar",
+              "shirt": "10",
+              "pos": 85,
+              "x": 0.678,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Éverton",
+              "shirt": "7",
+              "pos": 87,
+              "x": 0.678,
+              "y": 0.163,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Gabriel Barbosa",
+              "shirt": "9",
+              "pos": 115,
+              "x": 0.87,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            }
+          ],
+          "subs": [
+            {
+              "name": "João Paulo",
+              "shirt": "34"
+            },
+            {
+              "name": "Igor Vinícius",
+              "shirt": "18"
+            },
+            {
+              "name": "João Ananias",
+              "shirt": "26"
+            },
+            {
+              "name": "João Alencar",
+              "shirt": "42"
+            },
+            {
+              "name": "Rafael Gonzaga",
+              "shirt": "38"
+            },
+            {
+              "name": "Christian Oliva",
+              "shirt": "28"
+            },
+            {
+              "name": "Thaciano",
+              "shirt": "16"
+            },
+            {
+              "name": "Miguelito",
+              "shirt": "30"
+            },
+            {
+              "name": "João Schmidt",
+              "shirt": "5"
+            }
+          ],
+          "missing": [
+            "Willian Arão",
+            "Lucas Veríssimo",
+            "Gonzalo Escobar",
+            "Arthur",
+            "Gabriel Brazão",
+            "Vinicius Lira"
+          ]
+        },
+        "away": {
+          "name": "Bahia",
+          "formation": "5-3-2",
+          "rating": null,
+          "coach": "Rogério Ceni",
+          "xi": [
+            {
+              "name": "Ronaldo",
+              "shirt": "1",
+              "pos": 11,
+              "x": 0.1,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Marcos Victor",
+              "shirt": "44",
+              "pos": 33,
+              "x": 0.357,
+              "y": 0.695,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "David Duarte",
+              "shirt": "33",
+              "pos": 35,
+              "x": 0.357,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Marco Moreno",
+              "shirt": "3",
+              "pos": 37,
+              "x": 0.357,
+              "y": 0.305,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Cristian Olivera",
+              "shirt": "99",
+              "pos": 51,
+              "x": 0.371,
+              "y": 0.89,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Luciano Juba",
+              "shirt": "46",
+              "pos": 59,
+              "x": 0.371,
+              "y": 0.11,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Jean Lucas",
+              "shirt": "6",
+              "pos": 73,
+              "x": 0.613,
+              "y": 0.79,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Nicolás Acevedo",
+              "shirt": "5",
+              "pos": 75,
+              "x": 0.613,
+              "y": 0.5,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Rodrigo Nestor",
+              "shirt": "11",
+              "pos": 77,
+              "x": 0.613,
+              "y": 0.21,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Erick Pulga",
+              "shirt": "16",
+              "pos": 104,
+              "x": 0.87,
+              "y": 0.7,
+              "rating": null,
+              "goals": null
+            },
+            {
+              "name": "Alejo Véliz",
+              "shirt": "9",
+              "pos": 106,
+              "x": 0.87,
+              "y": 0.3,
+              "rating": null,
+              "goals": null
+            }
+          ],
+          "subs": [
+            {
+              "name": "Guido Herrera",
+              "shirt": "17"
+            },
+            {
+              "name": "Kanu",
+              "shirt": "4"
+            },
+            {
+              "name": "Román Gómez",
+              "shirt": "31"
+            },
+            {
+              "name": "Zé Guilherme",
+              "shirt": "66"
+            },
+            {
+              "name": "Caio Alexandre",
+              "shirt": "8"
+            },
+            {
+              "name": "Éverton Ribeiro",
+              "shirt": "10"
+            },
+            {
+              "name": "Michel Araújo",
+              "shirt": "15"
+            },
+            {
+              "name": "Erick",
+              "shirt": "14"
+            },
+            {
+              "name": "Ademir",
+              "shirt": "7"
+            }
+          ],
+          "missing": [
+            "Jean Lucas",
+            "Román Gómez",
+            "Léo Vieira"
+          ]
+        }
+      },
+      "form": {
+        "home": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "W"
+        ],
+        "away": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "L"
+        ]
+      },
+      "h2h": {
+        "homeWins": 11,
+        "draws": 8,
+        "awayWins": 6
+      }
     },
     {
       "id": "sb-brazil-coritibafcpr-v-gremiofbportoale-1793053800000",
@@ -29083,7 +29391,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.2,
@@ -29135,26 +29443,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 1.36,
-          "d": 5.1,
-          "a": 7.7
+          "h": 1.32,
+          "d": 5.3,
+          "a": 8.5
         }
       },
       "fair": {
-        "h": 1.44,
-        "d": 5.41,
-        "a": 8.17
+        "h": 1.4,
+        "d": 5.64,
+        "a": 9.04
       },
       "open": {
-        "h": 1.36,
-        "d": 5.1,
-        "a": 7.7
+        "h": 1.32,
+        "d": 5.3,
+        "a": 8.5
       },
       "movement": [
-        1.36
+        1.32
       ],
       "totals": {
         "line": 2.5,
@@ -29187,7 +29495,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.91,
@@ -29554,7 +29862,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.45,
@@ -29582,10 +29890,10 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.69,
+          "o": 1.71,
           "b": "SportyBet"
         },
-        "fairOver": 2.24
+        "fairOver": 2.23
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190786",
@@ -29921,7 +30229,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -30288,7 +30596,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -30337,7 +30645,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.95,
@@ -30704,7 +31012,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 11.5,
@@ -30740,322 +31048,7 @@
       "news": "Real odds via SportyBet feed (Brasileiro Serie B).",
       "fotmobId": "5190779",
       "fmHomeId": "8630",
-      "fmAwayId": "8287",
-      "lineups": {
-        "home": {
-          "name": "Ponte Preta",
-          "formation": "4-3-3",
-          "rating": null,
-          "coach": "Gilson Kleina",
-          "xi": [
-            {
-              "name": "Vinicius",
-              "shirt": "30",
-              "pos": 11,
-              "x": 0.1,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Felipe Di Mauro",
-              "shirt": "32",
-              "pos": 32,
-              "x": 0.357,
-              "y": 0.875,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Sergio Palacios",
-              "shirt": "23",
-              "pos": 34,
-              "x": 0.357,
-              "y": 0.625,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Gabriel Caran",
-              "shirt": "15",
-              "pos": 36,
-              "x": 0.357,
-              "y": 0.375,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Danilo",
-              "shirt": "14",
-              "pos": 38,
-              "x": 0.357,
-              "y": 0.125,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Gustavo Teles",
-              "shirt": "35",
-              "pos": 73,
-              "x": 0.613,
-              "y": 0.79,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Rodrigo Souza",
-              "shirt": "5",
-              "pos": 75,
-              "x": 0.613,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Peu",
-              "shirt": "19",
-              "pos": 77,
-              "x": 0.613,
-              "y": 0.21,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "David da Hora",
-              "shirt": "18",
-              "pos": 103,
-              "x": 0.87,
-              "y": 0.79,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Brandão",
-              "shirt": "9",
-              "pos": 105,
-              "x": 0.87,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Karl",
-              "shirt": "8",
-              "pos": 107,
-              "x": 0.87,
-              "y": 0.21,
-              "rating": null,
-              "goals": null
-            }
-          ],
-          "subs": [
-            {
-              "name": "Guilherme Viana",
-              "shirt": "1"
-            },
-            {
-              "name": "Juan",
-              "shirt": "6"
-            },
-            {
-              "name": "Diego Leão",
-              "shirt": "4"
-            },
-            {
-              "name": "Kawann",
-              "shirt": "16"
-            },
-            {
-              "name": "Guilherme Martins",
-              "shirt": "13"
-            },
-            {
-              "name": "Nicolas Silva",
-              "shirt": "17"
-            },
-            {
-              "name": "Ryan Andrade",
-              "shirt": "2"
-            },
-            {
-              "name": "Emanuell Ferreira",
-              "shirt": "7"
-            },
-            {
-              "name": "Vítor Ribeiro",
-              "shirt": "21"
-            }
-          ],
-          "missing": []
-        },
-        "away": {
-          "name": "Fortaleza",
-          "formation": "5-4-1",
-          "rating": null,
-          "coach": "Paulo Autuori",
-          "xi": [
-            {
-              "name": "João Ricardo",
-              "shirt": "1",
-              "pos": 11,
-              "x": 0.1,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Neris",
-              "shirt": "23",
-              "pos": 33,
-              "x": 0.357,
-              "y": 0.695,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Bastos",
-              "shirt": "15",
-              "pos": 35,
-              "x": 0.357,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Tomás Cardona",
-              "shirt": "6",
-              "pos": 37,
-              "x": 0.357,
-              "y": 0.305,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Maílton",
-              "shirt": "22",
-              "pos": 51,
-              "x": 0.371,
-              "y": 0.89,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Maurício Mucuri",
-              "shirt": "13",
-              "pos": 59,
-              "x": 0.371,
-              "y": 0.11,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Luiz Fernando",
-              "shirt": "32",
-              "pos": 72,
-              "x": 0.613,
-              "y": 0.875,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Jailson",
-              "shirt": "20",
-              "pos": 74,
-              "x": 0.613,
-              "y": 0.625,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Pierre",
-              "shirt": "5",
-              "pos": 76,
-              "x": 0.613,
-              "y": 0.375,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Rodriguinho",
-              "shirt": "75",
-              "pos": 78,
-              "x": 0.613,
-              "y": 0.125,
-              "rating": null,
-              "goals": null
-            },
-            {
-              "name": "Juan Camilo Cantillo",
-              "shirt": "21",
-              "pos": 115,
-              "x": 0.87,
-              "y": 0.5,
-              "rating": null,
-              "goals": null
-            }
-          ],
-          "subs": [
-            {
-              "name": "Vinícius",
-              "shirt": "25"
-            },
-            {
-              "name": "Magrão",
-              "shirt": "30"
-            },
-            {
-              "name": "Gazal",
-              "shirt": "3"
-            },
-            {
-              "name": "Kaio Henrique",
-              "shirt": "12"
-            },
-            {
-              "name": "Ronald",
-              "shirt": "8"
-            },
-            {
-              "name": "Rodrigo",
-              "shirt": "29"
-            },
-            {
-              "name": "Paulo Baya",
-              "shirt": "77"
-            },
-            {
-              "name": "Nathan Fogaça",
-              "shirt": "17"
-            },
-            {
-              "name": "Pedro Henrique",
-              "shirt": "16"
-            }
-          ],
-          "missing": []
-        }
-      },
-      "form": {
-        "home": [
-          "L",
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "away": [
-          "D",
-          "D",
-          "W",
-          "D",
-          "W"
-        ]
-      },
-      "h2h": {
-        "homeWins": 1,
-        "draws": 1,
-        "awayWins": 1
-      }
+      "fmAwayId": "8287"
     },
     {
       "id": "sb-brazil-crbrasilal-v-londrinaecpr-1792877400000",
@@ -31071,23 +31064,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.4,
           "d": 4.8,
-          "a": 7.1
+          "a": 7.25
         }
       },
       "fair": {
-        "h": 1.49,
-        "d": 5.1,
-        "a": 7.55
+        "h": 1.48,
+        "d": 5.09,
+        "a": 7.69
       },
       "open": {
         "h": 1.4,
         "d": 4.8,
-        "a": 7.1
+        "a": 7.25
       },
       "movement": [
         1.4
@@ -31120,7 +31113,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.6,
@@ -31172,7 +31165,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.53,
@@ -31224,7 +31217,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.05,
@@ -31276,7 +31269,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 3.2,
@@ -31662,7 +31655,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.36,
@@ -32044,7 +32037,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.43,
@@ -32119,7 +32112,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 5.6,
@@ -32191,7 +32184,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.45,
@@ -32266,7 +32259,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.8,
@@ -32330,7 +32323,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.88,
@@ -32379,7 +32372,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 2.5,
@@ -32428,38 +32421,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 2.05,
-          "d": 2.8,
-          "a": 3.9
+          "h": 1.92,
+          "d": 2.9,
+          "a": 4.3
         }
       },
       "fair": {
-        "h": 2.26,
-        "d": 3.08,
-        "a": 4.3
+        "h": 2.11,
+        "d": 3.18,
+        "a": 4.72
       },
       "open": {
-        "h": 2.05,
-        "d": 2.8,
-        "a": 3.9
+        "h": 1.92,
+        "d": 2.9,
+        "a": 4.3
       },
       "movement": [
-        2.05
+        1.92
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.9,
+          "o": 2.8,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.34,
+          "o": 1.36,
           "b": "SportyBet"
         },
-        "fairOver": 3.16
+        "fairOver": 3.06
       },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "newsItems": [
@@ -32500,7 +32493,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
           "h": 1.73,
@@ -32572,38 +32565,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 2.1,
-          "d": 2.75,
-          "a": 3.75
+          "h": 1.93,
+          "d": 2.95,
+          "a": 4.2
         }
       },
       "fair": {
-        "h": 2.32,
-        "d": 3.04,
-        "a": 4.15
+        "h": 2.11,
+        "d": 3.23,
+        "a": 4.6
       },
       "open": {
-        "h": 2.1,
-        "d": 2.75,
-        "a": 3.75
+        "h": 1.93,
+        "d": 2.95,
+        "a": 4.2
       },
       "movement": [
-        2.1
+        1.93
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.65,
+          "o": 2.6,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.4,
+          "o": 1.42,
           "b": "SportyBet"
         },
-        "fairOver": 2.89
+        "fairOver": 2.83
       },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "newsItems": [
@@ -32644,26 +32637,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-10-22T23:14:57.656Z",
+      "sbAt": "2026-10-23T01:47:45.026Z",
       "prices": {
         "SportyBet": {
-          "h": 2.9,
+          "h": 2.7,
           "d": 2.6,
-          "a": 2.7
+          "a": 2.95
         }
       },
       "fair": {
-        "h": 3.19,
-        "d": 2.86,
-        "a": 2.97
+        "h": 2.95,
+        "d": 2.84,
+        "a": 3.23
       },
       "open": {
-        "h": 2.9,
+        "h": 2.7,
         "d": 2.6,
-        "a": 2.7
+        "a": 2.95
       },
       "movement": [
-        2.9
+        2.7
       ],
       "totals": {
         "line": 2.5,
@@ -32793,12 +32786,12 @@
     "Betika"
   ],
   "tips": [],
-  "updatedAt": "2026-10-22T23:14:57.656Z",
-  "generatedAt": "2026-10-22T23:14:57.656Z",
+  "updatedAt": "2026-10-23T01:47:45.026Z",
+  "generatedAt": "2026-10-23T01:47:45.026Z",
   "metadata": {
     "mode": "hybrid",
-    "oddsUpdatedAt": "2026-10-22T23:14:57.656Z",
-    "scoresUpdatedAt": "2026-10-22T23:14:57.656Z",
+    "oddsUpdatedAt": "2026-10-23T01:47:45.026Z",
+    "scoresUpdatedAt": "2026-10-23T01:47:45.026Z",
     "dataSources": [
       "ESPN scoreboards + odds (free)",
       "SportyBet odds feed (free)"
@@ -32807,18 +32800,18 @@
     "counts": {
       "real": 157
     },
-    "historyPoints": 6537,
+    "historyPoints": 6535,
     "books": {
       "Pinnacle": {
         "updatedAt": null,
         "source": "not in feed"
       },
       "DraftKings": {
-        "updatedAt": "2026-10-22T23:14:57.656Z",
+        "updatedAt": "2026-10-23T01:47:45.026Z",
         "source": "live feed"
       },
       "SportyBet": {
-        "updatedAt": "2026-10-22T23:14:57.656Z",
+        "updatedAt": "2026-10-23T01:47:45.026Z",
         "source": "live feed"
       },
       "Betway": {
@@ -32858,7 +32851,7 @@
         "source": "not in feed"
       },
       "Draft Kings": {
-        "updatedAt": "2026-10-22T23:14:57.656Z",
+        "updatedAt": "2026-10-23T01:47:45.026Z",
         "source": "live feed"
       }
     },
@@ -32866,35 +32859,35 @@
       "espn": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-22T23:14:58.095Z",
+        "lastOk": "2026-10-23T01:47:45.910Z",
         "lastError": null,
         "count": 32
       },
       "sportybet": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-22T23:15:09.602Z",
+        "lastOk": "2026-10-23T01:47:57.197Z",
         "lastError": null,
         "count": 0
       },
       "fotmob": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-22T23:15:28.265Z",
+        "lastOk": "2026-10-23T01:48:18.263Z",
         "lastError": null,
         "count": 63
       },
       "espn-news": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-22T23:15:34.437Z",
+        "lastOk": "2026-10-23T01:48:25.016Z",
         "lastError": null,
         "count": 135
       },
       "oddsapi": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-10-22T23:15:34.438Z",
+        "lastOk": "2026-10-23T01:48:25.018Z",
         "lastError": null,
         "count": 0
       }
