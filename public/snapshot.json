@@ -22,9 +22,9 @@
           "d": 5.25
         },
         "SportyBet": {
-          "h": 1.43,
-          "d": 5.35,
-          "a": 7.03
+          "h": 1.42,
+          "d": 5.34,
+          "a": 7.31
         }
       },
       "fair": {
@@ -57,7 +57,7 @@
         },
         "fairOver": 2.32
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5795522",
       "fmHomeId": "8456",
       "fmAwayId": "9879",
@@ -195,6 +195,13 @@
       },
       "newsItems": [
         {
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
+        },
+        {
           "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
           "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
           "published": "2026-11-18T21:58:25Z",
@@ -207,13 +214,6 @@
           "published": "2026-11-18T16:26:13Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
-        },
-        {
-          "headline": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-          "published": "2026-11-18T16:46:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league"
         }
       ]
     },
@@ -239,9 +239,9 @@
           "d": 3.65
         },
         "SportyBet": {
-          "h": 1.98,
-          "d": 3.71,
-          "a": 3.93
+          "h": 2,
+          "d": 3.69,
+          "a": 3.88
         }
       },
       "fair": {
@@ -274,7 +274,7 @@
         },
         "fairOver": 1.94
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5795515",
       "fmHomeId": "8678",
       "fmAwayId": "10203",
@@ -412,25 +412,25 @@
       },
       "newsItems": [
         {
-          "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-          "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
-          "published": "2026-11-18T21:58:25Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya"
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
         },
         {
-          "headline": "Pochettino addresses Manchester United supporters for the first time",
-          "description": "Pochettino addresses Manchester United supporters for the first time",
-          "published": "2026-11-18T16:26:13Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
+          "headline": "Predicting how all 20 Premier League teams will finish the season",
+          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
+          "published": "2026-11-19T08:29:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea"
         },
         {
-          "headline": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-          "published": "2026-11-18T16:46:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league"
+          "headline": "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+          "description": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest.",
+          "published": "2026-11-19T08:25:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs"
         }
       ]
     },
@@ -457,8 +457,8 @@
         },
         "SportyBet": {
           "h": 1.85,
-          "d": 3.85,
-          "a": 4.36
+          "d": 3.83,
+          "a": 4.37
         }
       },
       "fair": {
@@ -482,16 +482,16 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.78,
+          "o": 1.77,
           "b": "SportyBet"
         },
         "under": {
           "o": 2.05,
           "b": "DraftKings"
         },
-        "fairOver": 1.86
+        "fairOver": 1.85
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5795516",
       "fmHomeId": "10252",
       "fmAwayId": "8472",
@@ -629,25 +629,25 @@
       },
       "newsItems": [
         {
-          "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-          "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
-          "published": "2026-11-18T21:58:25Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya"
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
         },
         {
-          "headline": "Pochettino addresses Manchester United supporters for the first time",
-          "description": "Pochettino addresses Manchester United supporters for the first time",
-          "published": "2026-11-18T16:26:13Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
+          "headline": "Predicting how all 20 Premier League teams will finish the season",
+          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
+          "published": "2026-11-19T08:29:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea"
         },
         {
-          "headline": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-          "published": "2026-11-18T16:46:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league"
+          "headline": "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+          "description": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest.",
+          "published": "2026-11-19T08:25:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs"
         }
       ]
     },
@@ -673,9 +673,9 @@
           "d": 3.75
         },
         "SportyBet": {
-          "h": 1.9,
-          "d": 3.85,
-          "a": 4.08
+          "h": 1.93,
+          "d": 3.83,
+          "a": 4
         }
       },
       "fair": {
@@ -708,7 +708,7 @@
         },
         "fairOver": 1.86
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5795518",
       "fmHomeId": "8455",
       "fmAwayId": "8463",
@@ -846,6 +846,13 @@
       },
       "newsItems": [
         {
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
+        },
+        {
           "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
           "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
           "published": "2026-11-18T21:58:25Z",
@@ -858,13 +865,6 @@
           "published": "2026-11-18T16:26:13Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
-        },
-        {
-          "headline": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-          "published": "2026-11-18T16:46:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league"
         }
       ]
     },
@@ -890,9 +890,9 @@
           "d": 3.6
         },
         "SportyBet": {
-          "h": 2.48,
-          "d": 3.66,
-          "a": 2.83
+          "h": 2.49,
+          "d": 3.65,
+          "a": 2.82
         }
       },
       "fair": {
@@ -925,7 +925,7 @@
         },
         "fairOver": 1.79
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5795519",
       "fmHomeId": "8669",
       "fmAwayId": "9826",
@@ -1063,25 +1063,25 @@
       },
       "newsItems": [
         {
-          "headline": "How fallen giants and their fans bounce back from scandal, relegation",
-          "description": "Some of Europe's greatest teams have suffered relegation as punishment. So what might lie ahead for Man City?",
-          "published": "2026-11-18T17:00:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1117/r1747276_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city"
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
         },
         {
-          "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-          "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
-          "published": "2026-11-18T21:58:25Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya"
+          "headline": "Predicting how all 20 Premier League teams will finish the season",
+          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
+          "published": "2026-11-19T08:29:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea"
         },
         {
-          "headline": "Pochettino addresses Manchester United supporters for the first time",
-          "description": "Pochettino addresses Manchester United supporters for the first time",
-          "published": "2026-11-18T16:26:13Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
+          "headline": "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+          "description": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest.",
+          "published": "2026-11-19T08:25:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs"
         }
       ]
     },
@@ -1107,9 +1107,9 @@
           "d": 4.5
         },
         "SportyBet": {
-          "h": 1.55,
-          "d": 4.7,
-          "a": 5.77
+          "h": 1.57,
+          "d": 4.63,
+          "a": 5.7
         }
       },
       "fair": {
@@ -1138,11 +1138,11 @@
         },
         "under": {
           "o": 2.4,
-          "b": "SportyBet"
+          "b": "DraftKings"
         },
-        "fairOver": 1.68
+        "fairOver": 1.66
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5795524",
       "fmHomeId": "8586",
       "fmAwayId": "9902",
@@ -1280,25 +1280,25 @@
       },
       "newsItems": [
         {
-          "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-          "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
-          "published": "2026-11-18T21:58:25Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya"
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
         },
         {
-          "headline": "Pochettino addresses Manchester United supporters for the first time",
-          "description": "Pochettino addresses Manchester United supporters for the first time",
-          "published": "2026-11-18T16:26:13Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
+          "headline": "Predicting how all 20 Premier League teams will finish the season",
+          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
+          "published": "2026-11-19T08:29:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea"
         },
         {
-          "headline": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-          "published": "2026-11-18T16:46:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league"
+          "headline": "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+          "description": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest.",
+          "published": "2026-11-19T08:25:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs"
         }
       ]
     },
@@ -1324,9 +1324,9 @@
           "d": 4.3
         },
         "SportyBet": {
-          "h": 5.81,
-          "d": 4.41,
-          "a": 1.58
+          "h": 5.69,
+          "d": 4.38,
+          "a": 1.6
         }
       },
       "fair": {
@@ -1359,7 +1359,7 @@
         },
         "fairOver": 1.8
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5795523",
       "fmHomeId": "10261",
       "fmAwayId": "9825",
@@ -1497,6 +1497,13 @@
       },
       "newsItems": [
         {
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
+        },
+        {
           "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
           "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
           "published": "2026-11-18T21:58:25Z",
@@ -1509,13 +1516,6 @@
           "published": "2026-11-18T16:26:13Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
-        },
-        {
-          "headline": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-          "published": "2026-11-18T16:46:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league"
         }
       ]
     },
@@ -1991,15 +1991,15 @@
       "awayAbbr": "MEM",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-      "startsIn": "11/19/2026, 12:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T00:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 72,
-        "away": 71
+        "home": 121,
+        "away": 124
       },
-      "minute": "0.0",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -2010,25 +2010,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Memphis takes on Golden State, looks for 5th straight victory",
+          "description": "Golden State Warriors (8-7, 10th in the Western Conference) vs. Memphis Grizzlies (11-4, fifth in the Western Conference)",
+          "published": "2026-11-19T07:04:42Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401910019.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401910019"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Pacers visit Cavaliers Friday in NBA Cup group stage",
+          "description": "Indiana Pacers (5-10, 10th in the Eastern Conference) vs. Cleveland Cavaliers (8-8, seventh in the Eastern Conference)",
+          "published": "2026-11-19T07:04:41Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909307.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909307"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         }
       ]
     },
@@ -2041,15 +2041,15 @@
       "awayAbbr": "HOU",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-      "startsIn": "11/19/2026, 12:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T00:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 53,
-        "away": 67
+        "home": 104,
+        "away": 119
       },
-      "minute": "9:58",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -2060,25 +2060,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Pacers visit Cavaliers Friday in NBA Cup group stage",
+          "description": "Indiana Pacers (5-10, 10th in the Eastern Conference) vs. Cleveland Cavaliers (8-8, seventh in the Eastern Conference)",
+          "published": "2026-11-19T07:04:41Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909307.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909307"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         }
       ]
     },
@@ -2091,15 +2091,15 @@
       "awayAbbr": "MIL",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-      "startsIn": "11/19/2026, 12:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T00:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 68,
-        "away": 45
+        "home": 137,
+        "away": 130
       },
-      "minute": "2:02",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -2110,25 +2110,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Updated NBA championship and MVP odds: Heat on the rise, Wemby ahead of Luka",
-          "description": "The Heat have bounced back from a rough start to the season, while Victor Wembanyama is now the leader for MVP just ahead of Luka Doncic.",
-          "published": "2026-11-18T19:00:06Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747757_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Where to watch 'A Night in Vice City': Bucks vs. Heat",
-          "description": "Giannis faces off against his former team as the Heat transform Miami into \"Vice City\" for Grand Theft Auto VI.",
-          "published": "2026-11-18T18:50:41Z",
-          "image": null,
-          "url": "https://www.espn.com/nba/story/_/id/50521964/bucks-heat-gta-6-vice-city-game-watch"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         },
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Memphis takes on Golden State, looks for 5th straight victory",
+          "description": "Golden State Warriors (8-7, 10th in the Western Conference) vs. Memphis Grizzlies (11-4, fifth in the Western Conference)",
+          "published": "2026-11-19T07:04:42Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401910019.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401910019"
         }
       ]
     },
@@ -2141,15 +2141,15 @@
       "awayAbbr": "PHI",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-      "startsIn": "11/19/2026, 12:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T00:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 69,
-        "away": 64
+        "home": 116,
+        "away": 121
       },
-      "minute": "0.0",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -2160,25 +2160,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Memphis takes on Golden State, looks for 5th straight victory",
+          "description": "Golden State Warriors (8-7, 10th in the Western Conference) vs. Memphis Grizzlies (11-4, fifth in the Western Conference)",
+          "published": "2026-11-19T07:04:42Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401910019.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401910019"
         }
       ]
     },
@@ -2191,15 +2191,15 @@
       "awayAbbr": "CHI",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-      "startsIn": "11/19/2026, 12:30:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T00:30Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 39,
-        "away": 58
+        "home": 107,
+        "away": 137
       },
-      "minute": "5:23",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -2210,25 +2210,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Wizards visit Bulls Friday in NBA Cup group stage",
+          "description": "Washington Wizards (5-11, 11th in the Eastern Conference) vs. Chicago Bulls (4-10, 13th in the Eastern Conference)",
+          "published": "2026-11-19T07:04:40Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909309.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909309"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         }
       ]
     },
@@ -2241,15 +2241,15 @@
       "awayAbbr": "WSH",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-      "startsIn": "11/19/2026, 12:30:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T00:30Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 33,
-        "away": 37
+        "home": 99,
+        "away": 103
       },
-      "minute": "6:33",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -2260,25 +2260,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Wizards visit Bulls Friday in NBA Cup group stage",
+          "description": "Washington Wizards (5-11, 11th in the Eastern Conference) vs. Chicago Bulls (4-10, 13th in the Eastern Conference)",
+          "published": "2026-11-19T07:04:40Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909309.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909309"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         }
       ]
     },
@@ -2291,15 +2291,15 @@
       "awayAbbr": "DET",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-      "startsIn": "11/19/2026, 1:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T01:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 15,
-        "away": 13
+        "home": 109,
+        "away": 122
       },
-      "minute": "6:23",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -2310,25 +2310,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Memphis takes on Golden State, looks for 5th straight victory",
+          "description": "Golden State Warriors (8-7, 10th in the Western Conference) vs. Memphis Grizzlies (11-4, fifth in the Western Conference)",
+          "published": "2026-11-19T07:04:42Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401910019.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401910019"
         }
       ]
     },
@@ -2341,15 +2341,15 @@
       "awayAbbr": "ATL",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-      "startsIn": "11/19/2026, 1:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T01:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 19,
-        "away": 16
+        "home": 112,
+        "away": 117
       },
-      "minute": "5:41",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -2360,25 +2360,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Where to watch 'A Night in Vice City': Bucks vs. Heat",
-          "description": "Giannis faces off against his former team as the Heat transform Miami into \"Vice City\" for Grand Theft Auto VI.",
-          "published": "2026-11-18T18:50:41Z",
-          "image": null,
-          "url": "https://www.espn.com/nba/story/_/id/50521964/bucks-heat-gta-6-vice-city-game-watch"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         },
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Memphis takes on Golden State, looks for 5th straight victory",
+          "description": "Golden State Warriors (8-7, 10th in the Western Conference) vs. Memphis Grizzlies (11-4, fifth in the Western Conference)",
+          "published": "2026-11-19T07:04:42Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401910019.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401910019"
         }
       ]
     },
@@ -2391,15 +2391,15 @@
       "awayAbbr": "GS",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-      "startsIn": "11/19/2026, 1:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T01:00Z",
-      "live": true,
-      "status": "inplay",
+      "live": false,
+      "status": "final",
       "score": {
-        "home": 21,
-        "away": 9
+        "home": 116,
+        "away": 94
       },
-      "minute": "6:19",
+      "minute": null,
       "prices": {},
       "fair": null,
       "open": null,
@@ -2410,25 +2410,25 @@
       "sample": false,
       "newsItems": [
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Memphis takes on Golden State, looks for 5th straight victory",
+          "description": "Golden State Warriors (8-7, 10th in the Western Conference) vs. Memphis Grizzlies (11-4, fifth in the Western Conference)",
+          "published": "2026-11-19T07:04:42Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401910019.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401910019"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         }
       ]
     },
@@ -2441,69 +2441,44 @@
       "awayAbbr": "BOS",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-      "startsIn": "11/19/2026, 2:30:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T02:30Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 105,
+        "away": 101
+      },
       "minute": null,
-      "prices": {
-        "Draft Kings": {
-          "h": 2.15,
-          "a": 1.74
-        }
-      },
-      "fair": {
-        "h": 2.24,
-        "d": null,
-        "a": 1.81
-      },
-      "open": {
-        "h": 2.19,
-        "d": null,
-        "a": 1.71
-      },
-      "movement": [
-        2.19,
-        2.15
-      ],
-      "news": "Real odds via ESPN (Draft Kings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 219.5,
-        "over": {
-          "o": 1.93,
-          "b": "Draft Kings"
-        },
-        "under": {
-          "o": 1.88,
-          "b": "Draft Kings"
-        },
-        "fairOver": 2.03
-      },
       "newsItems": [
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Memphis takes on Golden State, looks for 5th straight victory",
+          "description": "Golden State Warriors (8-7, 10th in the Western Conference) vs. Memphis Grizzlies (11-4, fifth in the Western Conference)",
+          "published": "2026-11-19T07:04:42Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401910019.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401910019"
         }
       ]
     },
@@ -2516,69 +2491,44 @@
       "awayAbbr": "UTAH",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-      "startsIn": "11/19/2026, 3:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T03:00Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 97,
+        "away": 109
+      },
       "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 1.18,
-          "a": 5.24
-        }
-      },
-      "fair": {
-        "h": 1.23,
-        "d": null,
-        "a": 5.44
-      },
-      "open": {
-        "h": 1.17,
-        "d": null,
-        "a": 5.31
-      },
-      "movement": [
-        1.17,
-        1.18
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 230.5,
-        "over": {
-          "o": 1.95,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.87,
-          "b": "DraftKings"
-        },
-        "fairOver": 2.04
-      },
       "newsItems": [
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Kings visit Lakers Friday in NBA Cup group stage",
+          "description": "Sacramento Kings (1-13, 15th in the Western Conference) vs. Los Angeles Lakers (13-3, first in the Western Conference)",
+          "published": "2026-11-19T07:04:39Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909313.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909313"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         }
       ]
     },
@@ -2591,69 +2541,44 @@
       "awayAbbr": "PHX",
       "crestHome": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
       "crestAway": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-      "startsIn": "11/19/2026, 3:00:00 AM",
+      "startsIn": "Final",
       "commenceISO": "2026-11-19T03:00Z",
       "live": false,
-      "status": "upcoming",
-      "score": null,
+      "status": "final",
+      "score": {
+        "home": 107,
+        "away": 128
+      },
       "minute": null,
-      "prices": {
-        "DraftKings": {
-          "h": 3.21,
-          "a": 1.37
-        }
-      },
-      "fair": {
-        "h": 3.34,
-        "d": null,
-        "a": 1.43
-      },
-      "open": {
-        "h": 2.82,
-        "d": null,
-        "a": 1.46
-      },
-      "movement": [
-        2.82,
-        3.21
-      ],
-      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
-      "oddsStatus": "live",
+      "prices": {},
+      "fair": null,
+      "open": null,
+      "movement": [],
+      "news": "Real fixture via ESPN scoreboard. Prices need ODDS_API_KEY.",
+      "oddsStatus": "needs-key",
       "real": true,
       "sample": false,
-      "totals": {
-        "line": 226.5,
-        "over": {
-          "o": 1.88,
-          "b": "DraftKings"
-        },
-        "under": {
-          "o": 1.93,
-          "b": "DraftKings"
-        },
-        "fairOver": 1.97
-      },
       "newsItems": [
         {
-          "headline": "Spurs rule Dylan Harper out with hip soreness after slip on court",
-          "description": "The Spurs ruled guard Dylan Harper out for Thursday's game against the Clippers due to left hip soreness following his slip on the court Tuesday.",
-          "published": "2026-11-19T00:16:31Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747823_3_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525196/spurs-rule-harper-hip-soreness-slip-court"
+          "headline": "Kings visit Lakers Friday in NBA Cup group stage",
+          "description": "Sacramento Kings (1-13, 15th in the Western Conference) vs. Los Angeles Lakers (13-3, first in the Western Conference)",
+          "published": "2026-11-19T07:04:39Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909313.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909313"
         },
         {
-          "headline": "Sixers' Tyrese Maxey (foot) late scratch for Wednesday's game vs. Magic",
-          "description": "Already without Jaylen Brown, the Sixers also won't have guard Tyrese Maxey for Wednesday's game against the Magic because of right foot soreness.",
-          "published": "2026-11-19T00:27:12Z",
-          "image": "https://a.espncdn.com/photo/2026/1116/r1746730_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nba/story/_/id/50525193/sixers-tyrese-maxey-late-scratch-wednesday-game-vs-magic"
+          "headline": "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9",
+          "description": "Luka Doncic said his performance in Wednesday's loss to Utah, in which he shot 10-of-28 and had nine turnovers, was \"unacceptable\" as the Lakers' win streak ended at nine.",
+          "published": "2026-11-19T08:03:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747992_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nba/story/_/id/50529118/luka-doncic-struggles-jazz-end-lakers-winning-streak-9"
         },
         {
-          "headline": "Fantasy basketball adds and NBA bets: Ride the hot hand with Klay Thompson",
-          "description": "Andre Snellings breaks down Wednesday's big NBA slate, highlighting the fantasy streamers to add and bets to make.",
-          "published": "2026-11-18T22:31:56Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747803_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/fantasy/basketball/story/_/id/50523313/fantasy-basketball-tips-nba-betting-picks-today"
+          "headline": "Hawks host Hornets Friday for NBA Cup group stage game",
+          "description": "Charlotte Hornets (4-10, 12th in the Eastern Conference) vs. Atlanta Hawks (9-6, fifth in the Eastern Conference)",
+          "published": "2026-11-19T07:04:44Z",
+          "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909305.png?templateId=espn.applewatch.awayhome.1",
+          "url": "http://www.espn.com/nba/preview?gameId=401909305"
         }
       ]
     },
@@ -2673,7 +2598,7 @@
       "score": null,
       "minute": null,
       "prices": {
-        "Draft Kings": {
+        "DraftKings": {
           "h": 1.13,
           "a": 6.25
         }
@@ -2692,7 +2617,7 @@
         1.42,
         1.13
       ],
-      "news": "Real odds via ESPN (Draft Kings feed) — fair devigged from the same book.",
+      "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
       "real": true,
       "sample": false,
@@ -2700,11 +2625,11 @@
         "line": 43.5,
         "over": {
           "o": 1.85,
-          "b": "Draft Kings"
+          "b": "DraftKings"
         },
         "under": {
           "o": 1.98,
-          "b": "Draft Kings"
+          "b": "DraftKings"
         },
         "fairOver": 1.93
       },
@@ -2717,18 +2642,18 @@
           "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
         },
         {
-          "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
-          "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
-          "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
         },
         {
-          "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-          "description": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-          "published": "2026-11-18T23:13:37Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747848_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
+          "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
+          "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
+          "published": "2026-11-19T02:03:15Z",
+          "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         }
       ]
     },
@@ -2785,9 +2710,16 @@
       },
       "newsItems": [
         {
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
+        },
+        {
           "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
           "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
+          "published": "2026-11-19T02:03:15Z",
           "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         },
@@ -2797,13 +2729,6 @@
           "published": "2026-11-18T23:26:51Z",
           "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
-        },
-        {
-          "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-          "description": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-          "published": "2026-11-18T23:13:37Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747848_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         }
       ]
     },
@@ -2860,9 +2785,16 @@
       },
       "newsItems": [
         {
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
+        },
+        {
           "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
           "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
+          "published": "2026-11-19T02:03:15Z",
           "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         },
@@ -2872,13 +2804,6 @@
           "published": "2026-11-18T23:26:51Z",
           "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
-        },
-        {
-          "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-          "description": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-          "published": "2026-11-18T23:13:37Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747848_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         }
       ]
     },
@@ -2935,9 +2860,16 @@
       },
       "newsItems": [
         {
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
+        },
+        {
           "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
           "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
+          "published": "2026-11-19T02:03:15Z",
           "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         },
@@ -2947,13 +2879,6 @@
           "published": "2026-11-18T23:26:51Z",
           "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
-        },
-        {
-          "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-          "description": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-          "published": "2026-11-18T23:13:37Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747848_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         }
       ]
     },
@@ -3017,18 +2942,18 @@
           "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         },
         {
-          "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
-          "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
-          "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
         },
         {
-          "headline": "TNF: Texans rule out DE Hunter, RB Marks; Colts rule out CB Ward, starting OTs",
-          "description": "The Texans and Colts ruled out several key contributors for their Thursday night matchup.",
-          "published": "2026-11-18T23:26:51Z",
-          "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
+          "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
+          "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
+          "published": "2026-11-19T02:03:15Z",
+          "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         }
       ]
     },
@@ -3050,13 +2975,13 @@
       "prices": {
         "DraftKings": {
           "h": 1.07,
-          "a": 9
+          "a": 9.5
         }
       },
       "fair": {
-        "h": 1.12,
+        "h": 1.11,
         "d": null,
-        "a": 9.41
+        "a": 9.88
       },
       "open": {
         "h": 1.17,
@@ -3085,9 +3010,16 @@
       },
       "newsItems": [
         {
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
+        },
+        {
           "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
           "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
+          "published": "2026-11-19T02:03:15Z",
           "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         },
@@ -3097,13 +3029,6 @@
           "published": "2026-11-18T23:26:51Z",
           "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
-        },
-        {
-          "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-          "description": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-          "published": "2026-11-18T23:13:37Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747848_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         }
       ]
     },
@@ -3160,9 +3085,16 @@
       },
       "newsItems": [
         {
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
+        },
+        {
           "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
           "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
+          "published": "2026-11-19T02:03:15Z",
           "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         },
@@ -3172,13 +3104,6 @@
           "published": "2026-11-18T23:26:51Z",
           "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
-        },
-        {
-          "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-          "description": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-          "published": "2026-11-18T23:13:37Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747848_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         }
       ]
     },
@@ -3244,16 +3169,16 @@
         {
           "headline": "Ravens' Humphrey apologizes for quip that Baltimore 'best at making criminals'",
           "description": "Ravens cornerback Marlon Humphrey apologized Wednesday for the derogatory comment he recently made about Baltimore on his podcast.",
-          "published": "2026-11-19T00:10:21Z",
+          "published": "2026-11-19T03:37:02Z",
           "image": "https://a.espncdn.com/photo/2026/1022/r1734719_1296x729_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50524109/ravens-humphrey-apologizes-criminals-quip-podcast"
         },
         {
-          "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
-          "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
-          "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
         }
       ]
     },
@@ -3310,16 +3235,16 @@
       },
       "newsItems": [
         {
-          "headline": "Jets QB Geno Smith (ankle) intends to play vs. Chargers: 'That's the plan'",
-          "description": "Jets quarterback Geno Smith says he intends to play Sunday against the Chargers despite still walking with a noticeable limp due to an ankle injury.",
-          "published": "2026-11-18T21:09:21Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747812_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/mlb/story/_/id/50523800/jets-qb-geno-smith-ankle-intends-play-vs-chargers"
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
         },
         {
           "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
           "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
+          "published": "2026-11-19T02:03:15Z",
           "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         },
@@ -3349,14 +3274,14 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 1.17,
-          "a": 5.4
+          "h": 1.16,
+          "a": 5.55
         }
       },
       "fair": {
-        "h": 1.22,
+        "h": 1.21,
         "d": null,
-        "a": 5.62
+        "a": 5.78
       },
       "open": {
         "h": 1.24,
@@ -3365,7 +3290,7 @@
       },
       "movement": [
         1.24,
-        1.17
+        1.16
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -3385,9 +3310,16 @@
       },
       "newsItems": [
         {
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
+        },
+        {
           "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
           "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
+          "published": "2026-11-19T02:03:15Z",
           "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         },
@@ -3397,13 +3329,6 @@
           "published": "2026-11-18T23:26:51Z",
           "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
-        },
-        {
-          "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-          "description": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-          "published": "2026-11-18T23:13:37Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747848_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         }
       ]
     },
@@ -3467,18 +3392,18 @@
           "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         },
         {
-          "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
-          "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
-          "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
         },
         {
-          "headline": "TNF: Texans rule out DE Hunter, RB Marks; Colts rule out CB Ward, starting OTs",
-          "description": "The Texans and Colts ruled out several key contributors for their Thursday night matchup.",
-          "published": "2026-11-18T23:26:51Z",
-          "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
+          "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
+          "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
+          "published": "2026-11-19T02:03:15Z",
+          "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         }
       ]
     },
@@ -3524,20 +3449,27 @@
       "totals": {
         "line": 46.5,
         "over": {
-          "o": 1.95,
-          "b": "DraftKings"
-        },
-        "under": {
           "o": 1.87,
           "b": "DraftKings"
         },
-        "fairOver": 2.04
+        "under": {
+          "o": 1.95,
+          "b": "DraftKings"
+        },
+        "fairOver": 1.96
       },
       "newsItems": [
         {
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
+        },
+        {
           "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
           "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
+          "published": "2026-11-19T02:03:15Z",
           "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         },
@@ -3547,13 +3479,6 @@
           "published": "2026-11-18T23:26:51Z",
           "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
-        },
-        {
-          "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-          "description": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-          "published": "2026-11-18T23:13:37Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747848_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         }
       ]
     },
@@ -3610,9 +3535,16 @@
       },
       "newsItems": [
         {
+          "headline": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
+          "description": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+          "published": "2026-11-19T01:47:36Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747914_600x400_3-2.jpg",
+          "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought"
+        },
+        {
           "headline": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
           "description": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-          "published": "2026-11-19T01:10:52Z",
+          "published": "2026-11-19T02:03:15Z",
           "image": "https://a.espncdn.com/photo/2025/1126/r1581056_600x400_3-2.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache"
         },
@@ -3622,13 +3554,6 @@
           "published": "2026-11-18T23:26:51Z",
           "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
           "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots"
-        },
-        {
-          "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-          "description": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-          "published": "2026-11-18T23:13:37Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747848_600x400_3-2.jpg",
-          "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury"
         }
       ]
     },
@@ -3655,8 +3580,8 @@
         },
         "SportyBet": {
           "h": 1.31,
-          "d": 6.15,
-          "a": 9.69
+          "d": 6.14,
+          "a": 9.63
         }
       },
       "fair": {
@@ -3689,7 +3614,7 @@
         },
         "fairOver": 2.43
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5749753",
       "fmHomeId": "10171",
       "fmAwayId": "8529",
@@ -3871,9 +3796,9 @@
           "d": 4.8
         },
         "SportyBet": {
-          "h": 1.42,
-          "d": 5.26,
-          "a": 7.48
+          "h": 1.4,
+          "d": 5.37,
+          "a": 7.84
         }
       },
       "fair": {
@@ -3906,7 +3831,7 @@
         },
         "fairOver": 1.68
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5749755",
       "fmHomeId": "8543",
       "fmAwayId": "9888",
@@ -4088,8 +4013,8 @@
           "d": 5.25
         },
         "SportyBet": {
-          "h": 9.7,
-          "d": 6.12,
+          "h": 9.61,
+          "d": 6.11,
           "a": 1.31
         }
       },
@@ -4114,16 +4039,16 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 2.35,
+          "o": 2.3,
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.59,
+          "o": 1.61,
           "b": "DraftKings"
         },
-        "fairOver": 2.48
+        "fairOver": 2.43
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5749758",
       "fmHomeId": "10167",
       "fmAwayId": "8686",
@@ -4340,7 +4265,7 @@
         },
         "fairOver": 1.76
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5749757",
       "fmHomeId": "9875",
       "fmAwayId": "9804",
@@ -4518,19 +4443,19 @@
       "prices": {
         "DraftKings": {
           "h": 1.06,
-          "a": 18,
+          "a": 19,
           "d": 12
         },
         "SportyBet": {
           "h": 1.09,
-          "d": 14.98,
-          "a": 30.27
+          "d": 14.73,
+          "a": 28.96
         }
       },
       "fair": {
-        "h": 1.15,
-        "d": 12.99,
-        "a": 19.48
+        "h": 1.14,
+        "d": 12.95,
+        "a": 20.51
       },
       "open": {
         "h": 1.07,
@@ -4552,12 +4477,12 @@
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.83,
+          "o": 1.87,
           "b": "DraftKings"
         },
-        "fairOver": 2.04
+        "fairOver": 2.02
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "newsItems": [
         {
           "headline": "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise",
@@ -4715,7 +4640,7 @@
         },
         "fairOver": 2.23
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "6106339",
       "fmHomeId": "8637",
       "fmAwayId": "10252",
@@ -4868,7 +4793,7 @@
         },
         "fairOver": 1.72
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "6106259",
       "fmHomeId": "9825",
       "fmAwayId": "9789",
@@ -5021,7 +4946,7 @@
         },
         "fairOver": 1.98
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "6106412",
       "fmHomeId": "10171",
       "fmAwayId": "8563",
@@ -5174,7 +5099,7 @@
         },
         "fairOver": 1.67
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "6106307",
       "fmHomeId": "10235",
       "fmAwayId": "9773",
@@ -5259,7 +5184,7 @@
         },
         "fairOver": 2
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "6106256",
       "fmHomeId": "8456",
       "fmAwayId": "9875",
@@ -5476,7 +5401,7 @@
         },
         "fairOver": 1.89
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "6106325",
       "fmHomeId": "178475",
       "fmAwayId": "8588",
@@ -5561,7 +5486,7 @@
         },
         "fairOver": 2.13
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "6106243",
       "fmHomeId": "8633",
       "fmAwayId": "8640",
@@ -5646,7 +5571,7 @@
         },
         "fairOver": 2
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "6106394",
       "fmHomeId": "6019",
       "fmAwayId": "8603",
@@ -5698,7 +5623,7 @@
         "SportyBet": {
           "h": 2.29,
           "d": 3.48,
-          "a": 3.38
+          "a": 3.37
         }
       },
       "fair": {
@@ -5722,16 +5647,16 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.87,
-          "b": "DraftKings"
+          "o": 1.88,
+          "b": "SportyBet"
         },
         "under": {
-          "o": 1.98,
+          "o": 1.97,
           "b": "SportyBet"
         },
         "fairOver": 1.98
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5802999",
       "fmHomeId": "10242",
       "fmAwayId": "9746",
@@ -6140,7 +6065,7 @@
         },
         "fairOver": 1.85
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836938",
       "fmHomeId": "10004",
       "fmAwayId": "10172",
@@ -6225,7 +6150,7 @@
         },
         "fairOver": 2
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836939",
       "fmHomeId": "9850",
       "fmAwayId": "8344",
@@ -6305,12 +6230,12 @@
           "b": "DraftKings"
         },
         "under": {
-          "o": 1.59,
+          "o": 1.57,
           "b": "DraftKings"
         },
-        "fairOver": 2.48
+        "fairOver": 2.5
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836941",
       "fmHomeId": "8466",
       "fmAwayId": "10170",
@@ -6395,7 +6320,7 @@
         },
         "fairOver": 1.94
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836934",
       "fmHomeId": "8559",
       "fmAwayId": "8462",
@@ -6480,7 +6405,7 @@
         },
         "fairOver": 2.18
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836936",
       "fmHomeId": "8430",
       "fmAwayId": "9841",
@@ -6565,7 +6490,7 @@
         },
         "fairOver": 2.43
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836937",
       "fmHomeId": "8549",
       "fmAwayId": "8427",
@@ -6650,7 +6575,7 @@
         },
         "fairOver": 1.89
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836940",
       "fmHomeId": "8657",
       "fmAwayId": "9817",
@@ -6733,9 +6658,9 @@
           "o": 1.77,
           "b": "DraftKings"
         },
-        "fairOver": 2.16
+        "fairOver": 2.13
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836942",
       "fmHomeId": "10194",
       "fmAwayId": "8658",
@@ -6820,7 +6745,7 @@
         },
         "fairOver": 2.11
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836943",
       "fmHomeId": "10003",
       "fmAwayId": "8659",
@@ -6905,7 +6830,7 @@
         },
         "fairOver": 2.02
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5836944",
       "fmHomeId": "8654",
       "fmAwayId": "8411",
@@ -6976,14 +6901,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.61,
+          "o": 1.59,
           "b": "DraftKings"
         },
         "under": {
           "o": 2.3,
           "b": "DraftKings"
         },
-        "fairOver": 1.7
+        "fairOver": 1.69
       },
       "fotmobId": "5836945",
       "fmHomeId": "8602",
@@ -7069,7 +6994,7 @@
         },
         "fairOver": 1.87
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5781805",
       "fmHomeId": "8464",
       "fmAwayId": "8640",
@@ -7154,7 +7079,7 @@
         },
         "fairOver": 2.17
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5781811",
       "fmHomeId": "9908",
       "fmAwayId": "7788",
@@ -7239,7 +7164,7 @@
         },
         "fairOver": 1.94
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5781806",
       "fmHomeId": "10235",
       "fmAwayId": "10218",
@@ -7284,20 +7209,20 @@
       "minute": null,
       "prices": {
         "DraftKings": {
-          "h": 2.35,
-          "a": 2.65,
-          "d": 3.8
+          "h": 2.45,
+          "a": 2.55,
+          "d": 3.75
         },
         "SportyBet": {
-          "h": 2.43,
-          "d": 3.88,
-          "a": 2.63
+          "h": 2.48,
+          "d": 3.81,
+          "a": 2.6
         }
       },
       "fair": {
-        "h": 2.51,
-        "d": 4.05,
-        "a": 2.83
+        "h": 2.61,
+        "d": 4,
+        "a": 2.72
       },
       "open": {
         "h": 2.4,
@@ -7306,7 +7231,7 @@
       },
       "movement": [
         2.4,
-        2.35
+        2.45
       ],
       "news": "Real odds via ESPN (DraftKings feed) — fair devigged from the same book.",
       "oddsStatus": "live",
@@ -7315,16 +7240,16 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 1.91,
+          "o": 1.95,
           "b": "DraftKings"
         },
         "under": {
           "o": 1.77,
           "b": "DraftKings"
         },
-        "fairOver": 2.08
+        "fairOver": 2.1
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5781808",
       "fmHomeId": "8674",
       "fmAwayId": "10228",
@@ -7374,9 +7299,9 @@
           "d": 3.55
         },
         "SportyBet": {
-          "h": 2.11,
-          "d": 3.7,
-          "a": 3.28
+          "h": 2.09,
+          "d": 3.62,
+          "a": 3.39
         }
       },
       "fair": {
@@ -7409,7 +7334,7 @@
         },
         "fairOver": 1.76
       },
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "fotmobId": "5781807",
       "fmHomeId": "6414",
       "fmAwayId": "6413",
@@ -7451,26 +7376,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 5.97,
-          "d": 4.61,
-          "a": 1.55
+          "h": 6.02,
+          "d": 4.63,
+          "a": 1.54
         }
       },
       "fair": {
-        "h": 6.15,
-        "d": 4.75,
-        "a": 1.6
+        "h": 6.21,
+        "d": 4.78,
+        "a": 1.59
       },
       "open": {
-        "h": 5.97,
-        "d": 4.61,
-        "a": 1.55
+        "h": 6.02,
+        "d": 4.63,
+        "a": 1.54
       },
       "movement": [
-        5.97
+        6.02
       ],
       "totals": {
         "line": 2.5,
@@ -7490,25 +7415,25 @@
       "fmAwayId": "10204",
       "newsItems": [
         {
-          "headline": "How fallen giants and their fans bounce back from scandal, relegation",
-          "description": "Some of Europe's greatest teams have suffered relegation as punishment. So what might lie ahead for Man City?",
-          "published": "2026-11-18T17:00:50Z",
-          "image": "https://a.espncdn.com/photo/2026/1117/r1747276_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city"
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
         },
         {
-          "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-          "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
-          "published": "2026-11-18T21:58:25Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya"
+          "headline": "Predicting how all 20 Premier League teams will finish the season",
+          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
+          "published": "2026-11-19T08:29:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea"
         },
         {
-          "headline": "Pochettino addresses Manchester United supporters for the first time",
-          "description": "Pochettino addresses Manchester United supporters for the first time",
-          "published": "2026-11-18T16:26:13Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
+          "headline": "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+          "description": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest.",
+          "published": "2026-11-19T08:25:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs"
         }
       ]
     },
@@ -7526,26 +7451,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.79,
-          "d": 4.28,
-          "a": 4.2
+          "h": 1.8,
+          "d": 4.27,
+          "a": 4.18
         }
       },
       "fair": {
-        "h": 1.84,
-        "d": 4.41,
-        "a": 4.33
+        "h": 1.85,
+        "d": 4.39,
+        "a": 4.3
       },
       "open": {
-        "h": 1.79,
-        "d": 4.28,
-        "a": 4.2
+        "h": 1.8,
+        "d": 4.27,
+        "a": 4.18
       },
       "movement": [
-        1.79
+        1.8
       ],
       "totals": {
         "line": 2.5,
@@ -7565,6 +7490,13 @@
       "fmAwayId": "10260",
       "newsItems": [
         {
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
+        },
+        {
           "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
           "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
           "published": "2026-11-18T21:58:25Z",
@@ -7577,13 +7509,6 @@
           "published": "2026-11-18T16:26:13Z",
           "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
           "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
-        },
-        {
-          "headline": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-          "published": "2026-11-18T16:46:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league"
         }
       ]
     },
@@ -7601,7 +7526,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.16,
@@ -7640,25 +7565,25 @@
       "fmAwayId": "8668",
       "newsItems": [
         {
-          "headline": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-          "description": "Could Matthijs de Ligt end up leaving Manchester United for a move to Turkey? Transfer Talk has the latest.",
-          "published": "2026-11-18T21:58:25Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya"
+          "headline": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+          "description": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
+          "published": "2026-11-19T08:41:30Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade"
         },
         {
-          "headline": "Pochettino addresses Manchester United supporters for the first time",
-          "description": "Pochettino addresses Manchester United supporters for the first time",
-          "published": "2026-11-18T16:26:13Z",
-          "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
-          "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first"
+          "headline": "Predicting how all 20 Premier League teams will finish the season",
+          "description": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
+          "published": "2026-11-19T08:29:56Z",
+          "image": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea"
         },
         {
-          "headline": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-          "description": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-          "published": "2026-11-18T16:46:01Z",
-          "image": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-          "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league"
+          "headline": "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+          "description": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest.",
+          "published": "2026-11-19T08:25:49Z",
+          "image": "https://a.espncdn.com/photo/2026/1118/r1747358_1296x729_16-9.jpg",
+          "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs"
         }
       ]
     },
@@ -7676,7 +7601,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.55,
@@ -7748,7 +7673,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 20.52,
@@ -7823,26 +7748,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.5,
-          "d": 4.73,
-          "a": 6.97
+          "h": 1.51,
+          "d": 4.71,
+          "a": 6.85
         }
       },
       "fair": {
-        "h": 1.53,
-        "d": 4.83,
-        "a": 7.12
+        "h": 1.54,
+        "d": 4.81,
+        "a": 6.99
       },
       "open": {
-        "h": 1.5,
-        "d": 4.73,
-        "a": 6.97
+        "h": 1.51,
+        "d": 4.71,
+        "a": 6.85
       },
       "movement": [
-        1.5
+        1.51
       ],
       "totals": {
         "line": 2.5,
@@ -8282,26 +8207,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.27,
-          "d": 3.34,
-          "a": 3.45
+          "h": 2.29,
+          "d": 3.35,
+          "a": 3.4
         }
       },
       "fair": {
-        "h": 2.34,
-        "d": 3.44,
-        "a": 3.55
+        "h": 2.36,
+        "d": 3.45,
+        "a": 3.5
       },
       "open": {
-        "h": 2.27,
-        "d": 3.34,
-        "a": 3.45
+        "h": 2.29,
+        "d": 3.35,
+        "a": 3.4
       },
       "movement": [
-        2.27
+        2.29
       ],
       "totals": {
         "line": 2.5,
@@ -8357,23 +8282,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.98,
           "d": 3.55,
-          "a": 4.09
+          "a": 4.13
         }
       },
       "fair": {
         "h": 2.04,
-        "d": 3.66,
-        "a": 4.22
+        "d": 3.65,
+        "a": 4.25
       },
       "open": {
         "h": 1.98,
         "d": 3.55,
-        "a": 4.09
+        "a": 4.13
       },
       "movement": [
         1.98
@@ -8432,38 +8357,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.97,
-          "d": 3.55,
+          "h": 3,
+          "d": 3.52,
           "a": 2.43
         }
       },
       "fair": {
-        "h": 3.06,
-        "d": 3.66,
+        "h": 3.09,
+        "d": 3.62,
         "a": 2.5
       },
       "open": {
-        "h": 2.97,
-        "d": 3.55,
+        "h": 3,
+        "d": 3.52,
         "a": 2.43
       },
       "movement": [
-        2.97
+        3
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.77,
+          "o": 1.8,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.05,
+          "o": 2,
           "b": "SportyBet"
         },
-        "fairOver": 1.86
+        "fairOver": 1.9
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868140",
@@ -8507,38 +8432,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.19,
-          "d": 8.13,
-          "a": 14.77
+          "h": 1.18,
+          "d": 8.33,
+          "a": 15.14
         }
       },
       "fair": {
-        "h": 1.23,
-        "d": 8.38,
-        "a": 15.23
+        "h": 1.22,
+        "d": 8.61,
+        "a": 15.65
       },
       "open": {
-        "h": 1.19,
-        "d": 8.13,
-        "a": 14.77
+        "h": 1.18,
+        "d": 8.33,
+        "a": 15.14
       },
       "movement": [
-        1.19
+        1.18
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.39,
+          "o": 1.37,
           "b": "SportyBet"
         },
         "under": {
-          "o": 3,
+          "o": 3.1,
           "b": "SportyBet"
         },
-        "fairOver": 1.46
+        "fairOver": 1.44
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868139",
@@ -8582,26 +8507,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.21,
-          "d": 8.54,
-          "a": 11.77
+          "h": 1.23,
+          "d": 8.07,
+          "a": 10.49
         }
       },
       "fair": {
-        "h": 1.24,
-        "d": 8.78,
-        "a": 12.11
+        "h": 1.27,
+        "d": 8.33,
+        "a": 10.83
       },
       "open": {
-        "h": 1.21,
-        "d": 8.54,
-        "a": 11.77
+        "h": 1.23,
+        "d": 8.07,
+        "a": 10.49
       },
       "movement": [
-        1.21
+        1.23
       ],
       "totals": {
         "line": 2.5,
@@ -8657,7 +8582,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.24,
@@ -8681,14 +8606,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.36,
+          "o": 1.35,
           "b": "SportyBet"
         },
         "under": {
           "o": 3.2,
           "b": "SportyBet"
         },
-        "fairOver": 1.43
+        "fairOver": 1.42
       },
       "news": "Real odds via SportyBet feed (LaLiga).",
       "fotmobId": "5868137",
@@ -8732,7 +8657,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.86,
@@ -8807,26 +8732,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 6.08,
-          "d": 4.09,
-          "a": 1.61
+          "h": 6.24,
+          "d": 4.12,
+          "a": 1.59
         }
       },
       "fair": {
-        "h": 6.26,
-        "d": 4.21,
-        "a": 1.66
+        "h": 6.44,
+        "d": 4.25,
+        "a": 1.64
       },
       "open": {
-        "h": 6.08,
-        "d": 4.09,
-        "a": 1.61
+        "h": 6.24,
+        "d": 4.12,
+        "a": 1.59
       },
       "movement": [
-        6.08
+        6.24
       ],
       "totals": {
         "line": 2.5,
@@ -8882,7 +8807,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.22,
@@ -8957,23 +8882,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.32,
-          "d": 6.47,
-          "a": 8.55
+          "d": 6.48,
+          "a": 8.63
         }
       },
       "fair": {
         "h": 1.36,
         "d": 6.66,
-        "a": 8.8
+        "a": 8.87
       },
       "open": {
         "h": 1.32,
-        "d": 6.47,
-        "a": 8.55
+        "d": 6.48,
+        "a": 8.63
       },
       "movement": [
         1.32
@@ -9032,31 +8957,31 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 5.09,
-          "d": 4.58,
-          "a": 1.63
+          "h": 5.17,
+          "d": 4.62,
+          "a": 1.61
         }
       },
       "fair": {
-        "h": 5.23,
-        "d": 4.71,
-        "a": 1.68
+        "h": 5.33,
+        "d": 4.76,
+        "a": 1.66
       },
       "open": {
-        "h": 5.09,
-        "d": 4.58,
-        "a": 1.63
+        "h": 5.17,
+        "d": 4.62,
+        "a": 1.61
       },
       "movement": [
-        5.09
+        5.17
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.49,
+          "o": 1.48,
           "b": "SportyBet"
         },
         "under": {
@@ -9107,7 +9032,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.4,
@@ -9182,7 +9107,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.51,
@@ -9257,26 +9182,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 5.56,
-          "d": 4.88,
-          "a": 1.55
+          "h": 5.62,
+          "d": 4.93,
+          "a": 1.54
         }
       },
       "fair": {
-        "h": 5.73,
-        "d": 5.03,
-        "a": 1.6
+        "h": 5.79,
+        "d": 5.08,
+        "a": 1.59
       },
       "open": {
-        "h": 5.56,
-        "d": 4.88,
-        "a": 1.55
+        "h": 5.62,
+        "d": 4.93,
+        "a": 1.54
       },
       "movement": [
-        5.56
+        5.62
       ],
       "totals": {
         "line": 2.5,
@@ -9332,7 +9257,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.97,
@@ -9356,14 +9281,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.48,
+          "o": 1.47,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.65,
+          "o": 2.7,
           "b": "SportyBet"
         },
-        "fairOver": 1.56
+        "fairOver": 1.54
       },
       "news": "Real odds via SportyBet feed (Bundesliga).",
       "fotmobId": "5881230",
@@ -9407,26 +9332,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.73,
-          "d": 3.96,
+          "h": 2.74,
+          "d": 3.95,
           "a": 2.43
         }
       },
       "fair": {
-        "h": 2.81,
-        "d": 4.08,
+        "h": 2.82,
+        "d": 4.07,
         "a": 2.5
       },
       "open": {
-        "h": 2.73,
-        "d": 3.96,
+        "h": 2.74,
+        "d": 3.95,
         "a": 2.43
       },
       "movement": [
-        2.73
+        2.74
       ],
       "totals": {
         "line": 2.5,
@@ -9482,7 +9407,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.71,
@@ -9557,7 +9482,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -9632,26 +9557,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.38,
-          "d": 5.4,
-          "a": 8.23
+          "h": 1.37,
+          "d": 5.5,
+          "a": 8.55
         }
       },
       "fair": {
-        "h": 1.42,
-        "d": 5.57,
-        "a": 8.49
+        "h": 1.41,
+        "d": 5.66,
+        "a": 8.8
       },
       "open": {
-        "h": 1.38,
-        "d": 5.4,
-        "a": 8.23
+        "h": 1.37,
+        "d": 5.5,
+        "a": 8.55
       },
       "movement": [
-        1.38
+        1.37
       ],
       "totals": {
         "line": 2.5,
@@ -9707,7 +9632,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.75,
@@ -9782,7 +9707,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.87,
@@ -9857,26 +9782,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.56,
-          "d": 5.03,
-          "a": 5.28
+          "h": 1.57,
+          "d": 4.99,
+          "a": 5.2
         }
       },
       "fair": {
-        "h": 1.61,
-        "d": 5.18,
-        "a": 5.43
+        "h": 1.62,
+        "d": 5.14,
+        "a": 5.35
       },
       "open": {
-        "h": 1.56,
-        "d": 5.03,
-        "a": 5.28
+        "h": 1.57,
+        "d": 4.99,
+        "a": 5.2
       },
       "movement": [
-        1.56
+        1.57
       ],
       "totals": {
         "line": 2.5,
@@ -9932,26 +9857,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 4.99,
-          "d": 4.61,
-          "a": 1.63
+          "h": 4.94,
+          "d": 4.62,
+          "a": 1.64
         }
       },
       "fair": {
-        "h": 5.14,
+        "h": 5.08,
         "d": 4.75,
-        "a": 1.68
+        "a": 1.69
       },
       "open": {
-        "h": 4.99,
-        "d": 4.61,
-        "a": 1.63
+        "h": 4.94,
+        "d": 4.62,
+        "a": 1.64
       },
       "movement": [
-        4.99
+        4.94
       ],
       "totals": {
         "line": 2.5,
@@ -10007,7 +9932,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.66,
@@ -10082,7 +10007,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.61,
@@ -10157,7 +10082,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.51,
@@ -10300,7 +10225,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.48,
@@ -10507,7 +10432,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.28,
@@ -10582,7 +10507,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.28,
@@ -10657,7 +10582,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 4.65,
@@ -10800,7 +10725,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.26,
@@ -10943,7 +10868,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -11086,7 +11011,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.66,
@@ -11229,26 +11154,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 6.27,
-          "d": 5.34,
-          "a": 1.46
+          "h": 6.17,
+          "d": 5.33,
+          "a": 1.47
         }
       },
       "fair": {
-        "h": 6.47,
-        "d": 5.51,
+        "h": 6.35,
+        "d": 5.49,
         "a": 1.51
       },
       "open": {
-        "h": 6.27,
-        "d": 5.34,
-        "a": 1.46
+        "h": 6.17,
+        "d": 5.33,
+        "a": 1.47
       },
       "movement": [
-        6.27
+        6.17
       ],
       "totals": {
         "line": 2.5,
@@ -11304,26 +11229,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.87,
-          "d": 4.03,
-          "a": 4.04
+          "h": 1.86,
+          "d": 4.02,
+          "a": 4.09
         }
       },
       "fair": {
-        "h": 1.93,
-        "d": 4.15,
-        "a": 4.16
+        "h": 1.92,
+        "d": 4.14,
+        "a": 4.22
       },
       "open": {
-        "h": 1.87,
-        "d": 4.03,
-        "a": 4.04
+        "h": 1.86,
+        "d": 4.02,
+        "a": 4.09
       },
       "movement": [
-        1.87
+        1.86
       ],
       "totals": {
         "line": 2.5,
@@ -11379,7 +11304,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.37,
@@ -11454,7 +11379,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.44,
@@ -11529,7 +11454,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.28,
@@ -11604,26 +11529,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.35,
-          "d": 5.65,
-          "a": 8.79
+          "h": 1.34,
+          "d": 5.71,
+          "a": 9.01
         }
       },
       "fair": {
-        "h": 1.39,
-        "d": 5.83,
-        "a": 9.07
+        "h": 1.38,
+        "d": 5.89,
+        "a": 9.3
       },
       "open": {
-        "h": 1.35,
-        "d": 5.65,
-        "a": 8.79
+        "h": 1.34,
+        "d": 5.71,
+        "a": 9.01
       },
       "movement": [
-        1.35
+        1.34
       ],
       "totals": {
         "line": 2.5,
@@ -11679,7 +11604,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.91,
@@ -11754,7 +11679,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.49,
@@ -11829,7 +11754,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.18,
@@ -11904,7 +11829,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.55,
@@ -11968,7 +11893,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.95,
@@ -12032,7 +11957,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.91,
@@ -12096,7 +12021,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.72,
@@ -12160,7 +12085,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.38,
@@ -12224,7 +12149,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.15,
@@ -12288,7 +12213,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.62,
@@ -12352,7 +12277,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.49,
@@ -12416,7 +12341,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.48,
@@ -12480,23 +12405,23 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.09,
-          "d": 12.27,
-          "a": 20.58
+          "d": 11.48,
+          "a": 21.17
         }
       },
       "fair": {
-        "h": 1.14,
-        "d": 12.85,
-        "a": 21.56
+        "h": 1.15,
+        "d": 12.07,
+        "a": 22.27
       },
       "open": {
         "h": 1.09,
-        "d": 12.27,
-        "a": 20.58
+        "d": 11.48,
+        "a": 21.17
       },
       "movement": [
         1.09
@@ -12508,7 +12433,7 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 4.25,
+          "o": 4.2,
           "b": "SportyBet"
         },
         "fairOver": 1.29
@@ -12555,26 +12480,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.19,
-          "d": 7.81,
-          "a": 11.94
+          "h": 1.2,
+          "d": 7.68,
+          "a": 11.98
         }
       },
       "fair": {
-        "h": 1.25,
-        "d": 8.22,
-        "a": 12.56
+        "h": 1.26,
+        "d": 8.04,
+        "a": 12.54
       },
       "open": {
-        "h": 1.19,
-        "d": 7.81,
-        "a": 11.94
+        "h": 1.2,
+        "d": 7.68,
+        "a": 11.98
       },
       "movement": [
-        1.19
+        1.2
       ],
       "totals": {
         "line": 2.5,
@@ -12630,7 +12555,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 4.16,
@@ -12705,7 +12630,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.65,
@@ -12780,7 +12705,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.24,
@@ -12855,7 +12780,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.3,
@@ -13250,7 +13175,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.25,
@@ -13647,7 +13572,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.72,
@@ -13719,7 +13644,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.76,
@@ -13794,7 +13719,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.75,
@@ -13869,7 +13794,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.15,
@@ -13944,7 +13869,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -14019,7 +13944,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 4.6,
@@ -14043,14 +13968,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.41,
+          "o": 1.4,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.75,
+          "o": 2.8,
           "b": "SportyBet"
         },
-        "fairOver": 1.51
+        "fairOver": 1.5
       },
       "news": "Real odds via SportyBet feed (2. Bundesliga).",
       "fotmobId": "5881727",
@@ -14094,7 +14019,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.25,
@@ -14169,7 +14094,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.92,
@@ -14566,26 +14491,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.3,
-          "d": 3.2,
-          "a": 3.25
+          "h": 2.4,
+          "d": 3.1,
+          "a": 3.1
         }
       },
       "fair": {
-        "h": 2.43,
-        "d": 3.38,
-        "a": 3.43
+        "h": 2.55,
+        "d": 3.29,
+        "a": 3.29
       },
       "open": {
-        "h": 2.3,
-        "d": 3.2,
-        "a": 3.25
+        "h": 2.4,
+        "d": 3.1,
+        "a": 3.1
       },
       "movement": [
-        2.3
+        2.4
       ],
       "totals": {
         "line": 2.5,
@@ -14641,7 +14566,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.95,
@@ -14716,7 +14641,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.45,
@@ -14791,7 +14716,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.25,
@@ -14815,14 +14740,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.1,
+          "o": 2.15,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.69,
+          "o": 1.66,
           "b": "SportyBet"
         },
-        "fairOver": 2.24
+        "fairOver": 2.3
       },
       "news": "Real odds via SportyBet feed (LALIGA HYPERMOTION).",
       "fotmobId": "5868557",
@@ -14866,7 +14791,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.89,
@@ -14941,7 +14866,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.99,
@@ -15016,7 +14941,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.8,
@@ -15091,7 +15016,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3.4,
@@ -15166,7 +15091,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.1,
@@ -15241,38 +15166,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 23,
-          "d": 9.9,
-          "a": 1.07
+          "h": 15.5,
+          "d": 8.5,
+          "a": 1.11
         }
       },
       "fair": {
-        "h": 24.82,
-        "d": 10.68,
-        "a": 1.15
+        "h": 16.79,
+        "d": 9.21,
+        "a": 1.2
       },
       "open": {
-        "h": 23,
-        "d": 9.9,
-        "a": 1.07
+        "h": 15.5,
+        "d": 8.5,
+        "a": 1.11
       },
       "movement": [
-        23
+        15.5
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.25,
+          "o": 1.29,
           "b": "SportyBet"
         },
         "under": {
-          "o": 3.7,
+          "o": 3.4,
           "b": "SportyBet"
         },
-        "fairOver": 1.34
+        "fairOver": 1.38
       },
       "news": "Real odds via SportyBet feed (UEFA Champions League Women).",
       "newsItems": [
@@ -15313,7 +15238,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.59,
@@ -15385,26 +15310,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 3.9,
-          "d": 3.9,
-          "a": 1.76
+          "h": 4.25,
+          "d": 4,
+          "a": 1.68
         }
       },
       "fair": {
-        "h": 4.22,
-        "d": 4.22,
-        "a": 1.9
+        "h": 4.59,
+        "d": 4.32,
+        "a": 1.82
       },
       "open": {
-        "h": 3.9,
-        "d": 3.9,
-        "a": 1.76
+        "h": 4.25,
+        "d": 4,
+        "a": 1.68
       },
       "movement": [
-        3.9
+        4.25
       ],
       "totals": {
         "line": 2.5,
@@ -15457,7 +15382,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {},
       "fair": null,
       "open": null,
@@ -15465,14 +15390,14 @@
       "totals": {
         "line": 3.5,
         "over": {
-          "o": 1.17,
+          "o": 1.14,
           "b": "SportyBet"
         },
         "under": {
-          "o": 4.4,
+          "o": 5.1,
           "b": "SportyBet"
         },
-        "fairOver": 1.27
+        "fairOver": 1.22
       },
       "news": "Real odds via SportyBet feed (UEFA Champions League Women).",
       "newsItems": [
@@ -15513,38 +15438,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.1,
+          "h": 2.05,
           "d": 3.8,
-          "a": 3
+          "a": 3.1
         }
       },
       "fair": {
-        "h": 2.25,
+        "h": 2.2,
         "d": 4.08,
-        "a": 3.22
+        "a": 3.33
       },
       "open": {
-        "h": 2.1,
+        "h": 2.05,
         "d": 3.8,
-        "a": 3
+        "a": 3.1
       },
       "movement": [
-        2.1
+        2.05
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.51,
+          "o": 1.5,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.45,
+          "o": 2.5,
           "b": "SportyBet"
         },
-        "fairOver": 1.62
+        "fairOver": 1.6
       },
       "news": "Real odds via SportyBet feed (UEFA Champions League Women).",
       "newsItems": [
@@ -15585,38 +15510,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.67,
-          "d": 4,
-          "a": 4.9
+          "h": 1.59,
+          "d": 4.25,
+          "a": 5.4
         }
       },
       "fair": {
-        "h": 1.76,
-        "d": 4.21,
-        "a": 5.16
+        "h": 1.67,
+        "d": 4.46,
+        "a": 5.67
       },
       "open": {
-        "h": 1.67,
-        "d": 4,
-        "a": 4.9
+        "h": 1.59,
+        "d": 4.25,
+        "a": 5.4
       },
       "movement": [
-        1.67
+        1.59
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.76,
+          "o": 1.7,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.05,
+          "o": 2.1,
           "b": "SportyBet"
         },
-        "fairOver": 1.86
+        "fairOver": 1.81
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103705",
@@ -15658,26 +15583,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.65,
+          "h": 2.75,
           "d": 3.5,
-          "a": 2.6
+          "a": 2.5
         }
       },
       "fair": {
-        "h": 2.78,
+        "h": 2.89,
         "d": 3.67,
-        "a": 2.72
+        "a": 2.62
       },
       "open": {
-        "h": 2.65,
+        "h": 2.75,
         "d": 3.5,
-        "a": 2.6
+        "a": 2.5
       },
       "movement": [
-        2.65
+        2.75
       ],
       "totals": {
         "line": 2.5,
@@ -15731,38 +15656,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.45,
-          "d": 3.25,
+          "h": 2.5,
+          "d": 3.2,
           "a": 3
         }
       },
       "fair": {
-        "h": 2.57,
-        "d": 3.41,
-        "a": 3.15
+        "h": 2.61,
+        "d": 3.35,
+        "a": 3.14
       },
       "open": {
-        "h": 2.45,
-        "d": 3.25,
+        "h": 2.5,
+        "d": 3.2,
         "a": 3
       },
       "movement": [
-        2.45
+        2.5
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.1,
+          "o": 2.15,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.71,
+          "o": 1.69,
           "b": "SportyBet"
         },
-        "fairOver": 2.23
+        "fairOver": 2.27
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103706",
@@ -15804,26 +15729,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.75,
-          "d": 3,
-          "a": 2.8
+          "h": 2.9,
+          "d": 3.3,
+          "a": 2.5
         }
       },
       "fair": {
-        "h": 2.9,
-        "d": 3.16,
-        "a": 2.95
+        "h": 3.04,
+        "d": 3.46,
+        "a": 2.62
       },
       "open": {
-        "h": 2.75,
-        "d": 3,
-        "a": 2.8
+        "h": 2.9,
+        "d": 3.3,
+        "a": 2.5
       },
       "movement": [
-        2.75
+        2.9
       ],
       "totals": {
         "line": 2.5,
@@ -15856,38 +15781,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.46,
-          "d": 4.8,
-          "a": 6.4
+          "h": 1.52,
+          "d": 4.6,
+          "a": 5.8
         }
       },
       "fair": {
-        "h": 1.53,
-        "d": 5.04,
-        "a": 6.72
+        "h": 1.59,
+        "d": 4.82,
+        "a": 6.08
       },
       "open": {
-        "h": 1.46,
-        "d": 4.8,
-        "a": 6.4
+        "h": 1.52,
+        "d": 4.6,
+        "a": 5.8
       },
       "movement": [
-        1.46
+        1.52
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.55,
+          "o": 1.57,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.4,
+          "o": 2.35,
           "b": "SportyBet"
         },
-        "fairOver": 1.65
+        "fairOver": 1.67
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103722",
@@ -15908,38 +15833,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 5.75,
-          "d": 4.5,
-          "a": 1.53
+          "h": 6.1,
+          "d": 4.8,
+          "a": 1.48
         }
       },
       "fair": {
-        "h": 6.04,
-        "d": 4.72,
-        "a": 1.61
+        "h": 6.39,
+        "d": 5.03,
+        "a": 1.55
       },
       "open": {
-        "h": 5.75,
-        "d": 4.5,
-        "a": 1.53
+        "h": 6.1,
+        "d": 4.8,
+        "a": 1.48
       },
       "movement": [
-        5.75
+        6.1
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 1.54,
+          "o": 1.52,
           "b": "SportyBet"
         },
         "under": {
-          "o": 2.45,
+          "o": 2.5,
           "b": "SportyBet"
         },
-        "fairOver": 1.63
+        "fairOver": 1.61
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
       "fotmobId": "5103723",
@@ -15960,26 +15885,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.49,
+          "h": 1.48,
           "d": 4.5,
-          "a": 6.1
+          "a": 6
         }
       },
       "fair": {
         "h": 1.58,
-        "d": 4.76,
-        "a": 6.45
+        "d": 4.79,
+        "a": 6.39
       },
       "open": {
-        "h": 1.49,
+        "h": 1.48,
         "d": 4.5,
-        "a": 6.1
+        "a": 6
       },
       "movement": [
-        1.49
+        1.48
       ],
       "totals": {
         "line": 2.5,
@@ -15999,12 +15924,12 @@
       "fmAwayId": "1626"
     },
     {
-      "id": "sb-brazil-santosfcsp-v-gremiofbportoale-1795478400000",
+      "id": "sb-brazil-botafogofrrj-v-saopaulofcsp-1795474800000",
       "leagueId": "brazil",
-      "home": "Santos FC SP",
-      "away": "Gremio FB Porto Alegrense RS",
-      "startsIn": "11/24/2026, 12:00:00 AM",
-      "commenceISO": "2026-11-24T00:00:00.000Z",
+      "home": "Botafogo FR RJ",
+      "away": "Sao Paulo FC SP",
+      "startsIn": "11/23/2026, 11:00:00 PM",
+      "commenceISO": "2026-11-23T23:00:00.000Z",
       "live": false,
       "status": "upcoming",
       "score": null,
@@ -16012,78 +15937,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.62,
-          "d": 4.2,
-          "a": 4.8
+          "h": 2.4,
+          "d": 3.5,
+          "a": 2.85
         }
       },
       "fair": {
-        "h": 1.72,
-        "d": 4.47,
-        "a": 5.11
+        "h": 2.53,
+        "d": 3.69,
+        "a": 3
       },
       "open": {
-        "h": 1.62,
-        "d": 4.2,
-        "a": 4.8
+        "h": 2.4,
+        "d": 3.5,
+        "a": 2.85
       },
       "movement": [
-        1.62
-      ],
-      "totals": {
-        "line": 2.5,
-        "over": {
-          "o": 1.55,
-          "b": "SportyBet"
-        },
-        "under": {
-          "o": 2.35,
-          "b": "SportyBet"
-        },
-        "fairOver": 1.66
-      },
-      "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
-      "fotmobId": "5103716",
-      "fmHomeId": "8514",
-      "fmAwayId": "9769"
-    },
-    {
-      "id": "sb-brazil-atleticomineirom-v-sccorinthianssp-1795647600000",
-      "leagueId": "brazil",
-      "home": "Atletico Mineiro MG",
-      "away": "SC Corinthians SP",
-      "startsIn": "11/25/2026, 11:00:00 PM",
-      "commenceISO": "2026-11-25T23:00:00.000Z",
-      "live": false,
-      "status": "upcoming",
-      "score": null,
-      "minute": null,
-      "real": true,
-      "sample": false,
-      "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
-      "prices": {
-        "SportyBet": {
-          "h": 2.35,
-          "d": 3.4,
-          "a": 2.95
-        }
-      },
-      "fair": {
-        "h": 2.49,
-        "d": 3.6,
-        "a": 3.12
-      },
-      "open": {
-        "h": 2.35,
-        "d": 3.4,
-        "a": 2.95
-      },
-      "movement": [
-        2.35
+        2.4
       ],
       "totals": {
         "line": 2.5,
@@ -16092,15 +15965,15 @@
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.75,
+          "o": 1.74,
           "b": "SportyBet"
         },
-        "fairOver": 2.14
+        "fairOver": 2.15
       },
       "news": "Real odds via SportyBet feed (Brasileiro Serie A).",
-      "fotmobId": "5103719",
-      "fmHomeId": "10272",
-      "fmAwayId": "9808"
+      "fotmobId": "5103715",
+      "fmHomeId": "8517",
+      "fmAwayId": "10277"
     },
     {
       "id": "sb-brazil-criciumaecsc-v-fortalezaecce-1795374000000",
@@ -16116,7 +15989,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.99,
@@ -16168,26 +16041,26 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 1.91,
-          "d": 3.4,
-          "a": 3.8
+          "h": 1.94,
+          "d": 3.33,
+          "a": 3.75
         }
       },
       "fair": {
-        "h": 2.06,
-        "d": 3.67,
-        "a": 4.11
+        "h": 2.1,
+        "d": 3.6,
+        "a": 4.06
       },
       "open": {
-        "h": 1.91,
-        "d": 3.4,
-        "a": 3.8
+        "h": 1.94,
+        "d": 3.33,
+        "a": 3.75
       },
       "movement": [
-        1.91
+        1.94
       ],
       "totals": {
         "line": 2.5,
@@ -16217,7 +16090,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.62,
@@ -16603,7 +16476,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.55,
@@ -16678,7 +16551,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.29,
@@ -16753,7 +16626,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 5.9,
@@ -16825,7 +16698,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 3,
@@ -16900,7 +16773,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 5.1,
@@ -16949,7 +16822,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.1,
@@ -17021,7 +16894,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.85,
@@ -17093,7 +16966,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 2.45,
@@ -17165,7 +17038,7 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
           "h": 1.72,
@@ -17189,14 +17062,14 @@
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.6,
+          "o": 2.8,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.41,
+          "o": 1.37,
           "b": "SportyBet"
         },
-        "fairOver": 2.84
+        "fairOver": 3.04
       },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "newsItems": [
@@ -17237,38 +17110,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.05,
-          "d": 2.9,
+          "h": 2.1,
+          "d": 2.8,
           "a": 3.7
         }
       },
       "fair": {
-        "h": 2.26,
-        "d": 3.2,
+        "h": 2.32,
+        "d": 3.09,
         "a": 4.08
       },
       "open": {
-        "h": 2.05,
-        "d": 2.9,
+        "h": 2.1,
+        "d": 2.8,
         "a": 3.7
       },
       "movement": [
-        2.05
+        2.1
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.65,
+          "o": 2.75,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.4,
+          "o": 1.37,
           "b": "SportyBet"
         },
-        "fairOver": 2.89
+        "fairOver": 3.01
       },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "newsItems": [
@@ -17309,38 +17182,38 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.75,
-          "d": 2.75,
-          "a": 2.6
+          "h": 3,
+          "d": 2.5,
+          "a": 2.7
         }
       },
       "fair": {
-        "h": 3.06,
-        "d": 3.06,
-        "a": 2.89
+        "h": 3.31,
+        "d": 2.76,
+        "a": 2.98
       },
       "open": {
-        "h": 2.75,
-        "d": 2.75,
-        "a": 2.6
+        "h": 3,
+        "d": 2.5,
+        "a": 2.7
       },
       "movement": [
-        2.75
+        3
       ],
       "totals": {
         "line": 2.5,
         "over": {
-          "o": 2.75,
+          "o": 2.85,
           "b": "SportyBet"
         },
         "under": {
-          "o": 1.35,
+          "o": 1.34,
           "b": "SportyBet"
         },
-        "fairOver": 3.04
+        "fairOver": 3.13
       },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "newsItems": [
@@ -17381,28 +17254,39 @@
       "real": true,
       "sample": false,
       "oddsStatus": "live",
-      "sbAt": "2026-11-19T01:22:57.132Z",
+      "sbAt": "2026-11-19T09:16:35.157Z",
       "prices": {
         "SportyBet": {
-          "h": 2.1,
-          "d": 2.85,
-          "a": 3.6
+          "h": 2.3,
+          "d": 2.75,
+          "a": 3.25
         }
       },
       "fair": {
-        "h": 2.32,
-        "d": 3.15,
-        "a": 3.98
+        "h": 2.54,
+        "d": 3.04,
+        "a": 3.59
       },
       "open": {
-        "h": 2.1,
-        "d": 2.85,
-        "a": 3.6
+        "h": 2.3,
+        "d": 2.75,
+        "a": 3.25
       },
       "movement": [
-        2.1
+        2.3
       ],
-      "totals": null,
+      "totals": {
+        "line": 2.5,
+        "over": {
+          "o": 2.65,
+          "b": "SportyBet"
+        },
+        "under": {
+          "o": 1.38,
+          "b": "SportyBet"
+        },
+        "fairOver": 2.92
+      },
       "news": "Real odds via SportyBet feed (Ligue 1).",
       "newsItems": [
         {
@@ -17519,32 +17403,32 @@
     "Betika"
   ],
   "tips": [],
-  "updatedAt": "2026-11-19T01:22:57.132Z",
-  "generatedAt": "2026-11-19T01:22:57.132Z",
+  "updatedAt": "2026-11-19T09:16:35.157Z",
+  "generatedAt": "2026-11-19T09:16:35.157Z",
   "metadata": {
     "mode": "hybrid",
-    "oddsUpdatedAt": "2026-11-19T01:22:57.132Z",
-    "scoresUpdatedAt": "2026-11-19T01:22:57.132Z",
+    "oddsUpdatedAt": "2026-11-19T09:16:35.157Z",
+    "scoresUpdatedAt": "2026-11-19T09:16:35.157Z",
     "dataSources": [
       "ESPN scoreboards + odds (free)",
       "SportyBet odds feed (free)"
     ],
     "leagues": "all",
     "counts": {
-      "real": 174
+      "real": 173
     },
-    "historyPoints": 6678,
+    "historyPoints": 6669,
     "books": {
       "Pinnacle": {
         "updatedAt": null,
         "source": "not in feed"
       },
       "DraftKings": {
-        "updatedAt": "2026-11-19T01:22:57.132Z",
+        "updatedAt": "2026-11-19T09:16:35.157Z",
         "source": "live feed"
       },
       "SportyBet": {
-        "updatedAt": "2026-11-19T01:22:57.132Z",
+        "updatedAt": "2026-11-19T09:16:35.157Z",
         "source": "live feed"
       },
       "Betway": {
@@ -17582,45 +17466,41 @@
       "Betika": {
         "updatedAt": null,
         "source": "not in feed"
-      },
-      "Draft Kings": {
-        "updatedAt": "2026-11-19T01:22:57.132Z",
-        "source": "live feed"
       }
     },
     "health": {
       "espn": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-11-19T01:22:57.715Z",
+        "lastOk": "2026-11-19T09:16:35.827Z",
         "lastError": null,
         "count": 64
       },
       "sportybet": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-11-19T01:23:10.268Z",
+        "lastOk": "2026-11-19T09:16:45.325Z",
         "lastError": null,
         "count": 0
       },
       "fotmob": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-11-19T01:23:25.104Z",
+        "lastOk": "2026-11-19T09:16:58.687Z",
         "lastError": null,
         "count": 10
       },
       "espn-news": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-11-19T01:23:30.604Z",
+        "lastOk": "2026-11-19T09:17:02.385Z",
         "lastError": null,
         "count": 162
       },
       "oddsapi": {
         "ok": true,
         "fails": 0,
-        "lastOk": "2026-11-19T01:23:30.605Z",
+        "lastOk": "2026-11-19T09:17:02.387Z",
         "lastError": null,
         "count": 0
       }
